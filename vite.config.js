@@ -30,6 +30,7 @@ export default defineConfig({
       workbox: {
         // 앱 화면·문제은행(JS 안에 포함)·아이콘·영문 글꼴(Inter)은 설치 시 미리 저장 → 비행기 모드에서도 동작
         globPatterns: ['**/*.{js,css,html,ico,png,svg}', 'assets/inter-*.woff2'],
+        globIgnores: ['**/og-image.png'], // 공유 미리보기 전용 이미지는 오프라인 저장이 필요 없음
         maximumFileSizeToCacheInBytes: 3 * 1024 * 1024,
         // 한·중·일 글꼴은 수백 개 조각이라 미리 받지 않고, 화면에 쓰인 조각만 처음 볼 때 저장해 둔다.
         // (오프라인에서 처음 보는 글자는 기기 기본 글꼴로 표시되며, 글자가 깨지지는 않음)
