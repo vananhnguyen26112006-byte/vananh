@@ -1,0 +1,185 @@
+/* 글꼴: 오프라인에서도 보이도록 앱에 포함 (DESIGN.md 타이포그래피) */
+@import '@fontsource/inter/400.css';
+@import '@fontsource/inter/500.css';
+@import '@fontsource/inter/700.css';
+@import '@fontsource/inter/800.css';
+@import '@fontsource/noto-sans-kr/400.css';
+@import '@fontsource/noto-sans-kr/500.css';
+@import '@fontsource/noto-sans-kr/700.css';
+@import '@fontsource/noto-sans-jp/400.css';
+@import '@fontsource/noto-sans-jp/500.css';
+@import '@fontsource/noto-sans-jp/700.css';
+@import '@fontsource/noto-sans-sc/400.css';
+@import '@fontsource/noto-sans-sc/500.css';
+@import '@fontsource/noto-sans-sc/700.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ---------- 색상 토큰 ---------- */
+:root {
+  --bg: #e9e7e4;
+  --bg-soft: #f5f4f2;
+  --surface-mid: #d3d2cf;
+  --ink: #111111;
+  --ink-muted: #6b6b6b;
+  --line: #1111111f;
+  --on-ink: #f5f4f2;
+  --correct: #2f6b45;
+  --wrong: #9e3b2f;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --bg: #111111;
+    --bg-soft: #1a1a1a;
+    --surface-mid: #2a2a2a;
+    --ink: #edebe8;
+    --ink-muted: #9a9a9a;
+    --line: #edebe81f;
+    --on-ink: #111111;
+    --correct: #6faf85;
+    --wrong: #d9776a;
+    color-scheme: dark;
+  }
+}
+
+:root[data-theme='dark'] {
+  --bg: #111111;
+  --bg-soft: #1a1a1a;
+  --surface-mid: #2a2a2a;
+  --ink: #edebe8;
+  --ink-muted: #9a9a9a;
+  --line: #edebe81f;
+  --on-ink: #111111;
+  --correct: #6faf85;
+  --wrong: #d9776a;
+  color-scheme: dark;
+}
+
+/* ---------- 언어별 글꼴 순서 ---------- */
+:root {
+  --font-en: 'Inter', system-ui, sans-serif;
+  --font-sans: var(--font-en);
+}
+html:lang(ko) {
+  --font-sans: 'Noto Sans KR', 'Inter', system-ui, sans-serif;
+}
+html:lang(ja) {
+  --font-sans: 'Noto Sans JP', 'Inter', system-ui, sans-serif;
+}
+html:lang(zh) {
+  --font-sans: 'Noto Sans SC', 'Inter', system-ui, sans-serif;
+}
+[lang='en'] {
+  font-family: var(--font-en);
+}
+
+html,
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  -webkit-tap-highlight-color: transparent;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+@layer components {
+  /* ---------- 타이포 4종 ---------- */
+  .t-display {
+    font-family: var(--font-en);
+    font-weight: 800;
+    font-size: clamp(64px, 22vw, 120px);
+    letter-spacing: -0.04em;
+    line-height: 0.9;
+  }
+  .t-heading {
+    font-weight: 700;
+    font-size: clamp(28px, 8.5vw, 36px);
+    letter-spacing: -0.01em;
+    line-height: 1;
+  }
+  .t-label {
+    font-weight: 500;
+    font-size: 11px;
+    letter-spacing: 0.25em;
+    line-height: 1.4;
+    text-transform: uppercase;
+  }
+  .t-body {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 1.6;
+  }
+  /* 라벨 아래 24px 짧은 밑줄 */
+  .t-label-rule::after {
+    content: '';
+    display: block;
+    width: 24px;
+    height: 1px;
+    margin-top: 8px;
+    background: currentColor;
+  }
+
+  /* ---------- 버튼·카드 ---------- */
+  .btn-primary {
+    @apply t-label inline-flex min-h-[48px] items-center justify-center gap-2 bg-ink px-6 text-on-ink transition-opacity;
+  }
+  .btn-primary:active {
+    opacity: 0.85;
+  }
+  .btn-primary:disabled {
+    opacity: 0.3;
+  }
+  .btn-text {
+    @apply t-label inline-flex min-h-[44px] items-center gap-2 underline decoration-1 underline-offset-[6px];
+  }
+  .btn-text:disabled {
+    opacity: 0.35;
+    text-decoration: none;
+  }
+  .card {
+    @apply bg-bg-soft p-5;
+  }
+}
+
+/* 한·중·일 텍스트는 자간을 넓히지 않는다 */
+.t-label:is(:lang(ko), :lang(ja), :lang(zh)),
+.t-heading:is(:lang(ko), :lang(ja), :lang(zh)) {
+  letter-spacing: 0;
+}
+
+/* ---------- 움직임 ---------- */
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes slide-up {
+  from {
+    transform: translateY(100%);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+.anim-fade {
+  animation: fade-in 200ms ease-out both;
+}
+.anim-slide-up {
+  animation: slide-up 250ms ease-out both;
+}
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition: none !important;
+  }
+}

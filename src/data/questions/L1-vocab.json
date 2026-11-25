@@ -1,0 +1,802 @@
+[
+  {
+    "id": "vocab-L1-0001",
+    "category": "vocab",
+    "level": "L1",
+    "format": "blank",
+    "question": "My mother's sister is my ___.",
+    "choices": ["uncle", "aunt", "son", "brother"],
+    "answerIndex": 1,
+    "word": "aunt",
+    "meaning": { "ko": "이모, 고모", "en": "the sister of your mother or father", "ja": "おば", "zh": "姨妈，姑姑", "es": "tía", "vi": "cô, dì" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "엄마의 자매는 aunt(이모)입니다. uncle(삼촌), son(아들), brother(남자 형제)는 모두 남자를 가리키므로 답이 될 수 없습니다.",
+      "en": "Your mother's sister is your 'aunt'. 'Uncle', 'son' and 'brother' are all words for men or boys, so they are wrong.",
+      "ja": "母の姉妹は aunt（おば）です。uncle（おじ）、son（息子）、brother（兄弟）はすべて男性を表すので、答えになりません。",
+      "zh": "妈妈的姐妹是 aunt（姨妈）。uncle（叔叔、舅舅）、son（儿子）和 brother（兄弟）都指男性，所以不对。",
+      "es": "La hermana de tu madre es tu «aunt» (tía). «Uncle» (tío), «son» (hijo) y «brother» (hermano) son palabras para hombres, así que no son correctas.",
+      "vi": "Chị em gái của mẹ là 'aunt' (dì). 'Uncle' (chú, cậu), 'son' (con trai) và 'brother' (anh em trai) đều chỉ nam giới nên không đúng."
+    }
+  },
+  {
+    "id": "vocab-L1-0002",
+    "category": "vocab",
+    "level": "L1",
+    "format": "definition",
+    "question": "the color of grass and leaves",
+    "choices": ["red", "white", "green", "black"],
+    "answerIndex": 2,
+    "word": "green",
+    "meaning": { "ko": "초록색(의)", "en": "the color of grass", "ja": "緑色（の）", "zh": "绿色（的）", "es": "verde", "vi": "màu xanh lá cây" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "풀과 나뭇잎의 색깔은 green(초록색)입니다. red는 빨간색, white는 흰색, black은 검은색입니다.",
+      "en": "Grass and leaves are 'green'. 'Red' is the color of strawberries, 'white' is the color of snow, and 'black' is the color of the night sky.",
+      "ja": "草や葉の色は green（緑色）です。red は赤、white は白、black は黒です。",
+      "zh": "草和树叶的颜色是 green（绿色）。red 是红色，white 是白色，black 是黑色。",
+      "es": "La hierba y las hojas son «green» (verde). «Red» es rojo, «white» es blanco y «black» es negro.",
+      "vi": "Cỏ và lá cây có màu 'green' (xanh lá cây). 'Red' là màu đỏ, 'white' là màu trắng, còn 'black' là màu đen."
+    }
+  },
+  {
+    "id": "vocab-L1-0003",
+    "category": "vocab",
+    "level": "L1",
+    "format": "synonym",
+    "question": "Which word means the SAME as \"happy\"?",
+    "choices": ["glad", "sad", "angry", "tired"],
+    "answerIndex": 0,
+    "word": "glad",
+    "meaning": { "ko": "기쁜", "en": "happy", "ja": "うれしい", "zh": "高兴的", "es": "contento", "vi": "vui mừng" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "glad는 happy와 같은 '기쁜'이라는 뜻입니다. sad(슬픈)는 반대말이고, angry(화난)와 tired(피곤한)는 뜻이 다릅니다.",
+      "en": "'Glad' means the same as 'happy'. 'Sad' is the opposite, 'angry' means mad, and 'tired' means you need rest.",
+      "ja": "glad は happy と同じく「うれしい」という意味です。sad（悲しい）は反対の意味で、angry（怒った）と tired（疲れた）は意味が違います。",
+      "zh": "glad 和 happy 一样，意思是“高兴的”。sad（伤心的）是反义词，angry（生气的）和 tired（累的）意思不同。",
+      "es": "«Glad» significa lo mismo que «happy» (feliz, contento). «Sad» (triste) es lo contrario, y «angry» (enfadado) y «tired» (cansado) significan otra cosa.",
+      "vi": "'Glad' có nghĩa giống 'happy' (vui). 'Sad' (buồn) là từ trái nghĩa, còn 'angry' (tức giận) và 'tired' (mệt) có nghĩa khác."
+    }
+  },
+  {
+    "id": "vocab-L1-0004",
+    "category": "vocab",
+    "level": "L1",
+    "format": "blank",
+    "question": "The sky is ___ today. There are no clouds.",
+    "choices": ["hungry", "long", "blue", "thirsty"],
+    "answerIndex": 2,
+    "word": "blue",
+    "meaning": { "ko": "파란색(의)", "en": "the color of a clear sky", "ja": "青い", "zh": "蓝色（的）", "es": "azul", "vi": "màu xanh dương" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "구름이 없는 맑은 하늘은 blue(파란색)입니다. hungry(배고픈)와 thirsty(목마른)는 사람이나 동물에게 쓰는 말이고, long(긴)은 하늘을 설명하기에 맞지 않습니다.",
+      "en": "A sky with no clouds is 'blue'. 'Hungry' and 'thirsty' are for people and animals, and 'long' does not describe the sky.",
+      "ja": "雲のない晴れた空は blue（青い）です。hungry（おなかがすいた）と thirsty（のどがかわいた）は人や動物に使う言葉で、long（長い）は空の説明に合いません。",
+      "zh": "没有云的天空是 blue（蓝色的）。hungry（饿的）和 thirsty（渴的）用来形容人或动物，long（长的）不能用来形容天空。",
+      "es": "Un cielo sin nubes es «blue» (azul). «Hungry» (con hambre) y «thirsty» (con sed) se usan para personas y animales, y «long» (largo) no describe el cielo.",
+      "vi": "Bầu trời không có mây thì có màu 'blue' (xanh dương). 'Hungry' (đói) và 'thirsty' (khát) dùng cho người và động vật, còn 'long' (dài) không dùng để tả bầu trời."
+    }
+  },
+  {
+    "id": "vocab-L1-0005",
+    "category": "vocab",
+    "level": "L1",
+    "format": "definition",
+    "question": "a big farm animal that says 'moo' and gives us milk",
+    "choices": ["horse", "sheep", "pig", "cow"],
+    "answerIndex": 3,
+    "word": "cow",
+    "meaning": { "ko": "소, 젖소", "en": "a big farm animal that gives milk", "ja": "牛、乳牛", "zh": "奶牛，母牛", "es": "vaca", "vi": "con bò (cái)" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'음매' 하고 울며 우유를 주는 큰 농장 동물은 cow(소)입니다. horse(말)는 사람이 타는 동물, sheep(양)은 털을 주는 동물, pig(돼지)는 '꿀꿀' 하고 웁니다.",
+      "en": "The big farm animal that says 'moo' and gives milk is a 'cow'. People ride a horse, a sheep gives us wool, and a pig says 'oink'.",
+      "ja": "「モー」と鳴いて牛乳をくれる大きな家畜は cow（牛）です。horse（馬）は人が乗る動物、sheep（羊）は毛をくれる動物、pig（豚）は「ブーブー」と鳴きます。",
+      "zh": "会“哞哞”叫并给我们牛奶的大型农场动物是 cow（奶牛）。horse（马）是人骑的动物，sheep（羊）给我们羊毛，pig（猪）会“哼哼”叫。",
+      "es": "El animal grande de granja que dice «mu» y nos da leche es la «cow» (vaca). La gente monta a caballo («horse»), la oveja («sheep») nos da lana y el cerdo («pig») hace «oinc».",
+      "vi": "Con vật lớn ở nông trại kêu 'ò ò' và cho chúng ta sữa là 'cow' (con bò). Người ta cưỡi 'horse' (ngựa), 'sheep' (cừu) cho lông, còn 'pig' (lợn) kêu 'ụt ịt'."
+    }
+  },
+  {
+    "id": "vocab-L1-0006",
+    "category": "vocab",
+    "level": "L1",
+    "format": "synonym",
+    "question": "Which word means the OPPOSITE of \"hot\"?",
+    "choices": ["warm", "wet", "dark", "cold"],
+    "answerIndex": 3,
+    "word": "cold",
+    "meaning": { "ko": "추운, 차가운", "en": "having a low temperature", "ja": "寒い、冷たい", "zh": "冷的", "es": "frío", "vi": "lạnh" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "hot(뜨거운, 더운)의 반대말은 cold(차가운, 추운)입니다. warm(따뜻한)은 hot과 비슷한 쪽이고, wet(젖은)과 dark(어두운)는 온도와 관계없습니다.",
+      "en": "The opposite of 'hot' is 'cold'. 'Warm' is close to 'hot', and 'wet' and 'dark' are not about temperature.",
+      "ja": "hot（暑い、熱い）の反対は cold（寒い、冷たい）です。warm（暖かい）は hot に近い意味で、wet（ぬれた）と dark（暗い）は温度とは関係ありません。",
+      "zh": "hot（热的）的反义词是 cold（冷的）。warm（温暖的）和 hot 意思接近，wet（湿的）和 dark（黑暗的）与温度无关。",
+      "es": "Lo contrario de «hot» (caliente) es «cold» (frío). «Warm» (templado) se parece a «hot», y «wet» (mojado) y «dark» (oscuro) no hablan de la temperatura.",
+      "vi": "Từ trái nghĩa của 'hot' (nóng) là 'cold' (lạnh). 'Warm' (ấm) gần nghĩa với 'hot', còn 'wet' (ướt) và 'dark' (tối) không nói về nhiệt độ."
+    }
+  },
+  {
+    "id": "vocab-L1-0007",
+    "category": "vocab",
+    "level": "L1",
+    "format": "blank",
+    "question": "I ___ my teeth every morning.",
+    "choices": ["drink", "sing", "sleep", "brush"],
+    "answerIndex": 3,
+    "word": "brush",
+    "meaning": { "ko": "(솔로) 닦다, 빗다", "en": "to clean with a brush", "ja": "（ブラシで）みがく", "zh": "刷", "es": "cepillar(se)", "vi": "chải, đánh (răng)" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'이를 닦다'는 영어로 brush my teeth라고 합니다. drink(마시다), sing(노래하다), sleep(자다)은 teeth(이)와 함께 쓸 수 없습니다.",
+      "en": "We say 'brush my teeth' when we clean our teeth. 'Drink', 'sing' and 'sleep' do not go with 'teeth'.",
+      "ja": "「歯をみがく」は英語で brush my teeth と言います。drink（飲む）、sing（歌う）、sleep（眠る）は teeth（歯）と一緒に使えません。",
+      "zh": "“刷牙”在英语里说 brush my teeth。drink（喝）、sing（唱歌）和 sleep（睡觉）都不能和 teeth（牙齿）搭配。",
+      "es": "Para limpiar los dientes decimos «brush my teeth» (cepillarme los dientes). «Drink» (beber), «sing» (cantar) y «sleep» (dormir) no van con «teeth» (dientes).",
+      "vi": "Khi làm sạch răng, ta nói 'brush my teeth' (đánh răng). 'Drink' (uống), 'sing' (hát) và 'sleep' (ngủ) không đi với 'teeth' (răng)."
+    }
+  },
+  {
+    "id": "vocab-L1-0008",
+    "category": "vocab",
+    "level": "L1",
+    "format": "blank",
+    "question": "I cook dinner in the ___.",
+    "choices": ["kitchen", "bathroom", "bus", "pencil"],
+    "answerIndex": 0,
+    "word": "kitchen",
+    "meaning": { "ko": "부엌", "en": "a room for cooking", "ja": "台所、キッチン", "zh": "厨房", "es": "cocina", "vi": "nhà bếp" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "요리를 하는 방은 kitchen(부엌)입니다. bathroom(욕실)은 씻는 곳, bus(버스)는 타고 다니는 것, pencil(연필)은 글씨를 쓰는 물건입니다.",
+      "en": "The room where we cook is the 'kitchen'. A bathroom is for washing, a bus is for travel, and a pencil is for writing.",
+      "ja": "料理をする部屋は kitchen（台所）です。bathroom（浴室）は体を洗う場所、bus（バス）は乗り物、pencil（えんぴつ）は字を書く物です。",
+      "zh": "做饭的房间是 kitchen（厨房）。bathroom（浴室）是洗澡的地方，bus（公共汽车）是交通工具，pencil（铅笔）是写字用的。",
+      "es": "La habitación donde cocinamos es la «kitchen» (cocina). El «bathroom» (baño) es para lavarse, el «bus» (autobús) es para viajar y el «pencil» (lápiz) es para escribir.",
+      "vi": "Căn phòng để nấu ăn là 'kitchen' (nhà bếp). 'Bathroom' (phòng tắm) là nơi tắm rửa, 'bus' (xe buýt) là phương tiện đi lại, còn 'pencil' (bút chì) dùng để viết."
+    }
+  },
+  {
+    "id": "vocab-L1-0009",
+    "category": "vocab",
+    "level": "L1",
+    "format": "definition",
+    "question": "the meal you eat in the morning",
+    "choices": ["lunch", "breakfast", "dinner", "snack"],
+    "answerIndex": 1,
+    "word": "breakfast",
+    "meaning": { "ko": "아침 식사", "en": "the first meal of the day", "ja": "朝食、朝ごはん", "zh": "早餐", "es": "desayuno", "vi": "bữa sáng" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "아침에 먹는 식사는 breakfast(아침 식사)입니다. lunch는 점심, dinner는 저녁 식사이고, snack은 식사 사이에 먹는 간식입니다.",
+      "en": "The meal in the morning is 'breakfast'. 'Lunch' is the meal in the middle of the day, 'dinner' is the evening meal, and a 'snack' is a little food between meals.",
+      "ja": "朝に食べる食事は breakfast（朝食）です。lunch は昼食、dinner は夕食で、snack は食事の間に食べる軽食です。",
+      "zh": "早上吃的饭是 breakfast（早餐）。lunch 是午饭，dinner 是晚饭，snack 是两餐之间吃的零食。",
+      "es": "La comida de la mañana es el «breakfast» (desayuno). «Lunch» es la comida del mediodía, «dinner» es la cena y «snack» es algo pequeño que comes entre comidas.",
+      "vi": "Bữa ăn vào buổi sáng là 'breakfast' (bữa sáng). 'Lunch' là bữa trưa, 'dinner' là bữa tối, còn 'snack' là đồ ăn nhẹ giữa các bữa."
+    }
+  },
+  {
+    "id": "vocab-L1-0010",
+    "category": "vocab",
+    "level": "L1",
+    "format": "synonym",
+    "question": "Which word means the SAME as \"small\"?",
+    "choices": ["tall", "big", "little", "long"],
+    "answerIndex": 2,
+    "word": "little",
+    "meaning": { "ko": "작은", "en": "small", "ja": "小さい", "zh": "小的", "es": "pequeño", "vi": "nhỏ, bé" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "little은 small과 같은 '작은'이라는 뜻입니다. big(큰)은 반대말이고, tall(키가 큰)과 long(긴)도 small과 뜻이 다릅니다.",
+      "en": "'Little' means the same as 'small'. 'Big' is the opposite, and 'tall' and 'long' also have different meanings.",
+      "ja": "little は small と同じく「小さい」という意味です。big（大きい）は反対の意味で、tall（背が高い）と long（長い）も意味が違います。",
+      "zh": "little 和 small 一样，意思是“小的”。big（大的）是反义词，tall（高的）和 long（长的）意思也不同。",
+      "es": "«Little» significa lo mismo que «small» (pequeño). «Big» (grande) es lo contrario, y «tall» (alto) y «long» (largo) significan otra cosa.",
+      "vi": "'Little' có nghĩa giống 'small' (nhỏ). 'Big' (to) là từ trái nghĩa, còn 'tall' (cao) và 'long' (dài) có nghĩa khác."
+    }
+  },
+  {
+    "id": "vocab-L1-0011",
+    "category": "vocab",
+    "level": "L1",
+    "format": "blank",
+    "question": "A week has seven ___.",
+    "choices": ["months", "days", "years", "hands"],
+    "answerIndex": 1,
+    "word": "days",
+    "meaning": { "ko": "날, 하루 (day의 복수형)", "en": "plural of 'day'; 24-hour periods", "ja": "日（day の複数形）", "zh": "天，日（day 的复数）", "es": "días", "vi": "ngày (số nhiều của day)" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "일주일은 7일이므로 days(날들)가 정답입니다. months(달)와 years(해)는 일주일보다 훨씬 길고, hands(손)는 시간과 관계없습니다.",
+      "en": "A week has seven 'days', from Monday to Sunday. 'Months' and 'years' are much longer than a week, and 'hands' are part of your body.",
+      "ja": "1週間は7日なので days（日）が正解です。months（月）と years（年）は1週間よりずっと長く、hands（手）は時間とは関係ありません。",
+      "zh": "一个星期有七天，所以答案是 days（天）。months（月）和 years（年）都比一个星期长得多，hands（手）和时间无关。",
+      "es": "Una semana tiene siete «days» (días), de lunes a domingo. «Months» (meses) y «years» (años) son mucho más largos que una semana, y «hands» (manos) son parte del cuerpo.",
+      "vi": "Một tuần có bảy 'days' (ngày), từ thứ Hai đến Chủ nhật. 'Months' (tháng) và 'years' (năm) dài hơn một tuần rất nhiều, còn 'hands' (bàn tay) là bộ phận cơ thể."
+    }
+  },
+  {
+    "id": "vocab-L1-0012",
+    "category": "vocab",
+    "level": "L1",
+    "format": "definition",
+    "question": "the part of your face that you use to smell",
+    "choices": ["mouth", "ear", "eye", "nose"],
+    "answerIndex": 3,
+    "word": "nose",
+    "meaning": { "ko": "코", "en": "the part of the face for smelling", "ja": "鼻", "zh": "鼻子", "es": "nariz", "vi": "cái mũi" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "냄새를 맡을 때 쓰는 얼굴 부분은 nose(코)입니다. mouth(입)는 먹고 말할 때, ear(귀)는 들을 때, eye(눈)는 볼 때 씁니다.",
+      "en": "You smell with your 'nose'. You eat and talk with your mouth, you hear with your ear, and you see with your eye.",
+      "ja": "においをかぐときに使う顔の部分は nose（鼻）です。mouth（口）は食べたり話したりするとき、ear（耳）は聞くとき、eye（目）は見るときに使います。",
+      "zh": "用来闻气味的脸部部位是 nose（鼻子）。mouth（嘴）用来吃饭和说话，ear（耳朵）用来听，eye（眼睛）用来看。",
+      "es": "Hueles con la «nose» (nariz). Con la «mouth» (boca) comes y hablas, con el «ear» (oído, oreja) oyes y con el «eye» (ojo) ves.",
+      "vi": "Bộ phận trên mặt dùng để ngửi là 'nose' (mũi). 'Mouth' (miệng) dùng để ăn và nói, 'ear' (tai) để nghe, còn 'eye' (mắt) để nhìn."
+    }
+  },
+  {
+    "id": "vocab-L1-0013",
+    "category": "vocab",
+    "level": "L1",
+    "format": "blank",
+    "question": "Ten plus two is ___.",
+    "choices": ["twelve", "eleven", "twenty", "two"],
+    "answerIndex": 0,
+    "word": "twelve",
+    "meaning": { "ko": "12, 열둘", "en": "the number 12", "ja": "12", "zh": "十二", "es": "doce", "vi": "mười hai" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "10 + 2 = 12이므로 twelve(12)가 정답입니다. eleven은 11, twenty는 20, two는 2입니다.",
+      "en": "10 + 2 = 12, so the answer is 'twelve'. 'Eleven' is 11, 'twenty' is 20, and 'two' is 2.",
+      "ja": "10 + 2 = 12 なので twelve（12）が正解です。eleven は 11、twenty は 20、two は 2 です。",
+      "zh": "10 + 2 = 12，所以答案是 twelve（十二）。eleven 是 11，twenty 是 20，two 是 2。",
+      "es": "10 + 2 = 12, así que la respuesta es «twelve» (doce). «Eleven» es 11, «twenty» es 20 y «two» es 2.",
+      "vi": "10 + 2 = 12, nên đáp án là 'twelve' (mười hai). 'Eleven' là 11, 'twenty' là 20, còn 'two' là 2."
+    }
+  },
+  {
+    "id": "vocab-L1-0014",
+    "category": "vocab",
+    "level": "L1",
+    "format": "synonym",
+    "question": "Which word means the OPPOSITE of \"day\"?",
+    "choices": ["morning", "night", "week", "sun"],
+    "answerIndex": 1,
+    "word": "night",
+    "meaning": { "ko": "밤", "en": "the dark time when people sleep", "ja": "夜", "zh": "夜晚", "es": "noche", "vi": "ban đêm" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "밝은 낮(day)의 반대말은 어두운 밤인 night입니다. morning(아침)은 낮의 일부이고, week(주)는 7일, sun(해)은 하늘에 있는 것입니다.",
+      "en": "The opposite of 'day' is 'night', the dark time. 'Morning' is part of the day, a 'week' is seven days, and the 'sun' is in the sky.",
+      "ja": "明るい昼（day）の反対は暗い夜の night です。morning（朝）は昼の一部で、week（週）は7日間、sun（太陽）は空にあるものです。",
+      "zh": "白天（day）的反义词是黑暗的 night（夜晚）。morning（早上）是白天的一部分，week（星期）是七天，sun（太阳）在天上。",
+      "es": "Lo contrario de «day» (día) es «night» (noche), el tiempo oscuro. «Morning» (mañana) es parte del día, «week» (semana) son siete días y «sun» (sol) está en el cielo.",
+      "vi": "Từ trái nghĩa của 'day' (ban ngày) là 'night' (ban đêm), lúc trời tối. 'Morning' (buổi sáng) là một phần của ban ngày, 'week' (tuần) là bảy ngày, còn 'sun' (mặt trời) ở trên bầu trời."
+    }
+  },
+  {
+    "id": "vocab-L1-0015",
+    "category": "vocab",
+    "level": "L1",
+    "format": "blank",
+    "question": "An elephant is a very ___ animal.",
+    "choices": ["small", "little", "big", "tiny"],
+    "answerIndex": 2,
+    "word": "big",
+    "meaning": { "ko": "큰", "en": "large in size", "ja": "大きい", "zh": "大的", "es": "grande", "vi": "to, lớn" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "코끼리는 아주 큰 동물이므로 big(큰)이 정답입니다. small, little, tiny는 모두 '작은'이라는 뜻이라 코끼리에 맞지 않습니다.",
+      "en": "An elephant is a very 'big' animal. 'Small', 'little' and 'tiny' all mean not big, so they do not describe an elephant.",
+      "ja": "ゾウはとても大きい動物なので big（大きい）が正解です。small、little、tiny はすべて「小さい」という意味なので、ゾウには合いません。",
+      "zh": "大象是非常大的动物，所以答案是 big（大的）。small、little 和 tiny 都是“小的”意思，不能用来形容大象。",
+      "es": "El elefante es un animal muy «big» (grande). «Small», «little» y «tiny» significan pequeño, así que no describen a un elefante.",
+      "vi": "Con voi là một con vật rất 'big' (to lớn). 'Small', 'little' và 'tiny' đều có nghĩa là nhỏ nên không đúng với con voi."
+    }
+  },
+  {
+    "id": "vocab-L1-0016",
+    "category": "vocab",
+    "level": "L1",
+    "format": "definition",
+    "question": "a person who teaches students at school",
+    "choices": ["teacher", "doctor", "driver", "cook"],
+    "answerIndex": 0,
+    "word": "teacher",
+    "meaning": { "ko": "선생님, 교사", "en": "a person who teaches", "ja": "先生、教師", "zh": "老师，教师", "es": "profesor, maestro", "vi": "giáo viên" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "학교에서 학생들을 가르치는 사람은 teacher(선생님)입니다. doctor(의사)는 아픈 사람을 돕고, driver(운전사)는 차를 운전하며, cook(요리사)은 음식을 만듭니다.",
+      "en": "A person who teaches students is a 'teacher'. A doctor helps sick people, a driver drives a car or bus, and a cook makes food.",
+      "ja": "学校で生徒に教える人は teacher（先生）です。doctor（医者）は病気の人を助け、driver（運転手）は車を運転し、cook（料理人）は料理を作ります。",
+      "zh": "在学校教学生的人是 teacher（老师）。doctor（医生）帮助病人，driver（司机）开车，cook（厨师）做饭。",
+      "es": "La persona que enseña a los estudiantes es el «teacher» (profesor). El «doctor» (médico) ayuda a los enfermos, el «driver» (conductor) conduce un coche y el «cook» (cocinero) hace comida.",
+      "vi": "Người dạy học sinh ở trường là 'teacher' (giáo viên). 'Doctor' (bác sĩ) giúp người bệnh, 'driver' (tài xế) lái xe, còn 'cook' (đầu bếp) nấu ăn."
+    }
+  },
+  {
+    "id": "vocab-L1-0017",
+    "category": "vocab",
+    "level": "L1",
+    "format": "synonym",
+    "question": "Which word means the SAME as \"start\"?",
+    "choices": ["stop", "end", "close", "begin"],
+    "answerIndex": 3,
+    "word": "begin",
+    "meaning": { "ko": "시작하다", "en": "to start", "ja": "始める、始まる", "zh": "开始", "es": "empezar", "vi": "bắt đầu" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "begin은 start와 같은 '시작하다'라는 뜻입니다. stop(멈추다)과 end(끝나다)는 오히려 반대 뜻에 가깝고, close는 '닫다'라는 뜻입니다.",
+      "en": "'Begin' means the same as 'start'. 'Stop' and 'end' are more like opposites, and 'close' means to shut something.",
+      "ja": "begin は start と同じく「始める」という意味です。stop（止まる）と end（終わる）はむしろ反対に近い意味で、close は「閉める」という意味です。",
+      "zh": "begin 和 start 一样，意思是“开始”。stop（停止）和 end（结束）更接近反义词，close 的意思是“关上”。",
+      "es": "«Begin» significa lo mismo que «start» (empezar). «Stop» (parar) y «end» (terminar) son más bien lo contrario, y «close» significa cerrar.",
+      "vi": "'Begin' có nghĩa giống 'start' (bắt đầu). 'Stop' (dừng lại) và 'end' (kết thúc) gần như trái nghĩa, còn 'close' nghĩa là đóng lại."
+    }
+  },
+  {
+    "id": "vocab-L1-0018",
+    "category": "vocab",
+    "level": "L1",
+    "format": "blank",
+    "question": "I am ___. I want some water.",
+    "choices": ["hungry", "sleepy", "thirsty", "tall"],
+    "answerIndex": 2,
+    "word": "thirsty",
+    "meaning": { "ko": "목마른", "en": "wanting to drink something", "ja": "のどがかわいた", "zh": "渴的，口渴的", "es": "sediento, con sed", "vi": "khát (nước)" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "물을 마시고 싶을 때는 thirsty(목마른)라고 합니다. hungry(배고픈)는 음식이 먹고 싶을 때, sleepy(졸린)는 자고 싶을 때 쓰고, tall(키가 큰)은 물과 관계없습니다.",
+      "en": "When you want water, you are 'thirsty'. 'Hungry' means you want food, 'sleepy' means you want to sleep, and 'tall' is about height.",
+      "ja": "水が飲みたいときは thirsty（のどがかわいた）と言います。hungry（おなかがすいた）は食べ物がほしいとき、sleepy（眠い）は眠りたいときに使い、tall（背が高い）は水とは関係ありません。",
+      "zh": "想喝水的时候说 thirsty（渴的）。hungry（饿的）是想吃东西，sleepy（困的）是想睡觉，tall（高的）和喝水无关。",
+      "es": "Cuando quieres agua, estás «thirsty» (con sed). «Hungry» significa que quieres comida, «sleepy» que quieres dormir, y «tall» (alto) habla de la estatura.",
+      "vi": "Khi muốn uống nước, bạn đang 'thirsty' (khát). 'Hungry' nghĩa là muốn ăn, 'sleepy' nghĩa là buồn ngủ, còn 'tall' (cao) nói về chiều cao."
+    }
+  },
+  {
+    "id": "vocab-L1-0019",
+    "category": "vocab",
+    "level": "L1",
+    "format": "definition",
+    "question": "the day after Monday",
+    "choices": ["Sunday", "Wednesday", "Friday", "Tuesday"],
+    "answerIndex": 3,
+    "word": "Tuesday",
+    "meaning": { "ko": "화요일", "en": "the day after Monday", "ja": "火曜日", "zh": "星期二", "es": "martes", "vi": "thứ Ba" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "Monday(월요일) 다음 날은 Tuesday(화요일)입니다. Sunday는 일요일로 월요일 전날이고, Wednesday는 수요일, Friday는 금요일입니다.",
+      "en": "The day after Monday is 'Tuesday'. 'Sunday' is the day before Monday, and 'Wednesday' and 'Friday' come later in the week.",
+      "ja": "Monday（月曜日）の次の日は Tuesday（火曜日）です。Sunday（日曜日）は月曜日の前の日で、Wednesday は水曜日、Friday は金曜日です。",
+      "zh": "Monday（星期一）的后一天是 Tuesday（星期二）。Sunday（星期日）是星期一的前一天，Wednesday 是星期三，Friday 是星期五。",
+      "es": "El día después de «Monday» (lunes) es «Tuesday» (martes). «Sunday» (domingo) es el día antes del lunes, «Wednesday» es miércoles y «Friday» es viernes.",
+      "vi": "Ngày sau 'Monday' (thứ Hai) là 'Tuesday' (thứ Ba). 'Sunday' (Chủ nhật) là ngày trước thứ Hai, 'Wednesday' là thứ Tư, còn 'Friday' là thứ Sáu."
+    }
+  },
+  {
+    "id": "vocab-L1-0020",
+    "category": "vocab",
+    "level": "L1",
+    "format": "synonym",
+    "question": "Which word means the OPPOSITE of \"up\"?",
+    "choices": ["down", "on", "in", "over"],
+    "answerIndex": 0,
+    "word": "down",
+    "meaning": { "ko": "아래로", "en": "toward a lower place", "ja": "下へ", "zh": "向下", "es": "abajo", "vi": "xuống, ở dưới" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "up(위로)의 반대말은 down(아래로)입니다. on(~위에), in(~안에), over(~위로 넘어)는 위치를 나타내지만 up의 반대말은 아닙니다.",
+      "en": "The opposite of 'up' is 'down'. 'On', 'in' and 'over' also talk about place, but they are not opposites of 'up'.",
+      "ja": "up（上へ）の反対は down（下へ）です。on（〜の上に）、in（〜の中に）、over（〜を越えて）も位置を表しますが、up の反対ではありません。",
+      "zh": "up（向上）的反义词是 down（向下）。on（在……上）、in（在……里）和 over（在……上方）也表示位置，但都不是 up 的反义词。",
+      "es": "Lo contrario de «up» (arriba) es «down» (abajo). «On» (sobre), «in» (dentro) y «over» (por encima) también hablan de lugar, pero no son lo contrario de «up».",
+      "vi": "Từ trái nghĩa của 'up' (lên) là 'down' (xuống). 'On' (trên), 'in' (trong) và 'over' (phía trên) cũng chỉ vị trí nhưng không trái nghĩa với 'up'."
+    }
+  },
+  {
+    "id": "vocab-L1-0021",
+    "category": "vocab",
+    "level": "L1",
+    "format": "blank",
+    "question": "I ___ books in the library.",
+    "choices": ["eat", "read", "swim", "sing"],
+    "answerIndex": 1,
+    "word": "read",
+    "meaning": { "ko": "읽다", "en": "to look at words and understand them", "ja": "読む", "zh": "读，阅读", "es": "leer", "vi": "đọc" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "책(books)과 함께 쓰는 동사는 read(읽다)입니다. eat(먹다), swim(수영하다), sing(노래하다)은 책과 함께 쓸 수 없습니다.",
+      "en": "We 'read' books, and a library is a place full of books. You cannot 'eat', 'swim' or 'sing' books.",
+      "ja": "books（本）と一緒に使う動詞は read（読む）です。eat（食べる）、swim（泳ぐ）、sing（歌う）は本と一緒に使えません。",
+      "zh": "和 books（书）搭配的动词是 read（读）。eat（吃）、swim（游泳）和 sing（唱歌）都不能和书搭配。",
+      "es": "Los libros se «read» (leen), y la biblioteca es un lugar lleno de libros. No se puede «eat» (comer), «swim» (nadar) ni «sing» (cantar) un libro.",
+      "vi": "Động từ đi với 'books' (sách) là 'read' (đọc). Không thể 'eat' (ăn), 'swim' (bơi) hay 'sing' (hát) sách."
+    }
+  },
+  {
+    "id": "vocab-L1-0022",
+    "category": "vocab",
+    "level": "L1",
+    "format": "definition",
+    "question": "the room in a house where you take a shower",
+    "choices": ["kitchen", "living room", "bathroom", "garage"],
+    "answerIndex": 2,
+    "word": "bathroom",
+    "meaning": { "ko": "욕실, 화장실", "en": "a room with a toilet and a shower or bath", "ja": "浴室、バスルーム", "zh": "浴室，卫生间", "es": "baño, cuarto de baño", "vi": "phòng tắm" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "샤워를 하는 방은 bathroom(욕실)입니다. kitchen(부엌)은 요리하는 곳, living room(거실)은 가족이 함께 쉬는 곳, garage(차고)는 차를 두는 곳입니다.",
+      "en": "You take a shower in the 'bathroom'. A kitchen is for cooking, a living room is for sitting and relaxing, and a garage is for a car.",
+      "ja": "シャワーを浴びる部屋は bathroom（浴室）です。kitchen（台所）は料理をする場所、living room（居間）は家族でくつろぐ場所、garage（車庫）は車を置く場所です。",
+      "zh": "洗澡的房间是 bathroom（浴室）。kitchen（厨房）是做饭的地方，living room（客厅）是休息的地方，garage（车库）是停车的地方。",
+      "es": "Te duchas en el «bathroom» (baño). La «kitchen» (cocina) es para cocinar, el «living room» (sala de estar) es para descansar y el «garage» (garaje) es para el coche.",
+      "vi": "Bạn tắm vòi sen trong 'bathroom' (phòng tắm). 'Kitchen' (nhà bếp) là nơi nấu ăn, 'living room' (phòng khách) là nơi ngồi nghỉ, còn 'garage' (nhà để xe) là nơi để ô tô."
+    }
+  },
+  {
+    "id": "vocab-L1-0023",
+    "category": "vocab",
+    "level": "L1",
+    "format": "synonym",
+    "question": "Which word means the SAME as \"pretty\"?",
+    "choices": ["ugly", "busy", "tired", "beautiful"],
+    "answerIndex": 3,
+    "word": "beautiful",
+    "meaning": { "ko": "아름다운, 예쁜", "en": "very nice to look at", "ja": "美しい、きれいな", "zh": "美丽的，漂亮的", "es": "bonito, hermoso", "vi": "đẹp" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "beautiful은 pretty와 같은 '예쁜, 아름다운'이라는 뜻입니다. ugly(못생긴)는 반대말이고, busy(바쁜)와 tired(피곤한)는 뜻이 다릅니다.",
+      "en": "'Beautiful' means the same as 'pretty'. 'Ugly' is the opposite, 'busy' means you have a lot to do, and 'tired' means you need rest.",
+      "ja": "beautiful は pretty と同じく「きれいな、美しい」という意味です。ugly（醜い）は反対の意味で、busy（忙しい）と tired（疲れた）は意味が違います。",
+      "zh": "beautiful 和 pretty 一样，意思是“漂亮的、美丽的”。ugly（丑的）是反义词，busy（忙的）和 tired（累的）意思不同。",
+      "es": "«Beautiful» significa lo mismo que «pretty» (bonito). «Ugly» (feo) es lo contrario, y «busy» (ocupado) y «tired» (cansado) significan otra cosa.",
+      "vi": "'Beautiful' có nghĩa giống 'pretty' (xinh, đẹp). 'Ugly' (xấu) là từ trái nghĩa, còn 'busy' (bận) và 'tired' (mệt) có nghĩa khác."
+    }
+  },
+  {
+    "id": "vocab-L1-0024",
+    "category": "vocab",
+    "level": "L1",
+    "format": "blank",
+    "question": "It is cold. Please close the ___.",
+    "choices": ["banana", "window", "pencil", "Sunday"],
+    "answerIndex": 1,
+    "word": "window",
+    "meaning": { "ko": "창문", "en": "an opening in a wall with glass", "ja": "窓", "zh": "窗户", "es": "ventana", "vi": "cửa sổ" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "추울 때 닫는 것은 window(창문)입니다. banana(바나나)는 과일, pencil(연필)은 학용품, Sunday(일요일)는 요일이라 닫을 수 없습니다.",
+      "en": "When it is cold, you close the 'window'. A banana is a fruit, a pencil is for writing, and Sunday is a day, so you cannot close them.",
+      "ja": "寒いときに閉めるものは window（窓）です。banana（バナナ）は果物、pencil（えんぴつ）は文房具、Sunday（日曜日）は曜日なので、閉めることはできません。",
+      "zh": "冷的时候要关的是 window（窗户）。banana（香蕉）是水果，pencil（铅笔）是文具，Sunday（星期日）是一天，都不能“关”。",
+      "es": "Cuando hace frío, cierras la «window» (ventana). «Banana» es una fruta, «pencil» (lápiz) es para escribir y «Sunday» (domingo) es un día, así que no se pueden cerrar.",
+      "vi": "Khi trời lạnh, ta đóng 'window' (cửa sổ). 'Banana' (chuối) là trái cây, 'pencil' (bút chì) dùng để viết, 'Sunday' (Chủ nhật) là một ngày, nên không thể đóng lại."
+    }
+  },
+  {
+    "id": "vocab-L1-0025",
+    "category": "vocab",
+    "level": "L1",
+    "format": "definition",
+    "question": "a long, yellow fruit that monkeys like",
+    "choices": ["orange", "banana", "grape", "lemon"],
+    "answerIndex": 1,
+    "word": "banana",
+    "meaning": { "ko": "바나나", "en": "a long yellow fruit", "ja": "バナナ", "zh": "香蕉", "es": "plátano, banana", "vi": "quả chuối" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "길고 노란 과일은 banana(바나나)입니다. orange(오렌지)는 둥글고 주황색이며, grape(포도)는 작고 보라색이나 초록색이고, lemon(레몬)은 노랗지만 길지 않습니다.",
+      "en": "A long, yellow fruit is a 'banana'. An orange is round and orange, a grape is small and purple or green, and a lemon is yellow but not long.",
+      "ja": "長くて黄色い果物は banana（バナナ）です。orange（オレンジ）は丸くてオレンジ色、grape（ぶどう）は小さくて紫か緑、lemon（レモン）は黄色ですが長くありません。",
+      "zh": "又长又黄的水果是 banana（香蕉）。orange（橙子）是圆的、橙色的，grape（葡萄）又小又是紫色或绿色的，lemon（柠檬）是黄色的但不长。",
+      "es": "Una fruta larga y amarilla es la «banana» (plátano). La «orange» (naranja) es redonda, la «grape» (uva) es pequeña y morada o verde, y el «lemon» (limón) es amarillo pero no es largo.",
+      "vi": "Loại quả dài, màu vàng là 'banana' (chuối). 'Orange' (cam) thì tròn, 'grape' (nho) thì nhỏ và có màu tím hoặc xanh, còn 'lemon' (chanh vàng) màu vàng nhưng không dài."
+    }
+  },
+  {
+    "id": "vocab-L1-0026",
+    "category": "vocab",
+    "level": "L1",
+    "format": "synonym",
+    "question": "Which word means the OPPOSITE of \"tall\"?",
+    "choices": ["short", "long", "big", "thin"],
+    "answerIndex": 0,
+    "word": "short",
+    "meaning": { "ko": "키가 작은, 짧은", "en": "not tall; not long", "ja": "背が低い、短い", "zh": "矮的，短的", "es": "bajo, corto", "vi": "thấp, ngắn" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "tall(키가 큰)의 반대말은 short(키가 작은)입니다. long(긴)과 big(큰)은 오히려 tall과 비슷한 쪽이고, thin(마른)은 몸이 얇다는 뜻입니다.",
+      "en": "The opposite of 'tall' is 'short'. 'Long' and 'big' are closer to 'tall', and 'thin' means not fat.",
+      "ja": "tall（背が高い）の反対は short（背が低い）です。long（長い）と big（大きい）はむしろ tall に近い意味で、thin（やせた）は細いという意味です。",
+      "zh": "tall（高的）的反义词是 short（矮的）。long（长的）和 big（大的）反而和 tall 意思接近，thin 的意思是“瘦的”。",
+      "es": "Lo contrario de «tall» (alto) es «short» (bajo). «Long» (largo) y «big» (grande) se parecen más a «tall», y «thin» significa delgado.",
+      "vi": "Từ trái nghĩa của 'tall' (cao) là 'short' (thấp). 'Long' (dài) và 'big' (to) gần nghĩa với 'tall' hơn, còn 'thin' nghĩa là gầy."
+    }
+  },
+  {
+    "id": "vocab-L1-0027",
+    "category": "vocab",
+    "level": "L1",
+    "format": "blank",
+    "question": "A cat has four ___.",
+    "choices": ["arms", "eyes", "legs", "ears"],
+    "answerIndex": 2,
+    "word": "legs",
+    "meaning": { "ko": "다리 (leg의 복수형)", "en": "plural of 'leg'; the body parts you walk on", "ja": "脚、足（leg の複数形）", "zh": "腿（leg 的复数）", "es": "patas, piernas", "vi": "chân (số nhiều của leg)" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "고양이는 다리가 4개이므로 legs(다리)가 정답입니다. 고양이는 eyes(눈)와 ears(귀)가 2개씩이고, arms(팔)는 없습니다.",
+      "en": "A cat walks on four 'legs'. A cat has only two eyes and two ears, and it has no arms.",
+      "ja": "猫は脚が4本なので legs（脚）が正解です。猫の eyes（目）と ears（耳）は2つずつで、arms（腕）はありません。",
+      "zh": "猫有四条腿，所以答案是 legs（腿）。猫只有两只 eyes（眼睛）和两只 ears（耳朵），也没有 arms（手臂）。",
+      "es": "Un gato camina con cuatro «legs» (patas). Un gato tiene solo dos «eyes» (ojos) y dos «ears» (orejas), y no tiene «arms» (brazos).",
+      "vi": "Con mèo đi bằng bốn 'legs' (chân). Mèo chỉ có hai 'eyes' (mắt) và hai 'ears' (tai), và không có 'arms' (cánh tay)."
+    }
+  },
+  {
+    "id": "vocab-L1-0028",
+    "category": "vocab",
+    "level": "L1",
+    "format": "definition",
+    "question": "the brother of your mother or father",
+    "choices": ["aunt", "uncle", "sister", "son"],
+    "answerIndex": 1,
+    "word": "uncle",
+    "meaning": { "ko": "삼촌, 외삼촌", "en": "the brother of your mother or father", "ja": "おじ", "zh": "叔叔，舅舅，伯伯", "es": "tío", "vi": "chú, bác, cậu" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "엄마나 아빠의 남자 형제는 uncle(삼촌)입니다. aunt(이모, 고모)와 sister(여자 형제)는 여자이고, son(아들)은 부모의 남자아이입니다.",
+      "en": "Your mother's or father's brother is your 'uncle'. An aunt and a sister are women or girls, and a son is a parent's boy child.",
+      "ja": "母や父の兄弟は uncle（おじ）です。aunt（おば）と sister（姉妹）は女性で、son（息子）は親から見た男の子どもです。",
+      "zh": "爸爸或妈妈的兄弟是 uncle（叔叔、舅舅）。aunt（姨妈、姑姑）和 sister（姐妹）是女性，son（儿子）是父母的男孩子。",
+      "es": "El hermano de tu madre o de tu padre es tu «uncle» (tío). «Aunt» (tía) y «sister» (hermana) son mujeres, y «son» (hijo) es el niño de unos padres.",
+      "vi": "Anh em trai của mẹ hoặc bố là 'uncle' (chú, bác, cậu). 'Aunt' (cô, dì) và 'sister' (chị em gái) là nữ, còn 'son' là con trai của bố mẹ."
+    }
+  },
+  {
+    "id": "vocab-L1-0029",
+    "category": "vocab",
+    "level": "L1",
+    "format": "synonym",
+    "question": "Which word means the SAME as \"fast\"?",
+    "choices": ["slow", "late", "quick", "easy"],
+    "answerIndex": 2,
+    "word": "quick",
+    "meaning": { "ko": "빠른", "en": "fast", "ja": "速い、すばやい", "zh": "快的", "es": "rápido", "vi": "nhanh" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "quick은 fast와 같은 '빠른'이라는 뜻입니다. slow(느린)는 반대말이고, late(늦은)와 easy(쉬운)는 뜻이 다릅니다.",
+      "en": "'Quick' means the same as 'fast'. 'Slow' is the opposite, 'late' means after the right time, and 'easy' means not difficult.",
+      "ja": "quick は fast と同じく「速い」という意味です。slow（遅い）は反対の意味で、late（遅れた）と easy（簡単な）は意味が違います。",
+      "zh": "quick 和 fast 一样，意思是“快的”。slow（慢的）是反义词，late（迟的）和 easy（容易的）意思不同。",
+      "es": "«Quick» significa lo mismo que «fast» (rápido). «Slow» (lento) es lo contrario, y «late» (tarde) y «easy» (fácil) significan otra cosa.",
+      "vi": "'Quick' có nghĩa giống 'fast' (nhanh). 'Slow' (chậm) là từ trái nghĩa, còn 'late' (muộn) và 'easy' (dễ) có nghĩa khác."
+    }
+  },
+  {
+    "id": "vocab-L1-0030",
+    "category": "vocab",
+    "level": "L1",
+    "format": "blank",
+    "question": "I wash my hands with soap and ___.",
+    "choices": ["milk", "juice", "rice", "water"],
+    "answerIndex": 3,
+    "word": "water",
+    "meaning": { "ko": "물", "en": "the clear liquid in rivers and rain", "ja": "水", "zh": "水", "es": "agua", "vi": "nước" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "비누와 함께 손을 씻을 때 쓰는 것은 water(물)입니다. milk(우유)와 juice(주스)는 마시는 것이고, rice(쌀, 밥)는 먹는 것입니다.",
+      "en": "We wash our hands with soap and 'water'. 'Milk' and 'juice' are drinks, and 'rice' is food.",
+      "ja": "せっけんと一緒に手を洗うときに使うのは water（水）です。milk（牛乳）と juice（ジュース）は飲み物で、rice（米、ごはん）は食べ物です。",
+      "zh": "用肥皂洗手时用的是 water（水）。milk（牛奶）和 juice（果汁）是饮料，rice（米饭）是食物。",
+      "es": "Nos lavamos las manos con jabón y «water» (agua). «Milk» (leche) y «juice» (jugo, zumo) son bebidas, y «rice» (arroz) es comida.",
+      "vi": "Chúng ta rửa tay bằng xà phòng và 'water' (nước). 'Milk' (sữa) và 'juice' (nước ép) là đồ uống, còn 'rice' (cơm, gạo) là đồ ăn."
+    }
+  },
+  {
+    "id": "vocab-L1-0031",
+    "category": "vocab",
+    "level": "L1",
+    "format": "blank",
+    "question": "My father's father is my ___.",
+    "choices": ["grandfather", "grandmother", "uncle", "son"],
+    "answerIndex": 0,
+    "word": "grandfather",
+    "meaning": { "ko": "할아버지", "en": "the father of your mother or father", "ja": "祖父、おじいさん", "zh": "爷爷，外公", "es": "abuelo", "vi": "ông (nội, ngoại)" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "아빠의 아버지는 grandfather(할아버지)입니다. grandmother(할머니)는 여자이고, uncle(삼촌)은 부모의 남자 형제, son(아들)은 자녀입니다.",
+      "en": "Your father's father is your 'grandfather'. A grandmother is a woman, an uncle is your parent's brother, and a son is a child.",
+      "ja": "父の父は grandfather（祖父）です。grandmother（祖母）は女性で、uncle（おじ）は親の兄弟、son（息子）は子どもです。",
+      "zh": "爸爸的爸爸是 grandfather（爷爷）。grandmother（奶奶）是女性，uncle（叔叔）是父母的兄弟，son（儿子）是孩子。",
+      "es": "El padre de tu padre es tu «grandfather» (abuelo). «Grandmother» (abuela) es una mujer, «uncle» (tío) es el hermano de tu padre o madre y «son» (hijo) es un niño.",
+      "vi": "Bố của bố là 'grandfather' (ông nội). 'Grandmother' (bà) là nữ, 'uncle' (chú, bác) là anh em trai của bố mẹ, còn 'son' (con trai) là con."
+    }
+  },
+  {
+    "id": "vocab-L1-0032",
+    "category": "vocab",
+    "level": "L1",
+    "format": "definition",
+    "question": "a small thing with ink inside that you use to write",
+    "choices": ["book", "pen", "desk", "bag"],
+    "answerIndex": 1,
+    "word": "pen",
+    "meaning": { "ko": "펜", "en": "a thing for writing with ink", "ja": "ペン", "zh": "钢笔，笔", "es": "bolígrafo, pluma", "vi": "cây bút (mực)" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "잉크가 들어 있어 글씨를 쓰는 물건은 pen(펜)입니다. book(책)은 읽는 것, desk(책상)는 앞에 앉아 공부하는 가구, bag(가방)은 물건을 넣는 것입니다.",
+      "en": "A small thing with ink for writing is a 'pen'. You read a book, you sit at a desk, and you carry things in a bag.",
+      "ja": "インクが入っていて字を書く物は pen（ペン）です。book（本）は読む物、desk（机）は前に座って勉強する家具、bag（かばん）は物を入れる物です。",
+      "zh": "里面有墨水、用来写字的小东西是 pen（笔）。book（书）是用来读的，desk（书桌）是学习用的家具，bag（包）是装东西的。",
+      "es": "Una cosa pequeña con tinta para escribir es un «pen» (bolígrafo). Un «book» (libro) se lee, en un «desk» (escritorio) te sientas a estudiar y en una «bag» (bolsa) llevas cosas.",
+      "vi": "Vật nhỏ có mực bên trong dùng để viết là 'pen' (bút). 'Book' (sách) để đọc, 'desk' (bàn học) để ngồi học, còn 'bag' (cái túi) để đựng đồ."
+    }
+  },
+  {
+    "id": "vocab-L1-0033",
+    "category": "vocab",
+    "level": "L1",
+    "format": "synonym",
+    "question": "Which word means the OPPOSITE of \"good\"?",
+    "choices": ["nice", "kind", "bad", "fine"],
+    "answerIndex": 2,
+    "word": "bad",
+    "meaning": { "ko": "나쁜", "en": "not good", "ja": "悪い", "zh": "坏的，不好的", "es": "malo", "vi": "xấu, tồi" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "good(좋은)의 반대말은 bad(나쁜)입니다. nice(좋은), kind(친절한), fine(괜찮은)은 모두 좋은 뜻이라 반대말이 아닙니다.",
+      "en": "The opposite of 'good' is 'bad'. 'Nice', 'kind' and 'fine' all have good meanings, so they are not opposites.",
+      "ja": "good（良い）の反対は bad（悪い）です。nice（すてきな）、kind（親切な）、fine（元気な、よい）はどれも良い意味なので、反対語ではありません。",
+      "zh": "good（好的）的反义词是 bad（坏的）。nice（好的）、kind（善良的）和 fine（不错的）都是好的意思，不是反义词。",
+      "es": "Lo contrario de «good» (bueno) es «bad» (malo). «Nice» (agradable), «kind» (amable) y «fine» (bien) tienen significados positivos, así que no son opuestos.",
+      "vi": "Từ trái nghĩa của 'good' (tốt) là 'bad' (xấu). 'Nice' (dễ chịu), 'kind' (tốt bụng) và 'fine' (ổn) đều mang nghĩa tốt nên không phải từ trái nghĩa."
+    }
+  },
+  {
+    "id": "vocab-L1-0034",
+    "category": "vocab",
+    "level": "L1",
+    "format": "blank",
+    "question": "I get up early in the ___.",
+    "choices": ["morning", "week", "year", "name"],
+    "answerIndex": 0,
+    "word": "morning",
+    "meaning": { "ko": "아침, 오전", "en": "the early part of the day", "ja": "朝、午前", "zh": "早上，上午", "es": "mañana", "vi": "buổi sáng" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'아침에 일찍 일어나다'는 get up early in the morning이라고 합니다. week(주)와 year(해)는 기간이 너무 길고, name(이름)은 시간이 아닙니다.",
+      "en": "We say 'get up early in the morning'. A 'week' and a 'year' are too long for this, and a 'name' is not a time.",
+      "ja": "「朝早く起きる」は get up early in the morning と言います。week（週）と year（年）は期間が長すぎ、name（名前）は時間ではありません。",
+      "zh": "“早上早起”说 get up early in the morning。week（星期）和 year（年）时间太长，name（名字）不是时间。",
+      "es": "Decimos «get up early in the morning» (levantarse temprano por la mañana). «Week» (semana) y «year» (año) son demasiado largos, y «name» (nombre) no es un momento del día.",
+      "vi": "Ta nói 'get up early in the morning' (dậy sớm vào buổi sáng). 'Week' (tuần) và 'year' (năm) quá dài, còn 'name' (tên) không phải là thời gian."
+    }
+  },
+  {
+    "id": "vocab-L1-0035",
+    "category": "vocab",
+    "level": "L1",
+    "format": "definition",
+    "question": "the number after nine",
+    "choices": ["ten", "eight", "eleven", "seven"],
+    "answerIndex": 0,
+    "word": "ten",
+    "meaning": { "ko": "10, 열", "en": "the number 10", "ja": "10", "zh": "十", "es": "diez", "vi": "mười" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "9 다음 숫자는 10이므로 ten이 정답입니다. eight는 8, seven은 7로 9보다 작고, eleven은 11로 10 다음 숫자입니다.",
+      "en": "The number after 9 is 10, which is 'ten'. 'Eight' (8) and 'seven' (7) come before nine, and 'eleven' (11) comes after ten.",
+      "ja": "9 の次の数は 10 なので ten が正解です。eight は 8、seven は 7 で 9 より小さく、eleven は 11 で 10 の次の数です。",
+      "zh": "9 后面的数字是 10，所以答案是 ten。eight 是 8，seven 是 7，都比 9 小；eleven 是 11，在 10 后面。",
+      "es": "El número después del 9 es el 10, «ten» (diez). «Eight» (8) y «seven» (7) van antes del nueve, y «eleven» (11) va después del diez.",
+      "vi": "Số sau 9 là 10, tức là 'ten' (mười). 'Eight' (8) và 'seven' (7) đứng trước số chín, còn 'eleven' (11) đứng sau số mười."
+    }
+  },
+  {
+    "id": "vocab-L1-0036",
+    "category": "vocab",
+    "level": "L1",
+    "format": "synonym",
+    "question": "Which word means the SAME as \"speak\"?",
+    "choices": ["talk", "listen", "walk", "sleep"],
+    "answerIndex": 0,
+    "word": "talk",
+    "meaning": { "ko": "말하다, 이야기하다", "en": "to say words to someone", "ja": "話す", "zh": "说话，谈话", "es": "hablar", "vi": "nói chuyện" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "talk는 speak와 같은 '말하다'라는 뜻입니다. listen(듣다)은 남의 말을 듣는 것이고, walk(걷다)와 sleep(자다)은 말하는 것과 관계없습니다.",
+      "en": "'Talk' means the same as 'speak'. 'Listen' means to hear someone, and 'walk' and 'sleep' have nothing to do with words.",
+      "ja": "talk は speak と同じく「話す」という意味です。listen（聞く）は人の話を聞くことで、walk（歩く）と sleep（眠る）は話すこととは関係ありません。",
+      "zh": "talk 和 speak 一样，意思是“说话”。listen（听）是听别人说话，walk（走路）和 sleep（睡觉）和说话无关。",
+      "es": "«Talk» significa lo mismo que «speak» (hablar). «Listen» (escuchar) es oír a otra persona, y «walk» (caminar) y «sleep» (dormir) no tienen que ver con hablar.",
+      "vi": "'Talk' có nghĩa giống 'speak' (nói). 'Listen' (nghe) là nghe người khác nói, còn 'walk' (đi bộ) và 'sleep' (ngủ) không liên quan đến việc nói."
+    }
+  },
+  {
+    "id": "vocab-L1-0037",
+    "category": "vocab",
+    "level": "L1",
+    "format": "blank",
+    "question": "The ___ is hot and bright. It is in the sky.",
+    "choices": ["moon", "sun", "tree", "fish"],
+    "answerIndex": 1,
+    "word": "sun",
+    "meaning": { "ko": "해, 태양", "en": "the big hot star that gives us light", "ja": "太陽", "zh": "太阳", "es": "sol", "vi": "mặt trời" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "하늘에 있고 뜨겁고 밝은 것은 sun(해)입니다. moon(달)도 하늘에 있지만 뜨겁지 않고, tree(나무)와 fish(물고기)는 하늘에 있지 않습니다.",
+      "en": "The hot, bright thing in the sky is the 'sun'. The moon is also in the sky, but it is not hot, and a tree and a fish are not in the sky.",
+      "ja": "空にあって熱くて明るいものは sun（太陽）です。moon（月）も空にありますが熱くなく、tree（木）と fish（魚）は空にありません。",
+      "zh": "在天上、又热又亮的是 sun（太阳）。moon（月亮）也在天上，但不热；tree（树）和 fish（鱼）不在天上。",
+      "es": "La cosa caliente y brillante del cielo es el «sun» (sol). La «moon» (luna) también está en el cielo, pero no es caliente, y un «tree» (árbol) y un «fish» (pez) no están en el cielo.",
+      "vi": "Thứ nóng và sáng trên bầu trời là 'sun' (mặt trời). 'Moon' (mặt trăng) cũng ở trên trời nhưng không nóng, còn 'tree' (cây) và 'fish' (cá) không ở trên trời."
+    }
+  },
+  {
+    "id": "vocab-L1-0038",
+    "category": "vocab",
+    "level": "L1",
+    "format": "definition",
+    "question": "to move very fast on your feet",
+    "choices": ["walk", "sit", "swim", "run"],
+    "answerIndex": 3,
+    "word": "run",
+    "meaning": { "ko": "달리다, 뛰다", "en": "to move fast on your feet", "ja": "走る", "zh": "跑", "es": "correr", "vi": "chạy" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "발로 아주 빠르게 움직이는 것은 run(달리다)입니다. walk(걷다)는 발로 천천히 움직이는 것, sit(앉다)은 움직이지 않는 것, swim(수영하다)은 물속에서 움직이는 것입니다.",
+      "en": "To move very fast on your feet is to 'run'. 'Walk' is slower, 'sit' means you do not move, and 'swim' is moving in water.",
+      "ja": "足でとても速く動くことは run（走る）です。walk（歩く）はゆっくり動くこと、sit（座る）は動かないこと、swim（泳ぐ）は水の中で動くことです。",
+      "zh": "用脚快速移动是 run（跑）。walk（走路）比较慢，sit（坐）是不动，swim（游泳）是在水里移动。",
+      "es": "Moverse muy rápido con los pies es «run» (correr). «Walk» (caminar) es más lento, «sit» (sentarse) es no moverse y «swim» (nadar) es moverse en el agua.",
+      "vi": "Di chuyển rất nhanh bằng đôi chân là 'run' (chạy). 'Walk' (đi bộ) chậm hơn, 'sit' (ngồi) là không di chuyển, còn 'swim' (bơi) là di chuyển dưới nước."
+    }
+  },
+  {
+    "id": "vocab-L1-0039",
+    "category": "vocab",
+    "level": "L1",
+    "format": "synonym",
+    "question": "Which word means the OPPOSITE of \"come\"?",
+    "choices": ["sit", "eat", "go", "sleep"],
+    "answerIndex": 2,
+    "word": "go",
+    "meaning": { "ko": "가다", "en": "to move to another place", "ja": "行く", "zh": "去", "es": "ir", "vi": "đi" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "come(오다)의 반대말은 go(가다)입니다. sit(앉다), eat(먹다), sleep(자다)은 come과 뜻이 다르지만 반대말은 아닙니다.",
+      "en": "The opposite of 'come' is 'go'. 'Sit', 'eat' and 'sleep' are different actions, but they are not opposites of 'come'.",
+      "ja": "come（来る）の反対は go（行く）です。sit（座る）、eat（食べる）、sleep（眠る）は come と意味が違いますが、反対語ではありません。",
+      "zh": "come（来）的反义词是 go（去）。sit（坐）、eat（吃）和 sleep（睡觉）虽然和 come 意思不同，但不是反义词。",
+      "es": "Lo contrario de «come» (venir) es «go» (ir). «Sit» (sentarse), «eat» (comer) y «sleep» (dormir) son acciones diferentes, pero no son opuestos de «come».",
+      "vi": "Từ trái nghĩa của 'come' (đến) là 'go' (đi). 'Sit' (ngồi), 'eat' (ăn) và 'sleep' (ngủ) là những hành động khác nhưng không trái nghĩa với 'come'."
+    }
+  },
+  {
+    "id": "vocab-L1-0040",
+    "category": "vocab",
+    "level": "L1",
+    "format": "blank",
+    "question": "We ___ English at school.",
+    "choices": ["drink", "wear", "open", "study"],
+    "answerIndex": 3,
+    "word": "study",
+    "meaning": { "ko": "공부하다", "en": "to learn about a subject", "ja": "勉強する", "zh": "学习", "es": "estudiar", "vi": "học" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "학교에서 영어를 '공부한다'고 할 때는 study를 씁니다. drink(마시다)는 음료, wear(입다)는 옷, open(열다)은 문이나 상자와 함께 씁니다.",
+      "en": "We 'study' English at school. You 'drink' water, you 'wear' clothes, and you 'open' a door, so they do not fit here.",
+      "ja": "学校で英語を「勉強する」と言うときは study を使います。drink（飲む）は飲み物、wear（着る）は服、open（開ける）はドアや箱と一緒に使います。",
+      "zh": "说在学校“学习”英语时用 study。drink（喝）用于饮料，wear（穿）用于衣服，open（打开）用于门或盒子。",
+      "es": "En la escuela «study» (estudiamos) inglés. «Drink» (beber) se usa con bebidas, «wear» (llevar puesto) con ropa y «open» (abrir) con una puerta, así que no sirven aquí.",
+      "vi": "Ở trường, chúng ta 'study' (học) tiếng Anh. 'Drink' (uống) dùng với đồ uống, 'wear' (mặc) dùng với quần áo, còn 'open' (mở) dùng với cửa, nên không hợp ở đây."
+    }
+  }
+]

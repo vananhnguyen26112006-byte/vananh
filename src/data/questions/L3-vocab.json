@@ -1,0 +1,802 @@
+[
+  {
+    "id": "vocab-L3-0001",
+    "category": "vocab",
+    "level": "L3",
+    "format": "blank",
+    "question": "I'm trying to ___ my English by reading the news in English every day.",
+    "choices": ["require", "improve", "avoid", "delay"],
+    "answerIndex": 1,
+    "word": "improve",
+    "meaning": { "ko": "향상시키다, 개선하다", "en": "to make something better", "ja": "向上させる、改善する", "zh": "提高，改善", "es": "mejorar", "vi": "cải thiện, nâng cao" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "매일 영어 뉴스를 읽는 목적은 영어 실력을 '향상시키는' 것이므로 improve(향상시키다)가 정답입니다. require(필요로 하다), avoid(피하다), delay(미루다)는 문장의 뜻과 맞지 않습니다.",
+      "en": "Reading the news every day is a way to make your English better, so 'improve' is correct. 'Require' means to need, 'avoid' means to stay away from, and 'delay' means to make something happen later, so they do not make sense here.",
+      "ja": "毎日英語のニュースを読むのは英語力を「向上させる」ためなので、improve（向上させる）が正解です。require（必要とする）、avoid（避ける）、delay（遅らせる）は文の意味に合いません。",
+      "zh": "每天读英文新闻是为了“提高”英语水平，所以 improve（提高）是正确答案。require（需要）、avoid（避免）、delay（推迟）都不符合句意。",
+      "es": "Leer las noticias cada día sirve para que tu inglés sea mejor, así que «improve» (mejorar) es la respuesta correcta. «Require» significa necesitar, «avoid» significa evitar y «delay» significa retrasar, así que no tienen sentido aquí.",
+      "vi": "Đọc tin tức tiếng Anh mỗi ngày là để làm tiếng Anh tốt hơn, nên 'improve' (cải thiện) là đáp án đúng. 'Require' nghĩa là cần, 'avoid' là tránh, 'delay' là trì hoãn, nên không hợp nghĩa câu."
+    }
+  },
+  {
+    "id": "vocab-L3-0002",
+    "category": "vocab",
+    "level": "L3",
+    "format": "definition",
+    "question": "able to be trusted to do what you need or expect",
+    "choices": ["reliable", "curious", "jealous", "modest"],
+    "answerIndex": 0,
+    "word": "reliable",
+    "meaning": { "ko": "믿을 수 있는, 신뢰할 수 있는", "en": "that you can trust", "ja": "信頼できる", "zh": "可靠的", "es": "fiable, confiable", "vi": "đáng tin cậy" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'필요하거나 기대하는 일을 해 줄 것이라고 믿을 수 있는'은 reliable(믿을 수 있는)의 뜻입니다. curious는 '호기심 많은', jealous는 '질투하는', modest는 '겸손한'이라는 뜻입니다.",
+      "en": "Something or someone you can trust to do what you expect is 'reliable'. 'Curious' means wanting to know things, 'jealous' means unhappy because someone has what you want, and 'modest' means not talking proudly about yourself.",
+      "ja": "「必要なことや期待することをしてくれると信頼できる」は reliable（信頼できる）の意味です。curious は「好奇心の強い」、jealous は「嫉妬深い」、modest は「謙虚な」という意味です。",
+      "zh": "“可以信赖、会做你需要或期待的事”是 reliable（可靠的）的意思。curious 意为“好奇的”，jealous 意为“嫉妒的”，modest 意为“谦虚的”。",
+      "es": "Algo o alguien en quien puedes confiar para hacer lo que esperas es «reliable» (fiable). «Curious» significa curioso, «jealous» significa celoso y «modest» significa modesto.",
+      "vi": "Có thể tin tưởng rằng sẽ làm điều bạn cần hoặc mong đợi là nghĩa của 'reliable' (đáng tin cậy). 'Curious' nghĩa là tò mò, 'jealous' là ghen tị, 'modest' là khiêm tốn."
+    }
+  },
+  {
+    "id": "vocab-L3-0003",
+    "category": "vocab",
+    "level": "L3",
+    "format": "synonym",
+    "question": "Which word means the SAME as \"necessary\"?",
+    "choices": ["optional", "essential", "expensive", "familiar"],
+    "answerIndex": 1,
+    "word": "essential",
+    "meaning": { "ko": "꼭 필요한, 필수적인", "en": "very important and necessary", "ja": "不可欠な、絶対必要な", "zh": "必不可少的，必要的", "es": "esencial, imprescindible", "vi": "thiết yếu, cần thiết" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "necessary는 '필요한'이라는 뜻이므로 같은 뜻은 essential(꼭 필요한)입니다. optional(선택적인)은 반대에 가까운 말이고, expensive(비싼)와 familiar(익숙한)는 뜻이 다릅니다.",
+      "en": "'Necessary' means needed, and 'essential' has the same meaning. 'Optional' means you can choose not to have it, so it is almost the opposite, and 'expensive' and 'familiar' have different meanings.",
+      "ja": "necessary は「必要な」という意味なので、同じ意味は essential（不可欠な）です。optional（任意の）は反対に近い言葉で、expensive（高価な）と familiar（なじみのある）は意味が違います。",
+      "zh": "necessary 意为“必要的”，所以同义词是 essential（必不可少的）。optional（可选的）意思接近相反，expensive（昂贵的）和 familiar（熟悉的）意思不同。",
+      "es": "«Necessary» significa necesario, y «essential» (esencial) tiene el mismo significado. «Optional» (opcional) es casi lo contrario, y «expensive» (caro) y «familiar» (conocido) significan otra cosa.",
+      "vi": "'Necessary' nghĩa là cần thiết, và 'essential' (thiết yếu) có cùng nghĩa. 'Optional' (không bắt buộc) gần như trái nghĩa, còn 'expensive' (đắt) và 'familiar' (quen thuộc) có nghĩa khác."
+    }
+  },
+  {
+    "id": "vocab-L3-0004",
+    "category": "vocab",
+    "level": "L3",
+    "format": "blank",
+    "question": "Learning to play the guitar is hard at first, but don't ___ — keep practicing!",
+    "choices": ["find out", "turn on", "give up", "look after"],
+    "answerIndex": 2,
+    "word": "give up",
+    "meaning": { "ko": "포기하다", "en": "to stop trying to do something", "ja": "あきらめる", "zh": "放弃", "es": "rendirse, abandonar", "vi": "bỏ cuộc, từ bỏ" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'어렵지만 계속 연습하라'는 말이므로 빈칸에는 give up(포기하다)이 알맞습니다. find out(알아내다), turn on(켜다), look after(돌보다)는 뜻이 맞지 않고, 뒤에 목적어도 필요합니다.",
+      "en": "The sentence says 'keep practicing', so the blank needs 'give up' (stop trying). 'Find out' means to learn a fact, 'turn on' means to start a machine, and 'look after' means to take care of someone, and they also need an object.",
+      "ja": "「難しいけれど練習を続けて」という文なので、空欄には give up（あきらめる）が入ります。find out（知る、調べる）、turn on（電源を入れる）、look after（世話をする）は意味が合わず、目的語も必要です。",
+      "zh": "句子说“继续练习”，所以空格应填 give up（放弃）。find out（查明）、turn on（打开）、look after（照顾）意思不符，而且后面还需要宾语。",
+      "es": "La frase dice «keep practicing» (sigue practicando), así que en el espacio va «give up» (rendirse). «Find out» significa averiguar, «turn on» significa encender y «look after» significa cuidar, y además necesitan un objeto.",
+      "vi": "Câu nói 'hãy tiếp tục luyện tập', nên chỗ trống cần 'give up' (bỏ cuộc). 'Find out' là tìm ra, 'turn on' là bật, 'look after' là chăm sóc; chúng không hợp nghĩa và còn cần tân ngữ."
+    }
+  },
+  {
+    "id": "vocab-L3-0005",
+    "category": "vocab",
+    "level": "L3",
+    "format": "definition",
+    "question": "a chance to do something good or useful",
+    "choices": ["argument", "audience", "appointment", "opportunity"],
+    "answerIndex": 3,
+    "word": "opportunity",
+    "meaning": { "ko": "기회", "en": "a good chance", "ja": "機会、チャンス", "zh": "机会", "es": "oportunidad", "vi": "cơ hội" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'좋거나 유용한 일을 할 수 있는 기회'는 opportunity(기회)입니다. argument는 '말다툼', audience는 '관객, 청중', appointment는 '약속, 예약'이라는 뜻입니다.",
+      "en": "A chance to do something good is an 'opportunity'. An 'argument' is an angry talk between people who disagree, an 'audience' is the people watching a show, and an 'appointment' is a planned meeting at a set time.",
+      "ja": "「よいことや役に立つことをする機会」は opportunity（機会）です。argument は「口論」、audience は「観客、聴衆」、appointment は「（会う）約束、予約」という意味です。",
+      "zh": "“做好事或有用之事的机会”是 opportunity（机会）。argument 意为“争吵”，audience 意为“观众，听众”，appointment 意为“约会，预约”。",
+      "es": "Una ocasión para hacer algo bueno o útil es una «opportunity» (oportunidad). «Argument» significa discusión, «audience» significa público y «appointment» significa cita.",
+      "vi": "Dịp để làm điều tốt hoặc hữu ích là 'opportunity' (cơ hội). 'Argument' là cuộc cãi nhau, 'audience' là khán giả, 'appointment' là cuộc hẹn."
+    }
+  },
+  {
+    "id": "vocab-L3-0006",
+    "category": "vocab",
+    "level": "L3",
+    "format": "synonym",
+    "question": "Which word means the OPPOSITE of \"increase\"?",
+    "choices": ["decrease", "develop", "expand", "repeat"],
+    "answerIndex": 0,
+    "word": "decrease",
+    "meaning": { "ko": "줄다, 감소하다", "en": "to become smaller in number or amount", "ja": "減る、減少する", "zh": "减少", "es": "disminuir", "vi": "giảm, giảm bớt" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "increase는 '늘다, 증가하다'라는 뜻이므로 반대말은 decrease(줄다)입니다. expand(확장하다)는 비슷한 뜻이고, develop(발전하다)과 repeat(반복하다)는 반대말이 아닙니다.",
+      "en": "'Increase' means to become bigger in number or amount, so its opposite is 'decrease'. 'Expand' has a similar meaning, and 'develop' (grow or improve) and 'repeat' (do again) are not opposites.",
+      "ja": "increase は「増える」という意味なので、反対語は decrease（減る）です。expand（広がる）は似た意味で、develop（発展する）と repeat（繰り返す）は反対語ではありません。",
+      "zh": "increase 意为“增加”，所以反义词是 decrease（减少）。expand（扩大）意思相近，develop（发展）和 repeat（重复）都不是反义词。",
+      "es": "«Increase» significa aumentar, así que su opuesto es «decrease» (disminuir). «Expand» (ampliar) tiene un significado parecido, y «develop» (desarrollar) y «repeat» (repetir) no son opuestos.",
+      "vi": "'Increase' nghĩa là tăng lên, nên từ trái nghĩa là 'decrease' (giảm). 'Expand' (mở rộng) có nghĩa gần giống, còn 'develop' (phát triển) và 'repeat' (lặp lại) không phải từ trái nghĩa."
+    }
+  },
+  {
+    "id": "vocab-L3-0007",
+    "category": "vocab",
+    "level": "L3",
+    "format": "blank",
+    "question": "Please ___ attention to the safety instructions before you start the machine.",
+    "choices": ["make", "pay", "take", "do"],
+    "answerIndex": 1,
+    "word": "pay",
+    "meaning": { "ko": "(주의를) 기울이다 (pay attention)", "en": "used in 'pay attention': to watch or listen carefully", "ja": "（注意を）払う（pay attention）", "zh": "给予（注意）（pay attention）", "es": "prestar (atención) (pay attention)", "vi": "chú ý (trong cụm pay attention)" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'주의를 기울이다'는 영어로 pay attention이라는 정해진 표현(연어)을 씁니다. make, take, do는 attention과 함께 이런 뜻으로 쓰지 않습니다.",
+      "en": "'Pay attention' is a fixed collocation that means to watch or listen carefully. We do not say 'make attention', 'take attention' or 'do attention'.",
+      "ja": "「注意を払う」は英語で pay attention という決まった組み合わせ（コロケーション）を使います。make、take、do は attention とこの意味では使いません。",
+      "zh": "“注意”在英语中是固定搭配 pay attention。make、take、do 都不能和 attention 搭配表示这个意思。",
+      "es": "«Pay attention» (prestar atención) es una combinación fija en inglés. No se dice «make attention», «take attention» ni «do attention».",
+      "vi": "'Pay attention' (chú ý) là cụm từ cố định trong tiếng Anh. Ta không nói 'make attention', 'take attention' hay 'do attention'."
+    }
+  },
+  {
+    "id": "vocab-L3-0008",
+    "category": "vocab",
+    "level": "L3",
+    "format": "definition",
+    "question": "sad because something was not as good as you hoped",
+    "choices": ["embarrassed", "exhausted", "relieved", "disappointed"],
+    "answerIndex": 3,
+    "word": "disappointed",
+    "meaning": { "ko": "실망한", "en": "sad because your hopes did not happen", "ja": "がっかりした", "zh": "失望的", "es": "decepcionado", "vi": "thất vọng" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'기대했던 것만큼 좋지 않아서 슬픈'은 disappointed(실망한)의 뜻입니다. embarrassed는 '창피한', exhausted는 '몹시 지친', relieved는 '안심한'이라는 뜻입니다.",
+      "en": "Feeling sad because something was not as good as you hoped is 'disappointed'. 'Embarrassed' means feeling silly in front of others, 'exhausted' means very tired, and 'relieved' means happy that a worry has ended.",
+      "ja": "「期待したほどよくなくて悲しい」は disappointed（がっかりした）の意味です。embarrassed は「恥ずかしい」、exhausted は「くたくたに疲れた」、relieved は「ほっとした」という意味です。",
+      "zh": "“因为事情不如期望的好而难过”是 disappointed（失望的）的意思。embarrassed 意为“尴尬的”，exhausted 意为“筋疲力尽的”，relieved 意为“松了一口气的”。",
+      "es": "Estar triste porque algo no fue tan bueno como esperabas es «disappointed» (decepcionado). «Embarrassed» significa avergonzado, «exhausted» significa agotado y «relieved» significa aliviado.",
+      "vi": "Buồn vì điều gì đó không tốt như mình mong đợi là nghĩa của 'disappointed' (thất vọng). 'Embarrassed' là xấu hổ, 'exhausted' là kiệt sức, 'relieved' là nhẹ nhõm."
+    }
+  },
+  {
+    "id": "vocab-L3-0009",
+    "category": "vocab",
+    "level": "L3",
+    "format": "blank",
+    "question": "If you want to stay healthy, you should ___ eating too much sugar.",
+    "choices": ["enjoy", "prefer", "avoid", "keep"],
+    "answerIndex": 2,
+    "word": "avoid",
+    "meaning": { "ko": "피하다", "en": "to stay away from something or not do it", "ja": "避ける", "zh": "避免", "es": "evitar", "vi": "tránh" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "건강을 지키려면 설탕을 너무 많이 먹는 것을 '피해야' 하므로 avoid(피하다)가 정답입니다. enjoy(즐기다), prefer(더 좋아하다), keep(계속하다)을 넣으면 건강에 나쁜 행동을 권하는 이상한 문장이 됩니다.",
+      "en": "To stay healthy, you should not eat too much sugar, so 'avoid' is correct. With 'enjoy', 'prefer' or 'keep' (continue), the sentence would tell you to do something unhealthy, which does not make sense.",
+      "ja": "健康でいるためには砂糖のとりすぎを「避ける」べきなので、avoid（避ける）が正解です。enjoy（楽しむ）、prefer（好む）、keep（続ける）を入れると、体に悪いことを勧めるおかしな文になります。",
+      "zh": "想保持健康就应该“避免”吃太多糖，所以 avoid（避免）是正确答案。如果用 enjoy（享受）、prefer（更喜欢）或 keep（继续），句子就变成建议做不健康的事，不合逻辑。",
+      "es": "Para estar sano no debes comer demasiado azúcar, así que «avoid» (evitar) es correcto. Con «enjoy» (disfrutar), «prefer» (preferir) o «keep» (seguir), la frase recomendaría algo poco saludable, y no tiene sentido.",
+      "vi": "Muốn khỏe mạnh thì nên tránh ăn quá nhiều đường, nên 'avoid' (tránh) là đáp án đúng. Nếu dùng 'enjoy' (thích thú), 'prefer' (thích hơn) hay 'keep' (tiếp tục), câu sẽ khuyên làm điều có hại, không hợp lý."
+    }
+  },
+  {
+    "id": "vocab-L3-0010",
+    "category": "vocab",
+    "level": "L3",
+    "format": "synonym",
+    "question": "Which word means the SAME as \"respond\"?",
+    "choices": ["answer", "request", "ignore", "explain"],
+    "answerIndex": 0,
+    "word": "answer",
+    "meaning": { "ko": "대답하다, 응답하다", "en": "to say or write something back", "ja": "答える、返事をする", "zh": "回答，回应", "es": "responder, contestar", "vi": "trả lời" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "respond는 '대답하다, 응답하다'라는 뜻이므로 같은 뜻은 answer입니다. ignore(무시하다)는 반대에 가깝고, request(요청하다)와 explain(설명하다)은 뜻이 다릅니다.",
+      "en": "'Respond' means to say or write something back, which is the same as 'answer'. 'Ignore' is almost the opposite, and 'request' (ask for) and 'explain' (make clear) have different meanings.",
+      "ja": "respond は「答える、応じる」という意味なので、同じ意味は answer です。ignore（無視する）は反対に近く、request（頼む）と explain（説明する）は意味が違います。",
+      "zh": "respond 意为“回答，回应”，所以同义词是 answer。ignore（忽视）意思接近相反，request（请求）和 explain（解释）意思不同。",
+      "es": "«Respond» significa responder, igual que «answer». «Ignore» (ignorar) es casi lo contrario, y «request» (pedir) y «explain» (explicar) significan otra cosa.",
+      "vi": "'Respond' nghĩa là đáp lại, giống với 'answer' (trả lời). 'Ignore' (phớt lờ) gần như trái nghĩa, còn 'request' (yêu cầu) và 'explain' (giải thích) có nghĩa khác."
+    }
+  },
+  {
+    "id": "vocab-L3-0011",
+    "category": "vocab",
+    "level": "L3",
+    "format": "blank",
+    "question": "Can you ___ what time the last train leaves tonight?",
+    "choices": ["give up", "put off", "turn down", "find out"],
+    "answerIndex": 3,
+    "word": "find out",
+    "meaning": { "ko": "알아내다, 알게 되다", "en": "to get information about something", "ja": "調べて知る、見つけ出す", "zh": "查明，弄清楚", "es": "averiguar, enterarse", "vi": "tìm ra, tìm hiểu" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "막차 시간이라는 '정보를 알아내다'는 뜻이므로 find out이 정답입니다. give up(포기하다), put off(미루다), turn down(거절하다, 소리를 줄이다)은 뒤에 'what time ~'이 와도 뜻이 통하지 않습니다.",
+      "en": "The speaker wants to get a piece of information (the time of the last train), so 'find out' is correct. 'Give up' means to stop trying, 'put off' means to delay, and 'turn down' means to refuse or make quieter, so they do not fit before 'what time'.",
+      "ja": "終電の時間という「情報を調べて知る」という意味なので、find out が正解です。give up（あきらめる）、put off（延期する）、turn down（断る、音を小さくする）は what time ～ と合わず、意味が通りません。",
+      "zh": "这里是要“查明”末班车的时间，所以 find out 是正确答案。give up（放弃）、put off（推迟）、turn down（拒绝，调小）后面接 what time 意思不通。",
+      "es": "Se quiere conseguir una información (la hora del último tren), así que «find out» (averiguar) es correcto. «Give up» significa rendirse, «put off» significa aplazar y «turn down» significa rechazar o bajar el volumen, así que no encajan.",
+      "vi": "Người nói muốn biết một thông tin (giờ chuyến tàu cuối), nên 'find out' (tìm hiểu) là đáp án đúng. 'Give up' là bỏ cuộc, 'put off' là hoãn lại, 'turn down' là từ chối hoặc vặn nhỏ, nên không hợp nghĩa."
+    }
+  },
+  {
+    "id": "vocab-L3-0012",
+    "category": "vocab",
+    "level": "L3",
+    "format": "definition",
+    "question": "working well without wasting time, money or energy",
+    "choices": ["generous", "ordinary", "efficient", "flexible"],
+    "answerIndex": 2,
+    "word": "efficient",
+    "meaning": { "ko": "효율적인", "en": "working well without waste", "ja": "効率的な", "zh": "高效的，有效率的", "es": "eficiente", "vi": "hiệu quả, năng suất" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'시간, 돈, 에너지를 낭비하지 않고 잘 작동하는'은 efficient(효율적인)의 뜻입니다. generous는 '너그러운', ordinary는 '평범한', flexible은 '유연한'이라는 뜻입니다.",
+      "en": "Working well without wasting time, money or energy is the meaning of 'efficient'. 'Generous' means happy to give, 'ordinary' means normal and not special, and 'flexible' means able to change easily.",
+      "ja": "「時間やお金、エネルギーを無駄にせずにうまく働く」は efficient（効率的な）の意味です。generous は「気前のよい」、ordinary は「普通の」、flexible は「柔軟な」という意味です。",
+      "zh": "“不浪费时间、金钱或精力而运转良好”是 efficient（高效的）的意思。generous 意为“慷慨的”，ordinary 意为“普通的”，flexible 意为“灵活的”。",
+      "es": "Funcionar bien sin perder tiempo, dinero ni energía es el significado de «efficient» (eficiente). «Generous» significa generoso, «ordinary» significa normal y «flexible» significa flexible.",
+      "vi": "Làm việc tốt mà không lãng phí thời gian, tiền bạc hay năng lượng là nghĩa của 'efficient' (hiệu quả). 'Generous' là hào phóng, 'ordinary' là bình thường, 'flexible' là linh hoạt."
+    }
+  },
+  {
+    "id": "vocab-L3-0013",
+    "category": "vocab",
+    "level": "L3",
+    "format": "synonym",
+    "question": "Which word means the OPPOSITE of \"permanent\"?",
+    "choices": ["temporary", "stable", "constant", "expensive"],
+    "answerIndex": 0,
+    "word": "temporary",
+    "meaning": { "ko": "일시적인, 임시의", "en": "lasting only for a short time", "ja": "一時的な、臨時の", "zh": "暂时的，临时的", "es": "temporal", "vi": "tạm thời" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "permanent는 '영구적인, 오래 계속되는'이라는 뜻이므로 반대말은 temporary(일시적인)입니다. stable(안정된)과 constant(변함없는)는 비슷한 쪽의 뜻이고, expensive(비싼)는 관계없는 단어입니다.",
+      "en": "'Permanent' means lasting for a very long time, so its opposite is 'temporary'. 'Stable' (not changing) and 'constant' (always the same) are close in meaning to 'permanent', and 'expensive' is not related.",
+      "ja": "permanent は「永久的な、ずっと続く」という意味なので、反対語は temporary（一時的な）です。stable（安定した）と constant（一定の）は似た方向の意味で、expensive（高価な）は関係ありません。",
+      "zh": "permanent 意为“永久的，长期的”，所以反义词是 temporary（暂时的）。stable（稳定的）和 constant（不变的）意思相近，expensive（昂贵的）与此无关。",
+      "es": "«Permanent» significa que dura mucho tiempo, así que su opuesto es «temporary» (temporal). «Stable» (estable) y «constant» (constante) tienen un sentido parecido, y «expensive» (caro) no tiene relación.",
+      "vi": "'Permanent' nghĩa là lâu dài, vĩnh viễn, nên từ trái nghĩa là 'temporary' (tạm thời). 'Stable' (ổn định) và 'constant' (không đổi) có nghĩa gần giống, còn 'expensive' (đắt) không liên quan."
+    }
+  },
+  {
+    "id": "vocab-L3-0014",
+    "category": "vocab",
+    "level": "L3",
+    "format": "blank",
+    "question": "This job ___ at least two years of experience in sales.",
+    "choices": ["refuses", "requires", "allows", "complains"],
+    "answerIndex": 1,
+    "word": "requires",
+    "meaning": { "ko": "필요로 하다, 요구하다 (require)", "en": "needs (require: to need something)", "ja": "必要とする、要求する（require）", "zh": "需要，要求（require）", "es": "requiere, exige (require)", "vi": "đòi hỏi, yêu cầu (require)" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "이 일을 하려면 2년 이상의 경력이 '필요하다'는 뜻이므로 requires(필요로 하다)가 정답입니다. refuses(거절하다), allows(허락하다), complains(불평하다)는 일자리의 조건을 말하는 데 쓰지 않습니다.",
+      "en": "The sentence describes what you need for the job, so 'requires' (needs) is correct. 'Refuses' means says no, 'allows' means lets something happen, and 'complains' means says you are unhappy, so they do not describe job conditions.",
+      "ja": "この仕事には2年以上の経験が「必要だ」という意味なので、requires（必要とする）が正解です。refuses（断る）、allows（許す）、complains（不満を言う）は仕事の条件を表すのに使いません。",
+      "zh": "句子说的是这份工作“需要”至少两年经验，所以 requires（需要）是正确答案。refuses（拒绝）、allows（允许）、complains（抱怨）都不用来说明工作条件。",
+      "es": "La frase explica lo que se necesita para el trabajo, así que «requires» (requiere) es correcto. «Refuses» significa rechaza, «allows» significa permite y «complains» significa se queja, así que no describen requisitos.",
+      "vi": "Câu nói công việc này cần ít nhất hai năm kinh nghiệm, nên 'requires' (đòi hỏi) là đáp án đúng. 'Refuses' là từ chối, 'allows' là cho phép, 'complains' là phàn nàn, nên không dùng để nói về yêu cầu công việc."
+    }
+  },
+  {
+    "id": "vocab-L3-0015",
+    "category": "vocab",
+    "level": "L3",
+    "format": "definition",
+    "question": "damage to the air, water or land caused by harmful substances",
+    "choices": ["recycling", "climate", "resource", "pollution"],
+    "answerIndex": 3,
+    "word": "pollution",
+    "meaning": { "ko": "오염", "en": "making air, water or land dirty", "ja": "汚染、公害", "zh": "污染", "es": "contaminación", "vi": "sự ô nhiễm" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'해로운 물질 때문에 공기, 물, 땅이 손상되는 것'은 pollution(오염)입니다. recycling은 '재활용', climate는 '기후', resource는 '자원'이라는 뜻입니다.",
+      "en": "Damage to the air, water or land from harmful things is 'pollution'. 'Recycling' means using old things again, 'climate' is the usual weather of a place, and a 'resource' is something useful like water or oil.",
+      "ja": "「有害な物質によって空気・水・土地が傷つくこと」は pollution（汚染）です。recycling は「リサイクル」、climate は「気候」、resource は「資源」という意味です。",
+      "zh": "“有害物质对空气、水或土地造成的损害”是 pollution（污染）。recycling 意为“回收利用”，climate 意为“气候”，resource 意为“资源”。",
+      "es": "El daño al aire, al agua o a la tierra causado por sustancias dañinas es «pollution» (contaminación). «Recycling» significa reciclaje, «climate» significa clima y «resource» significa recurso.",
+      "vi": "Sự hủy hoại không khí, nước hoặc đất do các chất độc hại là 'pollution' (ô nhiễm). 'Recycling' là tái chế, 'climate' là khí hậu, 'resource' là tài nguyên."
+    }
+  },
+  {
+    "id": "vocab-L3-0016",
+    "category": "vocab",
+    "level": "L3",
+    "format": "synonym",
+    "question": "Which word means the SAME as \"purchase\"?",
+    "choices": ["sell", "buy", "return", "rent"],
+    "answerIndex": 1,
+    "word": "buy",
+    "meaning": { "ko": "사다, 구입하다", "en": "to get something by paying money", "ja": "買う", "zh": "买，购买", "es": "comprar", "vi": "mua" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "purchase는 '구입하다'라는 뜻으로 buy(사다)와 같습니다. sell(팔다)은 반대말이고, return(반품하다)과 rent(빌리다, 임대하다)는 뜻이 다릅니다.",
+      "en": "'Purchase' is a more formal word for 'buy'. 'Sell' is the opposite, 'return' means to give something back to the shop, and 'rent' means to pay to use something for a time.",
+      "ja": "purchase は「購入する」という意味で、buy（買う）と同じです。sell（売る）は反対語で、return（返品する）と rent（お金を払って借りる）は意味が違います。",
+      "zh": "purchase 意为“购买”，和 buy（买）意思相同。sell（卖）是反义词，return（退货）和 rent（租用）意思不同。",
+      "es": "«Purchase» es una forma más formal de decir «buy» (comprar). «Sell» (vender) es lo contrario, «return» significa devolver algo a la tienda y «rent» significa alquilar.",
+      "vi": "'Purchase' là cách nói trang trọng hơn của 'buy' (mua). 'Sell' (bán) là từ trái nghĩa, 'return' là trả lại hàng, còn 'rent' là thuê."
+    }
+  },
+  {
+    "id": "vocab-L3-0017",
+    "category": "vocab",
+    "level": "L3",
+    "format": "blank",
+    "question": "We had to ___ the meeting until next week because the manager was sick.",
+    "choices": ["give up", "find out", "put off", "take part"],
+    "answerIndex": 2,
+    "word": "put off",
+    "meaning": { "ko": "미루다, 연기하다", "en": "to move something to a later time", "ja": "延期する、先に延ばす", "zh": "推迟，延期", "es": "aplazar, posponer", "vi": "hoãn lại" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'다음 주까지' 회의를 '미뤄야 했다'는 뜻이므로 put off(연기하다)가 정답입니다. give up(포기하다), find out(알아내다)은 until next week와 뜻이 맞지 않고, take part는 in과 함께 '참가하다'로 씁니다.",
+      "en": "'Until next week' shows the meeting was moved to a later time, so 'put off' (delay) is correct. 'Give up' means to stop trying and 'find out' means to learn a fact, and 'take part' needs 'in' and means to join an activity.",
+      "ja": "「来週まで」会議を「延期しなければならなかった」という意味なので、put off（延期する）が正解です。give up（あきらめる）と find out（知る）は until next week と合わず、take part は in と一緒に「参加する」の意味で使います。",
+      "zh": "句子说会议要推到“下周”，所以 put off（推迟）是正确答案。give up（放弃）和 find out（查明）与 until next week 不搭配，take part 要和 in 连用，意为“参加”。",
+      "es": "«Until next week» (hasta la semana que viene) indica que la reunión se movió a más tarde, así que «put off» (aplazar) es correcto. «Give up» significa rendirse, «find out» significa averiguar, y «take part» necesita «in» y significa participar.",
+      "vi": "'Until next week' (đến tuần sau) cho thấy cuộc họp bị dời lại, nên 'put off' (hoãn lại) là đáp án đúng. 'Give up' là bỏ cuộc, 'find out' là tìm ra, còn 'take part' phải đi với 'in' và nghĩa là tham gia."
+    }
+  },
+  {
+    "id": "vocab-L3-0018",
+    "category": "vocab",
+    "level": "L3",
+    "format": "definition",
+    "question": "a person who works with you in the same company or organization",
+    "choices": ["neighbor", "colleague", "customer", "relative"],
+    "answerIndex": 1,
+    "word": "colleague",
+    "meaning": { "ko": "동료", "en": "a person you work with", "ja": "同僚", "zh": "同事", "es": "colega, compañero de trabajo", "vi": "đồng nghiệp" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'같은 회사나 조직에서 함께 일하는 사람'은 colleague(동료)입니다. neighbor는 '이웃', customer는 '손님, 고객', relative는 '친척'이라는 뜻입니다.",
+      "en": "A person who works with you in the same company is a 'colleague'. A 'neighbor' lives near you, a 'customer' buys things from a shop or business, and a 'relative' is a member of your family.",
+      "ja": "「同じ会社や組織で一緒に働く人」は colleague（同僚）です。neighbor は「隣人」、customer は「客、顧客」、relative は「親戚」という意味です。",
+      "zh": "“在同一公司或组织里和你一起工作的人”是 colleague（同事）。neighbor 意为“邻居”，customer 意为“顾客”，relative 意为“亲戚”。",
+      "es": "Una persona que trabaja contigo en la misma empresa es un «colleague» (colega). «Neighbor» significa vecino, «customer» significa cliente y «relative» significa pariente.",
+      "vi": "Người làm việc cùng bạn trong cùng công ty hoặc tổ chức là 'colleague' (đồng nghiệp). 'Neighbor' là hàng xóm, 'customer' là khách hàng, 'relative' là họ hàng."
+    }
+  },
+  {
+    "id": "vocab-L3-0019",
+    "category": "vocab",
+    "level": "L3",
+    "format": "synonym",
+    "question": "Which word means the OPPOSITE of \"polite\"?",
+    "choices": ["kind", "honest", "calm", "rude"],
+    "answerIndex": 3,
+    "word": "rude",
+    "meaning": { "ko": "무례한", "en": "not polite", "ja": "失礼な、無礼な", "zh": "粗鲁的，无礼的", "es": "maleducado, grosero", "vi": "thô lỗ, bất lịch sự" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "polite는 '예의 바른'이라는 뜻이므로 반대말은 rude(무례한)입니다. kind(친절한), honest(정직한), calm(침착한)은 모두 좋은 성격을 나타내는 말로 반대말이 아닙니다.",
+      "en": "'Polite' means showing good manners, so its opposite is 'rude'. 'Kind', 'honest' and 'calm' all describe good qualities, so they are not opposites of 'polite'.",
+      "ja": "polite は「礼儀正しい」という意味なので、反対語は rude（失礼な）です。kind（親切な）、honest（正直な）、calm（落ち着いた）はどれもよい性格を表す言葉で、反対語ではありません。",
+      "zh": "polite 意为“有礼貌的”，所以反义词是 rude（无礼的）。kind（友善的）、honest（诚实的）、calm（冷静的）都是描述好品质的词，不是反义词。",
+      "es": "«Polite» significa educado, así que su opuesto es «rude» (maleducado). «Kind» (amable), «honest» (honesto) y «calm» (tranquilo) describen buenas cualidades, así que no son opuestos.",
+      "vi": "'Polite' nghĩa là lịch sự, nên từ trái nghĩa là 'rude' (thô lỗ). 'Kind' (tốt bụng), 'honest' (trung thực) và 'calm' (bình tĩnh) đều chỉ tính cách tốt, không phải từ trái nghĩa."
+    }
+  },
+  {
+    "id": "vocab-L3-0020",
+    "category": "vocab",
+    "level": "L3",
+    "format": "blank",
+    "question": "More than 200 students ___ part in the science competition last year.",
+    "choices": ["took", "made", "did", "had"],
+    "answerIndex": 0,
+    "word": "took",
+    "meaning": { "ko": "(take part in) 참가했다", "en": "past of 'take'; 'take part in' means to join an activity", "ja": "（take part in で）参加した", "zh": "（take part in）参加了", "es": "(take part in) participaron", "vi": "(take part in) đã tham gia" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'~에 참가하다'는 take part in이라는 정해진 표현이고, last year가 있으므로 과거형 took이 정답입니다. made, did, had는 part in과 함께 '참가하다'라는 뜻을 만들지 못합니다.",
+      "en": "'Take part in' is a fixed phrase that means to join an activity, and 'last year' needs the past form 'took'. 'Made', 'did' and 'had' do not form this meaning with 'part in'.",
+      "ja": "「～に参加する」は take part in という決まった表現で、last year があるので過去形の took が正解です。made、did、had は part in と一緒に「参加する」という意味になりません。",
+      "zh": "“参加”是固定短语 take part in，句中有 last year，所以用过去式 took。made、did、had 和 part in 搭配不能表示“参加”。",
+      "es": "«Take part in» es una expresión fija que significa participar, y «last year» pide el pasado «took». «Made», «did» y «had» no forman este significado con «part in».",
+      "vi": "'Take part in' là cụm cố định nghĩa là tham gia, và 'last year' cần dạng quá khứ 'took'. 'Made', 'did' và 'had' không tạo được nghĩa này khi đi với 'part in'."
+    }
+  },
+  {
+    "id": "vocab-L3-0021",
+    "category": "vocab",
+    "level": "L3",
+    "format": "blank",
+    "question": "She has ___ great progress since she started her new course.",
+    "choices": ["done", "taken", "made", "given"],
+    "answerIndex": 2,
+    "word": "made",
+    "meaning": { "ko": "(make progress) 진전을 이루었다", "en": "past participle of 'make'; 'make progress' means to get better", "ja": "（make progress で）進歩した", "zh": "（make progress）取得了进步", "es": "(make progress) ha progresado", "vi": "(make progress) đã tiến bộ" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'진전을 이루다, 발전하다'는 make progress라는 정해진 표현이고, has 뒤에는 과거분사 made를 씁니다. done, taken, given은 progress와 함께 이 뜻으로 쓰지 않습니다.",
+      "en": "'Make progress' is a fixed collocation that means to get better at something, and after 'has' we use the past participle 'made'. We do not say 'do progress', 'take progress' or 'give progress' with this meaning.",
+      "ja": "「進歩する」は make progress という決まった表現で、has の後には過去分詞の made を使います。done、taken、given は progress とこの意味では使いません。",
+      "zh": "“取得进步”是固定搭配 make progress，has 后面要用过去分词 made。done、taken、given 都不能和 progress 搭配表示这个意思。",
+      "es": "«Make progress» (progresar) es una combinación fija, y después de «has» se usa el participio «made». No se dice «do progress», «take progress» ni «give progress» con este sentido.",
+      "vi": "'Make progress' (tiến bộ) là cụm từ cố định, và sau 'has' ta dùng quá khứ phân từ 'made'. Ta không nói 'do progress', 'take progress' hay 'give progress' với nghĩa này."
+    }
+  },
+  {
+    "id": "vocab-L3-0022",
+    "category": "vocab",
+    "level": "L3",
+    "format": "definition",
+    "question": "a picture, short film or piece of text that tries to persuade people to buy something",
+    "choices": ["headline", "interview", "documentary", "advertisement"],
+    "answerIndex": 3,
+    "word": "advertisement",
+    "meaning": { "ko": "광고", "en": "something that tells people to buy a product", "ja": "広告", "zh": "广告", "es": "anuncio", "vi": "quảng cáo" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'사람들이 무언가를 사도록 설득하는 그림, 짧은 영상, 글'은 advertisement(광고)입니다. headline은 '신문 기사의 제목', interview는 '인터뷰, 면접', documentary는 '다큐멘터리'라는 뜻입니다.",
+      "en": "Something that tries to make people buy a product is an 'advertisement'. A 'headline' is the title of a news story, an 'interview' is a meeting where someone answers questions, and a 'documentary' is a film about real facts.",
+      "ja": "「人に何かを買わせようとする絵や短い映像、文章」は advertisement（広告）です。headline は「（新聞記事の）見出し」、interview は「インタビュー、面接」、documentary は「ドキュメンタリー」という意味です。",
+      "zh": "“劝说人们购买东西的图片、短片或文字”是 advertisement（广告）。headline 意为“新闻标题”，interview 意为“采访，面试”，documentary 意为“纪录片”。",
+      "es": "Una imagen, un vídeo corto o un texto que intenta convencer a la gente de comprar algo es un «advertisement» (anuncio). «Headline» significa titular, «interview» significa entrevista y «documentary» significa documental.",
+      "vi": "Hình ảnh, đoạn phim ngắn hoặc bài viết nhằm thuyết phục mọi người mua hàng là 'advertisement' (quảng cáo). 'Headline' là tiêu đề bài báo, 'interview' là phỏng vấn, 'documentary' là phim tài liệu."
+    }
+  },
+  {
+    "id": "vocab-L3-0023",
+    "category": "vocab",
+    "level": "L3",
+    "format": "synonym",
+    "question": "Which word means the SAME as \"complicated\"?",
+    "choices": ["simple", "complex", "popular", "honest"],
+    "answerIndex": 1,
+    "word": "complex",
+    "meaning": { "ko": "복잡한", "en": "having many parts and hard to understand", "ja": "複雑な", "zh": "复杂的", "es": "complejo", "vi": "phức tạp" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "complicated는 '복잡한'이라는 뜻으로 complex와 같습니다. simple(간단한)은 반대말이고, popular(인기 있는)와 honest(정직한)는 뜻이 다릅니다.",
+      "en": "'Complicated' means having many parts and being hard to understand, which is the same as 'complex'. 'Simple' is the opposite, and 'popular' (liked by many people) and 'honest' (telling the truth) have different meanings.",
+      "ja": "complicated は「複雑な」という意味で、complex と同じです。simple（簡単な）は反対語で、popular（人気のある）と honest（正直な）は意味が違います。",
+      "zh": "complicated 意为“复杂的”，和 complex 意思相同。simple（简单的）是反义词，popular（受欢迎的）和 honest（诚实的）意思不同。",
+      "es": "«Complicated» significa complicado, igual que «complex» (complejo). «Simple» (sencillo) es lo contrario, y «popular» (popular) y «honest» (honesto) significan otra cosa.",
+      "vi": "'Complicated' nghĩa là phức tạp, giống với 'complex'. 'Simple' (đơn giản) là từ trái nghĩa, còn 'popular' (phổ biến) và 'honest' (trung thực) có nghĩa khác."
+    }
+  },
+  {
+    "id": "vocab-L3-0024",
+    "category": "vocab",
+    "level": "L3",
+    "format": "blank",
+    "question": "You can ___ the app for free from the company's website.",
+    "choices": ["download", "attend", "invent", "arrive"],
+    "answerIndex": 0,
+    "word": "download",
+    "meaning": { "ko": "내려받다, 다운로드하다", "en": "to copy a file or program from the internet to your device", "ja": "ダウンロードする", "zh": "下载", "es": "descargar", "vi": "tải xuống" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "웹사이트에서 앱을 무료로 '내려받을' 수 있다는 뜻이므로 download가 정답입니다. attend(참석하다), invent(발명하다), arrive(도착하다)는 앱과 웹사이트에 대한 문장과 맞지 않습니다.",
+      "en": "You get an app from a website by copying it to your device, so 'download' is correct. 'Attend' means to go to an event, 'invent' means to make something new for the first time, and 'arrive' means to reach a place, so they do not fit.",
+      "ja": "ウェブサイトからアプリを無料で「ダウンロードできる」という意味なので、download が正解です。attend（出席する）、invent（発明する）、arrive（到着する）はアプリとウェブサイトの文に合いません。",
+      "zh": "句意是可以从网站免费“下载”应用，所以 download 是正确答案。attend（出席）、invent（发明）、arrive（到达）都不符合句意。",
+      "es": "Una aplicación se obtiene de una web copiándola a tu dispositivo, así que «download» (descargar) es correcto. «Attend» significa asistir, «invent» significa inventar y «arrive» significa llegar, así que no encajan.",
+      "vi": "Ta lấy ứng dụng từ trang web bằng cách tải về máy, nên 'download' (tải xuống) là đáp án đúng. 'Attend' là tham dự, 'invent' là phát minh, 'arrive' là đến nơi, nên không hợp nghĩa."
+    }
+  },
+  {
+    "id": "vocab-L3-0025",
+    "category": "vocab",
+    "level": "L3",
+    "format": "definition",
+    "question": "to speak angrily to someone because you disagree with them",
+    "choices": ["whisper", "apologize", "argue", "suggest"],
+    "answerIndex": 2,
+    "word": "argue",
+    "meaning": { "ko": "말다툼하다, 언쟁하다", "en": "to disagree and talk angrily", "ja": "言い争う、口論する", "zh": "争吵，争论", "es": "discutir", "vi": "cãi nhau, tranh cãi" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'의견이 달라서 화를 내며 말하다'는 argue(말다툼하다)의 뜻입니다. whisper는 '속삭이다', apologize는 '사과하다', suggest는 '제안하다'라는 뜻입니다.",
+      "en": "Speaking angrily because you disagree with someone is 'argue'. 'Whisper' means to speak very quietly, 'apologize' means to say sorry, and 'suggest' means to give an idea.",
+      "ja": "「意見が違うので怒って話す」は argue（言い争う）の意味です。whisper は「ささやく」、apologize は「謝る」、suggest は「提案する」という意味です。",
+      "zh": "“因为意见不同而生气地说话”是 argue（争吵）的意思。whisper 意为“低声说”，apologize 意为“道歉”，suggest 意为“建议”。",
+      "es": "Hablar con enfado porque no estás de acuerdo con alguien es «argue» (discutir). «Whisper» significa susurrar, «apologize» significa pedir perdón y «suggest» significa sugerir.",
+      "vi": "Nói chuyện một cách giận dữ vì không đồng ý với ai đó là 'argue' (cãi nhau). 'Whisper' là thì thầm, 'apologize' là xin lỗi, 'suggest' là gợi ý."
+    }
+  },
+  {
+    "id": "vocab-L3-0026",
+    "category": "vocab",
+    "level": "L3",
+    "format": "synonym",
+    "question": "Which word means the OPPOSITE of \"accept\"?",
+    "choices": ["receive", "refuse", "agree", "allow"],
+    "answerIndex": 1,
+    "word": "refuse",
+    "meaning": { "ko": "거절하다, 거부하다", "en": "to say no to something", "ja": "断る、拒否する", "zh": "拒绝", "es": "rechazar, negarse", "vi": "từ chối" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "accept는 '받아들이다'라는 뜻이므로 반대말은 refuse(거절하다)입니다. receive(받다), agree(동의하다), allow(허락하다)는 모두 비슷한 쪽의 뜻이라 반대말이 아닙니다.",
+      "en": "'Accept' means to say yes to something, so its opposite is 'refuse'. 'Receive' (get), 'agree' (have the same opinion) and 'allow' (let) are close to 'accept', not opposite.",
+      "ja": "accept は「受け入れる」という意味なので、反対語は refuse（断る）です。receive（受け取る）、agree（同意する）、allow（許す）はどれも似た方向の意味で、反対語ではありません。",
+      "zh": "accept 意为“接受”，所以反义词是 refuse（拒绝）。receive（收到）、agree（同意）、allow（允许）意思都偏向相近，不是反义词。",
+      "es": "«Accept» significa aceptar, así que su opuesto es «refuse» (rechazar). «Receive» (recibir), «agree» (estar de acuerdo) y «allow» (permitir) tienen un sentido parecido, no opuesto.",
+      "vi": "'Accept' nghĩa là chấp nhận, nên từ trái nghĩa là 'refuse' (từ chối). 'Receive' (nhận), 'agree' (đồng ý) và 'allow' (cho phép) có nghĩa gần giống, không phải trái nghĩa."
+    }
+  },
+  {
+    "id": "vocab-L3-0027",
+    "category": "vocab",
+    "level": "L3",
+    "format": "blank",
+    "question": "We should use less plastic and recycle more to protect the ___.",
+    "choices": ["pollution", "garbage", "environment", "traffic"],
+    "answerIndex": 2,
+    "word": "environment",
+    "meaning": { "ko": "환경", "en": "the natural world of air, land, water, plants and animals", "ja": "環境", "zh": "环境", "es": "medio ambiente", "vi": "môi trường" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "플라스틱을 줄이고 재활용하는 것은 '환경'을 지키기 위해서이므로 environment(환경)가 정답입니다. pollution(오염), garbage(쓰레기), traffic(교통)은 보호해야 할 대상이 아닙니다.",
+      "en": "Using less plastic and recycling help to protect nature, so 'environment' is correct. 'Pollution' (dirty air or water), 'garbage' (waste) and 'traffic' (cars on the road) are not things we want to protect.",
+      "ja": "プラスチックを減らしてリサイクルするのは「環境」を守るためなので、environment（環境）が正解です。pollution（汚染）、garbage（ごみ）、traffic（交通）は守るべきものではありません。",
+      "zh": "少用塑料、多回收是为了保护“环境”，所以 environment（环境）是正确答案。pollution（污染）、garbage（垃圾）、traffic（交通）都不是需要保护的东西。",
+      "es": "Usar menos plástico y reciclar sirve para proteger la naturaleza, así que «environment» (medio ambiente) es correcto. «Pollution» (contaminación), «garbage» (basura) y «traffic» (tráfico) no son cosas que queramos proteger.",
+      "vi": "Dùng ít nhựa và tái chế nhiều hơn là để bảo vệ thiên nhiên, nên 'environment' (môi trường) là đáp án đúng. 'Pollution' (ô nhiễm), 'garbage' (rác) và 'traffic' (giao thông) không phải là thứ cần bảo vệ."
+    }
+  },
+  {
+    "id": "vocab-L3-0028",
+    "category": "vocab",
+    "level": "L3",
+    "format": "definition",
+    "question": "able to wait calmly for a long time without becoming angry",
+    "choices": ["nervous", "lazy", "proud", "patient"],
+    "answerIndex": 3,
+    "word": "patient",
+    "meaning": { "ko": "참을성 있는, 인내심 있는", "en": "able to wait calmly", "ja": "忍耐強い、我慢強い", "zh": "有耐心的", "es": "paciente", "vi": "kiên nhẫn" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'화내지 않고 오랫동안 침착하게 기다릴 수 있는'은 patient(참을성 있는)의 뜻입니다. nervous는 '긴장한', lazy는 '게으른', proud는 '자랑스러운'이라는 뜻입니다.",
+      "en": "Being able to wait calmly without getting angry is the meaning of 'patient'. 'Nervous' means worried or afraid, 'lazy' means not wanting to work, and 'proud' means pleased about something you did.",
+      "ja": "「怒らずに長い間落ち着いて待てる」は patient（忍耐強い）の意味です。nervous は「緊張した」、lazy は「怠け者の」、proud は「誇りに思う」という意味です。",
+      "zh": "“能够长时间平静地等待而不生气”是 patient（有耐心的）的意思。nervous 意为“紧张的”，lazy 意为“懒惰的”，proud 意为“自豪的”。",
+      "es": "Poder esperar con calma sin enfadarse es el significado de «patient» (paciente). «Nervous» significa nervioso, «lazy» significa perezoso y «proud» significa orgulloso.",
+      "vi": "Có thể bình tĩnh chờ đợi lâu mà không tức giận là nghĩa của 'patient' (kiên nhẫn). 'Nervous' là lo lắng, 'lazy' là lười biếng, 'proud' là tự hào."
+    }
+  },
+  {
+    "id": "vocab-L3-0029",
+    "category": "vocab",
+    "level": "L3",
+    "format": "synonym",
+    "question": "Which word means the SAME as \"rapidly\"?",
+    "choices": ["quickly", "slowly", "quietly", "carefully"],
+    "answerIndex": 0,
+    "word": "quickly",
+    "meaning": { "ko": "빨리, 빠르게", "en": "at a fast speed", "ja": "速く、すばやく", "zh": "快速地", "es": "rápidamente", "vi": "nhanh chóng" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "rapidly는 '빠르게'라는 뜻으로 quickly와 같습니다. slowly(느리게)는 반대말이고, quietly(조용히)와 carefully(조심스럽게)는 속도와 관계없는 말입니다.",
+      "en": "'Rapidly' means at a fast speed, the same as 'quickly'. 'Slowly' is the opposite, and 'quietly' (without noise) and 'carefully' (with care) are not about speed.",
+      "ja": "rapidly は「速く」という意味で、quickly と同じです。slowly（ゆっくり）は反対語で、quietly（静かに）と carefully（注意深く）は速さとは関係ありません。",
+      "zh": "rapidly 意为“快速地”，和 quickly 意思相同。slowly（慢慢地）是反义词，quietly（安静地）和 carefully（小心地）与速度无关。",
+      "es": "«Rapidly» significa rápidamente, igual que «quickly». «Slowly» (despacio) es lo contrario, y «quietly» (en silencio) y «carefully» (con cuidado) no hablan de la velocidad.",
+      "vi": "'Rapidly' nghĩa là nhanh, giống với 'quickly'. 'Slowly' (chậm) là từ trái nghĩa, còn 'quietly' (lặng lẽ) và 'carefully' (cẩn thận) không nói về tốc độ."
+    }
+  },
+  {
+    "id": "vocab-L3-0030",
+    "category": "vocab",
+    "level": "L3",
+    "format": "blank",
+    "question": "My sister and I have a very close ___, so we tell each other everything.",
+    "choices": ["conversation", "competition", "information", "relationship"],
+    "answerIndex": 3,
+    "word": "relationship",
+    "meaning": { "ko": "관계, 사이", "en": "the way two or more people feel about and behave toward each other", "ja": "関係、間柄", "zh": "关系", "es": "relación", "vi": "mối quan hệ" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "서로 모든 것을 이야기할 만큼 '가까운 사이'라는 뜻이므로 relationship(관계)이 정답입니다. conversation(대화), competition(대회, 경쟁), information(정보)은 have a close ~의 형태로 이런 뜻을 만들지 못합니다.",
+      "en": "Two sisters who tell each other everything have a close 'relationship'. 'Conversation' (a talk), 'competition' (a contest) and 'information' (facts) do not make sense in 'have a very close ___'.",
+      "ja": "お互いに何でも話すほど「親しい間柄」という意味なので、relationship（関係）が正解です。conversation（会話）、competition（競争、大会）、information（情報）は have a close ～ の形でこの意味になりません。",
+      "zh": "姐妹之间什么都说，说明她们“关系”很亲密，所以 relationship（关系）是正确答案。conversation（对话）、competition（比赛）、information（信息）放进 have a very close ___ 都说不通。",
+      "es": "Dos hermanas que se lo cuentan todo tienen una «relationship» (relación) muy cercana. «Conversation» (conversación), «competition» (competición) e «information» (información) no tienen sentido en «have a very close ___».",
+      "vi": "Hai chị em kể cho nhau mọi chuyện nghĩa là có 'relationship' (mối quan hệ) rất thân thiết. 'Conversation' (cuộc trò chuyện), 'competition' (cuộc thi) và 'information' (thông tin) không hợp nghĩa trong 'have a very close ___'."
+    }
+  },
+  {
+    "id": "vocab-L3-0031",
+    "category": "vocab",
+    "level": "L3",
+    "format": "blank",
+    "question": "Can you ___ a good book for me to read on my holiday?",
+    "choices": ["remind", "repair", "recommend", "arrange"],
+    "answerIndex": 2,
+    "word": "recommend",
+    "meaning": { "ko": "추천하다", "en": "to say that something is good and someone should try it", "ja": "勧める、推薦する", "zh": "推荐", "es": "recomendar", "vi": "giới thiệu, gợi ý" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "휴가 때 읽을 좋은 책을 '추천해 줄 수 있니?'라는 뜻이므로 recommend(추천하다)가 정답입니다. remind(상기시키다), repair(수리하다), arrange(준비하다, 정리하다)는 책을 골라 주는 뜻이 아닙니다.",
+      "en": "The speaker wants someone to suggest a good book, so 'recommend' is correct. 'Remind' means to help someone remember, 'repair' means to fix, and 'arrange' means to plan or put in order, so they do not fit.",
+      "ja": "休暇に読むよい本を「勧めてくれる？」という意味なので、recommend（勧める）が正解です。remind（思い出させる）、repair（修理する）、arrange（手配する、並べる）は本を選んであげるという意味ではありません。",
+      "zh": "句意是“你能给我推荐一本假期读的好书吗？”，所以 recommend（推荐）是正确答案。remind（提醒）、repair（修理）、arrange（安排，整理）都没有“推荐”的意思。",
+      "es": "La persona quiere que alguien le sugiera un buen libro, así que «recommend» (recomendar) es correcto. «Remind» significa recordar algo a alguien, «repair» significa reparar y «arrange» significa organizar, así que no encajan.",
+      "vi": "Người nói muốn được gợi ý một cuốn sách hay, nên 'recommend' (giới thiệu) là đáp án đúng. 'Remind' là nhắc nhở, 'repair' là sửa chữa, 'arrange' là sắp xếp, nên không hợp nghĩa."
+    }
+  },
+  {
+    "id": "vocab-L3-0032",
+    "category": "vocab",
+    "level": "L3",
+    "format": "definition",
+    "question": "the time or date by which you must finish a piece of work",
+    "choices": ["deadline", "schedule", "holiday", "weekend"],
+    "answerIndex": 0,
+    "word": "deadline",
+    "meaning": { "ko": "마감 기한", "en": "the last time or date to finish something", "ja": "締め切り", "zh": "截止日期", "es": "fecha límite, plazo", "vi": "hạn chót" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'일을 끝내야 하는 시간이나 날짜'는 deadline(마감 기한)입니다. schedule은 '일정표', holiday는 '휴일, 휴가', weekend는 '주말'이라는 뜻입니다.",
+      "en": "The time or date when you must finish your work is a 'deadline'. A 'schedule' is a plan of what you will do and when, a 'holiday' is a time of rest, and the 'weekend' is Saturday and Sunday.",
+      "ja": "「仕事を終えなければならない時間や日付」は deadline（締め切り）です。schedule は「予定表」、holiday は「休日、休暇」、weekend は「週末」という意味です。",
+      "zh": "“必须完成工作的时间或日期”是 deadline（截止日期）。schedule 意为“日程表”，holiday 意为“假期”，weekend 意为“周末”。",
+      "es": "La hora o la fecha en la que debes terminar un trabajo es una «deadline» (fecha límite). «Schedule» significa horario o agenda, «holiday» significa vacaciones y «weekend» significa fin de semana.",
+      "vi": "Thời gian hoặc ngày mà bạn phải hoàn thành công việc là 'deadline' (hạn chót). 'Schedule' là lịch trình, 'holiday' là kỳ nghỉ, 'weekend' là cuối tuần."
+    }
+  },
+  {
+    "id": "vocab-L3-0033",
+    "category": "vocab",
+    "level": "L3",
+    "format": "synonym",
+    "question": "Which word means the OPPOSITE of \"generous\"?",
+    "choices": ["kind", "selfish", "honest", "brave"],
+    "answerIndex": 1,
+    "word": "selfish",
+    "meaning": { "ko": "이기적인", "en": "caring only about yourself", "ja": "自分勝手な、利己的な", "zh": "自私的", "es": "egoísta", "vi": "ích kỷ" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "generous는 '남에게 잘 베푸는, 너그러운'이라는 뜻이므로 반대말은 selfish(이기적인)입니다. kind(친절한)는 비슷한 뜻이고, honest(정직한)와 brave(용감한)는 반대말이 아닙니다.",
+      "en": "'Generous' means happy to give things to others, so its opposite is 'selfish' (caring only about yourself). 'Kind' has a similar meaning, and 'honest' and 'brave' are not opposites of 'generous'.",
+      "ja": "generous は「人に惜しみなく与える、気前のよい」という意味なので、反対語は selfish（自分勝手な）です。kind（親切な）は似た意味で、honest（正直な）と brave（勇敢な）は反対語ではありません。",
+      "zh": "generous 意为“慷慨的，乐于给予的”，所以反义词是 selfish（自私的）。kind（友善的）意思相近，honest（诚实的）和 brave（勇敢的）都不是反义词。",
+      "es": "«Generous» significa que te gusta dar a los demás, así que su opuesto es «selfish» (egoísta). «Kind» (amable) tiene un sentido parecido, y «honest» (honesto) y «brave» (valiente) no son opuestos.",
+      "vi": "'Generous' nghĩa là hào phóng, sẵn lòng cho người khác, nên từ trái nghĩa là 'selfish' (ích kỷ). 'Kind' (tốt bụng) có nghĩa gần giống, còn 'honest' (trung thực) và 'brave' (dũng cảm) không phải từ trái nghĩa."
+    }
+  },
+  {
+    "id": "vocab-L3-0034",
+    "category": "vocab",
+    "level": "L3",
+    "format": "blank",
+    "question": "The company is looking for an ___ engineer who has already worked on several large projects.",
+    "choices": ["empty", "expensive", "angry", "experienced"],
+    "answerIndex": 3,
+    "word": "experienced",
+    "meaning": { "ko": "경험이 많은, 숙련된", "en": "having skill and knowledge from doing something for a long time", "ja": "経験豊富な、熟練した", "zh": "有经验的", "es": "con experiencia, experimentado", "vi": "có kinh nghiệm" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'이미 큰 프로젝트를 여러 번 해 본' 엔지니어는 경험이 많은 사람이므로 experienced(경험이 많은)가 정답입니다. empty(빈), expensive(비싼), angry(화난)는 회사가 찾는 엔지니어를 설명하기에 맞지 않습니다.",
+      "en": "An engineer who has already worked on many large projects has a lot of experience, so 'experienced' is correct. 'Empty' (with nothing inside), 'expensive' (costing a lot) and 'angry' do not describe the engineer a company wants.",
+      "ja": "「すでに大きなプロジェクトをいくつも手がけた」エンジニアは経験が豊富なので、experienced（経験豊富な）が正解です。empty（空の）、expensive（高価な）、angry（怒った）は会社が探すエンジニアを表すのに合いません。",
+      "zh": "“已经做过多个大项目”的工程师很有经验，所以 experienced（有经验的）是正确答案。empty（空的）、expensive（昂贵的）、angry（生气的）都不适合描述公司要找的工程师。",
+      "es": "Un ingeniero que ya ha trabajado en varios proyectos grandes tiene mucha experiencia, así que «experienced» (con experiencia) es correcto. «Empty» (vacío), «expensive» (caro) y «angry» (enfadado) no describen al ingeniero que busca una empresa.",
+      "vi": "Kỹ sư đã làm nhiều dự án lớn là người có nhiều kinh nghiệm, nên 'experienced' (có kinh nghiệm) là đáp án đúng. 'Empty' (trống rỗng), 'expensive' (đắt) và 'angry' (tức giận) không phù hợp để mô tả kỹ sư mà công ty cần."
+    }
+  },
+  {
+    "id": "vocab-L3-0035",
+    "category": "vocab",
+    "level": "L3",
+    "format": "definition",
+    "question": "feeling sure that you can do something well",
+    "choices": ["jealous", "anxious", "confident", "curious"],
+    "answerIndex": 2,
+    "word": "confident",
+    "meaning": { "ko": "자신감 있는", "en": "sure about your own abilities", "ja": "自信のある", "zh": "自信的", "es": "seguro de sí mismo", "vi": "tự tin" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'무언가를 잘할 수 있다고 확신하는'은 confident(자신감 있는)의 뜻입니다. jealous는 '질투하는', anxious는 '불안한', curious는 '호기심 많은'이라는 뜻입니다.",
+      "en": "Feeling sure that you can do something well is the meaning of 'confident'. 'Jealous' means unhappy because someone has what you want, 'anxious' means worried, and 'curious' means wanting to know things.",
+      "ja": "「何かをうまくできると確信している」は confident（自信のある）の意味です。jealous は「嫉妬深い」、anxious は「不安な」、curious は「好奇心の強い」という意味です。",
+      "zh": "“确信自己能把事情做好”是 confident（自信的）的意思。jealous 意为“嫉妒的”，anxious 意为“焦虑的”，curious 意为“好奇的”。",
+      "es": "Sentirse seguro de que puedes hacer algo bien es el significado de «confident» (seguro de sí mismo). «Jealous» significa celoso, «anxious» significa preocupado y «curious» significa curioso.",
+      "vi": "Cảm thấy chắc chắn rằng mình có thể làm tốt việc gì đó là nghĩa của 'confident' (tự tin). 'Jealous' là ghen tị, 'anxious' là lo lắng, 'curious' là tò mò."
+    }
+  },
+  {
+    "id": "vocab-L3-0036",
+    "category": "vocab",
+    "level": "L3",
+    "format": "synonym",
+    "question": "Which word means the SAME as \"assist\"?",
+    "choices": ["help", "hurt", "follow", "notice"],
+    "answerIndex": 0,
+    "word": "help",
+    "meaning": { "ko": "돕다", "en": "to make it easier for someone to do something", "ja": "手伝う、助ける", "zh": "帮助", "es": "ayudar", "vi": "giúp đỡ" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "assist는 '돕다'라는 뜻으로 help와 같습니다. hurt는 '다치게 하다', follow는 '따라가다', notice는 '알아차리다'라는 뜻이라 같은 뜻이 아닙니다.",
+      "en": "'Assist' is a more formal word for 'help'. 'Hurt' means to cause pain, 'follow' means to go after someone, and 'notice' means to see or become aware of something.",
+      "ja": "assist は「手伝う」という意味で、help と同じです。hurt は「傷つける」、follow は「ついて行く」、notice は「気づく」という意味なので、同じ意味ではありません。",
+      "zh": "assist 意为“帮助”，和 help 意思相同。hurt 意为“伤害”，follow 意为“跟随”，notice 意为“注意到”，意思都不同。",
+      "es": "«Assist» es una forma más formal de decir «help» (ayudar). «Hurt» significa hacer daño, «follow» significa seguir y «notice» significa darse cuenta.",
+      "vi": "'Assist' là cách nói trang trọng hơn của 'help' (giúp đỡ). 'Hurt' là làm đau, 'follow' là đi theo, 'notice' là nhận thấy."
+    }
+  },
+  {
+    "id": "vocab-L3-0037",
+    "category": "vocab",
+    "level": "L3",
+    "format": "blank",
+    "question": "Could I ___ your pen for a minute? I forgot to bring mine.",
+    "choices": ["lend", "borrow", "lose", "sell"],
+    "answerIndex": 1,
+    "word": "borrow",
+    "meaning": { "ko": "빌리다", "en": "to take something from someone and give it back later", "ja": "借りる", "zh": "借（入）", "es": "pedir prestado", "vi": "mượn" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "내가 상대방의 펜을 잠깐 '빌리는' 것이므로 borrow(빌리다)가 정답입니다. lend는 '빌려주다'라서 주어가 펜 주인이어야 하고, lose(잃어버리다)와 sell(팔다)은 문맥에 맞지 않습니다.",
+      "en": "The speaker wants to take someone's pen and give it back, so 'borrow' is correct. 'Lend' means to give something to someone for a time, so the pen's owner would have to be the subject, and 'lose' and 'sell' do not make sense here.",
+      "ja": "自分が相手のペンを少し「借りる」ので、borrow（借りる）が正解です。lend は「貸す」なので主語がペンの持ち主でなければならず、lose（なくす）と sell（売る）は文脈に合いません。",
+      "zh": "说话人想“借用”对方的笔，所以 borrow（借入）是正确答案。lend 意为“借出”，主语应该是笔的主人；lose（丢失）和 sell（卖）都不符合语境。",
+      "es": "La persona quiere usar el bolígrafo de otro y devolverlo, así que «borrow» (pedir prestado) es correcto. «Lend» significa prestar, así que el sujeto tendría que ser el dueño del bolígrafo, y «lose» (perder) y «sell» (vender) no tienen sentido.",
+      "vi": "Người nói muốn mượn bút của người khác rồi trả lại, nên 'borrow' (mượn) là đáp án đúng. 'Lend' là cho mượn nên chủ ngữ phải là chủ của cây bút, còn 'lose' (làm mất) và 'sell' (bán) không hợp ngữ cảnh."
+    }
+  },
+  {
+    "id": "vocab-L3-0038",
+    "category": "vocab",
+    "level": "L3",
+    "format": "definition",
+    "question": "a person who does a job without being paid, usually to help other people",
+    "choices": ["employee", "customer", "manager", "volunteer"],
+    "answerIndex": 3,
+    "word": "volunteer",
+    "meaning": { "ko": "자원봉사자", "en": "a person who works for free to help others", "ja": "ボランティア", "zh": "志愿者", "es": "voluntario", "vi": "tình nguyện viên" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'돈을 받지 않고 보통 남을 돕기 위해 일하는 사람'은 volunteer(자원봉사자)입니다. employee는 '직원', customer는 '고객', manager는 '관리자'라는 뜻입니다.",
+      "en": "A person who works without pay to help others is a 'volunteer'. An 'employee' works for a company and gets paid, a 'customer' buys things, and a 'manager' is in charge of other workers.",
+      "ja": "「お金をもらわずに、ふつう人を助けるために働く人」は volunteer（ボランティア）です。employee は「従業員」、customer は「客」、manager は「管理者、責任者」という意味です。",
+      "zh": "“不拿报酬、通常为了帮助别人而工作的人”是 volunteer（志愿者）。employee 意为“员工”，customer 意为“顾客”，manager 意为“经理”。",
+      "es": "Una persona que trabaja sin cobrar, normalmente para ayudar a otros, es un «volunteer» (voluntario). «Employee» significa empleado, «customer» significa cliente y «manager» significa jefe o gerente.",
+      "vi": "Người làm việc không nhận lương, thường để giúp đỡ người khác, là 'volunteer' (tình nguyện viên). 'Employee' là nhân viên, 'customer' là khách hàng, 'manager' là quản lý."
+    }
+  },
+  {
+    "id": "vocab-L3-0039",
+    "category": "vocab",
+    "level": "L3",
+    "format": "synonym",
+    "question": "Which word means the OPPOSITE of \"success\"?",
+    "choices": ["victory", "progress", "failure", "effort"],
+    "answerIndex": 2,
+    "word": "failure",
+    "meaning": { "ko": "실패", "en": "a lack of success", "ja": "失敗", "zh": "失败", "es": "fracaso", "vi": "sự thất bại" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "success는 '성공'이라는 뜻이므로 반대말은 failure(실패)입니다. victory(승리)는 비슷한 뜻이고, progress(진전)와 effort(노력)는 반대말이 아닙니다.",
+      "en": "'Success' means doing what you wanted to do, so its opposite is 'failure'. 'Victory' (winning) has a similar meaning, and 'progress' (getting better) and 'effort' (hard work) are not opposites.",
+      "ja": "success は「成功」という意味なので、反対語は failure（失敗）です。victory（勝利）は似た意味で、progress（進歩）と effort（努力）は反対語ではありません。",
+      "zh": "success 意为“成功”，所以反义词是 failure（失败）。victory（胜利）意思相近，progress（进步）和 effort（努力）都不是反义词。",
+      "es": "«Success» significa éxito, así que su opuesto es «failure» (fracaso). «Victory» (victoria) tiene un sentido parecido, y «progress» (progreso) y «effort» (esfuerzo) no son opuestos.",
+      "vi": "'Success' nghĩa là thành công, nên từ trái nghĩa là 'failure' (thất bại). 'Victory' (chiến thắng) có nghĩa gần giống, còn 'progress' (sự tiến bộ) và 'effort' (nỗ lực) không phải từ trái nghĩa."
+    }
+  },
+  {
+    "id": "vocab-L3-0040",
+    "category": "vocab",
+    "level": "L3",
+    "format": "blank",
+    "question": "I can't ___ a new laptop right now because I'm saving money for a trip.",
+    "choices": ["afford", "spend", "pay", "cost"],
+    "answerIndex": 0,
+    "word": "afford",
+    "meaning": { "ko": "(금전적) 여유가 있다, 살 형편이 되다", "en": "to have enough money to pay for something", "ja": "（お金の）余裕がある、買う余裕がある", "zh": "买得起，负担得起", "es": "permitirse (pagar)", "vi": "có đủ tiền (để mua)" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "돈을 모으고 있어서 새 노트북을 '살 여유가 없다'는 뜻이므로 afford가 정답입니다. spend는 'spend money on ~', pay는 'pay for ~'처럼 써야 하고, cost(비용이 들다)는 사람이 주어가 될 수 없습니다.",
+      "en": "The speaker does not have enough money for a laptop now, so 'afford' is correct. We say 'spend money on something' and 'pay for something', so 'spend' and 'pay' do not fit, and 'cost' needs a thing, not a person, as its subject.",
+      "ja": "お金を貯めているので新しいノートパソコンを「買う余裕がない」という意味なので、afford が正解です。spend は spend money on ～、pay は pay for ～ の形で使い、cost（費用がかかる）は人を主語にできません。",
+      "zh": "说话人在存钱，所以现在“买不起”新笔记本电脑，afford 是正确答案。spend 要用 spend money on ～，pay 要用 pay for ～，而 cost（花费）的主语不能是人。",
+      "es": "La persona no tiene suficiente dinero para un portátil ahora, así que «afford» (permitirse) es correcto. Se dice «spend money on algo» y «pay for algo», así que «spend» y «pay» no encajan, y «cost» (costar) no puede tener a una persona como sujeto.",
+      "vi": "Người nói đang tiết kiệm tiền nên hiện không đủ tiền mua laptop mới, vì vậy 'afford' là đáp án đúng. Ta nói 'spend money on something' và 'pay for something', nên 'spend' và 'pay' không hợp, còn 'cost' (tốn) không dùng người làm chủ ngữ."
+    }
+  }
+]

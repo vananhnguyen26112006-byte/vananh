@@ -1,0 +1,602 @@
+[
+  {
+    "id": "grammar-L4-0001",
+    "category": "grammar",
+    "level": "L4",
+    "format": "form",
+    "question": "If my brother ___ more patient, he would be a great teacher.",
+    "choices": ["is", "will be", "had", "were"],
+    "answerIndex": 3,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "가정법 과거", "en": "Second conditional", "ja": "仮定法過去", "zh": "虚拟语气（与现在事实相反）", "es": "Condicional de segundo tipo", "vi": "Câu điều kiện loại 2" },
+    "explanation": {
+      "ko": "뒤 문장의 would be는 현재 사실과 반대되는 상황을 가정하는 가정법 과거를 나타냅니다. 이때 if절의 be동사는 were를 씁니다. is와 will be는 가정이 아닌 실제 상황에 쓰고, had는 형용사 patient 앞에 올 수 없습니다.",
+      "en": "'Would be' shows the second conditional, which imagines an unreal present situation. In the if-clause we use 'were'. 'Is' and 'will be' are for real situations, and 'had' cannot come before the adjective 'patient'.",
+      "ja": "後半の would be は、現在の事実と反対の状況を仮定する仮定法過去を表します。このとき if節の be動詞は were を使います。is と will be は現実の状況に使い、had は形容詞 patient の前には置けません。",
+      "zh": "后半句的 would be 表示与现在事实相反的虚拟语气，此时 if 从句中的 be 动词用 were。is 和 will be 用于真实情况，had 不能放在形容词 patient 前面。",
+      "es": "«Would be» indica el condicional de segundo tipo, que imagina una situación presente irreal. En la parte con «if» se usa «were». «Is» y «will be» son para situaciones reales, y «had» no puede ir antes del adjetivo «patient».",
+      "vi": "'Would be' cho thấy đây là câu điều kiện loại 2, giả định điều không có thật ở hiện tại. Trong mệnh đề 'if' ta dùng 'were'. 'Is' và 'will be' dùng cho tình huống có thật, còn 'had' không thể đứng trước tính từ 'patient'."
+    }
+  },
+  {
+    "id": "grammar-L4-0002",
+    "category": "grammar",
+    "level": "L4",
+    "format": "form",
+    "question": "If Mia lived closer to the office, she ___ to work every day.",
+    "choices": ["walks", "will walk", "would walk", "would have walked"],
+    "answerIndex": 2,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "가정법 과거", "en": "Second conditional", "ja": "仮定法過去", "zh": "虚拟语气（与现在事实相反）", "es": "Condicional de segundo tipo", "vi": "Câu điều kiện loại 2" },
+    "explanation": {
+      "ko": "if절에 과거형 lived가 있으므로 현재 사실과 반대되는 가정법 과거입니다. 주절은 'would + 동사원형'이므로 would walk가 정답입니다. walks와 will walk는 실제 상황에 쓰고, would have walked는 과거 사실의 반대(가정법 과거완료)에 씁니다.",
+      "en": "The past form 'lived' in the if-clause shows the second conditional, about an unreal present. The main clause needs 'would + base verb', so 'would walk' is correct. 'Walks' and 'will walk' are for real situations, and 'would have walked' is for the unreal past (third conditional).",
+      "ja": "if節に過去形 lived があるので、現在の事実に反する仮定法過去です。主節は「would＋動詞の原形」なので would walk が正解です。walks と will walk は現実の状況に使い、would have walked は過去の事実に反する仮定（仮定法過去完了）に使います。",
+      "zh": "if 从句中用了过去式 lived，说明这是与现在事实相反的虚拟语气。主句要用“would + 动词原形”，所以 would walk 正确。walks 和 will walk 用于真实情况，would have walked 用于与过去事实相反的虚拟。",
+      "es": "El pasado «lived» en la parte con «if» indica el condicional de segundo tipo, sobre un presente irreal. La oración principal necesita «would + verbo base», así que «would walk» es correcto. «Walks» y «will walk» son para situaciones reales, y «would have walked» es para un pasado irreal (tercer tipo).",
+      "vi": "Động từ quá khứ 'lived' trong mệnh đề 'if' cho thấy đây là câu điều kiện loại 2, nói về hiện tại không có thật. Mệnh đề chính cần 'would + động từ nguyên mẫu', nên 'would walk' đúng. 'Walks' và 'will walk' dùng cho tình huống có thật, còn 'would have walked' dùng cho quá khứ không có thật (loại 3)."
+    }
+  },
+  {
+    "id": "grammar-L4-0003",
+    "category": "grammar",
+    "level": "L4",
+    "format": "form",
+    "question": "If we had left ten minutes earlier, we ___ the train.",
+    "choices": ["would have caught", "would catch", "will have caught", "had caught"],
+    "answerIndex": 0,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "가정법 과거완료", "en": "Third conditional", "ja": "仮定法過去完了", "zh": "虚拟语气（与过去事实相反）", "es": "Condicional de tercer tipo", "vi": "Câu điều kiện loại 3" },
+    "explanation": {
+      "ko": "if절이 had left(과거완료)이므로 과거 사실과 반대를 가정하는 가정법 과거완료입니다. 주절은 'would have + 과거분사'를 써야 하므로 would have caught가 정답입니다. would catch는 현재에 대한 가정, will have caught는 미래완료, had caught는 주절에 쓸 수 없습니다.",
+      "en": "'Had left' in the if-clause shows the third conditional, about an unreal past. The main clause needs 'would have + past participle', so 'would have caught' is correct. 'Would catch' is about the present, 'will have caught' is the future perfect, and 'had caught' cannot be used in the main clause.",
+      "ja": "if節が had left（過去完了）なので、過去の事実に反する仮定法過去完了です。主節は「would have＋過去分詞」なので would have caught が正解です。would catch は現在についての仮定、will have caught は未来完了で、had caught は主節には使えません。",
+      "zh": "if 从句用的是 had left（过去完成时），说明这是与过去事实相反的虚拟语气。主句要用“would have + 过去分词”，所以 would have caught 正确。would catch 针对现在，will have caught 是将来完成时，had caught 不能用在主句中。",
+      "es": "«Had left» en la parte con «if» indica el condicional de tercer tipo, sobre un pasado irreal. La oración principal necesita «would have + participio», así que «would have caught» es correcto. «Would catch» habla del presente, «will have caught» es futuro perfecto y «had caught» no se usa en la oración principal.",
+      "vi": "'Had left' trong mệnh đề 'if' cho thấy đây là câu điều kiện loại 3, nói về quá khứ không có thật. Mệnh đề chính cần 'would have + quá khứ phân từ', nên 'would have caught' đúng. 'Would catch' nói về hiện tại, 'will have caught' là tương lai hoàn thành, còn 'had caught' không dùng ở mệnh đề chính."
+    }
+  },
+  {
+    "id": "grammar-L4-0004",
+    "category": "grammar",
+    "level": "L4",
+    "format": "error",
+    "question": "If Daniel would have studied harder, he would have passed the exam.",
+    "choices": ["If Daniel", "would have studied", "harder", "would have passed the exam"],
+    "answerIndex": 1,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "가정법 과거완료", "en": "Third conditional", "ja": "仮定法過去完了", "zh": "虚拟语气（与过去事实相反）", "es": "Condicional de tercer tipo", "vi": "Câu điều kiện loại 3" },
+    "explanation": {
+      "ko": "가정법 과거완료에서 if절에는 would를 쓰지 않고 'had + 과거분사'를 씁니다. 따라서 would have studied를 had studied로 고쳐야 합니다. 주절의 would have passed the exam은 올바르며, If Daniel과 harder도 문제없습니다.",
+      "en": "In the third conditional, the if-clause uses 'had + past participle', not 'would'. So 'would have studied' should be 'had studied'. 'Would have passed the exam' in the main clause is correct, and 'If Daniel' and 'harder' are fine.",
+      "ja": "仮定法過去完了では、if節に would は使わず「had＋過去分詞」を使います。したがって would have studied を had studied に直す必要があります。主節の would have passed the exam は正しく、If Daniel と harder も問題ありません。",
+      "zh": "在与过去事实相反的虚拟语气中，if 从句不用 would，而用“had + 过去分词”。所以 would have studied 应改为 had studied。主句的 would have passed the exam 是正确的，If Daniel 和 harder 也没有问题。",
+      "es": "En el condicional de tercer tipo, la parte con «if» usa «had + participio», no «would». Por eso «would have studied» debe ser «had studied». «Would have passed the exam» en la oración principal es correcto, y «If Daniel» y «harder» también.",
+      "vi": "Trong câu điều kiện loại 3, mệnh đề 'if' dùng 'had + quá khứ phân từ', không dùng 'would'. Vì vậy 'would have studied' phải sửa thành 'had studied'. 'Would have passed the exam' ở mệnh đề chính là đúng, 'If Daniel' và 'harder' cũng không sai."
+    }
+  },
+  {
+    "id": "grammar-L4-0005",
+    "category": "grammar",
+    "level": "L4",
+    "format": "form",
+    "question": "If I had taken that job in Tokyo, I ___ in Japan now.",
+    "choices": ["would have lived", "would live", "will live", "had lived"],
+    "answerIndex": 1,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "혼합 가정법", "en": "Mixed conditional", "ja": "混合仮定法", "zh": "混合虚拟条件句", "es": "Condicional mixto", "vi": "Câu điều kiện hỗn hợp" },
+    "explanation": {
+      "ko": "if절은 과거 사실의 반대(had taken)이지만, 주절에 now가 있어 현재 결과를 말합니다. 이런 혼합 가정법에서 주절은 'would + 동사원형'이므로 would live가 정답입니다. would have lived는 과거 결과, will live는 실제 미래, had lived는 주절에 쓸 수 없습니다.",
+      "en": "The if-clause is about the unreal past ('had taken'), but 'now' shows the result is in the present. In this mixed conditional the main clause uses 'would + base verb', so 'would live' is correct. 'Would have lived' is a past result, 'will live' is a real future, and 'had lived' cannot be the main verb here.",
+      "ja": "if節は過去の事実に反する仮定（had taken）ですが、主節に now があるので現在の結果を表します。この混合仮定法では主節は「would＋動詞の原形」なので would live が正解です。would have lived は過去の結果、will live は現実の未来を表し、had lived は主節に使えません。",
+      "zh": "if 从句与过去事实相反（had taken），但主句中有 now，表示现在的结果。这种混合虚拟条件句的主句用“would + 动词原形”，所以 would live 正确。would have lived 表示过去的结果，will live 表示真实的将来，had lived 不能用在主句。",
+      "es": "La parte con «if» habla de un pasado irreal («had taken»), pero «now» muestra que el resultado está en el presente. En este condicional mixto la oración principal usa «would + verbo base», así que «would live» es correcto. «Would have lived» es un resultado pasado, «will live» es un futuro real y «had lived» no sirve aquí.",
+      "vi": "Mệnh đề 'if' nói về quá khứ không có thật ('had taken'), nhưng 'now' cho thấy kết quả ở hiện tại. Trong câu điều kiện hỗn hợp này, mệnh đề chính dùng 'would + động từ nguyên mẫu', nên 'would live' đúng. 'Would have lived' là kết quả quá khứ, 'will live' là tương lai có thật, còn 'had lived' không dùng ở đây."
+    }
+  },
+  {
+    "id": "grammar-L4-0006",
+    "category": "grammar",
+    "level": "L4",
+    "format": "error",
+    "question": "If he had saved more money last year, he would have been able to buy a car now.",
+    "choices": ["If he had saved", "more money last year", "he", "would have been able"],
+    "answerIndex": 3,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "혼합 가정법", "en": "Mixed conditional", "ja": "混合仮定法", "zh": "混合虚拟条件句", "es": "Condicional mixto", "vi": "Câu điều kiện hỗn hợp" },
+    "explanation": {
+      "ko": "if절은 작년(과거)에 대한 가정이지만, 결과는 now(현재)에 관한 것이므로 혼합 가정법입니다. 주절은 'would + 동사원형'이어야 하므로 would have been able을 would be able로 고쳐야 합니다. If he had saved, more money last year, he는 모두 올바릅니다.",
+      "en": "The if-clause is about last year, but the result is about 'now', so this is a mixed conditional. The main clause needs 'would + base verb', so 'would have been able' should be 'would be able'. 'If he had saved', 'more money last year' and 'he' are all correct.",
+      "ja": "if節は去年（過去）についての仮定ですが、結果は now（現在）のことなので混合仮定法です。主節は「would＋動詞の原形」にする必要があるので、would have been able を would be able に直します。If he had saved、more money last year、he はすべて正しいです。",
+      "zh": "if 从句假设的是去年（过去）的情况，但结果说的是 now（现在），所以这是混合虚拟条件句。主句应该用“would + 动词原形”，因此 would have been able 应改为 would be able。If he had saved、more money last year 和 he 都是正确的。",
+      "es": "La parte con «if» habla del año pasado, pero el resultado es sobre «now», así que es un condicional mixto. La oración principal necesita «would + verbo base», por lo que «would have been able» debe ser «would be able». «If he had saved», «more money last year» y «he» son correctos.",
+      "vi": "Mệnh đề 'if' nói về năm ngoái, nhưng kết quả nói về 'now' (hiện tại), nên đây là câu điều kiện hỗn hợp. Mệnh đề chính cần 'would + động từ nguyên mẫu', vì vậy 'would have been able' phải sửa thành 'would be able'. 'If he had saved', 'more money last year' và 'he' đều đúng."
+    }
+  },
+  {
+    "id": "grammar-L4-0007",
+    "category": "grammar",
+    "level": "L4",
+    "format": "form",
+    "question": "I wish I ___ how to fix this computer, but I have no idea.",
+    "choices": ["know", "have known", "will know", "knew"],
+    "answerIndex": 3,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "wish / If only 가정법", "en": "wish / if only", "ja": "wish / if only（仮定法）", "zh": "wish / if only 虚拟语气", "es": "wish / if only", "vi": "Câu ước với wish / if only" },
+    "explanation": {
+      "ko": "현재 사실과 반대되는 소망은 'I wish + 과거형'으로 나타냅니다. 지금 방법을 모르므로 knew가 정답입니다. know는 현재형, have known은 현재완료, will know는 미래형이라 wish 뒤의 현재 소망에 맞지 않습니다.",
+      "en": "To wish for something different from the present, we use 'I wish + past simple'. The speaker doesn't know how now, so 'knew' is correct. 'Know' is present, 'have known' is present perfect, and 'will know' is future, so they don't fit a present wish.",
+      "ja": "現在の事実と違うことを願うときは「I wish＋過去形」を使います。今やり方を知らないので knew が正解です。know は現在形、have known は現在完了、will know は未来形なので、現在の願望には合いません。",
+      "zh": "表示与现在事实相反的愿望时，用“I wish + 一般过去时”。说话人现在不知道怎么修，所以 knew 正确。know 是现在时，have known 是现在完成时，will know 是将来时，都不适合表达对现在的愿望。",
+      "es": "Para desear algo distinto del presente se usa «I wish + pasado simple». La persona no sabe cómo hacerlo ahora, así que «knew» es correcto. «Know» es presente, «have known» es presente perfecto y «will know» es futuro, así que no sirven para un deseo sobre el presente.",
+      "vi": "Để ước điều trái với hiện tại, ta dùng 'I wish + quá khứ đơn'. Người nói hiện không biết cách sửa, nên 'knew' đúng. 'Know' là hiện tại, 'have known' là hiện tại hoàn thành, 'will know' là tương lai, nên không hợp với lời ước ở hiện tại."
+    }
+  },
+  {
+    "id": "grammar-L4-0008",
+    "category": "grammar",
+    "level": "L4",
+    "format": "error",
+    "question": "Mina wishes she can speak French as well as her cousin does.",
+    "choices": ["wishes", "can speak", "as well as", "her cousin does"],
+    "answerIndex": 1,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "wish / If only 가정법", "en": "wish / if only", "ja": "wish / if only（仮定法）", "zh": "wish / if only 虚拟语气", "es": "wish / if only", "vi": "Câu ước với wish / if only" },
+    "explanation": {
+      "ko": "현재 사실과 반대되는 소망을 말할 때 wish 뒤에는 과거형을 쓰므로, can은 could로 바뀌어야 합니다. 따라서 can speak를 could speak로 고쳐야 합니다. 주어가 3인칭 단수라 wishes는 맞고, as well as와 her cousin does도 올바릅니다.",
+      "en": "For a wish about the present, the verb after 'wish' moves into the past, so 'can' becomes 'could'. The correct form is 'could speak'. 'Wishes' is right for a third-person subject, and 'as well as' and 'her cousin does' are also correct.",
+      "ja": "現在についての願望では、wish の後ろの動詞は過去形になるので、can は could になります。したがって can speak を could speak に直します。主語が三人称単数なので wishes は正しく、as well as と her cousin does も正しいです。",
+      "zh": "表达对现在的愿望时，wish 后面的动词要用过去式，所以 can 要变成 could。正确形式是 could speak。主语是第三人称单数，所以 wishes 正确，as well as 和 her cousin does 也正确。",
+      "es": "En un deseo sobre el presente, el verbo después de «wish» pasa al pasado, así que «can» se convierte en «could». La forma correcta es «could speak». «Wishes» es correcto para la tercera persona, y «as well as» y «her cousin does» también son correctos.",
+      "vi": "Khi ước về hiện tại, động từ sau 'wish' lùi về quá khứ, nên 'can' phải thành 'could'. Dạng đúng là 'could speak'. 'Wishes' đúng vì chủ ngữ ngôi thứ ba số ít, 'as well as' và 'her cousin does' cũng đúng."
+    }
+  },
+  {
+    "id": "grammar-L4-0009",
+    "category": "grammar",
+    "level": "L4",
+    "format": "form",
+    "question": "___ in 1889, the Eiffel Tower is now one of the most famous landmarks in the world.",
+    "choices": ["Building", "Having built", "Built", "To build"],
+    "answerIndex": 2,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "분사구문", "en": "Participle clauses", "ja": "分詞構文", "zh": "分词短语（作状语）", "es": "Oraciones de participio", "vi": "Mệnh đề phân từ" },
+    "explanation": {
+      "ko": "에펠탑은 스스로 짓는 것이 아니라 '지어진' 것이므로 수동의 의미를 가진 과거분사 Built를 씁니다. Building과 Having built는 능동이라 '에펠탑이 무언가를 지었다'는 뜻이 되고, To build는 목적을 나타내 의미가 맞지 않습니다.",
+      "en": "The Eiffel Tower did not build anything; it was built, so we need the past participle 'Built' with a passive meaning. 'Building' and 'Having built' are active, meaning the tower built something, and 'To build' shows purpose, which doesn't fit.",
+      "ja": "エッフェル塔は自分で建てたのではなく「建てられた」ので、受け身の意味を持つ過去分詞 Built を使います。Building と Having built は能動なので「塔が何かを建てた」という意味になり、To build は目的を表すので意味が合いません。",
+      "zh": "埃菲尔铁塔不是自己建造东西，而是“被建造”，所以要用表示被动的过去分词 Built。Building 和 Having built 是主动形式，意思变成“铁塔建造了什么”；To build 表示目的，意思不通。",
+      "es": "La Torre Eiffel no construyó nada; fue construida, así que se necesita el participio «Built», con sentido pasivo. «Building» y «Having built» son activos y significarían que la torre construyó algo, y «To build» expresa finalidad, lo cual no encaja.",
+      "vi": "Tháp Eiffel không tự xây gì cả mà 'được xây', nên ta dùng quá khứ phân từ 'Built' mang nghĩa bị động. 'Building' và 'Having built' là chủ động, nghĩa là tháp đã xây cái gì đó, còn 'To build' chỉ mục đích nên không hợp nghĩa."
+    }
+  },
+  {
+    "id": "grammar-L4-0010",
+    "category": "grammar",
+    "level": "L4",
+    "format": "form",
+    "question": "___ the report three times already, Leo didn't want to read it again.",
+    "choices": ["Having read", "Reading", "Read", "Being read"],
+    "answerIndex": 0,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "완료 분사구문 (Having + p.p.)", "en": "Perfect participle (having + past participle)", "ja": "完了分詞構文（having＋過去分詞）", "zh": "完成式分词短语（having + 过去分词）", "es": "Participio perfecto (having + participio)", "vi": "Phân từ hoàn thành (having + quá khứ phân từ)" },
+    "explanation": {
+      "ko": "보고서를 읽은 일이 주절의 '다시 읽고 싶지 않았다'보다 먼저 일어났으므로 완료 분사구문 'Having + 과거분사'를 씁니다. Reading은 동시에 일어나는 일을 나타내 already와 어울리지 않고, Read와 Being read는 수동이라 Leo가 '읽혔다'는 뜻이 됩니다.",
+      "en": "Reading the report happened before Leo didn't want to read it again, so we use the perfect participle 'Having + past participle'. 'Reading' shows an action at the same time and doesn't fit 'already', and 'Read' and 'Being read' are passive, meaning Leo was read.",
+      "ja": "報告書を読んだのは「もう読みたくなかった」より前のことなので、完了分詞構文「Having＋過去分詞」を使います。Reading は同時の動作を表し already と合わず、Read と Being read は受け身なので「Leo が読まれた」という意味になります。",
+      "zh": "读报告这件事发生在“不想再读”之前，所以用完成式分词“Having + 过去分词”。Reading 表示同时发生的动作，和 already 不搭配；Read 和 Being read 是被动形式，意思变成 Leo“被读”。",
+      "es": "Leer el informe ocurrió antes de que Leo no quisiera leerlo otra vez, así que se usa el participio perfecto «Having + participio». «Reading» indica una acción simultánea y no encaja con «already», y «Read» y «Being read» son pasivos, como si Leo fuera leído.",
+      "vi": "Việc đọc báo cáo xảy ra trước việc Leo không muốn đọc lại, nên ta dùng phân từ hoàn thành 'Having + quá khứ phân từ'. 'Reading' chỉ hành động xảy ra cùng lúc nên không hợp với 'already', còn 'Read' và 'Being read' là bị động, nghĩa là Leo 'bị đọc'."
+    }
+  },
+  {
+    "id": "grammar-L4-0011",
+    "category": "grammar",
+    "level": "L4",
+    "format": "error",
+    "question": "Exhausting after the long hike, the children fell asleep in the car.",
+    "choices": ["Exhausting", "after the long hike", "the children", "fell asleep in the car"],
+    "answerIndex": 0,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "분사구문", "en": "Participle clauses", "ja": "分詞構文", "zh": "分词短语（作状语）", "es": "Oraciones de participio", "vi": "Mệnh đề phân từ" },
+    "explanation": {
+      "ko": "아이들은 긴 등산으로 '지친' 상태이므로 수동·상태를 나타내는 과거분사를 써야 합니다. 따라서 Exhausting을 Exhausted로 고쳐야 합니다. Exhausting은 '남을 지치게 하는'이라는 뜻입니다. 나머지 부분은 모두 올바릅니다.",
+      "en": "The hike made the children very tired, so we need the past participle, which describes how someone feels. 'Exhausting' should be 'Exhausted'. 'Exhausting' means 'making someone very tired'. The other parts are all correct.",
+      "ja": "子どもたちは長いハイキングで「疲れ果てた」状態なので、受け身・状態を表す過去分詞を使います。したがって Exhausting を Exhausted に直します。Exhausting は「人を疲れさせる」という意味です。ほかの部分はすべて正しいです。",
+      "zh": "孩子们因为长途徒步而“精疲力尽”，所以要用表示被动或状态的过去分词。因此 Exhausting 应改为 Exhausted。Exhausting 的意思是“使人疲惫的”。其他部分都是正确的。",
+      "es": "Los niños quedaron agotados por la caminata, así que se necesita el participio pasado, que describe cómo se siente alguien. «Exhausting» debe ser «Exhausted». «Exhausting» significa «que agota a alguien». Las demás partes son correctas.",
+      "vi": "Bọn trẻ bị mệt vì chuyến đi bộ dài, nên ta cần quá khứ phân từ để diễn tả cảm giác của người đó. 'Exhausting' phải sửa thành 'Exhausted'. 'Exhausting' nghĩa là 'làm người khác kiệt sức'. Các phần còn lại đều đúng."
+    }
+  },
+  {
+    "id": "grammar-L4-0012",
+    "category": "grammar",
+    "level": "L4",
+    "format": "form",
+    "question": "By the time the firefighters arrived, the old barn ___ down completely.",
+    "choices": ["has already burned", "already burns", "will already burn", "had already burned"],
+    "answerIndex": 3,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "과거완료", "en": "Past perfect", "ja": "過去完了", "zh": "过去完成时", "es": "Pasado perfecto", "vi": "Thì quá khứ hoàn thành" },
+    "explanation": {
+      "ko": "소방관이 도착한 과거 시점(arrived)보다 헛간이 타 버린 일이 먼저 일어났으므로 과거완료 'had + 과거분사'를 씁니다. has already burned는 현재완료, already burns는 현재형, will already burn은 미래형이라 과거 이야기에 맞지 않습니다.",
+      "en": "The barn burned down before the firefighters arrived, which is a past moment, so we use the past perfect 'had + past participle'. 'Has already burned' is present perfect, 'already burns' is present, and 'will already burn' is future, so they don't fit a past story.",
+      "ja": "消防士が到着した過去の時点（arrived）より前に納屋が焼け落ちたので、過去完了「had＋過去分詞」を使います。has already burned は現在完了、already burns は現在形、will already burn は未来形なので、過去の話には合いません。",
+      "zh": "谷仓烧毁发生在消防员到达（arrived）这一过去时间点之前，所以用过去完成时“had + 过去分词”。has already burned 是现在完成时，already burns 是一般现在时，will already burn 是将来时，都不适合描述过去的事。",
+      "es": "El granero se quemó antes de que llegaran los bomberos, un momento del pasado, así que se usa el pasado perfecto «had + participio». «Has already burned» es presente perfecto, «already burns» es presente y «will already burn» es futuro, así que no encajan en una historia pasada.",
+      "vi": "Nhà kho cháy rụi trước khi lính cứu hỏa đến, một thời điểm trong quá khứ, nên ta dùng quá khứ hoàn thành 'had + quá khứ phân từ'. 'Has already burned' là hiện tại hoàn thành, 'already burns' là hiện tại, 'will already burn' là tương lai, nên không hợp với chuyện quá khứ."
+    }
+  },
+  {
+    "id": "grammar-L4-0013",
+    "category": "grammar",
+    "level": "L4",
+    "format": "form",
+    "question": "Her eyes were red because she ___ for hours.",
+    "choices": ["has been crying", "had been crying", "cries", "will have cried"],
+    "answerIndex": 1,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "과거완료 진행형", "en": "Past perfect continuous", "ja": "過去完了進行形", "zh": "过去完成进行时", "es": "Pasado perfecto continuo", "vi": "Thì quá khứ hoàn thành tiếp diễn" },
+    "explanation": {
+      "ko": "눈이 빨갰던 과거 시점(were) 이전부터 몇 시간 동안 계속된 행동이므로 과거완료 진행형 'had been + -ing'를 씁니다. has been crying은 현재까지의 일, cries는 현재형, will have cried는 미래완료라 과거 상황에 맞지 않습니다.",
+      "en": "The crying went on for hours up to a past moment ('were red'), so we use the past perfect continuous 'had been + -ing'. 'Has been crying' connects to now, 'cries' is present, and 'will have cried' is future perfect, so they don't fit a past situation.",
+      "ja": "目が赤かった過去の時点（were）までの数時間、泣き続けていたので、過去完了進行形「had been＋-ing」を使います。has been crying は現在までのこと、cries は現在形、will have cried は未来完了なので、過去の状況には合いません。",
+      "zh": "哭泣一直持续了几个小时，直到过去某一时刻（眼睛红了，were），所以用过去完成进行时“had been + -ing”。has been crying 表示持续到现在，cries 是一般现在时，will have cried 是将来完成时，都不适合过去的情况。",
+      "es": "Estuvo llorando durante horas hasta un momento del pasado («were red»), así que se usa el pasado perfecto continuo «had been + -ing». «Has been crying» llega hasta ahora, «cries» es presente y «will have cried» es futuro perfecto, así que no encajan en una situación pasada.",
+      "vi": "Việc khóc kéo dài nhiều giờ cho đến một thời điểm trong quá khứ ('were red'), nên ta dùng quá khứ hoàn thành tiếp diễn 'had been + -ing'. 'Has been crying' kéo dài đến hiện tại, 'cries' là hiện tại, 'will have cried' là tương lai hoàn thành, nên không hợp với tình huống quá khứ."
+    }
+  },
+  {
+    "id": "grammar-L4-0014",
+    "category": "grammar",
+    "level": "L4",
+    "format": "error",
+    "question": "By the time we got to the cinema, the film already started.",
+    "choices": ["By the time", "we got", "to the cinema", "the film already started"],
+    "answerIndex": 3,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "과거완료", "en": "Past perfect", "ja": "過去完了", "zh": "过去完成时", "es": "Pasado perfecto", "vi": "Thì quá khứ hoàn thành" },
+    "explanation": {
+      "ko": "영화가 시작된 것은 우리가 도착한 과거 시점보다 먼저이므로 과거완료를 써야 합니다. 따라서 the film already started를 the film had already started로 고쳐야 합니다. By the time, we got, to the cinema는 모두 올바릅니다.",
+      "en": "The film started before we arrived, which was already in the past, so we need the past perfect. The correct form is 'the film had already started'. 'By the time', 'we got' and 'to the cinema' are all correct.",
+      "ja": "映画が始まったのは私たちが到着した過去の時点より前なので、過去完了を使う必要があります。したがって the film already started を the film had already started に直します。By the time、we got、to the cinema はすべて正しいです。",
+      "zh": "电影开始发生在我们到达这一过去时间点之前，所以要用过去完成时。正确形式是 the film had already started。By the time、we got 和 to the cinema 都是正确的。",
+      "es": "La película empezó antes de que llegáramos, que ya es pasado, así que se necesita el pasado perfecto. La forma correcta es «the film had already started». «By the time», «we got» y «to the cinema» son correctos.",
+      "vi": "Bộ phim bắt đầu trước khi chúng tôi đến, mà việc đến đã ở quá khứ, nên phải dùng quá khứ hoàn thành. Dạng đúng là 'the film had already started'. 'By the time', 'we got' và 'to the cinema' đều đúng."
+    }
+  },
+  {
+    "id": "grammar-L4-0015",
+    "category": "grammar",
+    "level": "L4",
+    "format": "form",
+    "question": "By the end of next month, we ___ in this apartment for exactly ten years.",
+    "choices": ["will live", "are living", "will have lived", "have lived"],
+    "answerIndex": 2,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "미래완료", "en": "Future perfect", "ja": "未来完了", "zh": "将来完成时", "es": "Futuro perfecto", "vi": "Thì tương lai hoàn thành" },
+    "explanation": {
+      "ko": "By the end of next month(다음 달 말까지)처럼 미래의 한 시점까지 완료되거나 계속되는 일은 미래완료 'will have + 과거분사'로 나타냅니다. will live는 단순 미래, are living은 현재진행형, have lived는 현재까지의 기간이라 미래 시점과 맞지 않습니다.",
+      "en": "Something that will be complete or will continue up to a future point, like 'by the end of next month', uses the future perfect 'will have + past participle'. 'Will live' is simple future, 'are living' is present continuous, and 'have lived' measures time up to now, not a future point.",
+      "ja": "By the end of next month（来月末までに）のように、未来のある時点までに完了・継続することは未来完了「will have＋過去分詞」で表します。will live は単純未来、are living は現在進行形、have lived は現在までの期間なので、未来の時点とは合いません。",
+      "zh": "像 By the end of next month（到下个月底）这样，到将来某一时间点为止已完成或持续的事情，用将来完成时“will have + 过去分词”。will live 是一般将来时，are living 是现在进行时，have lived 表示到现在为止，都与将来时间点不符。",
+      "es": "Algo que estará terminado o seguirá hasta un momento futuro, como «by the end of next month», usa el futuro perfecto «will have + participio». «Will live» es futuro simple, «are living» es presente continuo y «have lived» mide el tiempo hasta ahora, no hasta un momento futuro.",
+      "vi": "Việc sẽ hoàn thành hoặc kéo dài đến một thời điểm trong tương lai, như 'by the end of next month', dùng thì tương lai hoàn thành 'will have + quá khứ phân từ'. 'Will live' là tương lai đơn, 'are living' là hiện tại tiếp diễn, 'have lived' tính đến hiện tại chứ không phải thời điểm tương lai."
+    }
+  },
+  {
+    "id": "grammar-L4-0016",
+    "category": "grammar",
+    "level": "L4",
+    "format": "form",
+    "question": "This time tomorrow, I ___ on a beach in Bali.",
+    "choices": ["will be lying", "lie", "have lain", "had been lying"],
+    "answerIndex": 0,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "미래진행형", "en": "Future continuous", "ja": "未来進行形", "zh": "将来进行时", "es": "Futuro continuo", "vi": "Thì tương lai tiếp diễn" },
+    "explanation": {
+      "ko": "This time tomorrow(내일 이맘때)는 미래의 특정 시점에 진행 중일 일을 말하므로 미래진행형 'will be + -ing'를 씁니다. lie는 현재형, have lain은 현재완료, had been lying은 과거완료 진행형이라 미래 상황에 맞지 않습니다.",
+      "en": "'This time tomorrow' talks about an action in progress at a certain future moment, so we use the future continuous 'will be + -ing'. 'Lie' is present, 'have lain' is present perfect, and 'had been lying' is past perfect continuous, so none of them talk about the future.",
+      "ja": "This time tomorrow（明日の今ごろ）は未来のある時点で進行中の動作を表すので、未来進行形「will be＋-ing」を使います。lie は現在形、have lain は現在完了、had been lying は過去完了進行形なので、未来の状況には合いません。",
+      "zh": "This time tomorrow（明天这个时候）表示将来某一时刻正在进行的动作，所以用将来进行时“will be + -ing”。lie 是一般现在时，have lain 是现在完成时，had been lying 是过去完成进行时，都不能表示将来。",
+      "es": "«This time tomorrow» habla de una acción en curso en un momento concreto del futuro, así que se usa el futuro continuo «will be + -ing». «Lie» es presente, «have lain» es presente perfecto y «had been lying» es pasado perfecto continuo, así que ninguno habla del futuro.",
+      "vi": "'This time tomorrow' (giờ này ngày mai) nói về hành động đang diễn ra tại một thời điểm trong tương lai, nên ta dùng tương lai tiếp diễn 'will be + -ing'. 'Lie' là hiện tại, 'have lain' là hiện tại hoàn thành, 'had been lying' là quá khứ hoàn thành tiếp diễn, nên đều không nói về tương lai."
+    }
+  },
+  {
+    "id": "grammar-L4-0017",
+    "category": "grammar",
+    "level": "L4",
+    "format": "form",
+    "question": "All mobile phones must ___ off before the exam begins.",
+    "choices": ["turn", "been turned", "turning", "be turned"],
+    "answerIndex": 3,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "조동사 + 수동태", "en": "Passive with modals", "ja": "助動詞＋受動態", "zh": "含情态动词的被动语态", "es": "Pasiva con verbos modales", "vi": "Bị động với động từ khuyết thiếu" },
+    "explanation": {
+      "ko": "휴대폰은 스스로 끄는 것이 아니라 '꺼져야' 하므로 수동태가 필요하며, 조동사 뒤 수동태는 'must be + 과거분사'입니다. turn은 능동이라 휴대폰이 무언가를 끈다는 뜻이 되고, been turned와 turning은 조동사 바로 뒤에 올 수 없습니다.",
+      "en": "Phones don't turn themselves off; someone turns them off, so we need the passive. After a modal, the passive is 'must be + past participle'. 'Turn' is active, and 'been turned' and 'turning' cannot come directly after 'must'.",
+      "ja": "携帯電話は自分で電源を切るのではなく「切られる」ので受動態が必要で、助動詞の後の受動態は「must be＋過去分詞」です。turn は能動なので携帯電話が何かを切る意味になり、been turned と turning は助動詞の直後には置けません。",
+      "zh": "手机不会自己关机，而是“被关掉”，所以需要被动语态，情态动词后的被动语态是“must be + 过去分词”。turn 是主动形式，been turned 和 turning 都不能直接放在 must 后面。",
+      "es": "Los teléfonos no se apagan solos; alguien los apaga, así que se necesita la pasiva. Después de un modal, la pasiva es «must be + participio». «Turn» es activo, y «been turned» y «turning» no pueden ir justo después de «must».",
+      "vi": "Điện thoại không tự tắt mà 'bị/được tắt', nên cần câu bị động. Sau động từ khuyết thiếu, bị động có dạng 'must be + quá khứ phân từ'. 'Turn' là chủ động, còn 'been turned' và 'turning' không thể đứng ngay sau 'must'."
+    }
+  },
+  {
+    "id": "grammar-L4-0018",
+    "category": "grammar",
+    "level": "L4",
+    "format": "form",
+    "question": "The new hospital ___ yet, so patients still have to go to the old one.",
+    "choices": ["hasn't built", "isn't building", "hasn't been built", "hasn't being built"],
+    "answerIndex": 2,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "현재완료 수동태", "en": "Present perfect passive", "ja": "現在完了の受動態", "zh": "现在完成时被动语态", "es": "Pasiva en presente perfecto", "vi": "Bị động thì hiện tại hoàn thành" },
+    "explanation": {
+      "ko": "병원은 '지어지는' 대상이고 yet(아직)과 함께 현재까지의 상황을 말하므로 현재완료 수동태 'has/have been + 과거분사'를 씁니다. hasn't built와 isn't building은 능동이라 병원이 무언가를 짓는다는 뜻이 되고, hasn't being built는 틀린 형태입니다.",
+      "en": "A hospital is built by people, and 'yet' talks about the situation up to now, so we use the present perfect passive 'has/have been + past participle'. 'Hasn't built' and 'isn't building' are active, meaning the hospital builds something, and 'hasn't being built' is not a correct form.",
+      "ja": "病院は「建てられる」ものであり、yet（まだ）とともに現在までの状況を述べているので、現在完了の受動態「has/have been＋過去分詞」を使います。hasn't built と isn't building は能動なので病院が何かを建てる意味になり、hasn't being built は誤った形です。",
+      "zh": "医院是“被建造”的对象，而且 yet（还）表示到现在为止的情况，所以用现在完成时被动语态“has/have been + 过去分词”。hasn't built 和 isn't building 是主动形式，意思变成医院在建造东西；hasn't being built 是错误的形式。",
+      "es": "Un hospital es construido por personas, y «yet» habla de la situación hasta ahora, así que se usa la pasiva en presente perfecto «has/have been + participio». «Hasn't built» e «isn't building» son activos, como si el hospital construyera algo, y «hasn't being built» no es una forma correcta.",
+      "vi": "Bệnh viện là thứ 'được xây', và 'yet' nói về tình hình tính đến hiện tại, nên ta dùng bị động hiện tại hoàn thành 'has/have been + quá khứ phân từ'. 'Hasn't built' và 'isn't building' là chủ động, nghĩa là bệnh viện xây cái gì đó, còn 'hasn't being built' là dạng sai."
+    }
+  },
+  {
+    "id": "grammar-L4-0019",
+    "category": "grammar",
+    "level": "L4",
+    "format": "error",
+    "question": "This medicine should be keep in a cool place away from children.",
+    "choices": ["This medicine", "should be keep", "in a cool place", "away from children"],
+    "answerIndex": 1,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "조동사 + 수동태", "en": "Passive with modals", "ja": "助動詞＋受動態", "zh": "含情态动词的被动语态", "es": "Pasiva con verbos modales", "vi": "Bị động với động từ khuyết thiếu" },
+    "explanation": {
+      "ko": "약은 '보관되는' 것이므로 조동사 수동태 'should be + 과거분사'를 써야 합니다. 따라서 should be keep을 should be kept로 고쳐야 합니다. This medicine, in a cool place, away from children은 모두 올바릅니다.",
+      "en": "Medicine is kept by people, so we need the modal passive 'should be + past participle'. The correct form is 'should be kept', not 'should be keep'. 'This medicine', 'in a cool place' and 'away from children' are all correct.",
+      "ja": "薬は「保管される」ものなので、助動詞の受動態「should be＋過去分詞」を使います。したがって should be keep を should be kept に直します。This medicine、in a cool place、away from children はすべて正しいです。",
+      "zh": "药是“被保存”的，所以要用含情态动词的被动语态“should be + 过去分词”。因此 should be keep 应改为 should be kept。This medicine、in a cool place 和 away from children 都是正确的。",
+      "es": "La medicina es guardada por las personas, así que se necesita la pasiva con modal «should be + participio». La forma correcta es «should be kept», no «should be keep». «This medicine», «in a cool place» y «away from children» son correctos.",
+      "vi": "Thuốc là thứ 'được bảo quản', nên phải dùng bị động với động từ khuyết thiếu 'should be + quá khứ phân từ'. Dạng đúng là 'should be kept', không phải 'should be keep'. 'This medicine', 'in a cool place' và 'away from children' đều đúng."
+    }
+  },
+  {
+    "id": "grammar-L4-0020",
+    "category": "grammar",
+    "level": "L4",
+    "format": "form",
+    "question": "I'm going to ___ my hair cut before the wedding.",
+    "choices": ["make", "have", "let", "do"],
+    "answerIndex": 1,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "사역 have/get + 목적어 + 과거분사", "en": "Causative have/get something done", "ja": "使役 have/get＋目的語＋過去分詞", "zh": "使役结构 have/get sth done", "es": "Causativo have/get something done", "vi": "Cấu trúc nhờ vả have/get something done" },
+    "explanation": {
+      "ko": "다른 사람(미용사)에게 머리를 자르게 할 때는 'have + 목적어 + 과거분사'를 씁니다. make와 let은 뒤에 사람과 동사원형이 오는 구조(make someone do)라 이 문장에 맞지 않고, do는 이런 사역 의미로 쓰지 않습니다.",
+      "en": "When someone else, like a hairdresser, does something for us, we use 'have + object + past participle'. 'Make' and 'let' are followed by a person and a base verb ('make someone do'), so they don't fit here, and 'do' is not used with this causative meaning.",
+      "ja": "美容師など他の人に何かをしてもらうときは「have＋目的語＋過去分詞」を使います。make と let は後ろに人と動詞の原形が来る形（make someone do）なのでこの文には合わず、do はこの使役の意味では使いません。",
+      "zh": "请别人（如理发师）为自己做某事时，用“have + 宾语 + 过去分词”。make 和 let 后面接人和动词原形（make someone do），不适合这个句子；do 也没有这种使役用法。",
+      "es": "Cuando otra persona, como un peluquero, hace algo por nosotros, se usa «have + objeto + participio». «Make» y «let» van seguidos de una persona y un verbo base («make someone do»), así que no encajan aquí, y «do» no se usa con este sentido causativo.",
+      "vi": "Khi nhờ người khác, như thợ cắt tóc, làm gì đó cho mình, ta dùng 'have + tân ngữ + quá khứ phân từ'. 'Make' và 'let' đi với người và động từ nguyên mẫu ('make someone do') nên không hợp ở đây, còn 'do' không dùng với nghĩa nhờ vả này."
+    }
+  },
+  {
+    "id": "grammar-L4-0021",
+    "category": "grammar",
+    "level": "L4",
+    "format": "error",
+    "question": "Kevin got his car to wash at the new place near the station.",
+    "choices": ["Kevin got", "his car", "to wash", "at the new place near the station"],
+    "answerIndex": 2,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "사역 have/get + 목적어 + 과거분사", "en": "Causative have/get something done", "ja": "使役 have/get＋目的語＋過去分詞", "zh": "使役结构 have/get sth done", "es": "Causativo have/get something done", "vi": "Cấu trúc nhờ vả have/get something done" },
+    "explanation": {
+      "ko": "차는 스스로 씻는 것이 아니라 '세차되는' 것이므로 'get + 목적어 + 과거분사'를 써야 합니다. 따라서 to wash를 washed로 고쳐 Kevin got his car washed가 되어야 합니다. Kevin got, his car, at the new place near the station은 올바릅니다.",
+      "en": "The car doesn't wash anything; it is washed by someone, so we need 'get + object + past participle'. 'To wash' should be 'washed': 'Kevin got his car washed'. 'Kevin got', 'his car' and 'at the new place near the station' are correct.",
+      "ja": "車は自分で洗うのではなく「洗われる」ので、「get＋目的語＋過去分詞」を使います。したがって to wash を washed に直し、Kevin got his car washed とします。Kevin got、his car、at the new place near the station は正しいです。",
+      "zh": "车不会自己洗东西，而是“被洗”，所以要用“get + 宾语 + 过去分词”。因此 to wash 应改为 washed，即 Kevin got his car washed。Kevin got、his car 和 at the new place near the station 都是正确的。",
+      "es": "El coche no lava nada; alguien lo lava, así que se necesita «get + objeto + participio». «To wash» debe ser «washed»: «Kevin got his car washed». «Kevin got», «his car» y «at the new place near the station» son correctos.",
+      "vi": "Chiếc xe không tự rửa gì cả mà 'được rửa', nên phải dùng 'get + tân ngữ + quá khứ phân từ'. 'To wash' phải sửa thành 'washed': 'Kevin got his car washed'. 'Kevin got', 'his car' và 'at the new place near the station' đều đúng."
+    }
+  },
+  {
+    "id": "grammar-L4-0022",
+    "category": "grammar",
+    "level": "L4",
+    "format": "form",
+    "question": "Never ___ such a beautiful sunset as the one we saw in Santorini.",
+    "choices": ["I have seen", "I saw", "did I saw", "have I seen"],
+    "answerIndex": 3,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "부정어 도치", "en": "Inversion after negative adverbials", "ja": "否定語による倒置", "zh": "否定词开头的倒装", "es": "Inversión tras adverbios negativos", "vi": "Đảo ngữ sau trạng từ phủ định" },
+    "explanation": {
+      "ko": "Never 같은 부정어가 문장 맨 앞에 오면 주어와 조동사의 순서가 바뀌는 도치가 일어납니다. 그래서 'have I seen'이 정답입니다. I have seen과 I saw는 도치가 되지 않았고, did I saw는 did 뒤에 과거형이 와서 틀렸습니다(did I see가 맞음).",
+      "en": "When a negative word like 'Never' starts the sentence, the subject and auxiliary swap places (inversion). So 'have I seen' is correct. 'I have seen' and 'I saw' are not inverted, and 'did I saw' is wrong because 'did' must be followed by the base form ('did I see').",
+      "ja": "Never のような否定語が文頭に来ると、主語と助動詞の順序が入れ替わる倒置が起こります。そのため have I seen が正解です。I have seen と I saw は倒置になっておらず、did I saw は did の後に過去形が来ているので誤りです（did I see なら正しい）。",
+      "zh": "当 Never 这类否定词放在句首时，主语和助动词要倒装。所以 have I seen 正确。I have seen 和 I saw 没有倒装，did I saw 错在 did 后面用了过去式（应为 did I see）。",
+      "es": "Cuando una palabra negativa como «Never» empieza la oración, el sujeto y el auxiliar cambian de lugar (inversión). Por eso «have I seen» es correcto. «I have seen» y «I saw» no tienen inversión, y «did I saw» es incorrecto porque después de «did» va la forma base («did I see»).",
+      "vi": "Khi từ phủ định như 'Never' đứng đầu câu, chủ ngữ và trợ động từ đổi chỗ cho nhau (đảo ngữ). Vì vậy 'have I seen' đúng. 'I have seen' và 'I saw' chưa đảo ngữ, còn 'did I saw' sai vì sau 'did' phải là động từ nguyên mẫu ('did I see')."
+    }
+  },
+  {
+    "id": "grammar-L4-0023",
+    "category": "grammar",
+    "level": "L4",
+    "format": "error",
+    "question": "Hardly I had sat down when the phone started ringing.",
+    "choices": ["Hardly I had", "sat down", "when the phone", "started ringing"],
+    "answerIndex": 0,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "부정어 도치", "en": "Inversion after negative adverbials", "ja": "否定語による倒置", "zh": "否定词开头的倒装", "es": "Inversión tras adverbios negativos", "vi": "Đảo ngữ sau trạng từ phủ định" },
+    "explanation": {
+      "ko": "Hardly가 문장 맨 앞에 오면 주어와 조동사를 도치해야 합니다. 따라서 Hardly I had를 Hardly had I로 고쳐야 합니다. 'Hardly had I + 과거분사 ... when ~'은 '~하자마자 ~했다'라는 뜻이며, sat down, when the phone, started ringing은 올바릅니다.",
+      "en": "When 'Hardly' starts a sentence, the subject and auxiliary must be inverted. So 'Hardly I had' should be 'Hardly had I'. 'Hardly had I + past participle ... when' means 'as soon as I did this, that happened', and 'sat down', 'when the phone' and 'started ringing' are correct.",
+      "ja": "Hardly が文頭に来ると、主語と助動詞を倒置しなければなりません。したがって Hardly I had を Hardly had I に直します。「Hardly had I＋過去分詞 ... when ～」は「～するとすぐに～した」という意味で、sat down、when the phone、started ringing は正しいです。",
+      "zh": "Hardly 放在句首时，主语和助动词必须倒装。所以 Hardly I had 应改为 Hardly had I。“Hardly had I + 过去分词 ... when ...”的意思是“我刚……就……”，sat down、when the phone 和 started ringing 都是正确的。",
+      "es": "Cuando «Hardly» empieza la oración, el sujeto y el auxiliar deben invertirse. Por eso «Hardly I had» debe ser «Hardly had I». «Hardly had I + participio ... when» significa «apenas hice esto, ocurrió aquello», y «sat down», «when the phone» y «started ringing» son correctos.",
+      "vi": "Khi 'Hardly' đứng đầu câu, chủ ngữ và trợ động từ phải đảo ngữ. Vì vậy 'Hardly I had' phải sửa thành 'Hardly had I'. 'Hardly had I + quá khứ phân từ ... when' nghĩa là 'vừa mới... thì...', còn 'sat down', 'when the phone' và 'started ringing' đều đúng."
+    }
+  },
+  {
+    "id": "grammar-L4-0024",
+    "category": "grammar",
+    "level": "L4",
+    "format": "form",
+    "question": "This is the house ___ my grandfather was born.",
+    "choices": ["in which", "which", "in that", "whom"],
+    "answerIndex": 0,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "전치사 + 관계대명사", "en": "Relative clauses with prepositions", "ja": "前置詞＋関係代名詞", "zh": "介词＋关系代词", "es": "Oraciones de relativo con preposición", "vi": "Mệnh đề quan hệ có giới từ" },
+    "explanation": {
+      "ko": "'그 집에서 태어났다(born in the house)'이므로 전치사 in이 관계대명사 앞으로 온 in which가 정답입니다. which만 쓰면 전치사 in이 빠지고, that은 전치사 바로 뒤에 쓸 수 없으며, whom은 사람에게만 씁니다.",
+      "en": "He was born in the house, so we need the preposition 'in' before the relative pronoun: 'in which'. 'Which' alone leaves out 'in', 'that' can never come right after a preposition, and 'whom' is only for people.",
+      "ja": "「その家で生まれた（born in the house）」なので、前置詞 in を関係代名詞の前に置いた in which が正解です。which だけでは前置詞 in が抜けてしまい、that は前置詞の直後には使えず、whom は人にしか使いません。",
+      "zh": "意思是“在那所房子里出生（born in the house）”，所以要把介词 in 放在关系代词前，用 in which。只用 which 会缺少介词 in，that 不能直接放在介词后面，whom 只用于指人。",
+      "es": "Nació en la casa («born in the house»), así que se necesita la preposición «in» antes del pronombre relativo: «in which». «Which» solo omite «in», «that» nunca puede ir justo después de una preposición y «whom» se usa solo para personas.",
+      "vi": "Ông sinh ra trong ngôi nhà ('born in the house'), nên cần giới từ 'in' đặt trước đại từ quan hệ: 'in which'. Chỉ dùng 'which' thì thiếu 'in', 'that' không bao giờ đứng ngay sau giới từ, còn 'whom' chỉ dùng cho người."
+    }
+  },
+  {
+    "id": "grammar-L4-0025",
+    "category": "grammar",
+    "level": "L4",
+    "format": "form",
+    "question": "The colleague ___ I sent the documents has not replied yet.",
+    "choices": ["to which", "whom", "to whom", "to that"],
+    "answerIndex": 2,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "전치사 + 관계대명사", "en": "Relative clauses with prepositions", "ja": "前置詞＋関係代名詞", "zh": "介词＋关系代词", "es": "Oraciones de relativo con preposición", "vi": "Mệnh đề quan hệ có giới từ" },
+    "explanation": {
+      "ko": "'동료에게 서류를 보냈다(sent the documents to the colleague)'이고 colleague는 사람이므로 to whom이 정답입니다. to which는 사물에 쓰고, whom만 쓰면 전치사 to가 빠지며, that은 전치사 바로 뒤에 쓸 수 없습니다.",
+      "en": "I sent the documents to the colleague, and a colleague is a person, so 'to whom' is correct. 'To which' is for things, 'whom' alone leaves out 'to', and 'that' cannot come right after a preposition.",
+      "ja": "「同僚に書類を送った（sent the documents to the colleague）」で、colleague は人なので to whom が正解です。to which は物に使い、whom だけでは前置詞 to が抜け、that は前置詞の直後には使えません。",
+      "zh": "意思是“把文件寄给了那位同事（sent the documents to the colleague）”，colleague 指人，所以用 to whom。to which 用于指物，只用 whom 会缺少介词 to，that 不能直接放在介词后面。",
+      "es": "Envié los documentos al colega («sent the documents to the colleague»), y un colega es una persona, así que «to whom» es correcto. «To which» es para cosas, «whom» solo omite «to» y «that» no puede ir justo después de una preposición.",
+      "vi": "Tôi gửi tài liệu cho đồng nghiệp ('sent the documents to the colleague'), mà đồng nghiệp là người, nên 'to whom' đúng. 'To which' dùng cho vật, chỉ dùng 'whom' thì thiếu 'to', còn 'that' không thể đứng ngay sau giới từ."
+    }
+  },
+  {
+    "id": "grammar-L4-0026",
+    "category": "grammar",
+    "level": "L4",
+    "format": "form",
+    "question": "It's high time the city council ___ something about the traffic problem.",
+    "choices": ["does", "did", "has done", "will do"],
+    "answerIndex": 1,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "It's (high) time + 과거형", "en": "It's (high) time + past simple", "ja": "It's (high) time＋過去形", "zh": "It's (high) time + 一般过去时", "es": "It's (high) time + pasado simple", "vi": "It's (high) time + quá khứ đơn" },
+    "explanation": {
+      "ko": "'It's (high) time + 주어 + 과거형'은 '이제 ~해야 할 때다(그런데 아직 안 했다)'라는 뜻으로, 의미는 현재지만 과거형을 씁니다. 그래서 did가 정답입니다. does, has done, will do는 이 구문에서 쓰지 않습니다.",
+      "en": "'It's (high) time + subject + past simple' means 'it should happen now, but it hasn't yet'. The meaning is present, but the verb is in the past, so 'did' is correct. 'Does', 'has done' and 'will do' are not used in this structure.",
+      "ja": "「It's (high) time＋主語＋過去形」は「もう～すべき時だ（まだしていない）」という意味で、意味は現在ですが過去形を使います。そのため did が正解です。does、has done、will do はこの構文では使いません。",
+      "zh": "“It's (high) time + 主语 + 一般过去时”表示“早该……了（但还没做）”，意思是现在，但动词要用过去式。所以 did 正确。does、has done 和 will do 都不用于这个句型。",
+      "es": "«It's (high) time + sujeto + pasado simple» significa «ya debería pasar, pero aún no ha pasado». El significado es presente, pero el verbo va en pasado, así que «did» es correcto. «Does», «has done» y «will do» no se usan en esta estructura.",
+      "vi": "'It's (high) time + chủ ngữ + quá khứ đơn' nghĩa là 'đã đến lúc phải làm (nhưng vẫn chưa làm)'. Nghĩa là hiện tại nhưng động từ chia quá khứ, nên 'did' đúng. 'Does', 'has done' và 'will do' không dùng trong cấu trúc này."
+    }
+  },
+  {
+    "id": "grammar-L4-0027",
+    "category": "grammar",
+    "level": "L4",
+    "format": "form",
+    "question": "I'd rather you ___ anyone about my new job yet.",
+    "choices": ["don't tell", "won't tell", "not to tell", "didn't tell"],
+    "answerIndex": 3,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "would rather + 주어 + 과거형", "en": "would rather + subject + past simple", "ja": "would rather＋主語＋過去形", "zh": "would rather + 主语 + 一般过去时", "es": "would rather + sujeto + pasado simple", "vi": "would rather + chủ ngữ + quá khứ đơn" },
+    "explanation": {
+      "ko": "다른 사람이 어떻게 해 주기를 바랄 때는 'would rather + 주어 + 과거형'을 쓰며, 의미는 현재나 미래입니다. 그래서 didn't tell이 정답입니다. don't tell과 won't tell은 현재형·미래형이라 이 구문에 맞지 않고, not to tell은 to부정사라 주어 뒤에 올 수 없습니다.",
+      "en": "When we want another person to do something, we use 'would rather + subject + past simple', with a present or future meaning. So 'didn't tell' is correct. 'Don't tell' and 'won't tell' are present and future forms, and 'not to tell' is an infinitive, which cannot follow the subject here.",
+      "ja": "他の人にこうしてほしいと言うときは「would rather＋主語＋過去形」を使い、意味は現在や未来です。そのため didn't tell が正解です。don't tell と won't tell は現在形・未来形なのでこの構文には合わず、not to tell は to不定詞なので主語の後には置けません。",
+      "zh": "希望别人做某事时，用“would rather + 主语 + 一般过去时”，表示现在或将来的意思。所以 didn't tell 正确。don't tell 和 won't tell 是现在时和将来时，不符合这个句型；not to tell 是不定式，不能放在主语后面。",
+      "es": "Cuando queremos que otra persona haga algo, se usa «would rather + sujeto + pasado simple», con sentido presente o futuro. Por eso «didn't tell» es correcto. «Don't tell» y «won't tell» son formas de presente y futuro, y «not to tell» es un infinitivo que no puede ir después del sujeto aquí.",
+      "vi": "Khi muốn người khác làm gì, ta dùng 'would rather + chủ ngữ + quá khứ đơn', mang nghĩa hiện tại hoặc tương lai. Vì vậy 'didn't tell' đúng. 'Don't tell' và 'won't tell' là hiện tại và tương lai, còn 'not to tell' là động từ nguyên mẫu có 'to' nên không đứng sau chủ ngữ ở đây được."
+    }
+  },
+  {
+    "id": "grammar-L4-0028",
+    "category": "grammar",
+    "level": "L4",
+    "format": "form",
+    "question": "My sister would rather ___ at home tonight than go to the party.",
+    "choices": ["stay", "stayed", "to stay", "staying"],
+    "answerIndex": 0,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "would rather + 동사원형", "en": "would rather + base form", "ja": "would rather＋動詞の原形", "zh": "would rather + 动词原形", "es": "would rather + forma base", "vi": "would rather + động từ nguyên mẫu" },
+    "explanation": {
+      "ko": "주어 자신의 선호를 말할 때는 'would rather + 동사원형 (+ than + 동사원형)'을 씁니다. 그래서 stay가 정답이고, than 뒤의 go와도 형태가 맞습니다. stayed는 다른 사람이 주어로 올 때(would rather you stayed) 쓰고, to stay와 staying은 would rather 뒤에 올 수 없습니다.",
+      "en": "For the subject's own preference, we use 'would rather + base form (+ than + base form)'. So 'stay' is correct, matching 'go' after 'than'. 'Stayed' is used when another person is the subject ('would rather you stayed'), and 'to stay' and 'staying' cannot follow 'would rather'.",
+      "ja": "主語自身の好みを言うときは「would rather＋動詞の原形（＋than＋動詞の原形）」を使います。そのため stay が正解で、than の後の go とも形がそろいます。stayed は別の人が主語になるとき（would rather you stayed）に使い、to stay と staying は would rather の後には置けません。",
+      "zh": "表达主语自己的偏好时，用“would rather + 动词原形（+ than + 动词原形）”。所以 stay 正确，也和 than 后面的 go 形式一致。stayed 用于后面接另一个主语的情况（would rather you stayed），to stay 和 staying 不能放在 would rather 后面。",
+      "es": "Para la preferencia del propio sujeto se usa «would rather + forma base (+ than + forma base)». Por eso «stay» es correcto y coincide con «go» después de «than». «Stayed» se usa cuando hay otro sujeto («would rather you stayed»), y «to stay» y «staying» no pueden ir después de «would rather».",
+      "vi": "Khi nói về sở thích của chính chủ ngữ, ta dùng 'would rather + động từ nguyên mẫu (+ than + động từ nguyên mẫu)'. Vì vậy 'stay' đúng và cùng dạng với 'go' sau 'than'. 'Stayed' dùng khi có chủ ngữ khác ('would rather you stayed'), còn 'to stay' và 'staying' không đứng sau 'would rather' được."
+    }
+  },
+  {
+    "id": "grammar-L4-0029",
+    "category": "grammar",
+    "level": "L4",
+    "format": "form",
+    "question": "You ___ the milk out of the fridge all night. Now it has gone sour.",
+    "choices": ["mustn't have left", "can't have left", "shouldn't have left", "needn't leave"],
+    "answerIndex": 2,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "조동사 + have + 과거분사", "en": "Modal perfects (should have / must have / can't have)", "ja": "助動詞＋have＋過去分詞", "zh": "情态动词 + have + 过去分词", "es": "Modales perfectos (should have / must have / can't have)", "vi": "Động từ khuyết thiếu + have + quá khứ phân từ" },
+    "explanation": {
+      "ko": "'shouldn't have + 과거분사'는 '~하지 말았어야 했는데 (실제로는 했다)'라는 과거에 대한 후회나 비난을 나타냅니다. 우유가 상했으므로 shouldn't have left가 정답입니다. can't have left는 '~했을 리 없다'는 추측이라 실제로 일어난 일과 맞지 않고, mustn't have left는 쓰지 않는 형태이며, needn't leave는 현재의 불필요를 말합니다.",
+      "en": "'Shouldn't have + past participle' criticizes something that happened in the past: it was a mistake. The milk went sour, so 'shouldn't have left' is correct. 'Can't have left' means 'it's impossible that you left it', which contradicts the facts, 'mustn't have left' is not used this way, and 'needn't leave' is about the present.",
+      "ja": "「shouldn't have＋過去分詞」は「～すべきではなかったのに（実際はした）」という過去への後悔や非難を表します。牛乳が腐ったので shouldn't have left が正解です。can't have left は「～したはずがない」という推量で事実と合わず、mustn't have left はこの意味では使わず、needn't leave は現在の不必要を表します。",
+      "zh": "“shouldn't have + 过去分词”表示“本不该……（但实际上做了）”，是对过去行为的后悔或批评。牛奶已经变质，所以 shouldn't have left 正确。can't have left 表示“不可能……”的推测，与事实矛盾；mustn't have left 不这样使用；needn't leave 说的是现在不必要。",
+      "es": "«Shouldn't have + participio» critica algo que pasó en el pasado: fue un error. La leche se agrió, así que «shouldn't have left» es correcto. «Can't have left» significa «es imposible que la dejaras», lo que contradice los hechos; «mustn't have left» no se usa así, y «needn't leave» habla del presente.",
+      "vi": "'Shouldn't have + quá khứ phân từ' dùng để trách một việc đã xảy ra trong quá khứ: đó là sai lầm. Sữa đã bị chua, nên 'shouldn't have left' đúng. 'Can't have left' nghĩa là 'không thể nào bạn đã để', trái với sự thật; 'mustn't have left' không dùng như vậy, còn 'needn't leave' nói về hiện tại."
+    }
+  },
+  {
+    "id": "grammar-L4-0030",
+    "category": "grammar",
+    "level": "L4",
+    "format": "form",
+    "question": "Emma ___ the money. She was with me in the café all afternoon.",
+    "choices": ["must have stolen", "can't have stolen", "should have stolen", "needn't have stolen"],
+    "answerIndex": 1,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "조동사 + have + 과거분사", "en": "Modal perfects (should have / must have / can't have)", "ja": "助動詞＋have＋過去分詞", "zh": "情态动词 + have + 过去分词", "es": "Modales perfectos (should have / must have / can't have)", "vi": "Động từ khuyết thiếu + have + quá khứ phân từ" },
+    "explanation": {
+      "ko": "'can't have + 과거분사'는 과거 일에 대해 '~했을 리가 없다'는 강한 부정 추측입니다. 에마는 오후 내내 나와 함께 있었으므로 can't have stolen이 정답입니다. must have stolen은 '틀림없이 훔쳤다'로 반대 의미이고, should have stolen은 '훔쳤어야 했다', needn't have stolen은 '훔칠 필요가 없었다'라 문맥에 맞지 않습니다.",
+      "en": "'Can't have + past participle' means you are sure something did not happen in the past. Emma was with me all afternoon, so 'can't have stolen' is correct. 'Must have stolen' means the opposite (I'm sure she did), 'should have stolen' means it was the right thing to do, and 'needn't have stolen' means it wasn't necessary, so they don't fit.",
+      "ja": "「can't have＋過去分詞」は過去のことについて「～したはずがない」という強い否定の推量です。エマは午後ずっと私と一緒にいたので can't have stolen が正解です。must have stolen は「盗んだに違いない」で反対の意味、should have stolen は「盗むべきだった」、needn't have stolen は「盗む必要はなかった」なので文脈に合いません。",
+      "zh": "“can't have + 过去分词”表示对过去的强烈否定推测：“不可能……”。艾玛整个下午都和我在一起，所以 can't have stolen 正确。must have stolen 表示“一定偷了”，意思相反；should have stolen 表示“本应该偷”；needn't have stolen 表示“本不必偷”，都不符合语境。",
+      "es": "«Can't have + participio» significa que estás seguro de que algo no ocurrió en el pasado. Emma estuvo conmigo toda la tarde, así que «can't have stolen» es correcto. «Must have stolen» significa lo contrario (seguro que lo robó), «should have stolen» indica que era lo correcto y «needn't have stolen» que no era necesario, así que no encajan.",
+      "vi": "'Can't have + quá khứ phân từ' nghĩa là bạn chắc chắn một việc đã không xảy ra trong quá khứ. Emma ở cùng tôi cả buổi chiều, nên 'can't have stolen' đúng. 'Must have stolen' có nghĩa ngược lại (chắc chắn đã lấy), 'should have stolen' là 'lẽ ra nên lấy', còn 'needn't have stolen' là 'lẽ ra không cần lấy', nên không hợp ngữ cảnh."
+    }
+  }
+]

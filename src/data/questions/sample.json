@@ -1,0 +1,202 @@
+[
+  {
+    "id": "vocab-L1-0001",
+    "category": "vocab",
+    "level": "L1",
+    "format": "blank",
+    "question": "I eat an ___ every morning.",
+    "choices": ["apple", "chair", "run", "blue"],
+    "answerIndex": 0,
+    "word": "apple",
+    "meaning": { "ko": "사과", "en": "a round fruit with red or green skin", "ja": "りんご", "zh": "苹果", "es": "manzana", "vi": "quả táo" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "빈칸에는 아침에 '먹는' 것이 들어가야 하므로 과일인 apple(사과)이 정답입니다. chair(의자)는 물건, run(달리다)은 동사, blue(파란)는 색깔이라 먹을 수 없습니다.",
+      "en": "The blank needs something you can eat, so the fruit 'apple' is correct. 'Chair' is furniture, 'run' is a verb, and 'blue' is a color, so you cannot eat them.",
+      "ja": "空欄には「食べる」ものが入るので、果物の apple（りんご）が正解です。chair（いす）は家具、run（走る）は動詞、blue（青い）は色なので食べられません。",
+      "zh": "空格处需要一个可以“吃”的东西，所以水果 apple（苹果）是正确答案。chair（椅子）是家具，run（跑）是动词，blue（蓝色）是颜色，都不能吃。",
+      "es": "En el espacio va algo que se puede comer, así que la fruta «apple» (manzana) es la respuesta correcta. «Chair» es un mueble, «run» es un verbo y «blue» es un color, así que no se pueden comer.",
+      "vi": "Chỗ trống cần một thứ có thể ăn được, nên loại quả 'apple' (quả táo) là đáp án đúng. 'Chair' là đồ nội thất, 'run' là động từ, 'blue' là màu sắc nên không thể ăn được."
+    }
+  },
+  {
+    "id": "vocab-L1-0002",
+    "category": "vocab",
+    "level": "L1",
+    "format": "definition",
+    "question": "the room in a house where you usually sleep",
+    "choices": ["kitchen", "bedroom", "garden", "office"],
+    "answerIndex": 1,
+    "word": "bedroom",
+    "meaning": { "ko": "침실", "en": "a room for sleeping", "ja": "寝室", "zh": "卧室", "es": "dormitorio", "vi": "phòng ngủ" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'잠을 자는 방'을 뜻하는 단어는 bedroom(침실)입니다. kitchen(부엌)은 요리하는 곳, garden(정원)은 집 밖의 뜰, office(사무실)는 일하는 곳입니다.",
+      "en": "The word for 'a room where you sleep' is 'bedroom'. A kitchen is for cooking, a garden is outside the house, and an office is a place for work.",
+      "ja": "「眠るための部屋」を表す単語は bedroom（寝室）です。kitchen（台所）は料理をする場所、garden（庭）は家の外、office（事務所）は働く場所です。",
+      "zh": "表示“睡觉的房间”的单词是 bedroom（卧室）。kitchen（厨房）是做饭的地方，garden（花园）在房子外面，office（办公室）是工作的地方。",
+      "es": "La palabra para «la habitación donde duermes» es «bedroom» (dormitorio). «Kitchen» es para cocinar, «garden» está fuera de la casa y «office» es un lugar de trabajo.",
+      "vi": "Từ chỉ 'căn phòng để ngủ' là 'bedroom' (phòng ngủ). 'Kitchen' là nơi nấu ăn, 'garden' ở bên ngoài nhà, còn 'office' là nơi làm việc."
+    }
+  },
+  {
+    "id": "vocab-L2-0001",
+    "category": "vocab",
+    "level": "L2",
+    "format": "synonym",
+    "question": "Which word means the SAME as \"big\"?",
+    "choices": ["small", "quick", "large", "quiet"],
+    "answerIndex": 2,
+    "word": "large",
+    "meaning": { "ko": "큰", "en": "big in size", "ja": "大きい", "zh": "大的", "es": "grande", "vi": "lớn, to" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "large는 big과 같은 '큰'이라는 뜻입니다. small(작은)은 반대말이고, quick(빠른)과 quiet(조용한)는 크기와 관계없는 단어입니다.",
+      "en": "'Large' means the same as 'big'. 'Small' is the opposite, and 'quick' and 'quiet' are not about size.",
+      "ja": "large は big と同じく「大きい」という意味です。small（小さい）は反対の意味で、quick（速い）と quiet（静かな）は大きさとは関係ありません。",
+      "zh": "large 和 big 一样，意思是“大的”。small（小的）是反义词，quick（快的）和 quiet（安静的）与大小无关。",
+      "es": "«Large» significa lo mismo que «big» (grande). «Small» es lo contrario, y «quick» y «quiet» no hablan del tamaño.",
+      "vi": "'Large' có nghĩa giống 'big' (lớn). 'Small' là từ trái nghĩa, còn 'quick' và 'quiet' không nói về kích thước."
+    }
+  },
+  {
+    "id": "vocab-L2-0002",
+    "category": "vocab",
+    "level": "L2",
+    "format": "synonym",
+    "question": "Which word means the OPPOSITE of \"ancient\"?",
+    "choices": ["old", "famous", "broken", "modern"],
+    "answerIndex": 3,
+    "word": "modern",
+    "meaning": { "ko": "현대의", "en": "new and up to date", "ja": "現代の", "zh": "现代的", "es": "moderno", "vi": "hiện đại" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "ancient는 '아주 오래된, 고대의'라는 뜻이므로 반대말은 modern(현대의)입니다. old(오래된)는 비슷한 뜻이고, famous(유명한)와 broken(고장 난)은 반대말이 아닙니다.",
+      "en": "'Ancient' means 'very old', so its opposite is 'modern'. 'Old' has a similar meaning, and 'famous' and 'broken' are not opposites of 'ancient'.",
+      "ja": "ancient は「とても古い、古代の」という意味なので、反対語は modern（現代の）です。old（古い）は似た意味で、famous（有名な）と broken（壊れた）は反対語ではありません。",
+      "zh": "ancient 的意思是“非常古老的、古代的”，所以反义词是 modern（现代的）。old（旧的）意思相近，famous（著名的）和 broken（坏的）都不是它的反义词。",
+      "es": "«Ancient» significa «muy antiguo», así que su opuesto es «modern» (moderno). «Old» tiene un significado parecido, y «famous» y «broken» no son opuestos de «ancient».",
+      "vi": "'Ancient' nghĩa là 'rất cổ xưa', nên từ trái nghĩa là 'modern' (hiện đại). 'Old' có nghĩa gần giống, còn 'famous' và 'broken' không phải là từ trái nghĩa."
+    }
+  },
+  {
+    "id": "vocab-L4-0001",
+    "category": "vocab",
+    "level": "L4",
+    "format": "definition",
+    "question": "unwilling to change your opinion, even when there are good reasons to",
+    "choices": ["generous", "stubborn", "anxious", "curious"],
+    "answerIndex": 1,
+    "word": "stubborn",
+    "meaning": { "ko": "고집이 센", "en": "refusing to change your mind", "ja": "頑固な", "zh": "固执的", "es": "terco", "vi": "bướng bỉnh" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'좋은 이유가 있어도 생각을 바꾸려 하지 않는'은 stubborn(고집이 센)의 뜻입니다. generous는 '너그러운', anxious는 '불안한', curious는 '호기심 많은'이라는 뜻입니다.",
+      "en": "Not wanting to change your opinion, even for good reasons, is the meaning of 'stubborn'. 'Generous' means happy to give, 'anxious' means worried, and 'curious' means wanting to know things.",
+      "ja": "「理由があっても考えを変えようとしない」は stubborn（頑固な）の意味です。generous は「気前のよい」、anxious は「不安な」、curious は「好奇心の強い」という意味です。",
+      "zh": "“即使有充分理由也不愿改变看法”是 stubborn（固执的）的意思。generous 意为“慷慨的”，anxious 意为“焦虑的”，curious 意为“好奇的”。",
+      "es": "No querer cambiar de opinión, aunque haya buenas razones, es el significado de «stubborn» (terco). «Generous» significa generoso, «anxious» significa preocupado y «curious» significa curioso.",
+      "vi": "Không muốn thay đổi ý kiến dù có lý do chính đáng là nghĩa của 'stubborn' (bướng bỉnh). 'Generous' nghĩa là hào phóng, 'anxious' là lo lắng, 'curious' là tò mò."
+    }
+  },
+  {
+    "id": "grammar-L1-0001",
+    "category": "grammar",
+    "level": "L1",
+    "format": "form",
+    "question": "She ___ a student.",
+    "choices": ["is", "am", "are", "be"],
+    "answerIndex": 0,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "be동사 (현재형)", "en": "be verb (present)", "ja": "be動詞（現在形）", "zh": "be动词（现在时）", "es": "verbo be (presente)", "vi": "động từ be (hiện tại)" },
+    "explanation": {
+      "ko": "주어 She(그녀)는 3인칭 단수이므로 be동사는 is를 씁니다. am은 I와, are는 you·we·they와 함께 쓰고, be는 원형이라 이 자리에 올 수 없습니다.",
+      "en": "'She' is third person singular, so the be verb is 'is'. 'Am' goes with 'I', 'are' goes with 'you', 'we' and 'they', and the base form 'be' cannot be used here.",
+      "ja": "主語の She は三人称単数なので、be動詞は is を使います。am は I と、are は you・we・they と使い、原形の be はここには入りません。",
+      "zh": "主语 She 是第三人称单数，所以 be 动词用 is。am 与 I 搭配，are 与 you、we、they 搭配，原形 be 不能用在这里。",
+      "es": "«She» es tercera persona del singular, así que el verbo be es «is». «Am» va con «I», «are» va con «you», «we» y «they», y la forma base «be» no se puede usar aquí.",
+      "vi": "'She' là ngôi thứ ba số ít nên động từ be là 'is'. 'Am' đi với 'I', 'are' đi với 'you', 'we', 'they', còn dạng nguyên mẫu 'be' không dùng ở đây được."
+    }
+  },
+  {
+    "id": "grammar-L2-0001",
+    "category": "grammar",
+    "level": "L2",
+    "format": "form",
+    "question": "I ___ to the park yesterday.",
+    "choices": ["go", "went", "goes", "going"],
+    "answerIndex": 1,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "과거형 (불규칙 동사)", "en": "Past simple (irregular verbs)", "ja": "過去形（不規則動詞）", "zh": "一般过去时（不规则动词）", "es": "Pasado simple (verbos irregulares)", "vi": "Thì quá khứ đơn (động từ bất quy tắc)" },
+    "explanation": {
+      "ko": "yesterday(어제)가 있으므로 과거형을 써야 합니다. go의 과거형은 불규칙 변화인 went이고, go·goes는 현재형, going은 be동사 없이 혼자 쓸 수 없습니다.",
+      "en": "'Yesterday' tells us to use the past tense. The past form of 'go' is the irregular 'went'; 'go' and 'goes' are present forms, and 'going' needs a be verb.",
+      "ja": "yesterday（昨日）があるので過去形を使います。go の過去形は不規則変化の went です。go・goes は現在形で、going は be動詞なしでは使えません。",
+      "zh": "句中有 yesterday（昨天），所以要用过去时。go 的过去式是不规则的 went；go 和 goes 是现在时，going 需要和 be 动词一起用。",
+      "es": "«Yesterday» (ayer) indica que hay que usar el pasado. El pasado de «go» es el irregular «went»; «go» y «goes» son formas de presente, y «going» necesita el verbo be.",
+      "vi": "Có 'yesterday' (hôm qua) nên phải dùng thì quá khứ. Dạng quá khứ của 'go' là 'went' (bất quy tắc); 'go' và 'goes' là hiện tại, còn 'going' cần có động từ be đi kèm."
+    }
+  },
+  {
+    "id": "grammar-L3-0001",
+    "category": "grammar",
+    "level": "L3",
+    "format": "form",
+    "question": "I have lived in this city ___ 2015.",
+    "choices": ["for", "from", "since", "at"],
+    "answerIndex": 2,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "현재완료 + since/for", "en": "Present perfect + since/for", "ja": "現在完了＋since/for", "zh": "现在完成时 + since/for", "es": "Presente perfecto + since/for", "vi": "Thì hiện tại hoàn thành + since/for" },
+    "explanation": {
+      "ko": "현재완료(have lived)에서 시작 시점(2015년) 앞에는 since를 씁니다. for는 'for 10 years'처럼 기간 앞에 쓰고, from과 at은 이런 식으로 쓰지 않습니다.",
+      "en": "With the present perfect ('have lived'), we use 'since' before a starting point like 2015. 'For' is used before a length of time, like 'for 10 years', and 'from' and 'at' are not used this way.",
+      "ja": "現在完了（have lived）で始まりの時点（2015年）の前には since を使います。for は「for 10 years」のように期間の前に使い、from と at はこの形では使いません。",
+      "zh": "在现在完成时（have lived）中，表示起始时间点（2015年）要用 since。for 用在时间段前，如 for 10 years；from 和 at 不这样使用。",
+      "es": "Con el presente perfecto («have lived») se usa «since» antes de un punto de inicio como 2015. «For» se usa antes de una duración, como «for 10 years», y «from» y «at» no se usan así.",
+      "vi": "Với thì hiện tại hoàn thành ('have lived'), ta dùng 'since' trước mốc thời gian bắt đầu như 2015. 'For' dùng trước một khoảng thời gian, như 'for 10 years', còn 'from' và 'at' không dùng như vậy."
+    }
+  },
+  {
+    "id": "grammar-L3-0002",
+    "category": "grammar",
+    "level": "L3",
+    "format": "error",
+    "question": "The letter was wrote by my sister last week.",
+    "choices": ["was", "wrote", "by my sister", "last week"],
+    "answerIndex": 1,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "수동태 (be + 과거분사)", "en": "Passive voice (be + past participle)", "ja": "受動態（be＋過去分詞）", "zh": "被动语态（be + 过去分词）", "es": "Voz pasiva (be + participio)", "vi": "Câu bị động (be + quá khứ phân từ)" },
+    "explanation": {
+      "ko": "수동태는 'be동사 + 과거분사' 형태이므로 wrote(과거형)가 아니라 written(과거분사)을 써야 합니다. was, by my sister, last week는 모두 올바르게 쓰였습니다.",
+      "en": "The passive voice is 'be + past participle', so it should be 'written' (past participle), not 'wrote' (past simple). 'Was', 'by my sister' and 'last week' are all correct.",
+      "ja": "受動態は「be動詞＋過去分詞」なので、wrote（過去形）ではなく written（過去分詞）を使います。was、by my sister、last week はすべて正しいです。",
+      "zh": "被动语态是“be 动词 + 过去分词”，所以应该用 written（过去分词），而不是 wrote（过去式）。was、by my sister 和 last week 都是正确的。",
+      "es": "La voz pasiva es «be + participio», así que debe ser «written» (participio) y no «wrote» (pasado simple). «Was», «by my sister» y «last week» son correctos.",
+      "vi": "Câu bị động có dạng 'be + quá khứ phân từ', nên phải dùng 'written' (quá khứ phân từ) chứ không phải 'wrote' (quá khứ đơn). 'Was', 'by my sister' và 'last week' đều đúng."
+    }
+  },
+  {
+    "id": "grammar-L4-0001",
+    "category": "grammar",
+    "level": "L4",
+    "format": "form",
+    "question": "If I ___ rich, I would travel around the world.",
+    "choices": ["am", "will be", "were", "have been"],
+    "answerIndex": 2,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "가정법 과거", "en": "Second conditional", "ja": "仮定法過去", "zh": "虚拟语气（与现在事实相反）", "es": "Condicional de segundo tipo", "vi": "Câu điều kiện loại 2" },
+    "explanation": {
+      "ko": "뒤 문장에 would travel이 있으므로 현재 사실과 반대를 가정하는 가정법 과거입니다. 이때 if절의 be동사는 주어와 관계없이 보통 were를 쓰며, am·will be·have been은 쓸 수 없습니다.",
+      "en": "'Would travel' shows this is the second conditional, which talks about an unreal present situation. In the if-clause we use the past form, and 'were' is used for all subjects; 'am', 'will be' and 'have been' are wrong here.",
+      "ja": "後半に would travel があるので、現在の事実と反対の仮定をする仮定法過去です。if節の be動詞は主語に関係なく were を使うのが一般的で、am・will be・have been は使えません。",
+      "zh": "后半句有 would travel，说明这是与现在事实相反的虚拟语气。if 从句中的 be 动词无论主语是什么通常都用 were，am、will be、have been 都不对。",
+      "es": "«Would travel» muestra que es el condicional de segundo tipo, que habla de una situación presente irreal. En la parte con «if» se usa el pasado, y «were» sirve para todos los sujetos; «am», «will be» y «have been» son incorrectos.",
+      "vi": "'Would travel' cho thấy đây là câu điều kiện loại 2, nói về điều không có thật ở hiện tại. Trong mệnh đề 'if' ta dùng dạng quá khứ, và 'were' dùng cho mọi chủ ngữ; 'am', 'will be' và 'have been' đều sai."
+    }
+  }
+]

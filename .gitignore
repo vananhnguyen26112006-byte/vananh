@@ -1,0 +1,8 @@
+node_modules
+dist
+dev-dist
+.env
+.env.*
+.vercel
+# 이 PC 전용 설정 (Claude Code 미리보기 경로 등)
+.claude/

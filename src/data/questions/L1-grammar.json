@@ -1,0 +1,602 @@
+[
+  {
+    "id": "grammar-L1-0001",
+    "category": "grammar",
+    "level": "L1",
+    "format": "form",
+    "question": "I ___ ten years old.",
+    "choices": ["is", "am", "are", "be"],
+    "answerIndex": 1,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "be동사 (현재형)", "en": "be verb (present)", "ja": "be動詞（現在形）", "zh": "be动词（现在时）", "es": "verbo be (presente)", "vi": "động từ be (hiện tại)" },
+    "explanation": {
+      "ko": "주어가 I(나)일 때 be동사는 항상 am을 씁니다. is는 he·she·it과, are는 you·we·they와 함께 쓰고, 원형 be는 이 자리에 올 수 없습니다.",
+      "en": "With the subject 'I', the be verb is always 'am'. 'Is' goes with 'he', 'she' and 'it', 'are' goes with 'you', 'we' and 'they', and the base form 'be' cannot be used here.",
+      "ja": "主語が I のとき、be動詞はいつも am を使います。is は he・she・it と、are は you・we・they と使い、原形の be はここには入りません。",
+      "zh": "主语是 I 时，be 动词总是用 am。is 与 he、she、it 搭配，are 与 you、we、they 搭配，原形 be 不能用在这里。",
+      "es": "Con el sujeto «I», el verbo be siempre es «am». «Is» va con «he», «she» e «it», «are» va con «you», «we» y «they», y la forma base «be» no se puede usar aquí.",
+      "vi": "Khi chủ ngữ là 'I', động từ be luôn là 'am'. 'Is' đi với 'he', 'she', 'it', 'are' đi với 'you', 'we', 'they', còn dạng nguyên mẫu 'be' không dùng ở đây được."
+    }
+  },
+  {
+    "id": "grammar-L1-0002",
+    "category": "grammar",
+    "level": "L1",
+    "format": "form",
+    "question": "My mother ___ coffee every morning.",
+    "choices": ["drinks", "drink", "drinking", "to drink"],
+    "answerIndex": 0,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "현재형 (3인칭 단수 -s)", "en": "Present simple (3rd person -s)", "ja": "現在形（三人称単数の -s）", "zh": "一般现在时（第三人称单数 -s）", "es": "Presente simple (-s en tercera persona)", "vi": "Thì hiện tại đơn (ngôi thứ ba số ít thêm -s)" },
+    "explanation": {
+      "ko": "every morning(매일 아침)은 습관을 나타내므로 현재형을 씁니다. 주어 My mother는 3인칭 단수라서 동사에 -s를 붙인 drinks가 정답입니다. drink는 -s가 없고, drinking과 to drink는 혼자서 동사 자리에 올 수 없습니다.",
+      "en": "'Every morning' shows a habit, so we use the present simple. 'My mother' is third person singular, so the verb needs -s: 'drinks'. 'Drink' has no -s, and 'drinking' and 'to drink' cannot be the main verb alone.",
+      "ja": "every morning（毎朝）は習慣を表すので現在形を使います。主語の My mother は三人称単数なので、動詞に -s をつけた drinks が正解です。drink には -s がなく、drinking と to drink は単独で動詞として使えません。",
+      "zh": "every morning（每天早上）表示习惯，所以用一般现在时。主语 My mother 是第三人称单数，动词要加 -s，所以答案是 drinks。drink 没有加 -s，drinking 和 to drink 不能单独作谓语。",
+      "es": "«Every morning» (cada mañana) indica un hábito, así que se usa el presente simple. «My mother» es tercera persona del singular, por eso el verbo lleva -s: «drinks». «Drink» no tiene -s, y «drinking» y «to drink» no pueden ser el verbo principal solos.",
+      "vi": "'Every morning' (mỗi sáng) chỉ thói quen nên dùng thì hiện tại đơn. 'My mother' là ngôi thứ ba số ít nên động từ phải thêm -s: 'drinks'. 'Drink' thiếu -s, còn 'drinking' và 'to drink' không thể tự làm động từ chính."
+    }
+  },
+  {
+    "id": "grammar-L1-0003",
+    "category": "grammar",
+    "level": "L1",
+    "format": "error",
+    "question": "Tom watch TV every evening.",
+    "choices": ["Tom", "watch", "TV", "every evening"],
+    "answerIndex": 1,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "현재형 (3인칭 단수 -s)", "en": "Present simple (3rd person -s)", "ja": "現在形（三人称単数の -s）", "zh": "一般现在时（第三人称单数 -s）", "es": "Presente simple (-s en tercera persona)", "vi": "Thì hiện tại đơn (ngôi thứ ba số ít thêm -s)" },
+    "explanation": {
+      "ko": "주어 Tom은 3인칭 단수이므로 현재형 동사에 -es를 붙여야 합니다. 따라서 watch가 아니라 watches가 맞습니다: Tom watches TV every evening. Tom, TV, every evening은 올바르게 쓰였습니다.",
+      "en": "'Tom' is third person singular, so the present simple verb needs -es. It should be 'watches', not 'watch': Tom watches TV every evening. 'Tom', 'TV' and 'every evening' are correct.",
+      "ja": "主語の Tom は三人称単数なので、現在形の動詞に -es をつけます。watch ではなく watches が正しく、Tom watches TV every evening. となります。Tom、TV、every evening は正しいです。",
+      "zh": "主语 Tom 是第三人称单数，一般现在时的动词要加 -es。应该用 watches，而不是 watch：Tom watches TV every evening. Tom、TV 和 every evening 都是正确的。",
+      "es": "«Tom» es tercera persona del singular, así que el verbo en presente simple lleva -es. Debe ser «watches», no «watch»: Tom watches TV every evening. «Tom», «TV» y «every evening» son correctos.",
+      "vi": "'Tom' là ngôi thứ ba số ít nên động từ ở thì hiện tại đơn phải thêm -es. Phải là 'watches' chứ không phải 'watch': Tom watches TV every evening. 'Tom', 'TV' và 'every evening' đều đúng."
+    }
+  },
+  {
+    "id": "grammar-L1-0004",
+    "category": "grammar",
+    "level": "L1",
+    "format": "form",
+    "question": "My father ___ eat meat.",
+    "choices": ["don't", "isn't", "doesn't", "not"],
+    "answerIndex": 2,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "do/does 의문문·부정문", "en": "do/does in questions and negatives", "ja": "do/does を使う疑問文・否定文", "zh": "do/does 构成疑问句和否定句", "es": "do/does en preguntas y negaciones", "vi": "do/does trong câu hỏi và câu phủ định" },
+    "explanation": {
+      "ko": "일반동사(eat)의 현재형 부정문은 don't 또는 doesn't + 동사원형으로 만듭니다. 주어 My father는 3인칭 단수이므로 doesn't가 정답입니다. don't는 I·you·we·they와 쓰고, isn't는 be동사의 부정, not은 혼자 동사 앞에 쓸 수 없습니다.",
+      "en": "To make a present simple negative with a verb like 'eat', we use 'don't' or 'doesn't' + base verb. 'My father' is third person singular, so 'doesn't' is correct. 'Don't' goes with 'I', 'you', 'we' and 'they', 'isn't' is for the be verb, and 'not' cannot stand alone before a verb.",
+      "ja": "eat のような一般動詞の現在形の否定文は、don't または doesn't＋動詞の原形で作ります。主語の My father は三人称単数なので doesn't が正解です。don't は I・you・we・they と使い、isn't は be動詞の否定で、not だけを動詞の前に置くことはできません。",
+      "zh": "像 eat 这样的实义动词，一般现在时的否定句用 don't 或 doesn't + 动词原形。主语 My father 是第三人称单数，所以用 doesn't。don't 与 I、you、we、they 搭配，isn't 是 be 动词的否定，not 不能单独放在动词前。",
+      "es": "Para negar en presente simple con un verbo como «eat», se usa «don't» o «doesn't» + verbo en forma base. «My father» es tercera persona del singular, así que la respuesta es «doesn't». «Don't» va con «I», «you», «we» y «they», «isn't» es la negación del verbo be, y «not» no puede ir solo delante del verbo.",
+      "vi": "Câu phủ định ở thì hiện tại đơn với động từ thường như 'eat' dùng 'don't' hoặc 'doesn't' + động từ nguyên mẫu. 'My father' là ngôi thứ ba số ít nên đáp án là 'doesn't'. 'Don't' đi với 'I', 'you', 'we', 'they', 'isn't' là phủ định của động từ be, còn 'not' không thể đứng một mình trước động từ."
+    }
+  },
+  {
+    "id": "grammar-L1-0005",
+    "category": "grammar",
+    "level": "L1",
+    "format": "form",
+    "question": "My parents ___ doctors.",
+    "choices": ["is", "am", "be", "are"],
+    "answerIndex": 3,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "be동사 (현재형)", "en": "be verb (present)", "ja": "be動詞（現在形）", "zh": "be动词（现在时）", "es": "verbo be (presente)", "vi": "động từ be (hiện tại)" },
+    "explanation": {
+      "ko": "주어 My parents(나의 부모님)는 복수이므로 be동사는 are를 씁니다. is는 단수 주어와, am은 I와만 쓰고, 원형 be는 이 자리에 올 수 없습니다.",
+      "en": "'My parents' is plural, so the be verb is 'are'. 'Is' goes with a singular subject, 'am' goes only with 'I', and the base form 'be' cannot be used here.",
+      "ja": "主語の My parents（私の両親）は複数なので、be動詞は are を使います。is は単数の主語と、am は I とだけ使い、原形の be はここには入りません。",
+      "zh": "主语 My parents（我的父母）是复数，所以 be 动词用 are。is 用于单数主语，am 只和 I 搭配，原形 be 不能用在这里。",
+      "es": "«My parents» (mis padres) es plural, así que el verbo be es «are». «Is» va con un sujeto singular, «am» solo va con «I», y la forma base «be» no se puede usar aquí.",
+      "vi": "'My parents' (bố mẹ tôi) là số nhiều nên động từ be là 'are'. 'Is' đi với chủ ngữ số ít, 'am' chỉ đi với 'I', còn dạng nguyên mẫu 'be' không dùng ở đây được."
+    }
+  },
+  {
+    "id": "grammar-L1-0006",
+    "category": "grammar",
+    "level": "L1",
+    "format": "form",
+    "question": "He has ___ umbrella.",
+    "choices": ["a", "an", "two", "many"],
+    "answerIndex": 1,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "부정관사 a/an", "en": "Articles a/an", "ja": "不定冠詞 a/an", "zh": "不定冠词 a/an", "es": "Artículos a/an", "vi": "Mạo từ a/an" },
+    "explanation": {
+      "ko": "umbrella는 모음 소리(u, '엄')로 시작하므로 a가 아니라 an을 씁니다. two와 many 뒤에는 복수형 umbrellas가 와야 하므로 단수 umbrella와 함께 쓸 수 없습니다.",
+      "en": "'Umbrella' begins with a vowel sound, so we use 'an', not 'a'. 'Two' and 'many' need the plural 'umbrellas', so they cannot go with the singular 'umbrella'.",
+      "ja": "umbrella は母音の音で始まるので、a ではなく an を使います。two と many の後には複数形の umbrellas が必要なので、単数の umbrella とは使えません。",
+      "zh": "umbrella 以元音音素开头，所以用 an，而不是 a。two 和 many 后面要用复数 umbrellas，不能和单数 umbrella 连用。",
+      "es": "«Umbrella» empieza con sonido de vocal, así que se usa «an», no «a». «Two» y «many» necesitan el plural «umbrellas», así que no pueden ir con el singular «umbrella».",
+      "vi": "'Umbrella' bắt đầu bằng một nguyên âm nên dùng 'an', không dùng 'a'. 'Two' và 'many' cần danh từ số nhiều 'umbrellas', nên không đi với 'umbrella' số ít được."
+    }
+  },
+  {
+    "id": "grammar-L1-0007",
+    "category": "grammar",
+    "level": "L1",
+    "format": "error",
+    "question": "My mother is a English teacher.",
+    "choices": ["My mother", "is", "a", "English teacher"],
+    "answerIndex": 2,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "부정관사 a/an", "en": "Articles a/an", "ja": "不定冠詞 a/an", "zh": "不定冠词 a/an", "es": "Artículos a/an", "vi": "Mạo từ a/an" },
+    "explanation": {
+      "ko": "English는 모음 소리로 시작하므로 a가 아니라 an을 써야 합니다: My mother is an English teacher. My mother, is, English teacher는 올바르게 쓰였습니다.",
+      "en": "'English' begins with a vowel sound, so we need 'an', not 'a': My mother is an English teacher. 'My mother', 'is' and 'English teacher' are correct.",
+      "ja": "English は母音の音で始まるので、a ではなく an を使います。正しくは My mother is an English teacher. です。My mother、is、English teacher は正しいです。",
+      "zh": "English 以元音音素开头，所以要用 an，而不是 a：My mother is an English teacher. My mother、is 和 English teacher 都是正确的。",
+      "es": "«English» empieza con sonido de vocal, así que se usa «an», no «a»: My mother is an English teacher. «My mother», «is» y «English teacher» son correctos.",
+      "vi": "'English' bắt đầu bằng một nguyên âm nên phải dùng 'an', không dùng 'a': My mother is an English teacher. 'My mother', 'is' và 'English teacher' đều đúng."
+    }
+  },
+  {
+    "id": "grammar-L1-0008",
+    "category": "grammar",
+    "level": "L1",
+    "format": "form",
+    "question": "Two ___ are playing in the park.",
+    "choices": ["childs", "child", "childrens", "children"],
+    "answerIndex": 3,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "명사의 복수형", "en": "Plural nouns", "ja": "名詞の複数形", "zh": "名词复数", "es": "Plural de los sustantivos", "vi": "Danh từ số nhiều" },
+    "explanation": {
+      "ko": "child(아이)는 불규칙 명사라서 복수형이 children입니다. Two 뒤에는 복수형이 와야 하므로 단수 child는 틀리고, childs와 childrens는 없는 형태입니다.",
+      "en": "'Child' is an irregular noun, and its plural is 'children'. After 'two' we need a plural, so the singular 'child' is wrong, and 'childs' and 'childrens' are not real words.",
+      "ja": "child（子ども）は不規則名詞で、複数形は children です。Two の後には複数形が必要なので単数の child は誤りで、childs と childrens という形はありません。",
+      "zh": "child（孩子）是不规则名词，复数形式是 children。Two 后面要用复数，所以单数 child 不对，childs 和 childrens 都不存在。",
+      "es": "«Child» (niño) es un sustantivo irregular y su plural es «children». Después de «two» hace falta un plural, así que el singular «child» es incorrecto, y «childs» y «childrens» no existen.",
+      "vi": "'Child' (đứa trẻ) là danh từ bất quy tắc, số nhiều là 'children'. Sau 'two' cần danh từ số nhiều nên 'child' sai, còn 'childs' và 'childrens' không phải là từ đúng."
+    }
+  },
+  {
+    "id": "grammar-L1-0009",
+    "category": "grammar",
+    "level": "L1",
+    "format": "form",
+    "question": "This is my friend Tom. I like ___ very much.",
+    "choices": ["him", "he", "his", "they"],
+    "answerIndex": 0,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "주격·목적격 대명사", "en": "Subject and object pronouns", "ja": "主格・目的格の代名詞", "zh": "主格和宾格代词", "es": "Pronombres de sujeto y de objeto", "vi": "Đại từ chủ ngữ và tân ngữ" },
+    "explanation": {
+      "ko": "빈칸은 동사 like의 목적어 자리이고 Tom(남자 한 명)을 가리키므로 목적격 him을 씁니다. he는 주어 자리에 쓰는 주격, his는 '그의'라는 소유격이며, they는 여러 사람을 가리킵니다.",
+      "en": "The blank is the object of 'like', and it means Tom (one boy), so we use the object pronoun 'him'. 'He' is a subject pronoun, 'his' is possessive, and 'they' is for more than one person.",
+      "ja": "空欄は動詞 like の目的語で、Tom（男の子一人）を指すので、目的格の him を使います。he は主語に使う主格、his は「彼の」という所有格で、they は複数の人を指します。",
+      "zh": "空格是动词 like 的宾语，指的是 Tom（一个男孩），所以用宾格 him。he 是作主语的主格，his 是表示“他的”的物主代词，they 指多个人。",
+      "es": "El espacio es el objeto de «like» y se refiere a Tom (un chico), así que se usa el pronombre de objeto «him». «He» es pronombre de sujeto, «his» es posesivo y «they» es para varias personas.",
+      "vi": "Chỗ trống là tân ngữ của động từ 'like' và chỉ Tom (một bạn nam), nên dùng đại từ tân ngữ 'him'. 'He' là đại từ chủ ngữ, 'his' là sở hữu, còn 'they' chỉ nhiều người."
+    }
+  },
+  {
+    "id": "grammar-L1-0010",
+    "category": "grammar",
+    "level": "L1",
+    "format": "error",
+    "question": "Him is my English teacher.",
+    "choices": ["Him", "is", "my", "English teacher"],
+    "answerIndex": 0,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "주격·목적격 대명사", "en": "Subject and object pronouns", "ja": "主格・目的格の代名詞", "zh": "主格和宾格代词", "es": "Pronombres de sujeto y de objeto", "vi": "Đại từ chủ ngữ và tân ngữ" },
+    "explanation": {
+      "ko": "문장의 주어 자리에는 목적격 him이 아니라 주격 he를 써야 합니다: He is my English teacher. is, my, English teacher는 올바르게 쓰였습니다.",
+      "en": "The subject of a sentence needs a subject pronoun, so it should be 'He', not 'Him': He is my English teacher. 'Is', 'my' and 'English teacher' are correct.",
+      "ja": "文の主語には目的格の him ではなく、主格の he を使います。正しくは He is my English teacher. です。is、my、English teacher は正しいです。",
+      "zh": "句子的主语要用主格 he，而不是宾格 him：He is my English teacher. is、my 和 English teacher 都是正确的。",
+      "es": "El sujeto de la oración necesita un pronombre de sujeto, así que debe ser «He», no «Him»: He is my English teacher. «Is», «my» y «English teacher» son correctos.",
+      "vi": "Chủ ngữ của câu phải dùng đại từ chủ ngữ 'He', không dùng 'Him': He is my English teacher. 'Is', 'my' và 'English teacher' đều đúng."
+    }
+  },
+  {
+    "id": "grammar-L1-0011",
+    "category": "grammar",
+    "level": "L1",
+    "format": "form",
+    "question": "Ken and Mia love ___ dog.",
+    "choices": ["they", "them", "their", "there"],
+    "answerIndex": 2,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "소유격 (my/his/their)", "en": "Possessive adjectives (my/his/their)", "ja": "所有格（my/his/their）", "zh": "形容词性物主代词（my/his/their）", "es": "Adjetivos posesivos (my/his/their)", "vi": "Tính từ sở hữu (my/his/their)" },
+    "explanation": {
+      "ko": "명사 dog 앞에서 '그들의'라는 뜻을 나타내려면 소유격 their를 씁니다. they는 주격, them은 목적격이라 명사 앞에 올 수 없고, there는 '거기에'라는 뜻으로 발음만 비슷합니다.",
+      "en": "Before the noun 'dog', we need the possessive 'their' to mean 'belonging to them'. 'They' is a subject pronoun and 'them' is an object pronoun, so they cannot go before a noun, and 'there' means 'in that place'; it only sounds similar.",
+      "ja": "名詞 dog の前で「彼らの」を表すには、所有格の their を使います。they は主格、them は目的格なので名詞の前には置けず、there は「そこに」という意味で、発音が似ているだけです。",
+      "zh": "在名词 dog 前表示“他们的”，要用物主代词 their。they 是主格，them 是宾格，都不能放在名词前；there 意思是“那里”，只是发音相似。",
+      "es": "Delante del sustantivo «dog» se necesita el posesivo «their» (su, de ellos). «They» es pronombre de sujeto y «them» de objeto, así que no van delante de un sustantivo, y «there» significa «allí»; solo suena parecido.",
+      "vi": "Trước danh từ 'dog', ta dùng tính từ sở hữu 'their' (của họ). 'They' là đại từ chủ ngữ, 'them' là đại từ tân ngữ nên không đứng trước danh từ, còn 'there' nghĩa là 'ở đó', chỉ phát âm giống."
+    }
+  },
+  {
+    "id": "grammar-L1-0012",
+    "category": "grammar",
+    "level": "L1",
+    "format": "form",
+    "question": "Look at ___ birds over there in the tree!",
+    "choices": ["this", "that", "these", "those"],
+    "answerIndex": 3,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "지시어 this/that/these/those", "en": "this/that/these/those", "ja": "指示語 this/that/these/those", "zh": "指示代词 this/that/these/those", "es": "Demostrativos this/that/these/those", "vi": "Từ chỉ định this/that/these/those" },
+    "explanation": {
+      "ko": "birds는 복수이고 over there(저기)는 멀리 있는 것을 나타내므로 those를 씁니다. this와 that은 단수 명사와 쓰고, these는 가까이 있는 복수의 것에 씁니다.",
+      "en": "'Birds' is plural and 'over there' shows they are far away, so we use 'those'. 'This' and 'that' go with singular nouns, and 'these' is for plural things that are near.",
+      "ja": "birds は複数で、over there（あそこに）は遠くにあることを表すので those を使います。this と that は単数名詞と使い、these は近くにある複数のものに使います。",
+      "zh": "birds 是复数，over there（在那边）表示距离远，所以用 those。this 和 that 修饰单数名词，these 用于近处的复数事物。",
+      "es": "«Birds» es plural y «over there» (allí) indica que están lejos, así que se usa «those». «This» y «that» van con sustantivos en singular, y «these» es para cosas en plural que están cerca.",
+      "vi": "'Birds' là số nhiều và 'over there' (ở đằng kia) cho biết chúng ở xa, nên dùng 'those'. 'This' và 'that' đi với danh từ số ít, còn 'these' dùng cho nhiều vật ở gần."
+    }
+  },
+  {
+    "id": "grammar-L1-0013",
+    "category": "grammar",
+    "level": "L1",
+    "format": "form",
+    "question": "___ book in my hand is very interesting.",
+    "choices": ["This", "These", "Those", "That"],
+    "answerIndex": 0,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "지시어 this/that/these/those", "en": "this/that/these/those", "ja": "指示語 this/that/these/those", "zh": "指示代词 this/that/these/those", "es": "Demostrativos this/that/these/those", "vi": "Từ chỉ định this/that/these/those" },
+    "explanation": {
+      "ko": "book은 단수이고 in my hand(내 손에)는 가까이 있다는 뜻이므로 This를 씁니다. These와 Those는 복수 명사와 쓰고, That은 멀리 있는 것에 씁니다.",
+      "en": "'Book' is singular and 'in my hand' shows it is near, so we use 'This'. 'These' and 'Those' go with plural nouns, and 'That' is for something far away.",
+      "ja": "book は単数で、in my hand（私の手の中に）は近くにあることを表すので This を使います。These と Those は複数名詞と使い、That は遠くにあるものに使います。",
+      "zh": "book 是单数，in my hand（在我手里）表示距离近，所以用 This。These 和 Those 修饰复数名词，That 用于远处的事物。",
+      "es": "«Book» es singular e «in my hand» (en mi mano) indica que está cerca, así que se usa «This». «These» y «Those» van con sustantivos en plural, y «That» es para algo que está lejos.",
+      "vi": "'Book' là số ít và 'in my hand' (trong tay tôi) cho biết nó ở gần, nên dùng 'This'. 'These' và 'Those' đi với danh từ số nhiều, còn 'That' dùng cho vật ở xa."
+    }
+  },
+  {
+    "id": "grammar-L1-0014",
+    "category": "grammar",
+    "level": "L1",
+    "format": "form",
+    "question": "There ___ two cats on the sofa.",
+    "choices": ["is", "are", "am", "be"],
+    "answerIndex": 1,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "There is / There are", "en": "There is / There are", "ja": "There is / There are 構文", "zh": "There is / There are 句型", "es": "There is / There are", "vi": "Cấu trúc There is / There are" },
+    "explanation": {
+      "ko": "There is/are 뒤의 명사가 two cats(고양이 두 마리)로 복수이므로 are를 씁니다. is는 단수 명사와 쓰고, am과 be는 There 뒤에 쓸 수 없습니다.",
+      "en": "The noun after 'There is/are' is 'two cats', which is plural, so we use 'are'. 'Is' goes with a singular noun, and 'am' and 'be' cannot follow 'There' here.",
+      "ja": "There is/are の後の名詞は two cats（2匹の猫）で複数なので、are を使います。is は単数名詞と使い、am と be は There の後には使えません。",
+      "zh": "There is/are 后面的名词 two cats（两只猫）是复数，所以用 are。is 与单数名词搭配，am 和 be 不能用在 There 后面。",
+      "es": "El sustantivo después de «There is/are» es «two cats» (dos gatos), que es plural, así que se usa «are». «Is» va con un sustantivo singular, y «am» y «be» no pueden ir después de «There» aquí.",
+      "vi": "Danh từ sau 'There is/are' là 'two cats' (hai con mèo), là số nhiều, nên dùng 'are'. 'Is' đi với danh từ số ít, còn 'am' và 'be' không dùng sau 'There' ở đây được."
+    }
+  },
+  {
+    "id": "grammar-L1-0015",
+    "category": "grammar",
+    "level": "L1",
+    "format": "form",
+    "question": "There ___ a big tree in our garden.",
+    "choices": ["are", "am", "is", "be"],
+    "answerIndex": 2,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "There is / There are", "en": "There is / There are", "ja": "There is / There are 構文", "zh": "There is / There are 句型", "es": "There is / There are", "vi": "Cấu trúc There is / There are" },
+    "explanation": {
+      "ko": "뒤에 오는 a big tree(큰 나무 한 그루)는 단수이므로 There is를 씁니다. are는 복수 명사와 쓰고, am과 be는 There 뒤에 쓸 수 없습니다.",
+      "en": "'A big tree' is singular, so we use 'There is'. 'Are' goes with plural nouns, and 'am' and 'be' cannot follow 'There' here.",
+      "ja": "後ろの a big tree（1本の大きな木）は単数なので、There is を使います。are は複数名詞と使い、am と be は There の後には使えません。",
+      "zh": "后面的 a big tree（一棵大树）是单数，所以用 There is。are 与复数名词搭配，am 和 be 不能用在 There 后面。",
+      "es": "«A big tree» (un árbol grande) es singular, así que se usa «There is». «Are» va con sustantivos en plural, y «am» y «be» no pueden ir después de «There» aquí.",
+      "vi": "'A big tree' (một cái cây lớn) là số ít nên dùng 'There is'. 'Are' đi với danh từ số nhiều, còn 'am' và 'be' không dùng sau 'There' ở đây được."
+    }
+  },
+  {
+    "id": "grammar-L1-0016",
+    "category": "grammar",
+    "level": "L1",
+    "format": "form",
+    "question": "Penguins ___ fly, but they can swim very well.",
+    "choices": ["can't", "can", "are", "is"],
+    "answerIndex": 0,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "조동사 can / can't", "en": "can / can't", "ja": "助動詞 can / can't", "zh": "情态动词 can / can't", "es": "can / can't (poder)", "vi": "Động từ khuyết thiếu can / can't" },
+    "explanation": {
+      "ko": "but(하지만) 뒤에 '수영은 잘한다'가 나오므로 앞부분은 '날 수 없다'는 뜻인 can't가 알맞습니다. can을 쓰면 but과 뜻이 맞지 않고, are와 is는 be동사라서 동사원형 fly 앞에 쓸 수 없습니다.",
+      "en": "After 'but' we read that they swim well, so the first part must say they are not able to fly: 'can't'. 'Can' does not match the meaning of 'but', and 'are' and 'is' are be verbs, so they cannot go before the base verb 'fly'.",
+      "ja": "but（でも）の後に「泳ぐのは上手だ」とあるので、前半は「飛べない」という意味の can't が合います。can では but と意味が合わず、are と is は be動詞なので動詞の原形 fly の前には置けません。",
+      "zh": "but（但是）后面说它们很会游泳，所以前半句应该是“不会飞”，用 can't。用 can 和 but 的意思不符，are 和 is 是 be 动词，不能放在动词原形 fly 前。",
+      "es": "Después de «but» (pero) dice que nadan muy bien, así que la primera parte debe decir que no pueden volar: «can't». «Can» no tiene sentido con «but», y «are» e «is» son formas del verbo be, así que no pueden ir antes del verbo base «fly».",
+      "vi": "Sau 'but' (nhưng) câu nói chúng bơi rất giỏi, nên vế đầu phải là 'không thể bay': 'can't'. 'Can' không hợp nghĩa với 'but', còn 'are' và 'is' là động từ be nên không đứng trước động từ nguyên mẫu 'fly' được."
+    }
+  },
+  {
+    "id": "grammar-L1-0017",
+    "category": "grammar",
+    "level": "L1",
+    "format": "error",
+    "question": "My sister can sings very well.",
+    "choices": ["My sister", "can", "sings", "very well"],
+    "answerIndex": 2,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "조동사 can / can't", "en": "can / can't", "ja": "助動詞 can / can't", "zh": "情态动词 can / can't", "es": "can / can't (poder)", "vi": "Động từ khuyết thiếu can / can't" },
+    "explanation": {
+      "ko": "can 뒤에는 주어와 상관없이 항상 동사원형이 옵니다. 따라서 sings가 아니라 sing이 맞습니다: My sister can sing very well. My sister, can, very well은 올바르게 쓰였습니다.",
+      "en": "After 'can' we always use the base form of the verb, even with 'she' or 'my sister'. So it should be 'sing', not 'sings': My sister can sing very well. 'My sister', 'can' and 'very well' are correct.",
+      "ja": "can の後には、主語に関係なくいつも動詞の原形が来ます。sings ではなく sing が正しく、My sister can sing very well. となります。My sister、can、very well は正しいです。",
+      "zh": "can 后面无论主语是什么，都要用动词原形。所以应该用 sing，而不是 sings：My sister can sing very well. My sister、can 和 very well 都是正确的。",
+      "es": "Después de «can» siempre va el verbo en forma base, sin importar el sujeto. Por eso debe ser «sing», no «sings»: My sister can sing very well. «My sister», «can» y «very well» son correctos.",
+      "vi": "Sau 'can' luôn dùng động từ nguyên mẫu, dù chủ ngữ là gì. Vì vậy phải là 'sing' chứ không phải 'sings': My sister can sing very well. 'My sister', 'can' và 'very well' đều đúng."
+    }
+  },
+  {
+    "id": "grammar-L1-0018",
+    "category": "grammar",
+    "level": "L1",
+    "format": "form",
+    "question": "My birthday is ___ May.",
+    "choices": ["on", "at", "in", "to"],
+    "answerIndex": 2,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "시간 전치사 (in/on/at)", "en": "Prepositions of time (in/on/at)", "ja": "時を表す前置詞（in/on/at）", "zh": "时间介词（in/on/at）", "es": "Preposiciones de tiempo (in/on/at)", "vi": "Giới từ chỉ thời gian (in/on/at)" },
+    "explanation": {
+      "ko": "May(5월) 같은 달 앞에는 in을 씁니다. on은 요일이나 날짜(on Monday, on May 5) 앞에, at은 시각(at 3 o'clock) 앞에 쓰며, to는 시간을 나타낼 때 이렇게 쓰지 않습니다.",
+      "en": "We use 'in' before months like May. 'On' is for days and dates (on Monday, on May 5), 'at' is for clock times (at 3 o'clock), and 'to' is not used this way for time.",
+      "ja": "May（5月）のような月の前には in を使います。on は曜日や日付（on Monday, on May 5）、at は時刻（at 3 o'clock）の前に使い、to は時を表すときこのようには使いません。",
+      "zh": "May（五月）这样的月份前用 in。on 用在星期或日期前（on Monday, on May 5），at 用在钟点前（at 3 o'clock），to 不这样表示时间。",
+      "es": "Delante de los meses, como May (mayo), se usa «in». «On» es para días y fechas (on Monday, on May 5), «at» es para la hora (at 3 o'clock), y «to» no se usa así para el tiempo.",
+      "vi": "Trước tên tháng như May (tháng Năm) ta dùng 'in'. 'On' dùng cho thứ và ngày (on Monday, on May 5), 'at' dùng cho giờ (at 3 o'clock), còn 'to' không dùng như vậy để chỉ thời gian."
+    }
+  },
+  {
+    "id": "grammar-L1-0019",
+    "category": "grammar",
+    "level": "L1",
+    "format": "form",
+    "question": "We don't go to school ___ Sundays.",
+    "choices": ["in", "at", "to", "on"],
+    "answerIndex": 3,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "시간 전치사 (in/on/at)", "en": "Prepositions of time (in/on/at)", "ja": "時を表す前置詞（in/on/at）", "zh": "时间介词（in/on/at）", "es": "Preposiciones de tiempo (in/on/at)", "vi": "Giới từ chỉ thời gian (in/on/at)" },
+    "explanation": {
+      "ko": "Sunday(일요일) 같은 요일 앞에는 on을 씁니다. in은 달이나 계절(in May, in summer) 앞에, at은 시각 앞에 쓰고, to는 요일 앞에 쓰지 않습니다.",
+      "en": "We use 'on' before days of the week like Sunday. 'In' is for months and seasons (in May, in summer), 'at' is for clock times, and 'to' is not used before days.",
+      "ja": "Sunday（日曜日）のような曜日の前には on を使います。in は月や季節（in May, in summer）の前、at は時刻の前に使い、to は曜日の前には使いません。",
+      "zh": "Sunday（星期日）这样的星期前用 on。in 用在月份或季节前（in May, in summer），at 用在钟点前，to 不用在星期前。",
+      "es": "Delante de los días de la semana, como Sunday (domingo), se usa «on». «In» es para meses y estaciones (in May, in summer), «at» es para la hora, y «to» no se usa delante de los días.",
+      "vi": "Trước các thứ trong tuần như Sunday (Chủ nhật) ta dùng 'on'. 'In' dùng cho tháng và mùa (in May, in summer), 'at' dùng cho giờ, còn 'to' không dùng trước các thứ."
+    }
+  },
+  {
+    "id": "grammar-L1-0020",
+    "category": "grammar",
+    "level": "L1",
+    "format": "form",
+    "question": "The bank is next ___ the post office.",
+    "choices": ["to", "at", "in", "of"],
+    "answerIndex": 0,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "장소 전치사 (in/on/under/next to)", "en": "Prepositions of place (in/on/under/next to)", "ja": "場所を表す前置詞（in/on/under/next to）", "zh": "方位介词（in/on/under/next to）", "es": "Preposiciones de lugar (in/on/under/next to)", "vi": "Giới từ chỉ nơi chốn (in/on/under/next to)" },
+    "explanation": {
+      "ko": "'~의 바로 옆에'는 항상 next to로 씁니다. next at, next in, next of는 영어에서 쓰지 않는 표현입니다.",
+      "en": "To say 'beside something', we always use 'next to'. 'Next at', 'next in' and 'next of' are not used in English.",
+      "ja": "「～のすぐ隣に」は、いつも next to で表します。next at、next in、next of という言い方は英語にはありません。",
+      "zh": "表示“在……旁边”，固定用 next to。英语中没有 next at、next in、next of 这些说法。",
+      "es": "Para decir «al lado de», siempre se usa «next to». «Next at», «next in» y «next of» no se usan en inglés.",
+      "vi": "Để nói 'ở ngay bên cạnh', ta luôn dùng 'next to'. 'Next at', 'next in' và 'next of' không được dùng trong tiếng Anh."
+    }
+  },
+  {
+    "id": "grammar-L1-0021",
+    "category": "grammar",
+    "level": "L1",
+    "format": "form",
+    "question": "My keys are ___ my bag. Look inside it!",
+    "choices": ["under", "in", "on", "next to"],
+    "answerIndex": 1,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "장소 전치사 (in/on/under/next to)", "en": "Prepositions of place (in/on/under/next to)", "ja": "場所を表す前置詞（in/on/under/next to）", "zh": "方位介词（in/on/under/next to）", "es": "Preposiciones de lugar (in/on/under/next to)", "vi": "Giới từ chỉ nơi chốn (in/on/under/next to)" },
+    "explanation": {
+      "ko": "Look inside it(안을 봐)이라고 했으므로 열쇠는 가방 '안에' 있습니다. 그래서 in이 정답입니다. under는 '아래에', on은 '위에', next to는 '옆에'라는 뜻이라 문맥에 맞지 않습니다.",
+      "en": "'Look inside it' tells us the keys are inside the bag, so 'in' is correct. 'Under' means below, 'on' means on top of, and 'next to' means beside, so they do not match the sentence.",
+      "ja": "Look inside it（中を見て）とあるので、鍵はかばんの「中に」あります。だから in が正解です。under は「下に」、on は「上に」、next to は「隣に」という意味なので、文に合いません。",
+      "zh": "Look inside it（看看里面）说明钥匙在包“里面”，所以答案是 in。under 是“在……下面”，on 是“在……上面”，next to 是“在……旁边”，都不符合句意。",
+      "es": "«Look inside it» (mira dentro) indica que las llaves están dentro de la bolsa, así que la respuesta es «in». «Under» significa debajo, «on» significa encima y «next to» significa al lado, así que no encajan.",
+      "vi": "'Look inside it' (nhìn vào bên trong) cho biết chìa khóa ở trong túi, nên đáp án là 'in'. 'Under' là ở dưới, 'on' là ở trên, 'next to' là bên cạnh, nên không hợp với câu."
+    }
+  },
+  {
+    "id": "grammar-L1-0022",
+    "category": "grammar",
+    "level": "L1",
+    "format": "form",
+    "question": "Our teacher ___ a big red car.",
+    "choices": ["have", "has", "having", "is"],
+    "answerIndex": 1,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "have / has", "en": "have / has", "ja": "have / has（持っている）", "zh": "have / has（有）", "es": "have / has (tener)", "vi": "have / has (có)" },
+    "explanation": {
+      "ko": "'가지고 있다'는 have를 쓰는데, 주어 Our teacher가 3인칭 단수이므로 has를 씁니다. have는 I·you·we·they와 쓰고, having은 혼자 동사 자리에 올 수 없으며, is는 '가지고 있다'라는 뜻이 아닙니다.",
+      "en": "To say someone owns something, we use 'have', but with a third person singular subject like 'Our teacher' it becomes 'has'. 'Have' goes with 'I', 'you', 'we' and 'they', 'having' cannot be the main verb alone, and 'is' does not mean 'own'.",
+      "ja": "「持っている」は have で表しますが、主語の Our teacher は三人称単数なので has を使います。have は I・you・we・they と使い、having は単独で動詞にならず、is は「持っている」という意味ではありません。",
+      "zh": "表示“拥有”用 have，但主语 Our teacher 是第三人称单数，所以要用 has。have 与 I、you、we、they 搭配，having 不能单独作谓语，is 没有“拥有”的意思。",
+      "es": "Para decir que alguien tiene algo se usa «have», pero con un sujeto de tercera persona del singular como «Our teacher» se convierte en «has». «Have» va con «I», «you», «we» y «they», «having» no puede ser el verbo principal solo, e «is» no significa «tener».",
+      "vi": "Để nói ai đó có cái gì, ta dùng 'have', nhưng với chủ ngữ ngôi thứ ba số ít như 'Our teacher' thì phải là 'has'. 'Have' đi với 'I', 'you', 'we', 'they', 'having' không thể tự làm động từ chính, còn 'is' không có nghĩa là 'có'."
+    }
+  },
+  {
+    "id": "grammar-L1-0023",
+    "category": "grammar",
+    "level": "L1",
+    "format": "error",
+    "question": "I am read a book now.",
+    "choices": ["I", "am", "read", "a book now"],
+    "answerIndex": 2,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "현재진행형 (be + -ing)", "en": "Present continuous (am/is/are + -ing)", "ja": "現在進行形（be＋-ing）", "zh": "现在进行时（be + -ing）", "es": "Presente continuo (be + -ing)", "vi": "Thì hiện tại tiếp diễn (be + -ing)" },
+    "explanation": {
+      "ko": "now(지금) 하고 있는 일은 현재진행형 'am/is/are + 동사-ing'로 나타냅니다. 따라서 read가 아니라 reading이 맞습니다: I am reading a book now. I, am, a book now는 올바르게 쓰였습니다.",
+      "en": "For an action happening now, we use the present continuous: am/is/are + verb-ing. So it should be 'reading', not 'read': I am reading a book now. 'I', 'am' and 'a book now' are correct.",
+      "ja": "now（今）していることは、現在進行形「am/is/are＋動詞の -ing 形」で表します。read ではなく reading が正しく、I am reading a book now. となります。I、am、a book now は正しいです。",
+      "zh": "表示 now（现在）正在做的事，要用现在进行时“am/is/are + 动词 -ing”。所以应该用 reading，而不是 read：I am reading a book now. I、am 和 a book now 都是正确的。",
+      "es": "Para una acción que pasa now (ahora) se usa el presente continuo: am/is/are + verbo con -ing. Por eso debe ser «reading», no «read»: I am reading a book now. «I», «am» y «a book now» son correctos.",
+      "vi": "Hành động đang diễn ra now (bây giờ) dùng thì hiện tại tiếp diễn: am/is/are + động từ thêm -ing. Vì vậy phải là 'reading' chứ không phải 'read': I am reading a book now. 'I', 'am' và 'a book now' đều đúng."
+    }
+  },
+  {
+    "id": "grammar-L1-0024",
+    "category": "grammar",
+    "level": "L1",
+    "format": "form",
+    "question": "Look! The boys ___ football in the garden.",
+    "choices": ["play", "plays", "is playing", "are playing"],
+    "answerIndex": 3,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "현재진행형 (be + -ing)", "en": "Present continuous (am/is/are + -ing)", "ja": "現在進行形（be＋-ing）", "zh": "现在进行时（be + -ing）", "es": "Presente continuo (be + -ing)", "vi": "Thì hiện tại tiếp diễn (be + -ing)" },
+    "explanation": {
+      "ko": "Look!(봐!)은 지금 눈앞에서 일어나는 일을 말하므로 현재진행형을 씁니다. 주어 The boys가 복수이므로 are playing이 정답입니다. play·plays는 습관을 나타내는 현재형이고, is playing은 단수 주어와 씁니다.",
+      "en": "'Look!' tells us the action is happening right now, so we use the present continuous. 'The boys' is plural, so 'are playing' is correct. 'Play' and 'plays' are present simple forms for habits, and 'is playing' goes with a singular subject.",
+      "ja": "Look!（見て！）は今目の前で起きていることを表すので、現在進行形を使います。主語の The boys は複数なので are playing が正解です。play・plays は習慣を表す現在形で、is playing は単数の主語と使います。",
+      "zh": "Look!（看！）说明动作正在发生，所以用现在进行时。主语 The boys 是复数，所以答案是 are playing。play 和 plays 是表示习惯的一般现在时，is playing 用于单数主语。",
+      "es": "«Look!» (¡mira!) indica que la acción está pasando ahora mismo, así que se usa el presente continuo. «The boys» es plural, por eso la respuesta es «are playing». «Play» y «plays» son formas del presente simple para hábitos, e «is playing» va con un sujeto singular.",
+      "vi": "'Look!' (Nhìn kìa!) cho biết hành động đang xảy ra ngay lúc này, nên dùng thì hiện tại tiếp diễn. 'The boys' là số nhiều nên đáp án là 'are playing'. 'Play' và 'plays' là thì hiện tại đơn dùng cho thói quen, còn 'is playing' đi với chủ ngữ số ít."
+    }
+  },
+  {
+    "id": "grammar-L1-0025",
+    "category": "grammar",
+    "level": "L1",
+    "format": "form",
+    "question": "___ run in the classroom!",
+    "choices": ["Not", "Don't", "No", "Doesn't"],
+    "answerIndex": 1,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "명령문", "en": "Imperatives", "ja": "命令文", "zh": "祈使句", "es": "Imperativo", "vi": "Câu mệnh lệnh" },
+    "explanation": {
+      "ko": "'~하지 마라'라는 부정 명령문은 Don't + 동사원형으로 만듭니다. Not과 No는 혼자 동사 앞에 써서 명령문을 만들 수 없고, Doesn't는 3인칭 단수 주어가 있을 때만 씁니다.",
+      "en": "A negative imperative (telling someone not to do something) is 'Don't' + base verb. 'Not' and 'No' cannot start an imperative before a verb, and 'Doesn't' is only used with a third person singular subject.",
+      "ja": "「～してはいけない」という否定の命令文は、Don't＋動詞の原形で作ります。Not と No は動詞の前に置いて命令文を作れず、Doesn't は三人称単数の主語があるときだけ使います。",
+      "zh": "表示“不要做……”的否定祈使句用 Don't + 动词原形。Not 和 No 不能直接放在动词前构成祈使句，Doesn't 只在有第三人称单数主语时使用。",
+      "es": "El imperativo negativo (decir a alguien que no haga algo) se forma con «Don't» + verbo en forma base. «Not» y «No» no pueden empezar un imperativo delante del verbo, y «Doesn't» solo se usa con un sujeto de tercera persona del singular.",
+      "vi": "Câu mệnh lệnh phủ định (bảo ai đó đừng làm gì) có dạng 'Don't' + động từ nguyên mẫu. 'Not' và 'No' không thể đứng trước động từ để tạo câu mệnh lệnh, còn 'Doesn't' chỉ dùng khi có chủ ngữ ngôi thứ ba số ít."
+    }
+  },
+  {
+    "id": "grammar-L1-0026",
+    "category": "grammar",
+    "level": "L1",
+    "format": "error",
+    "question": "Opens the window, please.",
+    "choices": ["Opens", "the", "window", "please"],
+    "answerIndex": 0,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "명령문", "en": "Imperatives", "ja": "命令文", "zh": "祈使句", "es": "Imperativo", "vi": "Câu mệnh lệnh" },
+    "explanation": {
+      "ko": "명령문은 주어 없이 동사원형으로 시작합니다. 따라서 Opens가 아니라 Open이 맞습니다: Open the window, please. the, window, please는 올바르게 쓰였습니다.",
+      "en": "An imperative starts with the base form of the verb and has no subject. So it should be 'Open', not 'Opens': Open the window, please. 'The', 'window' and 'please' are correct.",
+      "ja": "命令文は主語なしで、動詞の原形から始めます。Opens ではなく Open が正しく、Open the window, please. となります。the、window、please は正しいです。",
+      "zh": "祈使句没有主语，以动词原形开头。所以应该用 Open，而不是 Opens：Open the window, please. the、window 和 please 都是正确的。",
+      "es": "El imperativo empieza con el verbo en forma base y no tiene sujeto. Por eso debe ser «Open», no «Opens»: Open the window, please. «The», «window» y «please» son correctos.",
+      "vi": "Câu mệnh lệnh bắt đầu bằng động từ nguyên mẫu và không có chủ ngữ. Vì vậy phải là 'Open' chứ không phải 'Opens': Open the window, please. 'The', 'window' và 'please' đều đúng."
+    }
+  },
+  {
+    "id": "grammar-L1-0027",
+    "category": "grammar",
+    "level": "L1",
+    "format": "form",
+    "question": "___ is your name? — My name is Lina.",
+    "choices": ["What", "Who", "Where", "How many"],
+    "answerIndex": 0,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "의문사 (what/where/who/how many)", "en": "Question words (what/where/who/how many)", "ja": "疑問詞（what/where/who/how many）", "zh": "疑问词（what/where/who/how many）", "es": "Palabras interrogativas (what/where/who/how many)", "vi": "Từ để hỏi (what/where/who/how many)" },
+    "explanation": {
+      "ko": "이름을 물을 때는 What is your name?(이름이 뭐예요?)이라고 합니다. Who는 사람이 누구인지, Where는 장소를, How many는 개수를 물을 때 쓰므로 맞지 않습니다.",
+      "en": "To ask for someone's name, we say 'What is your name?'. 'Who' asks which person, 'Where' asks about a place, and 'How many' asks about a number, so they do not fit.",
+      "ja": "名前をたずねるときは What is your name?（お名前は何ですか）と言います。Who は誰か、Where は場所、How many は数をたずねるときに使うので合いません。",
+      "zh": "问别人的名字要说 What is your name?（你叫什么名字？）。Who 问是谁，Where 问地点，How many 问数量，所以都不对。",
+      "es": "Para preguntar el nombre de alguien se dice «What is your name?» (¿cómo te llamas?). «Who» pregunta qué persona es, «Where» pregunta por un lugar y «How many» pregunta por una cantidad, así que no sirven.",
+      "vi": "Để hỏi tên ai đó, ta nói 'What is your name?' (Bạn tên là gì?). 'Who' hỏi người nào, 'Where' hỏi nơi chốn, còn 'How many' hỏi số lượng, nên không phù hợp."
+    }
+  },
+  {
+    "id": "grammar-L1-0028",
+    "category": "grammar",
+    "level": "L1",
+    "format": "form",
+    "question": "___ apples are in the basket? — There are six.",
+    "choices": ["What", "Where", "Who", "How many"],
+    "answerIndex": 3,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "의문사 (what/where/who/how many)", "en": "Question words (what/where/who/how many)", "ja": "疑問詞（what/where/who/how many）", "zh": "疑问词（what/where/who/how many）", "es": "Palabras interrogativas (what/where/who/how many)", "vi": "Từ để hỏi (what/where/who/how many)" },
+    "explanation": {
+      "ko": "대답이 There are six(여섯 개 있어요)로 개수를 말하므로 How many + 복수 명사로 물어야 합니다. What은 '무엇', Where는 '어디', Who는 '누구'를 묻는 말이라 개수를 묻지 않습니다.",
+      "en": "The answer 'There are six' gives a number, so the question must use 'How many' + plural noun. 'What' asks about a thing, 'Where' asks about a place, and 'Who' asks about a person, so they do not ask for a number.",
+      "ja": "答えが There are six（6個あります）と数を言っているので、How many＋複数名詞でたずねます。What は「何」、Where は「どこ」、Who は「誰」をたずねる言葉で、数はたずねません。",
+      "zh": "回答 There are six（有六个）说的是数量，所以要用 How many + 复数名词来提问。What 问“什么”，Where 问“哪里”，Who 问“谁”，都不是问数量的。",
+      "es": "La respuesta «There are six» (hay seis) da un número, así que la pregunta debe usar «How many» + sustantivo en plural. «What» pregunta por una cosa, «Where» por un lugar y «Who» por una persona, así que no preguntan por una cantidad.",
+      "vi": "Câu trả lời 'There are six' (có sáu quả) nói về số lượng, nên câu hỏi phải dùng 'How many' + danh từ số nhiều. 'What' hỏi cái gì, 'Where' hỏi ở đâu, 'Who' hỏi ai, nên không dùng để hỏi số lượng."
+    }
+  },
+  {
+    "id": "grammar-L1-0029",
+    "category": "grammar",
+    "level": "L1",
+    "format": "error",
+    "question": "Where does he lives?",
+    "choices": ["Where", "does", "he", "lives"],
+    "answerIndex": 3,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "do/does 의문문·부정문", "en": "do/does in questions and negatives", "ja": "do/does を使う疑問文・否定文", "zh": "do/does 构成疑问句和否定句", "es": "do/does en preguntas y negaciones", "vi": "do/does trong câu hỏi và câu phủ định" },
+    "explanation": {
+      "ko": "does를 쓴 의문문에서는 does가 이미 3인칭 단수를 나타내므로 뒤의 동사는 원형을 씁니다. 따라서 lives가 아니라 live가 맞습니다: Where does he live? Where, does, he는 올바르게 쓰였습니다.",
+      "en": "In a question with 'does', the -s is already in 'does', so the main verb stays in the base form. It should be 'live', not 'lives': Where does he live? 'Where', 'does' and 'he' are correct.",
+      "ja": "does を使う疑問文では、does がすでに三人称単数を表しているので、後の動詞は原形にします。lives ではなく live が正しく、Where does he live? となります。Where、does、he は正しいです。",
+      "zh": "用 does 的疑问句中，does 已经表示第三人称单数，所以后面的动词用原形。应该用 live，而不是 lives：Where does he live? Where、does 和 he 都是正确的。",
+      "es": "En una pregunta con «does», la -s ya está en «does», así que el verbo principal va en forma base. Debe ser «live», no «lives»: Where does he live? «Where», «does» y «he» son correctos.",
+      "vi": "Trong câu hỏi có 'does', đuôi -s đã nằm ở 'does' nên động từ chính giữ nguyên mẫu. Phải là 'live' chứ không phải 'lives': Where does he live? 'Where', 'does' và 'he' đều đúng."
+    }
+  },
+  {
+    "id": "grammar-L1-0030",
+    "category": "grammar",
+    "level": "L1",
+    "format": "error",
+    "question": "She has three small boxs.",
+    "choices": ["She", "has", "three small", "boxs"],
+    "answerIndex": 3,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "명사의 복수형", "en": "Plural nouns", "ja": "名詞の複数形", "zh": "名词复数", "es": "Plural de los sustantivos", "vi": "Danh từ số nhiều" },
+    "explanation": {
+      "ko": "-x, -s, -sh, -ch로 끝나는 명사는 복수형을 만들 때 -es를 붙입니다. 따라서 boxs가 아니라 boxes가 맞습니다: She has three small boxes. She, has, three small은 올바르게 쓰였습니다.",
+      "en": "Nouns ending in -x, -s, -sh or -ch take -es in the plural. So it should be 'boxes', not 'boxs': She has three small boxes. 'She', 'has' and 'three small' are correct.",
+      "ja": "-x、-s、-sh、-ch で終わる名詞は、複数形にするとき -es をつけます。boxs ではなく boxes が正しく、She has three small boxes. となります。She、has、three small は正しいです。",
+      "zh": "以 -x、-s、-sh、-ch 结尾的名词，变复数时要加 -es。所以应该是 boxes，而不是 boxs：She has three small boxes. She、has 和 three small 都是正确的。",
+      "es": "Los sustantivos que terminan en -x, -s, -sh o -ch forman el plural con -es. Por eso debe ser «boxes», no «boxs»: She has three small boxes. «She», «has» y «three small» son correctos.",
+      "vi": "Danh từ tận cùng bằng -x, -s, -sh hoặc -ch thêm -es khi chuyển sang số nhiều. Vì vậy phải là 'boxes' chứ không phải 'boxs': She has three small boxes. 'She', 'has' và 'three small' đều đúng."
+    }
+  }
+]

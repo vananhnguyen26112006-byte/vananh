@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- EngLoop 아이콘: 검정 정사각형 + 각진 대문자 E (DESIGN.md: 흑백, 둥근 모서리 없음) -->
+  <rect width="512" height="512" fill="#111111"/>
+  <g fill="#F5F4F2">
+    <rect x="176" y="144" width="44" height="224"/>
+    <rect x="176" y="144" width="164" height="44"/>
+    <rect x="176" y="234" width="132" height="44"/>
+    <rect x="176" y="324" width="164" height="44"/>
+  </g>
+</svg>

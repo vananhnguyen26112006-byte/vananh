@@ -1,0 +1,802 @@
+[
+  {
+    "id": "vocab-L4-0001",
+    "category": "vocab",
+    "level": "L4",
+    "format": "blank",
+    "question": "After a long discussion, the committee finally managed to ___ a consensus.",
+    "choices": ["take", "do", "reach", "pass"],
+    "answerIndex": 2,
+    "word": "reach",
+    "meaning": { "ko": "(합의·결론 등에) 이르다", "en": "to arrive at (an agreement or decision)", "ja": "（合意・結論などに）達する", "zh": "达成（共识、结论等）", "es": "llegar a (un acuerdo o una decisión)", "vi": "đạt được (sự đồng thuận, kết luận)" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "consensus(합의)는 reach와 함께 써서 reach a consensus(합의에 이르다)라고 합니다. take, do, pass는 consensus와 자연스럽게 어울리지 않습니다.",
+      "en": "'Consensus' goes with 'reach': we say 'reach a consensus' (come to an agreement). 'Take', 'do' and 'pass' do not naturally go with 'consensus'.",
+      "ja": "consensus（合意）は reach と組み合わせて reach a consensus（合意に達する）と言います。take、do、pass は consensus とは自然に結びつきません。",
+      "zh": "consensus（共识）与 reach 搭配，说 reach a consensus（达成共识）。take、do、pass 都不能自然地与 consensus 搭配。",
+      "es": "«Consensus» (consenso) va con «reach»: se dice «reach a consensus» (llegar a un acuerdo). «Take», «do» y «pass» no se combinan de forma natural con «consensus».",
+      "vi": "'Consensus' (sự đồng thuận) đi với 'reach': ta nói 'reach a consensus' (đạt được đồng thuận). 'Take', 'do' và 'pass' không kết hợp tự nhiên với 'consensus'."
+    }
+  },
+  {
+    "id": "vocab-L4-0002",
+    "category": "vocab",
+    "level": "L4",
+    "format": "blank",
+    "question": "Scientists should not ___ a conclusion until they have collected enough data.",
+    "choices": ["draw", "pull", "take", "bring"],
+    "answerIndex": 0,
+    "word": "draw",
+    "meaning": { "ko": "(결론을) 이끌어 내다", "en": "to form (a conclusion) from facts", "ja": "（結論を）引き出す", "zh": "得出（结论）", "es": "sacar (una conclusión)", "vi": "rút ra (kết luận)" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'결론을 내리다'는 영어로 draw a conclusion이라고 합니다. pull, take, bring은 conclusion과 함께 쓰지 않습니다.",
+      "en": "The natural phrase is 'draw a conclusion', which means to decide something after looking at the facts. 'Pull', 'take' and 'bring' are not used with 'conclusion'.",
+      "ja": "「結論を出す」は英語で draw a conclusion と言います。pull、take、bring は conclusion と一緒に使いません。",
+      "zh": "“得出结论”在英语中说 draw a conclusion。pull、take、bring 都不和 conclusion 搭配。",
+      "es": "La expresión natural es «draw a conclusion» (sacar una conclusión) después de mirar los datos. «Pull», «take» y «bring» no se usan con «conclusion».",
+      "vi": "Cụm từ tự nhiên là 'draw a conclusion' (rút ra kết luận) sau khi xem xét dữ kiện. 'Pull', 'take' và 'bring' không dùng với 'conclusion'."
+    }
+  },
+  {
+    "id": "vocab-L4-0003",
+    "category": "vocab",
+    "level": "L4",
+    "format": "blank",
+    "question": "Rising sea levels ___ a serious threat to many coastal cities.",
+    "choices": ["make", "give", "do", "pose"],
+    "answerIndex": 3,
+    "word": "pose",
+    "meaning": { "ko": "(위협·문제 등을) 제기하다, 초래하다", "en": "to create (a threat or problem)", "ja": "（脅威・問題などを）もたらす", "zh": "构成（威胁、问题等）", "es": "suponer, representar (una amenaza o un problema)", "vi": "gây ra (mối đe dọa, vấn đề)" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "threat(위협)는 pose와 함께 써서 pose a threat(위협이 되다)라고 합니다. make, give, do는 이런 뜻으로 threat와 어울리지 않습니다.",
+      "en": "'Threat' goes with 'pose': 'pose a threat' means to be a danger. 'Make', 'give' and 'do' are not used with 'threat' in this meaning.",
+      "ja": "threat（脅威）は pose と組み合わせて pose a threat（脅威となる）と言います。make、give、do はこの意味で threat とは結びつきません。",
+      "zh": "threat（威胁）与 pose 搭配，pose a threat 意为“构成威胁”。make、give、do 在这个意思上都不与 threat 搭配。",
+      "es": "«Threat» (amenaza) va con «pose»: «pose a threat» significa representar un peligro. «Make», «give» y «do» no se usan con «threat» con este sentido.",
+      "vi": "'Threat' (mối đe dọa) đi với 'pose': 'pose a threat' nghĩa là gây ra mối nguy hiểm. 'Make', 'give' và 'do' không dùng với 'threat' theo nghĩa này."
+    }
+  },
+  {
+    "id": "vocab-L4-0004",
+    "category": "vocab",
+    "level": "L4",
+    "format": "blank",
+    "question": "The team worked all weekend so that they could ___ the deadline.",
+    "choices": ["keep", "meet", "follow", "win"],
+    "answerIndex": 1,
+    "word": "meet",
+    "meaning": { "ko": "(기한·요구 등을) 맞추다, 충족시키다", "en": "to do something by the required time or standard", "ja": "（期限・要求などを）守る、満たす", "zh": "赶上（期限）；满足（要求）", "es": "cumplir (un plazo o un requisito)", "vi": "kịp (thời hạn), đáp ứng (yêu cầu)" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'마감 기한을 맞추다'는 meet the deadline이라고 합니다. keep, follow, win은 deadline과 자연스럽게 함께 쓰지 않습니다.",
+      "en": "To finish work on time is to 'meet the deadline'. 'Keep', 'follow' and 'win' do not naturally go with 'deadline'.",
+      "ja": "「締め切りに間に合わせる」は meet the deadline と言います。keep、follow、win は deadline とは自然に結びつきません。",
+      "zh": "“按期完成、赶上截止日期”说 meet the deadline。keep、follow、win 都不能自然地与 deadline 搭配。",
+      "es": "Terminar un trabajo a tiempo es «meet the deadline» (cumplir el plazo). «Keep», «follow» y «win» no se combinan de forma natural con «deadline».",
+      "vi": "Hoàn thành công việc đúng hạn là 'meet the deadline' (kịp thời hạn). 'Keep', 'follow' và 'win' không kết hợp tự nhiên với 'deadline'."
+    }
+  },
+  {
+    "id": "vocab-L4-0005",
+    "category": "vocab",
+    "level": "L4",
+    "format": "blank",
+    "question": "Please ___ in mind that the museum closes early on Sundays.",
+    "choices": ["bear", "take", "carry", "put"],
+    "answerIndex": 0,
+    "word": "bear",
+    "meaning": { "ko": "(마음에) 품다, 명심하다 (bear in mind)", "en": "to remember (in 'bear in mind')", "ja": "（心に）留める（bear in mind）", "zh": "记住（bear in mind）", "es": "tener presente (en «bear in mind»)", "vi": "ghi nhớ (trong cụm 'bear in mind')" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "bear in mind는 '명심하다, 기억해 두다'라는 뜻의 고정 표현입니다. take, carry, put은 in mind 앞에 이런 뜻으로 쓰지 않습니다.",
+      "en": "'Bear in mind' is a fixed phrase that means 'remember'. 'Take', 'carry' and 'put' are not used before 'in mind' with this meaning.",
+      "ja": "bear in mind は「心に留める、覚えておく」という意味の決まった表現です。take、carry、put はこの意味で in mind の前には使いません。",
+      "zh": "bear in mind 是固定表达，意思是“记住、牢记”。take、carry、put 都不能以这个意思用在 in mind 前面。",
+      "es": "«Bear in mind» es una expresión fija que significa «tener en cuenta, recordar». «Take», «carry» y «put» no se usan antes de «in mind» con este sentido.",
+      "vi": "'Bear in mind' là cụm cố định nghĩa là 'ghi nhớ, lưu ý'. 'Take', 'carry' và 'put' không dùng trước 'in mind' với nghĩa này."
+    }
+  },
+  {
+    "id": "vocab-L4-0006",
+    "category": "vocab",
+    "level": "L4",
+    "format": "blank",
+    "question": "We were stuck in ___ traffic on the highway for almost two hours.",
+    "choices": ["strong", "big", "heavy", "hard"],
+    "answerIndex": 2,
+    "word": "heavy",
+    "meaning": { "ko": "(교통이) 혼잡한, 많은", "en": "(of traffic) with a lot of cars", "ja": "（交通が）激しい、混雑した", "zh": "（交通）拥挤的", "es": "denso (tráfico)", "vi": "đông đúc (giao thông)" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "차가 많아 길이 막히는 것은 heavy traffic(교통 혼잡)이라고 합니다. strong, big, hard는 traffic과 함께 쓰지 않습니다.",
+      "en": "When there are many cars on the road, we say 'heavy traffic'. 'Strong', 'big' and 'hard' are not used with 'traffic'.",
+      "ja": "車が多くて道が混んでいることは heavy traffic（交通渋滞）と言います。strong、big、hard は traffic と一緒に使いません。",
+      "zh": "路上车很多、交通拥堵时说 heavy traffic。strong、big、hard 都不和 traffic 搭配。",
+      "es": "Cuando hay muchos coches en la carretera se dice «heavy traffic» (tráfico denso). «Strong», «big» y «hard» no se usan con «traffic».",
+      "vi": "Khi trên đường có nhiều xe, ta nói 'heavy traffic' (giao thông đông đúc). 'Strong', 'big' và 'hard' không dùng với 'traffic'."
+    }
+  },
+  {
+    "id": "vocab-L4-0007",
+    "category": "vocab",
+    "level": "L4",
+    "format": "blank",
+    "question": "The company has taken several steps to ___ the risks of the new project.",
+    "choices": ["exaggerate", "celebrate", "postpone", "mitigate"],
+    "answerIndex": 3,
+    "word": "mitigate",
+    "meaning": { "ko": "완화하다, 줄이다", "en": "to make something bad less serious", "ja": "軽減する、和らげる", "zh": "减轻，缓和", "es": "mitigar, reducir", "vi": "giảm nhẹ, làm dịu bớt" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "회사가 위험(risks)에 대해 조치를 취하는 목적은 위험을 줄이는 것이므로 mitigate(완화하다)가 정답입니다. exaggerate(과장하다), celebrate(축하하다), postpone(연기하다)은 risks와 뜻이 맞지 않습니다.",
+      "en": "A company takes steps to make risks smaller, so 'mitigate' (reduce) is correct. 'Exaggerate' (make seem bigger), 'celebrate' and 'postpone' (delay) do not make sense with 'risks' here.",
+      "ja": "会社がリスク（risks）に対して対策をとるのはリスクを減らすためなので、mitigate（軽減する）が正解です。exaggerate（誇張する）、celebrate（祝う）、postpone（延期する）は意味が合いません。",
+      "zh": "公司采取措施是为了降低风险（risks），所以 mitigate（减轻）是正确答案。exaggerate（夸大）、celebrate（庆祝）、postpone（推迟）放在这里意思都不通。",
+      "es": "Una empresa toma medidas para reducir los riesgos, así que «mitigate» (mitigar) es correcto. «Exaggerate» (exagerar), «celebrate» (celebrar) y «postpone» (aplazar) no tienen sentido aquí con «risks».",
+      "vi": "Công ty thực hiện các biện pháp để giảm rủi ro, nên 'mitigate' (giảm nhẹ) là đúng. 'Exaggerate' (phóng đại), 'celebrate' (ăn mừng) và 'postpone' (hoãn lại) không hợp nghĩa với 'risks' ở đây."
+    }
+  },
+  {
+    "id": "vocab-L4-0008",
+    "category": "vocab",
+    "level": "L4",
+    "format": "blank",
+    "question": "The instructions were so ___ that nobody knew exactly what to do.",
+    "choices": ["precise", "ambiguous", "detailed", "obvious"],
+    "answerIndex": 1,
+    "word": "ambiguous",
+    "meaning": { "ko": "애매모호한", "en": "having more than one possible meaning; unclear", "ja": "あいまいな", "zh": "模棱两可的，含糊的", "es": "ambiguo", "vi": "mơ hồ, không rõ ràng" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "아무도 무엇을 해야 할지 몰랐다는 것은 설명이 불분명했다는 뜻이므로 ambiguous(애매모호한)가 정답입니다. precise(정확한), detailed(자세한), obvious(명백한)는 모두 이해하기 쉬운 쪽의 뜻이라 문맥과 반대입니다.",
+      "en": "Nobody knew what to do, so the instructions must have been unclear: 'ambiguous' is correct. 'Precise', 'detailed' and 'obvious' all suggest the instructions were easy to understand.",
+      "ja": "誰も何をすべきかわからなかったのは説明が不明確だったからなので、ambiguous（あいまいな）が正解です。precise（正確な）、detailed（詳しい）、obvious（明らかな）はわかりやすいという意味なので、文脈と逆になります。",
+      "zh": "没有人知道该做什么，说明说明书不清楚，所以 ambiguous（含糊的）是正确答案。precise（精确的）、detailed（详细的）、obvious（明显的）都表示容易理解，与句意相反。",
+      "es": "Nadie sabía qué hacer, así que las instrucciones no eran claras: «ambiguous» (ambiguo) es correcto. «Precise» (preciso), «detailed» (detallado) y «obvious» (obvio) indican que eran fáciles de entender.",
+      "vi": "Không ai biết phải làm gì, nên hướng dẫn chắc chắn không rõ ràng: 'ambiguous' (mơ hồ) là đúng. 'Precise' (chính xác), 'detailed' (chi tiết) và 'obvious' (hiển nhiên) đều mang nghĩa dễ hiểu, trái với ngữ cảnh."
+    }
+  },
+  {
+    "id": "vocab-L4-0009",
+    "category": "vocab",
+    "level": "L4",
+    "format": "blank",
+    "question": "She is a ___ editor who checks every comma and every date twice.",
+    "choices": ["careless", "reluctant", "meticulous", "generous"],
+    "answerIndex": 2,
+    "word": "meticulous",
+    "meaning": { "ko": "꼼꼼한, 세심한", "en": "very careful about every small detail", "ja": "細心の、几帳面な", "zh": "一丝不苟的，细致的", "es": "meticuloso", "vi": "tỉ mỉ, cẩn thận" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "쉼표 하나, 날짜 하나까지 두 번씩 확인하는 사람은 meticulous(꼼꼼한)합니다. careless(부주의한)는 반대 뜻이고, reluctant(꺼리는)와 generous(너그러운)는 세부 사항 확인과 관계가 없습니다.",
+      "en": "Someone who checks every small detail twice is 'meticulous'. 'Careless' is the opposite, and 'reluctant' (unwilling) and 'generous' have nothing to do with checking details.",
+      "ja": "コンマや日付を一つずつ二回確認する人は meticulous（几帳面な）です。careless（不注意な）は反対の意味で、reluctant（気が進まない）と generous（気前のよい）は細部の確認とは関係ありません。",
+      "zh": "每个逗号、每个日期都检查两遍的人是 meticulous（一丝不苟的）。careless（粗心的）意思相反，reluctant（不情愿的）和 generous（慷慨的）与检查细节无关。",
+      "es": "Alguien que revisa dos veces cada pequeño detalle es «meticulous» (meticuloso). «Careless» (descuidado) es lo contrario, y «reluctant» (reacio) y «generous» (generoso) no tienen relación con revisar detalles.",
+      "vi": "Người kiểm tra từng dấu phẩy, từng ngày tháng hai lần là người 'meticulous' (tỉ mỉ). 'Careless' (cẩu thả) là nghĩa ngược lại, còn 'reluctant' (miễn cưỡng) và 'generous' (hào phóng) không liên quan đến việc kiểm tra chi tiết."
+    }
+  },
+  {
+    "id": "vocab-L4-0010",
+    "category": "vocab",
+    "level": "L4",
+    "format": "blank",
+    "question": "At first he was ___ to lend me his car, but in the end he agreed.",
+    "choices": ["reluctant", "eager", "delighted", "willing"],
+    "answerIndex": 0,
+    "word": "reluctant",
+    "meaning": { "ko": "꺼리는, 마지못해 하는", "en": "not wanting to do something", "ja": "気が進まない、渋る", "zh": "不情愿的，勉强的", "es": "reacio", "vi": "miễn cưỡng, không muốn" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "but in the end he agreed(하지만 결국 동의했다)로 보아 처음에는 빌려주기 싫어했다는 뜻이므로 reluctant(꺼리는)가 정답입니다. eager(열망하는), delighted(기뻐하는), willing(기꺼이 하는)은 처음부터 원했다는 뜻이라 but과 맞지 않습니다.",
+      "en": "'But in the end he agreed' shows that at first he did not want to, so 'reluctant' is correct. 'Eager', 'delighted' and 'willing' mean he wanted to from the start, which does not fit with 'but'.",
+      "ja": "but in the end he agreed（でも最終的には同意した）から、最初は貸したくなかったとわかるので reluctant（気が進まない）が正解です。eager（熱心な）、delighted（喜んだ）、willing（進んで～する）は最初から望んでいた意味になり、but と合いません。",
+      "zh": "从 but in the end he agreed（但最后他同意了）可以看出，他一开始不想借，所以 reluctant（不情愿的）是正确答案。eager（渴望的）、delighted（高兴的）、willing（乐意的）都表示一开始就愿意，与 but 不搭。",
+      "es": "«But in the end he agreed» (pero al final aceptó) muestra que al principio no quería, así que «reluctant» (reacio) es correcto. «Eager», «delighted» y «willing» significan que quería desde el principio, lo cual no encaja con «but».",
+      "vi": "'But in the end he agreed' (nhưng cuối cùng anh ấy đồng ý) cho thấy lúc đầu anh ấy không muốn, nên 'reluctant' (miễn cưỡng) là đúng. 'Eager', 'delighted' và 'willing' nghĩa là muốn ngay từ đầu, không hợp với 'but'."
+    }
+  },
+  {
+    "id": "vocab-L4-0011",
+    "category": "vocab",
+    "level": "L4",
+    "format": "blank",
+    "question": "Constant criticism can slowly ___ a child's self-confidence.",
+    "choices": ["boost", "undermine", "strengthen", "reward"],
+    "answerIndex": 1,
+    "word": "undermine",
+    "meaning": { "ko": "(서서히) 약화시키다, 손상시키다", "en": "to gradually make something weaker", "ja": "（徐々に）弱める、損なう", "zh": "（逐渐）削弱，破坏", "es": "socavar, debilitar", "vi": "làm suy yếu (dần dần)" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "계속되는 비판은 아이의 자신감을 서서히 약하게 만들므로 undermine(약화시키다)이 정답입니다. boost(높이다)와 strengthen(강화하다)은 반대 뜻이고, reward(보상하다)는 confidence와 어울리지 않습니다.",
+      "en": "Constant criticism slowly makes confidence weaker, so 'undermine' is correct. 'Boost' and 'strengthen' mean the opposite, and 'reward' does not go with 'confidence'.",
+      "ja": "絶え間ない批判は子どもの自信を少しずつ弱めるので、undermine（弱める）が正解です。boost（高める）と strengthen（強める）は反対の意味で、reward（報いる）は confidence とは合いません。",
+      "zh": "不断的批评会逐渐削弱孩子的自信，所以 undermine（削弱）是正确答案。boost（提升）和 strengthen（加强）意思相反，reward（奖励）不与 confidence 搭配。",
+      "es": "Las críticas constantes debilitan poco a poco la confianza, así que «undermine» (socavar) es correcto. «Boost» y «strengthen» significan lo contrario, y «reward» (recompensar) no va con «confidence».",
+      "vi": "Những lời chỉ trích liên tục làm sự tự tin yếu dần đi, nên 'undermine' (làm suy yếu) là đúng. 'Boost' và 'strengthen' mang nghĩa ngược lại, còn 'reward' (thưởng) không đi với 'confidence'."
+    }
+  },
+  {
+    "id": "vocab-L4-0012",
+    "category": "vocab",
+    "level": "L4",
+    "format": "blank",
+    "question": "She is remarkably ___; even after losing her job, she bounced back within weeks.",
+    "choices": ["fragile", "vulnerable", "sensitive", "resilient"],
+    "answerIndex": 3,
+    "word": "resilient",
+    "meaning": { "ko": "회복력이 있는, 쉽게 좌절하지 않는", "en": "able to recover quickly from difficulties", "ja": "回復力のある、立ち直りの早い", "zh": "有韧性的，能迅速恢复的", "es": "resiliente, capaz de recuperarse", "vi": "kiên cường, nhanh hồi phục" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "직장을 잃고도 몇 주 만에 다시 일어섰다(bounced back)는 것은 회복력이 강하다는 뜻이므로 resilient가 정답입니다. fragile(연약한), vulnerable(취약한), sensitive(예민한)는 쉽게 상처받는다는 뜻이라 문맥과 맞지 않습니다.",
+      "en": "She 'bounced back' (recovered) quickly after losing her job, so she is 'resilient'. 'Fragile', 'vulnerable' and 'sensitive' describe someone who is easily hurt, which does not fit.",
+      "ja": "仕事を失っても数週間で立ち直った（bounced back）ので、resilient（回復力のある）が正解です。fragile（もろい）、vulnerable（傷つきやすい）、sensitive（敏感な）は傷つきやすいという意味で、文脈に合いません。",
+      "zh": "她失业后几周内就恢复过来（bounced back），说明她很有韧性，所以 resilient 是正确答案。fragile（脆弱的）、vulnerable（易受伤的）、sensitive（敏感的）都表示容易受伤，与句意不符。",
+      "es": "Se recuperó (bounced back) en pocas semanas después de perder su trabajo, así que es «resilient» (resiliente). «Fragile» (frágil), «vulnerable» y «sensitive» (sensible) describen a alguien que se hace daño fácilmente, y no encajan.",
+      "vi": "Cô ấy hồi phục (bounced back) chỉ sau vài tuần mất việc, nên cô ấy là người 'resilient' (kiên cường). 'Fragile' (mong manh), 'vulnerable' (dễ tổn thương) và 'sensitive' (nhạy cảm) chỉ người dễ bị tổn thương nên không hợp."
+    }
+  },
+  {
+    "id": "vocab-L4-0013",
+    "category": "vocab",
+    "level": "L4",
+    "format": "blank",
+    "question": "With so many cars on the road, delays are almost ___ during rush hour.",
+    "choices": ["inevitable", "optional", "rare", "unlikely"],
+    "answerIndex": 0,
+    "word": "inevitable",
+    "meaning": { "ko": "불가피한, 피할 수 없는", "en": "certain to happen; impossible to avoid", "ja": "避けられない、必然の", "zh": "不可避免的", "es": "inevitable", "vi": "không thể tránh khỏi" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "차가 아주 많은 출퇴근 시간에는 지연을 피할 수 없으므로 inevitable(불가피한)이 정답입니다. optional(선택적인)은 뜻이 맞지 않고, rare(드문)와 unlikely(가능성이 낮은)는 문맥과 반대입니다.",
+      "en": "With so many cars at rush hour, delays cannot be avoided, so 'inevitable' is correct. 'Optional' does not make sense, and 'rare' and 'unlikely' say the opposite of what the sentence means.",
+      "ja": "車が多いラッシュアワーには遅れは避けられないので、inevitable（避けられない）が正解です。optional（任意の）は意味が合わず、rare（まれな）と unlikely（起こりそうにない）は文脈と反対です。",
+      "zh": "高峰时段车辆很多，延误是避免不了的，所以 inevitable（不可避免的）是正确答案。optional（可选的）意思不通，rare（罕见的）和 unlikely（不太可能的）与句意相反。",
+      "es": "Con tantos coches en hora punta, los retrasos no se pueden evitar, así que «inevitable» es correcto. «Optional» (opcional) no tiene sentido, y «rare» (raro) y «unlikely» (poco probable) dicen lo contrario.",
+      "vi": "Có quá nhiều xe vào giờ cao điểm nên việc chậm trễ là không thể tránh, vì vậy 'inevitable' là đúng. 'Optional' (tùy chọn) không hợp nghĩa, còn 'rare' (hiếm) và 'unlikely' (khó xảy ra) thì ngược với ý câu."
+    }
+  },
+  {
+    "id": "vocab-L4-0014",
+    "category": "vocab",
+    "level": "L4",
+    "format": "blank",
+    "question": "The lawyer presented such a ___ argument that the whole jury was convinced.",
+    "choices": ["weak", "doubtful", "compelling", "boring"],
+    "answerIndex": 2,
+    "word": "compelling",
+    "meaning": { "ko": "설득력 있는, 강력한", "en": "very convincing; making you believe it", "ja": "説得力のある", "zh": "令人信服的，有说服力的", "es": "convincente, contundente", "vi": "thuyết phục, đầy sức thuyết phục" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "배심원 전체가 설득되었으므로 논거는 설득력이 있었을 것이고, 따라서 compelling(설득력 있는)이 정답입니다. weak(약한), doubtful(의심스러운), boring(지루한) 논거로는 사람들을 설득하기 어렵습니다.",
+      "en": "The whole jury was convinced, so the argument must have been very persuasive: 'compelling' is correct. A 'weak', 'doubtful' or 'boring' argument would not convince people.",
+      "ja": "陪審員全員が納得したので、その主張は説得力があったはずです。したがって compelling（説得力のある）が正解です。weak（弱い）、doubtful（疑わしい）、boring（退屈な）主張では人を納得させられません。",
+      "zh": "整个陪审团都被说服了，说明论点非常有说服力，所以 compelling 是正确答案。weak（无力的）、doubtful（可疑的）、boring（无聊的）论点都无法说服别人。",
+      "es": "Todo el jurado quedó convencido, así que el argumento era muy persuasivo: «compelling» (convincente) es correcto. Un argumento «weak» (débil), «doubtful» (dudoso) o «boring» (aburrido) no convencería a nadie.",
+      "vi": "Toàn bộ bồi thẩm đoàn đều bị thuyết phục, nên lập luận phải rất có sức thuyết phục: 'compelling' là đúng. Một lập luận 'weak' (yếu), 'doubtful' (đáng ngờ) hay 'boring' (nhàm chán) thì không thể thuyết phục ai."
+    }
+  },
+  {
+    "id": "vocab-L4-0015",
+    "category": "vocab",
+    "level": "L4",
+    "format": "blank",
+    "question": "The new law will ___ effect on the first of January.",
+    "choices": ["make", "get", "give", "take"],
+    "answerIndex": 3,
+    "word": "take",
+    "meaning": { "ko": "(take effect) 효력이 생기다, 시행되다", "en": "(in 'take effect') to start to apply or work", "ja": "（take effect）効力を生じる、施行される", "zh": "（take effect）生效，开始实施", "es": "(en «take effect») entrar en vigor", "vi": "(trong 'take effect') có hiệu lực" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "법이나 규칙이 '시행되다, 효력이 생기다'는 take effect라고 합니다. make, get, give는 이런 뜻으로 effect와 함께 쓰지 않습니다.",
+      "en": "When a law starts to apply, we say it will 'take effect'. 'Make', 'get' and 'give' are not used with 'effect' in this meaning.",
+      "ja": "法律や規則が「施行される、効力を生じる」は take effect と言います。make、get、give はこの意味で effect と一緒に使いません。",
+      "zh": "法律或规定“生效”说 take effect。make、get、give 都不能以这个意思与 effect 搭配。",
+      "es": "Cuando una ley empieza a aplicarse, se dice que va a «take effect» (entrar en vigor). «Make», «get» y «give» no se usan con «effect» con este sentido.",
+      "vi": "Khi một luật bắt đầu được áp dụng, ta nói luật đó 'take effect' (có hiệu lực). 'Make', 'get' và 'give' không dùng với 'effect' theo nghĩa này."
+    }
+  },
+  {
+    "id": "vocab-L4-0016",
+    "category": "vocab",
+    "level": "L4",
+    "format": "blank",
+    "question": "Before making such an important decision, we should carefully ___ up the pros and cons.",
+    "choices": ["lift", "weigh", "count", "pick"],
+    "answerIndex": 1,
+    "word": "weigh",
+    "meaning": { "ko": "(장단점 등을) 따져 보다, 저울질하다", "en": "to consider carefully before deciding", "ja": "（長所と短所などを）比較検討する", "zh": "权衡，斟酌", "es": "sopesar", "vi": "cân nhắc" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "결정 전에 장단점(pros and cons)을 꼼꼼히 비교하는 것은 weigh up the pros and cons라고 합니다. lift up(들어 올리다), count up(다 세다), pick up(집어 들다)은 이런 뜻이 없습니다.",
+      "en": "To compare the good and bad points before deciding is to 'weigh up the pros and cons'. 'Lift up', 'count up' and 'pick up' do not have this meaning.",
+      "ja": "決める前に長所と短所（pros and cons）をよく比べることを weigh up the pros and cons と言います。lift up（持ち上げる）、count up（数え上げる）、pick up（拾い上げる）にはこの意味はありません。",
+      "zh": "做决定前仔细比较利弊（pros and cons）说 weigh up the pros and cons。lift up（举起）、count up（数清）、pick up（捡起）都没有这个意思。",
+      "es": "Comparar lo bueno y lo malo antes de decidir es «weigh up the pros and cons» (sopesar los pros y los contras). «Lift up» (levantar), «count up» (contar) y «pick up» (recoger) no tienen este sentido.",
+      "vi": "So sánh ưu và nhược điểm trước khi quyết định là 'weigh up the pros and cons' (cân nhắc ưu nhược điểm). 'Lift up' (nâng lên), 'count up' (đếm hết) và 'pick up' (nhặt lên) không có nghĩa này."
+    }
+  },
+  {
+    "id": "vocab-L4-0017",
+    "category": "vocab",
+    "level": "L4",
+    "format": "definition",
+    "question": "to examine something very carefully and in great detail",
+    "choices": ["ignore", "glance", "estimate", "scrutinize"],
+    "answerIndex": 3,
+    "word": "scrutinize",
+    "meaning": { "ko": "면밀히 조사하다, 세밀히 살피다", "en": "to look at or examine very carefully", "ja": "精査する、細かく調べる", "zh": "仔细审查，详细检查", "es": "examinar minuciosamente", "vi": "xem xét kỹ lưỡng" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'아주 주의 깊게, 자세히 살펴보다'는 scrutinize의 뜻입니다. ignore는 '무시하다', glance는 '흘끗 보다', estimate는 '어림잡다'라는 뜻입니다.",
+      "en": "To examine something very carefully and in detail is to 'scrutinize' it. 'Ignore' means to pay no attention, 'glance' means to look quickly, and 'estimate' means to guess a number roughly.",
+      "ja": "「非常に注意深く、詳しく調べる」は scrutinize の意味です。ignore は「無視する」、glance は「ちらっと見る」、estimate は「見積もる」という意味です。",
+      "zh": "“非常仔细、详细地检查”是 scrutinize 的意思。ignore 意为“忽视”，glance 意为“瞥一眼”，estimate 意为“估计”。",
+      "es": "Examinar algo con mucho cuidado y en detalle es «scrutinize». «Ignore» significa no prestar atención, «glance» es mirar rápidamente y «estimate» es calcular de forma aproximada.",
+      "vi": "Xem xét điều gì đó rất cẩn thận và chi tiết là nghĩa của 'scrutinize'. 'Ignore' nghĩa là phớt lờ, 'glance' là liếc nhìn, còn 'estimate' là ước tính."
+    }
+  },
+  {
+    "id": "vocab-L4-0018",
+    "category": "vocab",
+    "level": "L4",
+    "format": "definition",
+    "question": "seeming to be everywhere at the same time; very common",
+    "choices": ["ubiquitous", "scarce", "temporary", "invisible"],
+    "answerIndex": 0,
+    "word": "ubiquitous",
+    "meaning": { "ko": "어디에나 있는, 아주 흔한", "en": "found everywhere", "ja": "どこにでもある", "zh": "无处不在的", "es": "omnipresente", "vi": "có mặt khắp nơi" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'어디에나 있는 것 같은, 아주 흔한'은 ubiquitous의 뜻입니다. 예를 들어 smartphones are ubiquitous(스마트폰은 어디에나 있다)처럼 씁니다. scarce는 '부족한', temporary는 '일시적인', invisible은 '보이지 않는'이라는 뜻입니다.",
+      "en": "Something that seems to be everywhere is 'ubiquitous', as in 'Smartphones are ubiquitous'. 'Scarce' means there is not enough, 'temporary' means lasting a short time, and 'invisible' means cannot be seen.",
+      "ja": "「どこにでもあるように見える、とてもありふれた」は ubiquitous の意味です。Smartphones are ubiquitous（スマートフォンはどこにでもある）のように使います。scarce は「乏しい」、temporary は「一時的な」、invisible は「目に見えない」という意味です。",
+      "zh": "“似乎无处不在、非常常见”是 ubiquitous 的意思，例如 Smartphones are ubiquitous（智能手机随处可见）。scarce 意为“稀少的”，temporary 意为“暂时的”，invisible 意为“看不见的”。",
+      "es": "Algo que parece estar en todas partes es «ubiquitous» (omnipresente), como en «Smartphones are ubiquitous». «Scarce» significa escaso, «temporary» significa temporal e «invisible» significa que no se puede ver.",
+      "vi": "Thứ dường như có ở khắp mọi nơi là 'ubiquitous', ví dụ 'Smartphones are ubiquitous' (điện thoại thông minh có ở khắp nơi). 'Scarce' nghĩa là khan hiếm, 'temporary' là tạm thời, 'invisible' là vô hình."
+    }
+  },
+  {
+    "id": "vocab-L4-0019",
+    "category": "vocab",
+    "level": "L4",
+    "format": "definition",
+    "question": "able to express ideas clearly and in a way that moves or persuades people",
+    "choices": ["hesitant", "clumsy", "eloquent", "silent"],
+    "answerIndex": 2,
+    "word": "eloquent",
+    "meaning": { "ko": "웅변을 잘하는, 설득력 있게 말하는", "en": "good at speaking or writing in a clear, persuasive way", "ja": "雄弁な", "zh": "雄辩的，有说服力的", "es": "elocuente", "vi": "hùng hồn, có tài ăn nói" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'생각을 분명하고 사람의 마음을 움직이게 표현할 수 있는'은 eloquent(웅변을 잘하는)의 뜻입니다. hesitant는 '망설이는', clumsy는 '서투른', silent는 '말이 없는'이라는 뜻입니다.",
+      "en": "A person who expresses ideas clearly and persuasively is 'eloquent'. 'Hesitant' means unsure and slow to act or speak, 'clumsy' means awkward, and 'silent' means not speaking.",
+      "ja": "「考えをはっきりと、人の心を動かすように表現できる」は eloquent（雄弁な）の意味です。hesitant は「ためらう」、clumsy は「不器用な」、silent は「無口な」という意味です。",
+      "zh": "“能清楚地表达想法并打动或说服别人”是 eloquent（雄辩的）的意思。hesitant 意为“犹豫的”，clumsy 意为“笨拙的”，silent 意为“沉默的”。",
+      "es": "Una persona que expresa sus ideas con claridad y de forma persuasiva es «eloquent» (elocuente). «Hesitant» significa indeciso, «clumsy» significa torpe y «silent» significa callado.",
+      "vi": "Người diễn đạt ý tưởng rõ ràng và có sức thuyết phục là người 'eloquent' (có tài ăn nói). 'Hesitant' nghĩa là do dự, 'clumsy' là vụng về, 'silent' là im lặng."
+    }
+  },
+  {
+    "id": "vocab-L4-0020",
+    "category": "vocab",
+    "level": "L4",
+    "format": "definition",
+    "question": "dealing with problems in a sensible, realistic way instead of following fixed ideas or theories",
+    "choices": ["idealistic", "pragmatic", "emotional", "theoretical"],
+    "answerIndex": 1,
+    "word": "pragmatic",
+    "meaning": { "ko": "실용적인, 현실적인", "en": "practical and realistic", "ja": "実用的な、現実的な", "zh": "务实的，实用的", "es": "pragmático", "vi": "thực tế, thực dụng" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'이론보다 현실적이고 합리적으로 문제를 다루는'은 pragmatic(실용적인)의 뜻입니다. idealistic(이상주의적인)과 theoretical(이론적인)은 오히려 반대에 가깝고, emotional(감정적인)은 sensible(합리적인)과 맞지 않습니다.",
+      "en": "Dealing with problems in a practical, realistic way is being 'pragmatic'. 'Idealistic' and 'theoretical' are close to the opposite, and 'emotional' does not match 'sensible'.",
+      "ja": "「理論より現実的で賢明なやり方で問題に対処する」は pragmatic（実用的な）の意味です。idealistic（理想主義的な）と theoretical（理論的な）はむしろ反対に近く、emotional（感情的な）は sensible（賢明な）と合いません。",
+      "zh": "“以理智、现实的方式处理问题，而不是照搬理论”是 pragmatic（务实的）的意思。idealistic（理想主义的）和 theoretical（理论上的）几乎相反，emotional（情绪化的）与 sensible（明智的）不符。",
+      "es": "Resolver los problemas de forma práctica y realista es ser «pragmatic» (pragmático). «Idealistic» (idealista) y «theoretical» (teórico) están cerca de lo contrario, y «emotional» (emocional) no encaja con «sensible» (sensato).",
+      "vi": "Giải quyết vấn đề một cách hợp lý, thực tế là 'pragmatic' (thực tế). 'Idealistic' (lý tưởng hóa) và 'theoretical' (lý thuyết) gần như ngược nghĩa, còn 'emotional' (cảm tính) không hợp với 'sensible' (hợp lý)."
+    }
+  },
+  {
+    "id": "vocab-L4-0021",
+    "category": "vocab",
+    "level": "L4",
+    "format": "definition",
+    "question": "to make pain, suffering or a problem less severe",
+    "choices": ["alleviate", "intensify", "provoke", "neglect"],
+    "answerIndex": 0,
+    "word": "alleviate",
+    "meaning": { "ko": "(고통·문제를) 완화하다, 덜어 주다", "en": "to make pain or a problem less bad", "ja": "（苦痛・問題を）和らげる、軽減する", "zh": "减轻，缓解（痛苦、问题）", "es": "aliviar", "vi": "làm giảm bớt, xoa dịu" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'고통이나 문제를 덜 심하게 만들다'는 alleviate(완화하다)의 뜻입니다. intensify는 '강화하다, 심해지게 하다'로 반대 뜻이고, provoke는 '유발하다', neglect는 '방치하다'라는 뜻입니다.",
+      "en": "To make pain or a problem less serious is to 'alleviate' it. 'Intensify' means to make it stronger, the opposite; 'provoke' means to cause a reaction, and 'neglect' means to fail to take care of something.",
+      "ja": "「苦痛や問題をより軽くする」は alleviate（和らげる）の意味です。intensify は「強める」で反対の意味、provoke は「引き起こす」、neglect は「放っておく」という意味です。",
+      "zh": "“使痛苦或问题减轻”是 alleviate（缓解）的意思。intensify 意为“加剧”，意思相反；provoke 意为“激起”，neglect 意为“忽视、疏于照顾”。",
+      "es": "Hacer que un dolor o un problema sea menos grave es «alleviate» (aliviar). «Intensify» (intensificar) es lo contrario, «provoke» significa provocar y «neglect» significa descuidar.",
+      "vi": "Làm cho nỗi đau hoặc vấn đề bớt nghiêm trọng là nghĩa của 'alleviate' (làm giảm bớt). 'Intensify' (làm tăng thêm) có nghĩa ngược lại, 'provoke' là khiêu khích, gây ra, còn 'neglect' là bỏ bê."
+    }
+  },
+  {
+    "id": "vocab-L4-0022",
+    "category": "vocab",
+    "level": "L4",
+    "format": "definition",
+    "question": "no longer used because something newer and better has replaced it",
+    "choices": ["popular", "durable", "innovative", "obsolete"],
+    "answerIndex": 3,
+    "word": "obsolete",
+    "meaning": { "ko": "더 이상 쓰이지 않는, 구식의", "en": "out of date and no longer used", "ja": "廃れた、時代遅れの", "zh": "过时的，淘汰的", "es": "obsoleto", "vi": "lỗi thời" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'더 새롭고 좋은 것이 나와서 더 이상 쓰이지 않는'은 obsolete(구식의)의 뜻입니다. popular는 '인기 있는', durable은 '오래가는, 튼튼한', innovative는 '혁신적인'이라는 뜻입니다.",
+      "en": "Something that is no longer used because a better thing replaced it is 'obsolete'. 'Popular' means liked by many people, 'durable' means lasting a long time, and 'innovative' means new and original.",
+      "ja": "「より新しく良いものが出たため、もう使われない」は obsolete（時代遅れの）の意味です。popular は「人気のある」、durable は「長持ちする」、innovative は「革新的な」という意味です。",
+      "zh": "“因为有了更新更好的东西而不再使用的”是 obsolete（过时的）的意思。popular 意为“受欢迎的”，durable 意为“耐用的”，innovative 意为“创新的”。",
+      "es": "Algo que ya no se usa porque algo mejor lo ha reemplazado es «obsolete» (obsoleto). «Popular» significa que gusta a mucha gente, «durable» significa duradero e «innovative» significa innovador.",
+      "vi": "Thứ không còn được dùng vì đã có thứ mới hơn, tốt hơn thay thế là 'obsolete' (lỗi thời). 'Popular' nghĩa là được nhiều người yêu thích, 'durable' là bền, còn 'innovative' là sáng tạo, đổi mới."
+    }
+  },
+  {
+    "id": "vocab-L4-0023",
+    "category": "vocab",
+    "level": "L4",
+    "format": "definition",
+    "question": "not easily convinced; tending to doubt whether something is true",
+    "choices": ["gullible", "skeptical", "confident", "naive"],
+    "answerIndex": 1,
+    "word": "skeptical",
+    "meaning": { "ko": "회의적인, 의심 많은", "en": "having doubts; not easily believing", "ja": "懐疑的な", "zh": "怀疑的", "es": "escéptico", "vi": "hoài nghi" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'쉽게 믿지 않고 사실인지 의심하는'은 skeptical(회의적인)의 뜻입니다. gullible(잘 속는)과 naive(순진한)는 오히려 쉽게 믿는다는 뜻이고, confident는 '자신 있는'이라는 뜻입니다.",
+      "en": "Someone who does not believe things easily and has doubts is 'skeptical'. 'Gullible' and 'naive' describe people who believe things too easily, and 'confident' means sure of yourself.",
+      "ja": "「簡単には信じず、本当かどうか疑う」は skeptical（懐疑的な）の意味です。gullible（だまされやすい）と naive（世間知らずな）はむしろ簡単に信じるという意味で、confident は「自信のある」という意味です。",
+      "zh": "“不轻易相信、怀疑事情是否属实”是 skeptical（怀疑的）的意思。gullible（容易上当的）和 naive（天真的）恰恰表示容易相信，confident 意为“自信的”。",
+      "es": "Alguien que no se cree las cosas fácilmente y tiene dudas es «skeptical» (escéptico). «Gullible» (crédulo) y «naive» (ingenuo) describen a personas que creen todo demasiado fácilmente, y «confident» significa seguro de sí mismo.",
+      "vi": "Người không dễ tin và hay nghi ngờ là người 'skeptical' (hoài nghi). 'Gullible' (cả tin) và 'naive' (ngây thơ) chỉ người quá dễ tin, còn 'confident' nghĩa là tự tin."
+    }
+  },
+  {
+    "id": "vocab-L4-0024",
+    "category": "vocab",
+    "level": "L4",
+    "format": "definition",
+    "question": "possible to do or achieve in practice",
+    "choices": ["absurd", "tedious", "feasible", "fragile"],
+    "answerIndex": 2,
+    "word": "feasible",
+    "meaning": { "ko": "실현 가능한", "en": "possible and practical to do", "ja": "実行可能な", "zh": "可行的", "es": "factible, viable", "vi": "khả thi" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'실제로 해내거나 이룰 수 있는'은 feasible(실현 가능한)의 뜻입니다. absurd는 '터무니없는', tedious는 '지루한', fragile은 '깨지기 쉬운'이라는 뜻입니다.",
+      "en": "Something that can really be done is 'feasible', as in 'a feasible plan'. 'Absurd' means silly and unreasonable, 'tedious' means long and boring, and 'fragile' means easily broken.",
+      "ja": "「実際に行ったり達成したりできる」は feasible（実行可能な）の意味です。absurd は「ばかげた」、tedious は「退屈な」、fragile は「壊れやすい」という意味です。",
+      "zh": "“实际上能够做到或实现的”是 feasible（可行的）的意思。absurd 意为“荒谬的”，tedious 意为“冗长乏味的”，fragile 意为“易碎的”。",
+      "es": "Algo que realmente se puede hacer es «feasible» (factible), como en «a feasible plan». «Absurd» significa absurdo, «tedious» significa largo y aburrido y «fragile» significa que se rompe fácilmente.",
+      "vi": "Điều có thể thực hiện được trên thực tế là 'feasible' (khả thi), như 'a feasible plan'. 'Absurd' nghĩa là vô lý, 'tedious' là tẻ nhạt, còn 'fragile' là dễ vỡ."
+    }
+  },
+  {
+    "id": "vocab-L4-0025",
+    "category": "vocab",
+    "level": "L4",
+    "format": "definition",
+    "question": "too satisfied with yourself or your situation, so that you stop trying to improve",
+    "choices": ["ambitious", "anxious", "complacent", "humble"],
+    "answerIndex": 2,
+    "word": "complacent",
+    "meaning": { "ko": "자기만족에 빠진, 안주하는", "en": "too pleased with yourself to keep trying", "ja": "現状に満足しきった、慢心した", "zh": "自满的，安于现状的", "es": "autocomplaciente, conformista", "vi": "tự mãn" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'자신이나 현재 상황에 너무 만족해서 더 나아지려는 노력을 멈춘'은 complacent(안주하는)의 뜻입니다. ambitious(야심 있는)는 반대에 가깝고, anxious는 '불안한', humble은 '겸손한'이라는 뜻입니다.",
+      "en": "Being so pleased with your situation that you stop trying to improve is being 'complacent'. 'Ambitious' is nearly the opposite, 'anxious' means worried, and 'humble' means not proud.",
+      "ja": "「自分や今の状況に満足しすぎて、向上する努力をやめた」は complacent（慢心した）の意味です。ambitious（野心的な）は反対に近く、anxious は「不安な」、humble は「謙虚な」という意味です。",
+      "zh": "“对自己或现状过于满意，因而不再努力进步”是 complacent（自满的）的意思。ambitious（有雄心的）几乎相反，anxious 意为“焦虑的”，humble 意为“谦虚的”。",
+      "es": "Estar tan satisfecho con tu situación que dejas de esforzarte por mejorar es ser «complacent» (autocomplaciente). «Ambitious» (ambicioso) es casi lo contrario, «anxious» significa preocupado y «humble» significa humilde.",
+      "vi": "Quá hài lòng với bản thân hay hoàn cảnh đến mức không cố gắng tiến bộ nữa là 'complacent' (tự mãn). 'Ambitious' (đầy tham vọng) gần như ngược nghĩa, 'anxious' là lo lắng, còn 'humble' là khiêm tốn."
+    }
+  },
+  {
+    "id": "vocab-L4-0026",
+    "category": "vocab",
+    "level": "L4",
+    "format": "definition",
+    "question": "able to do many different things or to be used in many different ways",
+    "choices": ["versatile", "rigid", "limited", "clumsy"],
+    "answerIndex": 0,
+    "word": "versatile",
+    "meaning": { "ko": "다재다능한, 다용도의", "en": "able to do or be used for many things", "ja": "多才な、用途の広い", "zh": "多才多艺的；用途广泛的", "es": "versátil", "vi": "đa năng, linh hoạt" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'여러 가지 일을 할 수 있거나 다양한 방식으로 쓰일 수 있는'은 versatile(다재다능한, 다용도의)의 뜻입니다. rigid(융통성 없는)와 limited(제한된)는 반대에 가깝고, clumsy는 '서투른'이라는 뜻입니다.",
+      "en": "A person or thing that can do or be used for many different things is 'versatile'. 'Rigid' (not flexible) and 'limited' are close to the opposite, and 'clumsy' means awkward.",
+      "ja": "「いろいろなことができる、さまざまな使い方ができる」は versatile（多才な、用途の広い）の意味です。rigid（柔軟性のない）と limited（限られた）は反対に近く、clumsy は「不器用な」という意味です。",
+      "zh": "“能做很多不同的事或有多种用途的”是 versatile 的意思。rigid（死板的）和 limited（有限的）几乎相反，clumsy 意为“笨拙的”。",
+      "es": "Una persona o cosa que puede hacer o servir para muchas cosas distintas es «versatile» (versátil). «Rigid» (rígido) y «limited» (limitado) son casi lo contrario, y «clumsy» significa torpe.",
+      "vi": "Người hoặc vật có thể làm hay được dùng vào nhiều việc khác nhau là 'versatile' (đa năng). 'Rigid' (cứng nhắc) và 'limited' (hạn chế) gần như ngược nghĩa, còn 'clumsy' là vụng về."
+    }
+  },
+  {
+    "id": "vocab-L4-0027",
+    "category": "vocab",
+    "level": "L4",
+    "format": "definition",
+    "question": "seeming reasonable and likely to be true",
+    "choices": ["ridiculous", "doubtful", "fictional", "plausible"],
+    "answerIndex": 3,
+    "word": "plausible",
+    "meaning": { "ko": "그럴듯한, 타당해 보이는", "en": "reasonable and possibly true", "ja": "もっともらしい", "zh": "似乎合理的，可信的", "es": "verosímil, plausible", "vi": "hợp lý, có vẻ đúng" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'타당해 보이고 사실일 가능성이 있는'은 plausible(그럴듯한)의 뜻입니다. ridiculous(터무니없는)와 doubtful(의심스러운)은 반대 쪽 뜻이고, fictional은 '허구의'라는 뜻입니다.",
+      "en": "Something that seems reasonable and probably true is 'plausible', as in 'a plausible explanation'. 'Ridiculous' and 'doubtful' point the other way, and 'fictional' means invented, like a story.",
+      "ja": "「理にかなっていて本当らしく思える」は plausible（もっともらしい）の意味です。ridiculous（ばかげた）と doubtful（疑わしい）は反対の方向の意味で、fictional は「架空の」という意味です。",
+      "zh": "“看起来合理、可能是真的”是 plausible（似乎合理的）的意思。ridiculous（荒唐的）和 doubtful（可疑的）意思相反，fictional 意为“虚构的”。",
+      "es": "Algo que parece razonable y probablemente cierto es «plausible» (verosímil), como en «a plausible explanation». «Ridiculous» (ridículo) y «doubtful» (dudoso) van en sentido contrario, y «fictional» significa inventado, de ficción.",
+      "vi": "Điều có vẻ hợp lý và có thể là thật là 'plausible', như 'a plausible explanation' (lời giải thích hợp lý). 'Ridiculous' (lố bịch) và 'doubtful' (đáng ngờ) mang nghĩa ngược lại, còn 'fictional' là hư cấu."
+    }
+  },
+  {
+    "id": "vocab-L4-0028",
+    "category": "vocab",
+    "level": "L4",
+    "format": "definition",
+    "question": "to become gradually worse in quality or condition",
+    "choices": ["improve", "deteriorate", "recover", "stabilize"],
+    "answerIndex": 1,
+    "word": "deteriorate",
+    "meaning": { "ko": "악화되다, 나빠지다", "en": "to become worse", "ja": "悪化する、劣化する", "zh": "恶化，变坏", "es": "deteriorarse, empeorar", "vi": "xấu đi, suy giảm" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'질이나 상태가 점점 나빠지다'는 deteriorate(악화되다)의 뜻입니다. improve(나아지다)와 recover(회복하다)는 반대 뜻이고, stabilize는 '안정되다'라는 뜻입니다.",
+      "en": "To slowly become worse is to 'deteriorate', as in 'His health deteriorated'. 'Improve' and 'recover' mean to get better, and 'stabilize' means to stop changing.",
+      "ja": "「質や状態が徐々に悪くなる」は deteriorate（悪化する）の意味です。improve（よくなる）と recover（回復する）は反対の意味で、stabilize は「安定する」という意味です。",
+      "zh": "“质量或状况逐渐变差”是 deteriorate（恶化）的意思。improve（改善）和 recover（恢复）意思相反，stabilize 意为“稳定下来”。",
+      "es": "Empeorar poco a poco es «deteriorate» (deteriorarse), como en «His health deteriorated». «Improve» (mejorar) y «recover» (recuperarse) significan lo contrario, y «stabilize» significa estabilizarse.",
+      "vi": "Trở nên xấu đi dần dần là 'deteriorate', như 'His health deteriorated' (sức khỏe anh ấy xấu đi). 'Improve' (cải thiện) và 'recover' (hồi phục) mang nghĩa ngược lại, còn 'stabilize' là ổn định lại."
+    }
+  },
+  {
+    "id": "vocab-L4-0029",
+    "category": "vocab",
+    "level": "L4",
+    "format": "synonym",
+    "question": "Which word means the SAME as \"diligent\"?",
+    "choices": ["idle", "industrious", "ingenious", "indifferent"],
+    "answerIndex": 1,
+    "word": "industrious",
+    "meaning": { "ko": "근면한, 부지런한", "en": "hard-working", "ja": "勤勉な", "zh": "勤奋的", "es": "trabajador, laborioso", "vi": "cần cù, siêng năng" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "diligent는 '성실하고 부지런한'이라는 뜻이므로 같은 뜻은 industrious(근면한)입니다. idle(게으른)은 반대말이고, ingenious(독창적인)와 indifferent(무관심한)는 철자가 비슷하지만 뜻이 다릅니다.",
+      "en": "'Diligent' means hard-working and careful, so 'industrious' has the same meaning. 'Idle' (lazy) is the opposite, and 'ingenious' (clever) and 'indifferent' (not interested) look similar but mean different things.",
+      "ja": "diligent は「勤勉な、熱心な」という意味なので、同じ意味は industrious（勤勉な）です。idle（怠けた）は反対語で、ingenious（独創的な）と indifferent（無関心な）はつづりが似ていますが意味が違います。",
+      "zh": "diligent 的意思是“勤奋认真的”，所以同义词是 industrious（勤奋的）。idle（懒散的）是反义词，ingenious（巧妙的）和 indifferent（漠不关心的）拼写相似，但意思不同。",
+      "es": "«Diligent» significa trabajador y cuidadoso, así que «industrious» (laborioso) significa lo mismo. «Idle» (perezoso) es lo contrario, e «ingenious» (ingenioso) e «indifferent» (indiferente) se parecen en la forma pero significan otra cosa.",
+      "vi": "'Diligent' nghĩa là chăm chỉ, cẩn thận, nên 'industrious' (cần cù) có nghĩa giống. 'Idle' (lười biếng) là từ trái nghĩa, còn 'ingenious' (khéo léo, tài tình) và 'indifferent' (thờ ơ) trông giống nhưng nghĩa khác."
+    }
+  },
+  {
+    "id": "vocab-L4-0030",
+    "category": "vocab",
+    "level": "L4",
+    "format": "synonym",
+    "question": "Which word means the SAME as \"abundant\"?",
+    "choices": ["scarce", "costly", "fertile", "plentiful"],
+    "answerIndex": 3,
+    "word": "plentiful",
+    "meaning": { "ko": "풍부한, 넉넉한", "en": "available in large amounts", "ja": "豊富な、たくさんある", "zh": "丰富的，充足的", "es": "abundante", "vi": "dồi dào, phong phú" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "abundant는 '양이 아주 많은, 풍부한'이라는 뜻이므로 같은 뜻은 plentiful(풍부한)입니다. scarce(부족한)는 반대말이고, costly는 '비싼', fertile은 '(땅이) 비옥한'이라는 뜻입니다.",
+      "en": "'Abundant' means existing in large amounts, so 'plentiful' has the same meaning. 'Scarce' is the opposite, 'costly' means expensive, and 'fertile' describes land where plants grow well.",
+      "ja": "abundant は「量がとても多い、豊富な」という意味なので、同じ意味は plentiful（豊富な）です。scarce（乏しい）は反対語で、costly は「高価な」、fertile は「（土地が）肥えた」という意味です。",
+      "zh": "abundant 意为“大量的、丰富的”，所以同义词是 plentiful（充足的）。scarce（稀缺的）是反义词，costly 意为“昂贵的”，fertile 意为“（土地）肥沃的”。",
+      "es": "«Abundant» significa que hay una gran cantidad, así que «plentiful» (abundante) significa lo mismo. «Scarce» (escaso) es lo contrario, «costly» significa caro y «fertile» describe una tierra donde las plantas crecen bien.",
+      "vi": "'Abundant' nghĩa là có số lượng lớn, nên 'plentiful' (dồi dào) có nghĩa giống. 'Scarce' (khan hiếm) là từ trái nghĩa, 'costly' là đắt đỏ, còn 'fertile' chỉ đất đai màu mỡ."
+    }
+  },
+  {
+    "id": "vocab-L4-0031",
+    "category": "vocab",
+    "level": "L4",
+    "format": "synonym",
+    "question": "Which word means the SAME as \"candid\"?",
+    "choices": ["frank", "secretive", "polite", "cautious"],
+    "answerIndex": 0,
+    "word": "frank",
+    "meaning": { "ko": "솔직한", "en": "honest and direct in what you say", "ja": "率直な", "zh": "坦率的，直率的", "es": "franco, sincero", "vi": "thẳng thắn" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "candid는 '숨김없이 솔직한'이라는 뜻이므로 같은 뜻은 frank(솔직한)입니다. secretive(비밀스러운)는 반대에 가깝고, polite는 '예의 바른', cautious는 '조심스러운'이라는 뜻입니다.",
+      "en": "'Candid' means honest and open, so 'frank' has the same meaning. 'Secretive' is close to the opposite, 'polite' means having good manners, and 'cautious' means careful.",
+      "ja": "candid は「隠さず率直な」という意味なので、同じ意味は frank（率直な）です。secretive（秘密主義の）は反対に近く、polite は「礼儀正しい」、cautious は「用心深い」という意味です。",
+      "zh": "candid 的意思是“坦诚的、直言不讳的”，所以同义词是 frank（坦率的）。secretive（守口如瓶的）几乎相反，polite 意为“有礼貌的”，cautious 意为“谨慎的”。",
+      "es": "«Candid» significa sincero y abierto, así que «frank» (franco) significa lo mismo. «Secretive» (reservado) es casi lo contrario, «polite» significa educado y «cautious» significa prudente.",
+      "vi": "'Candid' nghĩa là thật thà, cởi mở, nên 'frank' (thẳng thắn) có nghĩa giống. 'Secretive' (kín đáo, hay giấu giếm) gần như ngược nghĩa, 'polite' là lịch sự, còn 'cautious' là thận trọng."
+    }
+  },
+  {
+    "id": "vocab-L4-0032",
+    "category": "vocab",
+    "level": "L4",
+    "format": "synonym",
+    "question": "Which word means the SAME as \"deliberate\"?",
+    "choices": ["accidental", "careless", "intentional", "sudden"],
+    "answerIndex": 2,
+    "word": "intentional",
+    "meaning": { "ko": "의도적인, 고의의", "en": "done on purpose", "ja": "意図的な、故意の", "zh": "故意的，有意的", "es": "intencionado", "vi": "cố ý, có chủ đích" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "형용사 deliberate는 '일부러 한, 고의의'라는 뜻이므로 같은 뜻은 intentional(의도적인)입니다. accidental(우연한)은 반대말이고, careless는 '부주의한', sudden은 '갑작스러운'이라는 뜻입니다.",
+      "en": "The adjective 'deliberate' means done on purpose, so 'intentional' has the same meaning. 'Accidental' is the opposite, 'careless' means not careful, and 'sudden' means happening quickly without warning.",
+      "ja": "形容詞の deliberate は「わざとの、故意の」という意味なので、同じ意味は intentional（意図的な）です。accidental（偶然の）は反対語で、careless は「不注意な」、sudden は「突然の」という意味です。",
+      "zh": "形容词 deliberate 的意思是“故意的、有意的”，所以同义词是 intentional。accidental（意外的）是反义词，careless 意为“粗心的”，sudden 意为“突然的”。",
+      "es": "El adjetivo «deliberate» significa hecho a propósito, así que «intentional» (intencionado) significa lo mismo. «Accidental» es lo contrario, «careless» significa descuidado y «sudden» significa repentino.",
+      "vi": "Tính từ 'deliberate' nghĩa là cố ý, nên 'intentional' (có chủ đích) có nghĩa giống. 'Accidental' (tình cờ) là từ trái nghĩa, 'careless' là cẩu thả, còn 'sudden' là đột ngột."
+    }
+  },
+  {
+    "id": "vocab-L4-0033",
+    "category": "vocab",
+    "level": "L4",
+    "format": "synonym",
+    "question": "Which word means the SAME as \"enhance\"?",
+    "choices": ["reduce", "damage", "replace", "improve"],
+    "answerIndex": 3,
+    "word": "improve",
+    "meaning": { "ko": "향상시키다, 개선하다", "en": "to make better", "ja": "向上させる、改善する", "zh": "改善，提高", "es": "mejorar", "vi": "cải thiện, nâng cao" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "enhance는 '(질·가치 등을) 높이다, 향상시키다'라는 뜻이므로 같은 뜻은 improve(개선하다)입니다. reduce(줄이다)와 damage(손상시키다)는 반대 방향의 뜻이고, replace는 '대체하다'라는 뜻입니다.",
+      "en": "'Enhance' means to make something better or stronger, so 'improve' has the same meaning. 'Reduce' and 'damage' go in the opposite direction, and 'replace' means to put something new in place of something else.",
+      "ja": "enhance は「（質・価値などを）高める」という意味なので、同じ意味は improve（改善する）です。reduce（減らす）と damage（損なう）は反対方向の意味で、replace は「取り替える」という意味です。",
+      "zh": "enhance 的意思是“提高、增强（质量、价值等）”，所以同义词是 improve（改善）。reduce（减少）和 damage（损害）意思相反，replace 意为“替换”。",
+      "es": "«Enhance» significa hacer algo mejor o más fuerte, así que «improve» (mejorar) significa lo mismo. «Reduce» (reducir) y «damage» (dañar) van en sentido contrario, y «replace» significa reemplazar.",
+      "vi": "'Enhance' nghĩa là làm cho tốt hơn, mạnh hơn, nên 'improve' (cải thiện) có nghĩa giống. 'Reduce' (giảm) và 'damage' (làm hỏng) mang nghĩa ngược lại, còn 'replace' là thay thế."
+    }
+  },
+  {
+    "id": "vocab-L4-0034",
+    "category": "vocab",
+    "level": "L4",
+    "format": "synonym",
+    "question": "Which word means the SAME as \"trivial\"?",
+    "choices": ["essential", "insignificant", "complicated", "urgent"],
+    "answerIndex": 1,
+    "word": "insignificant",
+    "meaning": { "ko": "사소한, 하찮은", "en": "too small or unimportant to matter", "ja": "取るに足らない、ささいな", "zh": "微不足道的，无关紧要的", "es": "insignificante", "vi": "không đáng kể, vặt vãnh" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "trivial은 '사소한, 중요하지 않은'이라는 뜻이므로 같은 뜻은 insignificant(하찮은)입니다. essential(필수적인)과 urgent(긴급한)는 오히려 중요하다는 뜻이고, complicated는 '복잡한'이라는 뜻입니다.",
+      "en": "'Trivial' means small and not important, so 'insignificant' has the same meaning. 'Essential' and 'urgent' suggest something is important, and 'complicated' means difficult to understand.",
+      "ja": "trivial は「ささいな、重要でない」という意味なので、同じ意味は insignificant（取るに足らない）です。essential（不可欠な）と urgent（緊急の）はむしろ重要だという意味で、complicated は「複雑な」という意味です。",
+      "zh": "trivial 的意思是“琐碎的、不重要的”，所以同义词是 insignificant（微不足道的）。essential（必不可少的）和 urgent（紧急的）都表示重要，complicated 意为“复杂的”。",
+      "es": "«Trivial» significa pequeño y sin importancia, así que «insignificant» (insignificante) significa lo mismo. «Essential» (esencial) y «urgent» (urgente) indican que algo es importante, y «complicated» significa complicado.",
+      "vi": "'Trivial' nghĩa là nhỏ nhặt, không quan trọng, nên 'insignificant' (không đáng kể) có nghĩa giống. 'Essential' (thiết yếu) và 'urgent' (khẩn cấp) lại chỉ điều quan trọng, còn 'complicated' là phức tạp."
+    }
+  },
+  {
+    "id": "vocab-L4-0035",
+    "category": "vocab",
+    "level": "L4",
+    "format": "synonym",
+    "question": "Which word means the OPPOSITE of \"transparent\"?",
+    "choices": ["opaque", "clear", "honest", "visible"],
+    "answerIndex": 0,
+    "word": "opaque",
+    "meaning": { "ko": "불투명한; 이해하기 어려운", "en": "not letting light through; hard to understand", "ja": "不透明な；わかりにくい", "zh": "不透明的；难懂的", "es": "opaco", "vi": "mờ đục; khó hiểu" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "transparent는 '투명한, (과정이) 투명한'이라는 뜻이고, 반대말은 opaque(불투명한, 이해하기 어려운)입니다. clear(맑은, 분명한)는 비슷한 뜻이고, honest(정직한)와 visible(보이는)도 반대말이 아닙니다.",
+      "en": "'Transparent' means you can see through it, or that something is open and easy to understand; its opposite is 'opaque'. 'Clear' is similar in meaning, and 'honest' and 'visible' are not opposites either.",
+      "ja": "transparent は「透明な、（手続きなどが）透明性のある」という意味で、反対語は opaque（不透明な、わかりにくい）です。clear（澄んだ、明らかな）は似た意味で、honest（正直な）と visible（目に見える）も反対語ではありません。",
+      "zh": "transparent 意为“透明的；（过程）公开透明的”，反义词是 opaque（不透明的；难懂的）。clear（清澈的、清楚的）意思相近，honest（诚实的）和 visible（可见的）也不是反义词。",
+      "es": "«Transparent» significa que se puede ver a través, o que algo es abierto y fácil de entender; su opuesto es «opaque» (opaco). «Clear» tiene un significado parecido, y «honest» (honesto) y «visible» tampoco son opuestos.",
+      "vi": "'Transparent' nghĩa là trong suốt, hoặc minh bạch, dễ hiểu; từ trái nghĩa là 'opaque' (mờ đục, khó hiểu). 'Clear' có nghĩa gần giống, còn 'honest' (trung thực) và 'visible' (nhìn thấy được) cũng không phải từ trái nghĩa."
+    }
+  },
+  {
+    "id": "vocab-L4-0036",
+    "category": "vocab",
+    "level": "L4",
+    "format": "synonym",
+    "question": "Which word means the OPPOSITE of \"optimistic\"?",
+    "choices": ["hopeful", "cheerful", "pessimistic", "enthusiastic"],
+    "answerIndex": 2,
+    "word": "pessimistic",
+    "meaning": { "ko": "비관적인", "en": "expecting bad things to happen", "ja": "悲観的な", "zh": "悲观的", "es": "pesimista", "vi": "bi quan" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "optimistic은 '낙관적인'이라는 뜻이므로 반대말은 pessimistic(비관적인)입니다. hopeful(희망적인), cheerful(쾌활한), enthusiastic(열정적인)은 모두 긍정적인 뜻이라 반대말이 될 수 없습니다.",
+      "en": "'Optimistic' means expecting good things, so its opposite is 'pessimistic'. 'Hopeful', 'cheerful' and 'enthusiastic' are all positive words, so they are not opposites.",
+      "ja": "optimistic は「楽観的な」という意味なので、反対語は pessimistic（悲観的な）です。hopeful（希望に満ちた）、cheerful（陽気な）、enthusiastic（熱心な）はどれも前向きな意味なので、反対語ではありません。",
+      "zh": "optimistic 的意思是“乐观的”，所以反义词是 pessimistic（悲观的）。hopeful（充满希望的）、cheerful（快活的）、enthusiastic（热情的）都是积极的词，不是反义词。",
+      "es": "«Optimistic» significa esperar cosas buenas, así que su opuesto es «pessimistic» (pesimista). «Hopeful» (esperanzado), «cheerful» (alegre) y «enthusiastic» (entusiasta) son palabras positivas, así que no son opuestos.",
+      "vi": "'Optimistic' nghĩa là lạc quan, nên từ trái nghĩa là 'pessimistic' (bi quan). 'Hopeful' (đầy hy vọng), 'cheerful' (vui vẻ) và 'enthusiastic' (nhiệt tình) đều mang nghĩa tích cực nên không phải từ trái nghĩa."
+    }
+  },
+  {
+    "id": "vocab-L4-0037",
+    "category": "vocab",
+    "level": "L4",
+    "format": "synonym",
+    "question": "Which word means the OPPOSITE of \"accelerate\"?",
+    "choices": ["hurry", "increase", "advance", "decelerate"],
+    "answerIndex": 3,
+    "word": "decelerate",
+    "meaning": { "ko": "속도를 줄이다, 감속하다", "en": "to slow down", "ja": "減速する", "zh": "减速", "es": "desacelerar, reducir la velocidad", "vi": "giảm tốc độ" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "accelerate는 '속도를 높이다, 가속하다'라는 뜻이므로 반대말은 decelerate(감속하다)입니다. hurry(서두르다)와 increase(증가하다)는 비슷한 방향의 뜻이고, advance는 '전진하다'라는 뜻입니다.",
+      "en": "'Accelerate' means to go faster, so its opposite is 'decelerate' (slow down). 'Hurry' and 'increase' are similar in direction, and 'advance' means to move forward.",
+      "ja": "accelerate は「加速する」という意味なので、反対語は decelerate（減速する）です。hurry（急ぐ）と increase（増える）は似た方向の意味で、advance は「前進する」という意味です。",
+      "zh": "accelerate 的意思是“加速”，所以反义词是 decelerate（减速）。hurry（赶紧）和 increase（增加）意思方向相近，advance 意为“前进”。",
+      "es": "«Accelerate» significa ir más rápido, así que su opuesto es «decelerate» (desacelerar). «Hurry» (darse prisa) e «increase» (aumentar) van en la misma dirección, y «advance» significa avanzar.",
+      "vi": "'Accelerate' nghĩa là tăng tốc, nên từ trái nghĩa là 'decelerate' (giảm tốc). 'Hurry' (vội vàng) và 'increase' (tăng lên) có nghĩa cùng hướng, còn 'advance' là tiến lên."
+    }
+  },
+  {
+    "id": "vocab-L4-0038",
+    "category": "vocab",
+    "level": "L4",
+    "format": "synonym",
+    "question": "Which word means the OPPOSITE of \"modest\"?",
+    "choices": ["arrogant", "humble", "shy", "polite"],
+    "answerIndex": 0,
+    "word": "arrogant",
+    "meaning": { "ko": "오만한, 거만한", "en": "thinking you are better than other people", "ja": "傲慢な", "zh": "傲慢的，自大的", "es": "arrogante", "vi": "kiêu ngạo" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "modest는 '겸손한'이라는 뜻이므로 반대말은 arrogant(오만한)입니다. humble(겸손한)은 같은 뜻이고, shy(수줍은)와 polite(예의 바른)도 반대말이 아닙니다.",
+      "en": "'Modest' means not talking proudly about yourself, so its opposite is 'arrogant'. 'Humble' has the same meaning as 'modest', and 'shy' and 'polite' are not opposites either.",
+      "ja": "modest は「謙虚な」という意味なので、反対語は arrogant（傲慢な）です。humble（謙虚な）は同じ意味で、shy（恥ずかしがりの）と polite（礼儀正しい）も反対語ではありません。",
+      "zh": "modest 的意思是“谦虚的”，所以反义词是 arrogant（傲慢的）。humble（谦逊的）是同义词，shy（害羞的）和 polite（有礼貌的）也不是反义词。",
+      "es": "«Modest» significa no presumir de uno mismo, así que su opuesto es «arrogant» (arrogante). «Humble» (humilde) significa lo mismo que «modest», y «shy» (tímido) y «polite» (educado) tampoco son opuestos.",
+      "vi": "'Modest' nghĩa là khiêm tốn, nên từ trái nghĩa là 'arrogant' (kiêu ngạo). 'Humble' (khiêm nhường) có nghĩa giống 'modest', còn 'shy' (nhút nhát) và 'polite' (lịch sự) cũng không phải từ trái nghĩa."
+    }
+  },
+  {
+    "id": "vocab-L4-0039",
+    "category": "vocab",
+    "level": "L4",
+    "format": "synonym",
+    "question": "Which word means the OPPOSITE of \"voluntary\"?",
+    "choices": ["optional", "compulsory", "generous", "unpaid"],
+    "answerIndex": 1,
+    "word": "compulsory",
+    "meaning": { "ko": "의무적인, 강제적인", "en": "required by a rule or law", "ja": "義務的な、強制的な", "zh": "强制的，义务的", "es": "obligatorio", "vi": "bắt buộc" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "voluntary는 '자발적인, 하고 싶으면 하는'이라는 뜻이므로 반대말은 compulsory(의무적인)입니다. optional(선택적인)은 비슷한 뜻이고, generous(너그러운)와 unpaid(무보수의)는 반대말이 아닙니다.",
+      "en": "'Voluntary' means you choose to do it, so its opposite is 'compulsory' (you must do it). 'Optional' is similar to 'voluntary', and 'generous' and 'unpaid' are not opposites.",
+      "ja": "voluntary は「自発的な、任意の」という意味なので、反対語は compulsory（義務的な）です。optional（任意の）は似た意味で、generous（気前のよい）と unpaid（無給の）は反対語ではありません。",
+      "zh": "voluntary 的意思是“自愿的”，所以反义词是 compulsory（强制的、必须做的）。optional（可选的）意思相近，generous（慷慨的）和 unpaid（无报酬的）都不是反义词。",
+      "es": "«Voluntary» significa que eliges hacerlo, así que su opuesto es «compulsory» (obligatorio). «Optional» (opcional) es parecido a «voluntary», y «generous» (generoso) y «unpaid» (no remunerado) no son opuestos.",
+      "vi": "'Voluntary' nghĩa là tự nguyện, nên từ trái nghĩa là 'compulsory' (bắt buộc). 'Optional' (tùy chọn) có nghĩa gần giống, còn 'generous' (hào phóng) và 'unpaid' (không được trả lương) không phải từ trái nghĩa."
+    }
+  },
+  {
+    "id": "vocab-L4-0040",
+    "category": "vocab",
+    "level": "L4",
+    "format": "synonym",
+    "question": "Which word means the OPPOSITE of \"vague\"?",
+    "choices": ["unclear", "uncertain", "precise", "doubtful"],
+    "answerIndex": 2,
+    "word": "precise",
+    "meaning": { "ko": "정확한, 명확한", "en": "exact and clear in every detail", "ja": "正確な、明確な", "zh": "精确的，明确的", "es": "preciso", "vi": "chính xác, rõ ràng" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "vague는 '모호한, 막연한'이라는 뜻이므로 반대말은 precise(정확한, 명확한)입니다. unclear(불분명한), uncertain(불확실한), doubtful(의심스러운)은 모두 vague와 비슷한 쪽의 뜻입니다.",
+      "en": "'Vague' means not clear or exact, so its opposite is 'precise'. 'Unclear', 'uncertain' and 'doubtful' are all close to 'vague' in meaning.",
+      "ja": "vague は「あいまいな、漠然とした」という意味なので、反対語は precise（正確な、明確な）です。unclear（不明確な）、uncertain（不確かな）、doubtful（疑わしい）はどれも vague に近い意味です。",
+      "zh": "vague 的意思是“模糊的、含糊的”，所以反义词是 precise（精确的、明确的）。unclear（不清楚的）、uncertain（不确定的）、doubtful（可疑的）都与 vague 意思相近。",
+      "es": "«Vague» significa poco claro o poco exacto, así que su opuesto es «precise» (preciso). «Unclear» (poco claro), «uncertain» (incierto) y «doubtful» (dudoso) tienen un significado cercano a «vague».",
+      "vi": "'Vague' nghĩa là mơ hồ, không rõ ràng, nên từ trái nghĩa là 'precise' (chính xác, rõ ràng). 'Unclear' (không rõ), 'uncertain' (không chắc chắn) và 'doubtful' (đáng ngờ) đều có nghĩa gần với 'vague'."
+    }
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "id": "vocab-L2-0001",
+    "category": "vocab",
+    "level": "L2",
+    "format": "blank",
+    "question": "The bus was very ___, so I had to stand all the way to work.",
+    "choices": ["crowded", "empty", "cheap", "hungry"],
+    "answerIndex": 0,
+    "word": "crowded",
+    "meaning": { "ko": "붐비는, 사람이 많은", "en": "full of people", "ja": "混雑した", "zh": "拥挤的", "es": "lleno de gente", "vi": "đông đúc" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "버스에 앉을 자리가 없어서 서 있어야 했으므로 crowded(붐비는)가 정답입니다. empty(텅 빈) 버스라면 앉을 수 있고, cheap(값싼)과 hungry(배고픈)는 서 있어야 하는 이유가 되지 않습니다.",
+      "en": "I had to stand because there were no seats, so 'crowded' (full of people) is correct. On an 'empty' bus you can sit, and 'cheap' and 'hungry' do not explain why I had to stand.",
+      "ja": "座る席がなくて立たなければならなかったので、crowded（混雑した）が正解です。empty（空っぽの）バスなら座れますし、cheap（安い）と hungry（お腹がすいた）は立つ理由になりません。",
+      "zh": "因为没有座位只能站着，所以 crowded（拥挤的）是正确答案。如果是 empty（空的）公交车就可以坐下，cheap（便宜的）和 hungry（饿的）都不能解释为什么要站着。",
+      "es": "Tuve que ir de pie porque no había asientos, así que «crowded» (lleno de gente) es la respuesta correcta. En un autobús «empty» (vacío) puedes sentarte, y «cheap» (barato) y «hungry» (con hambre) no explican por qué tuve que ir de pie.",
+      "vi": "Tôi phải đứng vì không còn chỗ ngồi, nên 'crowded' (đông đúc) là đáp án đúng. Xe buýt 'empty' (trống) thì có thể ngồi, còn 'cheap' (rẻ) và 'hungry' (đói) không giải thích được vì sao phải đứng."
+    }
+  },
+  {
+    "id": "vocab-L2-0002",
+    "category": "vocab",
+    "level": "L2",
+    "format": "blank",
+    "question": "This bag costs 300 dollars. It's too ___ for me.",
+    "choices": ["delicious", "expensive", "sunny", "polite"],
+    "answerIndex": 1,
+    "word": "expensive",
+    "meaning": { "ko": "비싼", "en": "costing a lot of money", "ja": "高い（値段が）", "zh": "昂贵的", "es": "caro", "vi": "đắt" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "가방이 300달러나 하므로 '너무 비싸다'는 뜻의 expensive가 정답입니다. delicious(맛있는)는 음식, sunny(화창한)는 날씨, polite(예의 바른)는 사람에게 쓰는 말입니다.",
+      "en": "The bag costs 300 dollars, so it is too 'expensive' (costs a lot of money). 'Delicious' is for food, 'sunny' is for weather, and 'polite' is for people.",
+      "ja": "かばんが300ドルもするので、「値段が高すぎる」という意味の expensive が正解です。delicious（おいしい）は食べ物、sunny（晴れた）は天気、polite（礼儀正しい）は人に使う言葉です。",
+      "zh": "这个包要300美元，所以是“太贵了”，正确答案是 expensive（昂贵的）。delicious（好吃的）用于食物，sunny（晴朗的）用于天气，polite（有礼貌的）用于人。",
+      "es": "El bolso cuesta 300 dólares, así que es demasiado «expensive» (caro). «Delicious» (delicioso) se usa para la comida, «sunny» (soleado) para el tiempo y «polite» (educado) para las personas.",
+      "vi": "Cái túi giá 300 đô la, nên nó quá 'expensive' (đắt). 'Delicious' (ngon) dùng cho đồ ăn, 'sunny' (nắng) dùng cho thời tiết, còn 'polite' (lịch sự) dùng cho người."
+    }
+  },
+  {
+    "id": "vocab-L2-0003",
+    "category": "vocab",
+    "level": "L2",
+    "format": "blank",
+    "question": "I ___ at 6:30 every morning and have a shower.",
+    "choices": ["look for", "turn off", "get up", "put on"],
+    "answerIndex": 2,
+    "word": "get up",
+    "meaning": { "ko": "(잠자리에서) 일어나다", "en": "to get out of bed", "ja": "起きる、起床する", "zh": "起床", "es": "levantarse", "vi": "thức dậy, ra khỏi giường" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "아침 6시 30분에 '일어나서' 샤워를 하는 것이므로 get up(일어나다)이 정답입니다. look for(찾다), turn off(끄다), put on(입다)은 뒤에 목적어가 필요하고 뜻도 맞지 않습니다.",
+      "en": "You 'get up' (get out of bed) at 6:30 and then have a shower. 'Look for' (try to find), 'turn off' (stop a machine) and 'put on' (start wearing) need an object and do not fit the meaning.",
+      "ja": "朝6時半に「起きて」シャワーを浴びるので、get up（起きる）が正解です。look for（探す）、turn off（消す）、put on（着る）は後ろに目的語が必要で、意味も合いません。",
+      "zh": "早上6点半“起床”然后洗澡，所以 get up（起床）是正确答案。look for（寻找）、turn off（关掉）、put on（穿上）后面都需要宾语，意思也不对。",
+      "es": "Te «get up» (levantas) a las 6:30 y luego te duchas. «Look for» (buscar), «turn off» (apagar) y «put on» (ponerse ropa) necesitan un objeto y no tienen sentido aquí.",
+      "vi": "Bạn 'get up' (thức dậy) lúc 6 giờ 30 rồi đi tắm. 'Look for' (tìm kiếm), 'turn off' (tắt) và 'put on' (mặc vào) cần có tân ngữ và không hợp nghĩa."
+    }
+  },
+  {
+    "id": "vocab-L2-0004",
+    "category": "vocab",
+    "level": "L2",
+    "format": "blank",
+    "question": "I can't find my keys. Can you help me ___ them?",
+    "choices": ["get up", "sit down", "wake up", "look for"],
+    "answerIndex": 3,
+    "word": "look for",
+    "meaning": { "ko": "찾다", "en": "to try to find", "ja": "探す", "zh": "寻找", "es": "buscar", "vi": "tìm kiếm" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "열쇠를 찾을 수 없어서 도움을 청하는 상황이므로 look for(찾다)가 정답입니다. get up(일어나다), sit down(앉다), wake up(잠에서 깨다)은 열쇠와 어울리지 않습니다.",
+      "en": "I can't find my keys, so I need help to 'look for' (try to find) them. 'Get up' (leave your bed), 'sit down' and 'wake up' (stop sleeping) do not make sense with keys.",
+      "ja": "鍵が見つからなくて助けを頼んでいるので、look for（探す）が正解です。get up（起きる）、sit down（座る）、wake up（目を覚ます）は鍵と合いません。",
+      "zh": "找不到钥匙，所以请别人帮忙 look for（寻找）。get up（起床）、sit down（坐下）、wake up（醒来）都和钥匙搭配不上。",
+      "es": "No encuentro mis llaves, así que necesito ayuda para «look for» (buscar) las llaves. «Get up» (levantarse), «sit down» (sentarse) y «wake up» (despertarse) no tienen sentido con unas llaves.",
+      "vi": "Tôi không tìm thấy chìa khóa nên cần người giúp 'look for' (tìm) chúng. 'Get up' (thức dậy), 'sit down' (ngồi xuống) và 'wake up' (tỉnh giấc) không hợp nghĩa với chìa khóa."
+    }
+  },
+  {
+    "id": "vocab-L2-0005",
+    "category": "vocab",
+    "level": "L2",
+    "format": "blank",
+    "question": "It's very ___ today. Don't forget your umbrella and raincoat.",
+    "choices": ["sunny", "dry", "rainy", "bright"],
+    "answerIndex": 2,
+    "word": "rainy",
+    "meaning": { "ko": "비가 오는", "en": "with a lot of rain", "ja": "雨の、雨が降る", "zh": "下雨的", "es": "lluvioso", "vi": "có mưa" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "우산과 비옷을 챙기라고 했으므로 비가 오는 날씨, 즉 rainy가 정답입니다. sunny(화창한), dry(건조한), bright(밝은)는 비옷이 필요 없는 날씨입니다.",
+      "en": "You need an umbrella and a raincoat, so the weather is 'rainy'. On a 'sunny', 'dry' or 'bright' day, you do not need a raincoat.",
+      "ja": "傘とレインコートを忘れないようにと言っているので、雨の天気を表す rainy が正解です。sunny（晴れた）、dry（乾いた）、bright（明るい）はレインコートがいらない天気です。",
+      "zh": "要带雨伞和雨衣，说明天气在下雨，所以 rainy（下雨的）是正确答案。sunny（晴朗的）、dry（干燥的）、bright（明亮的）天气都不需要雨衣。",
+      "es": "Hace falta paraguas e impermeable, así que el tiempo es «rainy» (lluvioso). En un día «sunny» (soleado), «dry» (seco) o «bright» (luminoso) no necesitas impermeable.",
+      "vi": "Cần mang ô và áo mưa, nên thời tiết là 'rainy' (có mưa). Vào ngày 'sunny' (nắng), 'dry' (khô ráo) hay 'bright' (sáng sủa) thì không cần áo mưa."
+    }
+  },
+  {
+    "id": "vocab-L2-0006",
+    "category": "vocab",
+    "level": "L2",
+    "format": "blank",
+    "question": "I ___ drink coffee. I don't like it at all.",
+    "choices": ["never", "always", "usually", "often"],
+    "answerIndex": 0,
+    "word": "never",
+    "meaning": { "ko": "결코 ~않다, 한 번도 ~않다", "en": "not at any time", "ja": "決して〜ない、一度も〜ない", "zh": "从不", "es": "nunca", "vi": "không bao giờ" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "커피를 전혀 좋아하지 않으므로 '절대 마시지 않는다'는 뜻의 never가 정답입니다. always(항상), usually(보통), often(자주)은 커피를 마신다는 뜻이라 뒤 문장과 맞지 않습니다.",
+      "en": "I don't like coffee at all, so I 'never' (not at any time) drink it. 'Always', 'usually' and 'often' mean I drink it a lot, which does not match the second sentence.",
+      "ja": "コーヒーがまったく好きではないので、「決して飲まない」という意味の never が正解です。always（いつも）、usually（たいてい）、often（よく）はコーヒーを飲むという意味になり、後ろの文と合いません。",
+      "zh": "我一点也不喜欢咖啡，所以“从不”喝，正确答案是 never。always（总是）、usually（通常）、often（经常）都表示会喝咖啡，与后一句不符。",
+      "es": "No me gusta nada el café, así que «never» (nunca) lo tomo. «Always» (siempre), «usually» (normalmente) y «often» (a menudo) significan que lo tomo, y eso no coincide con la segunda frase.",
+      "vi": "Tôi hoàn toàn không thích cà phê, nên tôi 'never' (không bao giờ) uống. 'Always' (luôn luôn), 'usually' (thường thường) và 'often' (hay) đều có nghĩa là có uống, không hợp với câu sau."
+    }
+  },
+  {
+    "id": "vocab-L2-0007",
+    "category": "vocab",
+    "level": "L2",
+    "format": "blank",
+    "question": "My aunt is a ___. She works in a hospital and takes care of sick people.",
+    "choices": ["pilot", "nurse", "farmer", "waiter"],
+    "answerIndex": 1,
+    "word": "nurse",
+    "meaning": { "ko": "간호사", "en": "a person who cares for sick people in a hospital", "ja": "看護師", "zh": "护士", "es": "enfermero, enfermera", "vi": "y tá" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "병원에서 아픈 사람들을 돌보는 직업은 nurse(간호사)입니다. pilot(조종사)은 비행기를 조종하고, farmer(농부)는 농장에서, waiter(웨이터)는 식당에서 일합니다.",
+      "en": "A person who works in a hospital and takes care of sick people is a 'nurse'. A 'pilot' flies planes, a 'farmer' works on a farm, and a 'waiter' works in a restaurant.",
+      "ja": "病院で病気の人の世話をする仕事は nurse（看護師）です。pilot（パイロット）は飛行機を操縦し、farmer（農家の人）は農場で、waiter（ウェイター）はレストランで働きます。",
+      "zh": "在医院照顾病人的职业是 nurse（护士）。pilot（飞行员）开飞机，farmer（农民）在农场工作，waiter（服务员）在餐厅工作。",
+      "es": "La persona que trabaja en un hospital y cuida a los enfermos es «nurse» (enfermera). Un «pilot» (piloto) pilota aviones, un «farmer» (granjero) trabaja en una granja y un «waiter» (camarero) trabaja en un restaurante.",
+      "vi": "Người làm việc ở bệnh viện và chăm sóc người bệnh là 'nurse' (y tá). 'Pilot' (phi công) lái máy bay, 'farmer' (nông dân) làm ở nông trại, còn 'waiter' (bồi bàn) làm ở nhà hàng."
+    }
+  },
+  {
+    "id": "vocab-L2-0008",
+    "category": "vocab",
+    "level": "L2",
+    "format": "blank",
+    "question": "I had a bad ___, so I took some medicine and went to bed early.",
+    "choices": ["holiday", "haircut", "homework", "headache"],
+    "answerIndex": 3,
+    "word": "headache",
+    "meaning": { "ko": "두통", "en": "a pain in your head", "ja": "頭痛", "zh": "头痛", "es": "dolor de cabeza", "vi": "đau đầu" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "약을 먹고 일찍 잤으므로 몸이 아팠다는 뜻의 headache(두통)가 정답입니다. holiday(휴가), haircut(머리 깎기), homework(숙제)는 약을 먹을 이유가 되지 않습니다.",
+      "en": "I took medicine and went to bed early, so I had a 'headache' (a pain in my head). A 'holiday', a 'haircut' or 'homework' is not a reason to take medicine.",
+      "ja": "薬を飲んで早く寝たので、体の具合が悪かったことを表す headache（頭痛）が正解です。holiday（休暇）、haircut（散髪）、homework（宿題）は薬を飲む理由になりません。",
+      "zh": "吃了药并早早睡觉，说明身体不舒服，所以 headache（头痛）是正确答案。holiday（假期）、haircut（理发）、homework（作业）都不是吃药的理由。",
+      "es": "Tomé medicina y me acosté temprano, así que tenía «headache» (dolor de cabeza). Unas «holiday» (vacaciones), un «haircut» (corte de pelo) o los «homework» (deberes) no son razones para tomar medicina.",
+      "vi": "Tôi uống thuốc và đi ngủ sớm, nên tôi bị 'headache' (đau đầu). 'Holiday' (kỳ nghỉ), 'haircut' (cắt tóc) hay 'homework' (bài tập về nhà) không phải lý do để uống thuốc."
+    }
+  },
+  {
+    "id": "vocab-L2-0009",
+    "category": "vocab",
+    "level": "L2",
+    "format": "blank",
+    "question": "First, ___ the onions into small pieces with a knife.",
+    "choices": ["cut", "boil", "pour", "wash"],
+    "answerIndex": 0,
+    "word": "cut",
+    "meaning": { "ko": "자르다", "en": "to make something into pieces with a knife", "ja": "切る", "zh": "切", "es": "cortar", "vi": "cắt" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "칼로 양파를 작은 조각으로 만드는 것이므로 cut(자르다)이 정답입니다. boil(끓이다), pour(붓다), wash(씻다)는 칼로 하는 일이 아니고 'into small pieces'와도 어울리지 않습니다.",
+      "en": "You use a knife to make onions into small pieces, so 'cut' is correct. 'Boil' (cook in hot water), 'pour' (make a liquid flow) and 'wash' (clean with water) are not done with a knife.",
+      "ja": "ナイフで玉ねぎを小さくするので、cut（切る）が正解です。boil（ゆでる）、pour（注ぐ）、wash（洗う）はナイフを使う動作ではなく、「into small pieces」とも合いません。",
+      "zh": "用刀把洋葱弄成小块，所以 cut（切）是正确答案。boil（煮）、pour（倒）、wash（洗）都不是用刀做的动作，也不能和 into small pieces 搭配。",
+      "es": "Se usa un cuchillo para hacer trozos pequeños de cebolla, así que «cut» (cortar) es la respuesta correcta. «Boil» (hervir), «pour» (verter) y «wash» (lavar) no se hacen con un cuchillo.",
+      "vi": "Dùng dao để làm hành thành miếng nhỏ, nên 'cut' (cắt) là đáp án đúng. 'Boil' (luộc), 'pour' (rót) và 'wash' (rửa) không làm bằng dao."
+    }
+  },
+  {
+    "id": "vocab-L2-0010",
+    "category": "vocab",
+    "level": "L2",
+    "format": "blank",
+    "question": "I need some medicine for my cold. Is there a ___ near here?",
+    "choices": ["library", "stadium", "bakery", "pharmacy"],
+    "answerIndex": 3,
+    "word": "pharmacy",
+    "meaning": { "ko": "약국", "en": "a shop that sells medicine", "ja": "薬局", "zh": "药店", "es": "farmacia", "vi": "hiệu thuốc" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "감기약을 사려면 약을 파는 가게인 pharmacy(약국)에 가야 합니다. library(도서관)는 책을 빌리는 곳, stadium(경기장)은 경기를 보는 곳, bakery(빵집)는 빵을 파는 곳입니다.",
+      "en": "To buy medicine for a cold, you go to a 'pharmacy' (a shop that sells medicine). A 'library' is for borrowing books, a 'stadium' is for watching sports, and a 'bakery' sells bread.",
+      "ja": "風邪薬を買うには、薬を売る店の pharmacy（薬局）に行きます。library（図書館）は本を借りる所、stadium（競技場）は試合を見る所、bakery（パン屋）はパンを売る所です。",
+      "zh": "要买感冒药，就要去卖药的地方 pharmacy（药店）。library（图书馆）是借书的地方，stadium（体育场）是看比赛的地方，bakery（面包店）是卖面包的地方。",
+      "es": "Para comprar medicina para el resfriado vas a una «pharmacy» (farmacia). Una «library» (biblioteca) es para pedir libros prestados, un «stadium» (estadio) es para ver deportes y una «bakery» (panadería) vende pan.",
+      "vi": "Muốn mua thuốc cảm thì phải đến 'pharmacy' (hiệu thuốc). 'Library' (thư viện) là nơi mượn sách, 'stadium' (sân vận động) là nơi xem thể thao, còn 'bakery' (tiệm bánh) bán bánh mì."
+    }
+  },
+  {
+    "id": "vocab-L2-0011",
+    "category": "vocab",
+    "level": "L2",
+    "format": "blank",
+    "question": "I was really ___ after the long walk, so I sat down and rested.",
+    "choices": ["angry", "tired", "cheap", "careful"],
+    "answerIndex": 1,
+    "word": "tired",
+    "meaning": { "ko": "피곤한", "en": "needing rest", "ja": "疲れた", "zh": "累的，疲倦的", "es": "cansado", "vi": "mệt" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "오래 걸은 뒤 앉아서 쉬었으므로 tired(피곤한)가 정답입니다. angry(화난)는 쉬는 이유가 되지 않고, cheap(값싼)은 물건에 쓰는 말이며, careful(조심하는)도 문맥에 맞지 않습니다.",
+      "en": "After a long walk I sat down and rested, so I was 'tired' (needing rest). 'Angry' is not a reason to rest, 'cheap' is used for things, and 'careful' does not fit the meaning.",
+      "ja": "長く歩いた後に座って休んだので、tired（疲れた）が正解です。angry（怒った）は休む理由にならず、cheap（安い）は物に使う言葉で、careful（注意深い）も文に合いません。",
+      "zh": "走了很久之后坐下来休息，所以 tired（累的）是正确答案。angry（生气的）不是休息的理由，cheap（便宜的）用于东西，careful（小心的）也不符合句意。",
+      "es": "Después de una larga caminata me senté a descansar, así que estaba «tired» (cansado). «Angry» (enfadado) no es una razón para descansar, «cheap» (barato) se usa para cosas y «careful» (cuidadoso) no tiene sentido aquí.",
+      "vi": "Sau khi đi bộ lâu, tôi ngồi xuống nghỉ, nên tôi 'tired' (mệt). 'Angry' (tức giận) không phải lý do để nghỉ, 'cheap' (rẻ) dùng cho đồ vật, còn 'careful' (cẩn thận) không hợp nghĩa."
+    }
+  },
+  {
+    "id": "vocab-L2-0012",
+    "category": "vocab",
+    "level": "L2",
+    "format": "blank",
+    "question": "The soup was ___! Can I have some more?",
+    "choices": ["awful", "boring", "delicious", "late"],
+    "answerIndex": 2,
+    "word": "delicious",
+    "meaning": { "ko": "아주 맛있는", "en": "tasting very good", "ja": "とてもおいしい", "zh": "美味的，好吃的", "es": "delicioso", "vi": "rất ngon" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "수프를 더 먹고 싶어 하므로 맛이 아주 좋았다는 뜻의 delicious가 정답입니다. awful(끔찍한)이면 더 먹고 싶지 않고, boring(지루한)과 late(늦은)는 음식 맛을 나타내지 않습니다.",
+      "en": "I want more soup, so it was 'delicious' (tasted very good). If it was 'awful' (very bad), I would not want more, and 'boring' and 'late' do not describe taste.",
+      "ja": "スープをもっと欲しがっているので、とてもおいしいという意味の delicious が正解です。awful（ひどい）ならもう欲しくないはずで、boring（退屈な）と late（遅い）は味を表しません。",
+      "zh": "想再要一些汤，说明汤很好喝，所以 delicious（美味的）是正确答案。如果是 awful（很糟糕的）就不会想再要，boring（无聊的）和 late（迟的）不能描述味道。",
+      "es": "Quiero más sopa, así que estaba «delicious» (deliciosa). Si estuviera «awful» (horrible), no querría más, y «boring» (aburrido) y «late» (tarde) no describen el sabor.",
+      "vi": "Tôi muốn ăn thêm súp, nên súp rất 'delicious' (ngon). Nếu súp 'awful' (rất tệ) thì không ai muốn ăn thêm, còn 'boring' (nhàm chán) và 'late' (muộn) không nói về mùi vị."
+    }
+  },
+  {
+    "id": "vocab-L2-0013",
+    "category": "vocab",
+    "level": "L2",
+    "format": "blank",
+    "question": "I'm going to ___ a table at the restaurant for Saturday night.",
+    "choices": ["book", "spend", "borrow", "cook"],
+    "answerIndex": 0,
+    "word": "book",
+    "meaning": { "ko": "예약하다", "en": "to arrange to have a seat, room or ticket", "ja": "予約する", "zh": "预订", "es": "reservar", "vi": "đặt trước" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "식당 자리를 미리 잡아 두는 것이므로 '예약하다'라는 뜻의 book이 정답입니다. spend(돈·시간을 쓰다), borrow(빌리다), cook(요리하다)은 table과 이렇게 쓰지 않습니다.",
+      "en": "To get a table at a restaurant before you go, you 'book' (reserve) it. 'Spend' (use money or time), 'borrow' (take something and give it back later) and 'cook' (make food) are not used with 'a table' like this.",
+      "ja": "レストランの席を前もって取っておくので、「予約する」という意味の book が正解です。spend（お金・時間を使う）、borrow（借りる）、cook（料理する）は table とこのようには使いません。",
+      "zh": "提前在餐厅订座位，所以“预订”的意思 book 是正确答案。spend（花费钱或时间）、borrow（借）、cook（做饭）都不能这样和 table 搭配。",
+      "es": "Para tener una mesa en un restaurante antes de ir, la «book» (reservas). «Spend» (gastar dinero o tiempo), «borrow» (pedir prestado) y «cook» (cocinar) no se usan así con «a table».",
+      "vi": "Để có bàn ở nhà hàng trước khi đến, bạn 'book' (đặt trước). 'Spend' (tiêu tiền, dành thời gian), 'borrow' (mượn) và 'cook' (nấu ăn) không dùng với 'a table' như vậy."
+    }
+  },
+  {
+    "id": "vocab-L2-0014",
+    "category": "vocab",
+    "level": "L2",
+    "format": "blank",
+    "question": "We waited at the bus ___ for twenty minutes, but the bus didn't come.",
+    "choices": ["ticket", "driver", "road", "stop"],
+    "answerIndex": 3,
+    "word": "stop",
+    "meaning": { "ko": "정류장", "en": "a place where a bus stops for people to get on and off", "ja": "停留所", "zh": "（公交）车站", "es": "parada", "vi": "trạm dừng, bến xe" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "버스를 기다리는 장소는 bus stop(버스 정류장)이므로 stop이 정답입니다. bus ticket(버스표)과 bus driver(버스 기사)는 기다리는 장소가 아니고, 'bus road'라는 말은 쓰지 않습니다.",
+      "en": "The place where you wait for a bus is a 'bus stop'. A 'bus ticket' and a 'bus driver' are not places, and we do not say 'bus road'.",
+      "ja": "バスを待つ場所は bus stop（バス停）なので、stop が正解です。bus ticket（バスの切符）と bus driver（バスの運転手）は待つ場所ではなく、「bus road」という言い方はしません。",
+      "zh": "等公交车的地方是 bus stop（公交车站），所以 stop 是正确答案。bus ticket（车票）和 bus driver（司机）都不是地点，英语里也不说 bus road。",
+      "es": "El lugar donde esperas el autobús es la «bus stop» (parada de autobús). Un «bus ticket» (billete) y un «bus driver» (conductor) no son lugares, y no se dice «bus road».",
+      "vi": "Nơi chờ xe buýt là 'bus stop' (trạm xe buýt), nên 'stop' là đáp án đúng. 'Bus ticket' (vé xe buýt) và 'bus driver' (tài xế xe buýt) không phải là địa điểm, còn 'bus road' thì không ai nói."
+    }
+  },
+  {
+    "id": "vocab-L2-0015",
+    "category": "vocab",
+    "level": "L2",
+    "format": "blank",
+    "question": "This shirt is too ___. Do you have a bigger size?",
+    "choices": ["cheap", "small", "clean", "loud"],
+    "answerIndex": 1,
+    "word": "small",
+    "meaning": { "ko": "작은", "en": "little in size", "ja": "小さい", "zh": "小的", "es": "pequeño", "vi": "nhỏ" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "더 큰 사이즈를 찾고 있으므로 셔츠가 너무 small(작은) 것입니다. cheap(값싼)과 clean(깨끗한)은 더 큰 사이즈가 필요한 이유가 아니고, loud(시끄러운)는 소리에 쓰는 말입니다.",
+      "en": "I want a bigger size, so the shirt is too 'small'. Being 'cheap' or 'clean' is not a reason to need a bigger size, and 'loud' is used for sounds.",
+      "ja": "もっと大きいサイズを探しているので、シャツが small（小さい）すぎるのです。cheap（安い）や clean（きれいな）は大きいサイズが必要な理由にならず、loud（うるさい）は音に使う言葉です。",
+      "zh": "想要更大的尺码，说明衬衫太 small（小）了。cheap（便宜的）和 clean（干净的）都不是需要大尺码的理由，loud（吵闹的）是形容声音的。",
+      "es": "Quiero una talla más grande, así que la camisa es demasiado «small» (pequeña). Ser «cheap» (barata) o «clean» (limpia) no es razón para necesitar otra talla, y «loud» (ruidoso) se usa para sonidos.",
+      "vi": "Tôi muốn cỡ lớn hơn, nên cái áo quá 'small' (nhỏ). 'Cheap' (rẻ) hay 'clean' (sạch) không phải lý do cần cỡ lớn hơn, còn 'loud' (ồn) dùng cho âm thanh."
+    }
+  },
+  {
+    "id": "vocab-L2-0016",
+    "category": "vocab",
+    "level": "L2",
+    "format": "blank",
+    "question": "My hobby is ___. I love taking pictures of birds and flowers with my camera.",
+    "choices": ["swimming", "cooking", "photography", "fishing"],
+    "answerIndex": 2,
+    "word": "photography",
+    "meaning": { "ko": "사진 촬영", "en": "the hobby or job of taking photos", "ja": "写真撮影", "zh": "摄影", "es": "fotografía", "vi": "nhiếp ảnh" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "카메라로 새와 꽃 사진을 찍는 취미는 photography(사진 촬영)입니다. swimming(수영), cooking(요리), fishing(낚시)은 사진을 찍는 취미가 아닙니다.",
+      "en": "Taking pictures with a camera is 'photography'. 'Swimming', 'cooking' and 'fishing' (catching fish) are hobbies, but they are not about taking pictures.",
+      "ja": "カメラで鳥や花の写真を撮る趣味は photography（写真撮影）です。swimming（水泳）、cooking（料理）、fishing（釣り）は写真を撮る趣味ではありません。",
+      "zh": "用相机拍鸟和花的爱好是 photography（摄影）。swimming（游泳）、cooking（做饭）、fishing（钓鱼）都不是拍照的爱好。",
+      "es": "Hacer fotos con una cámara es «photography» (fotografía). «Swimming» (nadar), «cooking» (cocinar) y «fishing» (pescar) son aficiones, pero no consisten en hacer fotos.",
+      "vi": "Chụp ảnh bằng máy ảnh là 'photography' (nhiếp ảnh). 'Swimming' (bơi lội), 'cooking' (nấu ăn) và 'fishing' (câu cá) cũng là sở thích nhưng không phải chụp ảnh."
+    }
+  },
+  {
+    "id": "vocab-L2-0017",
+    "category": "vocab",
+    "level": "L2",
+    "format": "definition",
+    "question": "a person whose job is to fly a plane",
+    "choices": ["driver", "sailor", "mechanic", "pilot"],
+    "answerIndex": 3,
+    "word": "pilot",
+    "meaning": { "ko": "조종사", "en": "a person who flies a plane", "ja": "パイロット", "zh": "飞行员", "es": "piloto", "vi": "phi công" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "비행기를 조종하는 직업은 pilot(조종사)입니다. driver(운전사)는 자동차나 버스를, sailor(선원)는 배를 다루고, mechanic(정비공)은 기계나 자동차를 고칩니다.",
+      "en": "A person who flies a plane is a 'pilot'. A 'driver' drives a car or bus, a 'sailor' works on a ship, and a 'mechanic' repairs machines and cars.",
+      "ja": "飛行機を操縦する仕事は pilot（パイロット）です。driver（運転手）は車やバスを運転し、sailor（船員）は船で働き、mechanic（整備士）は機械や車を修理します。",
+      "zh": "驾驶飞机的职业是 pilot（飞行员）。driver（司机）开汽车或公交车，sailor（水手）在船上工作，mechanic（机修工）修理机器和汽车。",
+      "es": "La persona que pilota un avión es un «pilot» (piloto). Un «driver» (conductor) conduce coches o autobuses, un «sailor» (marinero) trabaja en un barco y un «mechanic» (mecánico) arregla máquinas y coches.",
+      "vi": "Người lái máy bay là 'pilot' (phi công). 'Driver' (tài xế) lái xe hơi hoặc xe buýt, 'sailor' (thủy thủ) làm việc trên tàu, còn 'mechanic' (thợ máy) sửa máy móc và xe."
+    }
+  },
+  {
+    "id": "vocab-L2-0018",
+    "category": "vocab",
+    "level": "L2",
+    "format": "definition",
+    "question": "a building where you can borrow books for free",
+    "choices": ["library", "bookshop", "museum", "bank"],
+    "answerIndex": 0,
+    "word": "library",
+    "meaning": { "ko": "도서관", "en": "a place where you can borrow books", "ja": "図書館", "zh": "图书馆", "es": "biblioteca", "vi": "thư viện" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "책을 무료로 빌릴 수 있는 건물은 library(도서관)입니다. bookshop(서점)은 책을 사는 곳이고, museum(박물관)은 오래된 물건이나 작품을 보는 곳, bank(은행)는 돈을 맡기는 곳입니다.",
+      "en": "A building where you can borrow books for free is a 'library'. In a 'bookshop' you buy books, in a 'museum' you look at old or interesting things, and a 'bank' keeps your money.",
+      "ja": "本を無料で借りられる建物は library（図書館）です。bookshop（本屋）は本を買う所、museum（博物館）は古い物や作品を見る所、bank（銀行）はお金を預ける所です。",
+      "zh": "可以免费借书的建筑是 library（图书馆）。bookshop（书店）是买书的地方，museum（博物馆）是参观古物和展品的地方，bank（银行）是存钱的地方。",
+      "es": "El edificio donde puedes pedir libros prestados gratis es la «library» (biblioteca). En una «bookshop» (librería) compras libros, en un «museum» (museo) ves objetos antiguos o interesantes y un «bank» (banco) guarda tu dinero.",
+      "vi": "Tòa nhà nơi bạn có thể mượn sách miễn phí là 'library' (thư viện). Ở 'bookshop' (hiệu sách) bạn mua sách, ở 'museum' (bảo tàng) bạn xem đồ cổ hay hiện vật, còn 'bank' (ngân hàng) giữ tiền của bạn."
+    }
+  },
+  {
+    "id": "vocab-L2-0019",
+    "category": "vocab",
+    "level": "L2",
+    "format": "definition",
+    "question": "feeling a little worried or afraid before something important, like an exam",
+    "choices": ["proud", "bored", "nervous", "sleepy"],
+    "answerIndex": 2,
+    "word": "nervous",
+    "meaning": { "ko": "긴장한, 초조한", "en": "worried and a little afraid", "ja": "緊張した、不安な", "zh": "紧张的", "es": "nervioso", "vi": "lo lắng, hồi hộp" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "시험처럼 중요한 일을 앞두고 걱정되고 조금 두려운 기분은 nervous(긴장한)입니다. proud는 '자랑스러운', bored는 '지루한', sleepy는 '졸린'이라는 뜻입니다.",
+      "en": "Feeling worried or afraid before an exam is being 'nervous'. 'Proud' means pleased with what you did, 'bored' means not interested, and 'sleepy' means wanting to sleep.",
+      "ja": "試験のような大事なことの前に心配で少し怖い気持ちは nervous（緊張した）です。proud は「誇らしい」、bored は「退屈した」、sleepy は「眠い」という意味です。",
+      "zh": "在考试等重要事情之前感到担心和有点害怕，就是 nervous（紧张的）。proud 意为“自豪的”，bored 意为“无聊的”，sleepy 意为“困的”。",
+      "es": "Sentirse preocupado o con un poco de miedo antes de un examen es estar «nervous» (nervioso). «Proud» significa orgulloso, «bored» significa aburrido y «sleepy» significa con sueño.",
+      "vi": "Cảm giác lo lắng hoặc hơi sợ trước một việc quan trọng như kỳ thi là 'nervous' (hồi hộp). 'Proud' nghĩa là tự hào, 'bored' là chán, còn 'sleepy' là buồn ngủ."
+    }
+  },
+  {
+    "id": "vocab-L2-0020",
+    "category": "vocab",
+    "level": "L2",
+    "format": "definition",
+    "question": "a list that shows the times when buses or trains leave and arrive",
+    "choices": ["ticket", "timetable", "map", "luggage"],
+    "answerIndex": 1,
+    "word": "timetable",
+    "meaning": { "ko": "시간표, 운행 시간표", "en": "a list of times for buses, trains or classes", "ja": "時刻表", "zh": "时刻表", "es": "horario", "vi": "lịch trình, bảng giờ chạy" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "버스나 기차가 출발하고 도착하는 시간을 보여 주는 표는 timetable(시간표)입니다. ticket(표)은 타기 위해 사는 것, map(지도)은 장소를 보여 주는 것, luggage(짐)는 여행 가방입니다.",
+      "en": "A list of times when buses or trains leave and arrive is a 'timetable'. A 'ticket' is what you buy to travel, a 'map' shows places, and 'luggage' means your travel bags.",
+      "ja": "バスや電車の出発・到着時刻を示す表は timetable（時刻表）です。ticket（切符）は乗るために買うもの、map（地図）は場所を示すもの、luggage（荷物）は旅行かばんのことです。",
+      "zh": "显示公交车或火车出发和到达时间的表是 timetable（时刻表）。ticket（票）是乘车要买的，map（地图）显示地点，luggage（行李）是旅行用的包。",
+      "es": "La lista que muestra cuándo salen y llegan los autobuses o trenes es el «timetable» (horario). Un «ticket» (billete) es lo que compras para viajar, un «map» (mapa) muestra lugares y «luggage» (equipaje) son tus maletas.",
+      "vi": "Bảng cho biết giờ xe buýt hay tàu khởi hành và đến nơi là 'timetable' (bảng giờ chạy). 'Ticket' (vé) là thứ bạn mua để đi, 'map' (bản đồ) chỉ các địa điểm, còn 'luggage' (hành lý) là túi đồ khi đi du lịch."
+    }
+  },
+  {
+    "id": "vocab-L2-0021",
+    "category": "vocab",
+    "level": "L2",
+    "format": "definition",
+    "question": "a person who travels in a car, bus, train or plane but is not driving it",
+    "choices": ["passenger", "driver", "mechanic", "cashier"],
+    "answerIndex": 0,
+    "word": "passenger",
+    "meaning": { "ko": "승객", "en": "a person travelling in a vehicle who is not the driver", "ja": "乗客", "zh": "乘客", "es": "pasajero", "vi": "hành khách" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "탈것을 타고 가지만 운전하지 않는 사람은 passenger(승객)입니다. driver(운전사)는 운전하는 사람이고, mechanic(정비공)은 차를 고치는 사람, cashier(계산원)는 가게에서 돈을 받는 사람입니다.",
+      "en": "A person who rides in a vehicle but does not drive it is a 'passenger'. A 'driver' is the person who drives, a 'mechanic' repairs cars, and a 'cashier' takes money in a shop.",
+      "ja": "乗り物に乗っているが運転していない人は passenger（乗客）です。driver（運転手）は運転する人、mechanic（整備士）は車を直す人、cashier（レジ係）は店でお金を受け取る人です。",
+      "zh": "坐在交通工具里但不开车的人是 passenger（乘客）。driver（司机）是开车的人，mechanic（机修工）修车，cashier（收银员）在商店收钱。",
+      "es": "La persona que viaja en un vehículo pero no lo conduce es un «passenger» (pasajero). El «driver» (conductor) es quien conduce, un «mechanic» (mecánico) arregla coches y un «cashier» (cajero) cobra en una tienda.",
+      "vi": "Người đi trên xe nhưng không lái là 'passenger' (hành khách). 'Driver' (tài xế) là người lái, 'mechanic' (thợ máy) sửa xe, còn 'cashier' (thu ngân) nhận tiền ở cửa hàng."
+    }
+  },
+  {
+    "id": "vocab-L2-0022",
+    "category": "vocab",
+    "level": "L2",
+    "format": "definition",
+    "question": "the bags and suitcases that you take with you when you travel",
+    "choices": ["wallet", "receipt", "passport", "luggage"],
+    "answerIndex": 3,
+    "word": "luggage",
+    "meaning": { "ko": "짐, 여행 가방", "en": "bags and suitcases for travelling", "ja": "（旅行の）荷物", "zh": "行李", "es": "equipaje", "vi": "hành lý" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "여행할 때 가지고 가는 가방과 여행 가방은 luggage(짐)입니다. wallet(지갑)은 돈을 넣는 작은 것, receipt(영수증)는 산 것을 보여 주는 종이, passport(여권)는 외국에 갈 때 필요한 신분증입니다.",
+      "en": "The bags and suitcases you take on a trip are your 'luggage'. A 'wallet' is a small thing for money, a 'receipt' is a paper that shows what you bought, and a 'passport' is the document you need to go to another country.",
+      "ja": "旅行のときに持っていくかばんやスーツケースは luggage（荷物）です。wallet（財布）はお金を入れる小さな物、receipt（レシート）は買った物を示す紙、passport（パスポート）は外国へ行くときに必要な身分証です。",
+      "zh": "旅行时带的包和行李箱是 luggage（行李）。wallet（钱包）是装钱的小东西，receipt（收据）是显示你买了什么的纸，passport（护照）是出国需要的证件。",
+      "es": "Las bolsas y maletas que llevas en un viaje son tu «luggage» (equipaje). Una «wallet» (cartera) es para el dinero, un «receipt» (recibo) es un papel que muestra lo que compraste y un «passport» (pasaporte) es el documento para ir a otro país.",
+      "vi": "Túi và vali bạn mang theo khi đi du lịch là 'luggage' (hành lý). 'Wallet' (ví) là đồ nhỏ để đựng tiền, 'receipt' (hóa đơn) là tờ giấy ghi những gì bạn đã mua, còn 'passport' (hộ chiếu) là giấy tờ cần để đi nước ngoài."
+    }
+  },
+  {
+    "id": "vocab-L2-0023",
+    "category": "vocab",
+    "level": "L2",
+    "format": "definition",
+    "question": "a piece of paper from a shop that shows what you bought and how much you paid",
+    "choices": ["menu", "receipt", "coupon", "label"],
+    "answerIndex": 1,
+    "word": "receipt",
+    "meaning": { "ko": "영수증", "en": "a paper that shows you paid for something", "ja": "レシート、領収書", "zh": "收据，小票", "es": "recibo, tique de compra", "vi": "hóa đơn, biên lai" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "산 물건과 낸 돈을 보여 주는 종이는 receipt(영수증)입니다. menu(메뉴)는 식당의 음식 목록, coupon(쿠폰)은 할인을 받는 종이, label(라벨)은 물건에 붙은 정보 표입니다.",
+      "en": "The paper that shows what you bought and how much you paid is a 'receipt'. A 'menu' is a list of food in a restaurant, a 'coupon' gives you a discount, and a 'label' is a small piece of paper on a product with information.",
+      "ja": "買った物と払った金額を示す紙は receipt（レシート）です。menu（メニュー）はレストランの料理の一覧、coupon（クーポン）は割引を受けるための紙、label（ラベル）は商品に付いている情報の紙です。",
+      "zh": "显示你买了什么、付了多少钱的纸是 receipt（收据）。menu（菜单）是餐厅的菜品列表，coupon（优惠券）可以打折，label（标签）是贴在商品上写有信息的小纸片。",
+      "es": "El papel que muestra lo que compraste y cuánto pagaste es el «receipt» (recibo). El «menu» (menú) es la lista de comida de un restaurante, un «coupon» (cupón) da un descuento y una «label» (etiqueta) es un papel con información pegado a un producto.",
+      "vi": "Tờ giấy cho biết bạn đã mua gì và trả bao nhiêu tiền là 'receipt' (hóa đơn). 'Menu' (thực đơn) là danh sách món ăn ở nhà hàng, 'coupon' (phiếu giảm giá) giúp được giảm giá, còn 'label' (nhãn) là mẩu giấy ghi thông tin dán trên sản phẩm."
+    }
+  },
+  {
+    "id": "vocab-L2-0024",
+    "category": "vocab",
+    "level": "L2",
+    "format": "definition",
+    "question": "very bad weather with strong winds and heavy rain",
+    "choices": ["fog", "rainbow", "storm", "cloud"],
+    "answerIndex": 2,
+    "word": "storm",
+    "meaning": { "ko": "폭풍, 폭풍우", "en": "very bad weather with strong wind and rain", "ja": "嵐", "zh": "暴风雨", "es": "tormenta", "vi": "bão, giông bão" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "강한 바람과 많은 비가 오는 아주 나쁜 날씨는 storm(폭풍)입니다. fog(안개)는 앞이 잘 안 보이는 것, rainbow(무지개)는 비 온 뒤의 색깔 띠, cloud(구름)는 하늘에 떠 있는 것입니다.",
+      "en": "Very bad weather with strong winds and heavy rain is a 'storm'. 'Fog' is thick cloud near the ground, a 'rainbow' is the colors in the sky after rain, and a 'cloud' is a white or grey shape in the sky.",
+      "ja": "強い風と激しい雨を伴うひどい天気は storm（嵐）です。fog（霧）は前がよく見えない状態、rainbow（虹）は雨の後に空に出る色の帯、cloud（雲）は空に浮かぶものです。",
+      "zh": "伴有大风和大雨的恶劣天气是 storm（暴风雨）。fog（雾）让人看不清前面，rainbow（彩虹）是雨后天空中的彩色光带，cloud（云）是飘在天上的东西。",
+      "es": "El tiempo muy malo con vientos fuertes y mucha lluvia es una «storm» (tormenta). La «fog» (niebla) no deja ver bien, un «rainbow» (arcoíris) son los colores en el cielo después de la lluvia y una «cloud» (nube) flota en el cielo.",
+      "vi": "Thời tiết rất xấu với gió mạnh và mưa to là 'storm' (bão). 'Fog' (sương mù) làm khó nhìn thấy, 'rainbow' (cầu vồng) là dải màu trên trời sau mưa, còn 'cloud' (mây) là thứ trôi trên bầu trời."
+    }
+  },
+  {
+    "id": "vocab-L2-0025",
+    "category": "vocab",
+    "level": "L2",
+    "format": "definition",
+    "question": "to cook food such as bread or cakes in an oven",
+    "choices": ["fry", "bake", "boil", "peel"],
+    "answerIndex": 1,
+    "word": "bake",
+    "meaning": { "ko": "(오븐에) 굽다", "en": "to cook in an oven", "ja": "（オーブンで）焼く", "zh": "烘烤", "es": "hornear", "vi": "nướng (bằng lò)" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "빵이나 케이크를 오븐에서 익히는 것은 bake(굽다)입니다. fry는 기름에 '튀기다·볶다', boil은 물에 '끓이다·삶다', peel은 과일이나 채소의 '껍질을 벗기다'라는 뜻입니다.",
+      "en": "Cooking bread or cakes in an oven is to 'bake'. To 'fry' is to cook in hot oil, to 'boil' is to cook in hot water, and to 'peel' is to take the skin off fruit or vegetables.",
+      "ja": "パンやケーキをオーブンで焼くことは bake（焼く）です。fry は油で「揚げる・炒める」、boil はお湯で「ゆでる・煮る」、peel は果物や野菜の「皮をむく」という意味です。",
+      "zh": "在烤箱里烤面包或蛋糕叫 bake（烘烤）。fry 是用油“煎、炸”，boil 是用水“煮”，peel 是给水果或蔬菜“削皮”。",
+      "es": "Cocinar pan o pasteles en un horno es «bake» (hornear). «Fry» es freír en aceite, «boil» es hervir en agua y «peel» es pelar frutas o verduras.",
+      "vi": "Làm chín bánh mì hay bánh ngọt trong lò là 'bake' (nướng). 'Fry' là chiên trong dầu, 'boil' là luộc trong nước, còn 'peel' là gọt vỏ trái cây hoặc rau củ."
+    }
+  },
+  {
+    "id": "vocab-L2-0026",
+    "category": "vocab",
+    "level": "L2",
+    "format": "definition",
+    "question": "a doctor who checks and looks after people's teeth",
+    "choices": ["chef", "vet", "cashier", "dentist"],
+    "answerIndex": 3,
+    "word": "dentist",
+    "meaning": { "ko": "치과 의사", "en": "a doctor for teeth", "ja": "歯医者", "zh": "牙医", "es": "dentista", "vi": "nha sĩ" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "사람의 이를 검사하고 치료하는 의사는 dentist(치과 의사)입니다. chef(요리사)는 식당에서 요리하고, vet(수의사)은 동물을 치료하며, cashier(계산원)는 가게에서 돈을 받습니다.",
+      "en": "A doctor who looks after people's teeth is a 'dentist'. A 'chef' cooks in a restaurant, a 'vet' is a doctor for animals, and a 'cashier' takes money in a shop.",
+      "ja": "人の歯を診て治療する医者は dentist（歯医者）です。chef（料理人）はレストランで料理をし、vet（獣医）は動物を治療し、cashier（レジ係）は店でお金を受け取ります。",
+      "zh": "检查和治疗牙齿的医生是 dentist（牙医）。chef（厨师）在餐厅做饭，vet（兽医）给动物看病，cashier（收银员）在商店收钱。",
+      "es": "El médico que cuida los dientes de las personas es el «dentist» (dentista). Un «chef» (cocinero) cocina en un restaurante, un «vet» (veterinario) cura animales y un «cashier» (cajero) cobra en una tienda.",
+      "vi": "Bác sĩ khám và chữa răng cho mọi người là 'dentist' (nha sĩ). 'Chef' (đầu bếp) nấu ăn ở nhà hàng, 'vet' (bác sĩ thú y) chữa bệnh cho động vật, còn 'cashier' (thu ngân) nhận tiền ở cửa hàng."
+    }
+  },
+  {
+    "id": "vocab-L2-0027",
+    "category": "vocab",
+    "level": "L2",
+    "format": "definition",
+    "question": "feeling very happy because something good is going to happen soon",
+    "choices": ["excited", "lonely", "sleepy", "angry"],
+    "answerIndex": 0,
+    "word": "excited",
+    "meaning": { "ko": "신이 난, 들뜬", "en": "very happy and full of energy", "ja": "わくわくした", "zh": "兴奋的，激动的", "es": "emocionado, ilusionado", "vi": "háo hức, phấn khích" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "곧 좋은 일이 생길 것 같아 아주 기쁜 기분은 excited(신이 난)입니다. lonely는 '외로운', sleepy는 '졸린', angry는 '화난'이라는 뜻입니다.",
+      "en": "Feeling very happy because something good will happen soon is being 'excited'. 'Lonely' means sad because you are alone, 'sleepy' means wanting to sleep, and 'angry' means mad.",
+      "ja": "もうすぐ良いことが起こるのでとてもうれしい気持ちは excited（わくわくした）です。lonely は「寂しい」、sleepy は「眠い」、angry は「怒った」という意味です。",
+      "zh": "因为好事快要发生而非常高兴的感觉是 excited（兴奋的）。lonely 意为“孤独的”，sleepy 意为“困的”，angry 意为“生气的”。",
+      "es": "Sentirse muy feliz porque pronto va a pasar algo bueno es estar «excited» (emocionado). «Lonely» significa solo y triste, «sleepy» significa con sueño y «angry» significa enfadado.",
+      "vi": "Cảm giác rất vui vì sắp có điều tốt xảy ra là 'excited' (háo hức). 'Lonely' nghĩa là cô đơn, 'sleepy' là buồn ngủ, còn 'angry' là tức giận."
+    }
+  },
+  {
+    "id": "vocab-L2-0028",
+    "category": "vocab",
+    "level": "L2",
+    "format": "definition",
+    "question": "a time when you do not go to work or school, and you often travel somewhere",
+    "choices": ["weekday", "meeting", "holiday", "lesson"],
+    "answerIndex": 2,
+    "word": "holiday",
+    "meaning": { "ko": "휴가, 방학", "en": "a time of rest away from work or school", "ja": "休暇、休み", "zh": "假期", "es": "vacaciones", "vi": "kỳ nghỉ" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "일이나 학교에 가지 않고 여행을 가기도 하는 기간은 holiday(휴가)입니다. weekday(평일)는 보통 일하거나 학교에 가는 날이고, meeting(회의)과 lesson(수업)은 일이나 공부를 하는 시간입니다.",
+      "en": "A time when you do not go to work or school and often travel is a 'holiday'. A 'weekday' is a normal day for work or school, and a 'meeting' and a 'lesson' are times for work or study.",
+      "ja": "仕事や学校に行かず、旅行に出かけることも多い期間は holiday（休暇）です。weekday（平日）はふつう仕事や学校がある日で、meeting（会議）と lesson（授業）は働いたり勉強したりする時間です。",
+      "zh": "不用上班或上学、常常出去旅行的时间是 holiday（假期）。weekday（工作日）通常要上班或上学，meeting（会议）和 lesson（课）都是工作或学习的时间。",
+      "es": "El tiempo en que no vas al trabajo ni a la escuela y a menudo viajas son las «holiday» (vacaciones). Un «weekday» (día laborable) es un día normal de trabajo o clase, y un «meeting» (reunión) y una «lesson» (clase) son momentos para trabajar o estudiar.",
+      "vi": "Khoảng thời gian không phải đi làm hay đi học và thường đi du lịch là 'holiday' (kỳ nghỉ). 'Weekday' (ngày thường) là ngày đi làm hoặc đi học, còn 'meeting' (cuộc họp) và 'lesson' (buổi học) là lúc làm việc hay học tập."
+    }
+  },
+  {
+    "id": "vocab-L2-0029",
+    "category": "vocab",
+    "level": "L2",
+    "format": "synonym",
+    "question": "Which word means the SAME as \"begin\"?",
+    "choices": ["finish", "stay", "carry", "start"],
+    "answerIndex": 3,
+    "word": "start",
+    "meaning": { "ko": "시작하다", "en": "to begin doing something", "ja": "始める、始まる", "zh": "开始", "es": "empezar", "vi": "bắt đầu" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "begin과 start는 둘 다 '시작하다'라는 뜻입니다. finish(끝내다)는 반대말이고, stay(머무르다)와 carry(나르다)는 시작과 관계없는 단어입니다.",
+      "en": "'Start' and 'begin' both mean to do the first part of something. 'Finish' is the opposite, and 'stay' (not leave) and 'carry' (hold and take somewhere) have different meanings.",
+      "ja": "begin と start はどちらも「始める」という意味です。finish（終える）は反対の意味で、stay（とどまる）と carry（運ぶ）は始まりとは関係ありません。",
+      "zh": "begin 和 start 都是“开始”的意思。finish（结束）是反义词，stay（停留）和 carry（搬运）与开始无关。",
+      "es": "«Start» y «begin» significan lo mismo: empezar. «Finish» (terminar) es lo contrario, y «stay» (quedarse) y «carry» (llevar) tienen otro significado.",
+      "vi": "'Start' và 'begin' đều có nghĩa là bắt đầu. 'Finish' (kết thúc) là từ trái nghĩa, còn 'stay' (ở lại) và 'carry' (mang, vác) có nghĩa khác."
+    }
+  },
+  {
+    "id": "vocab-L2-0030",
+    "category": "vocab",
+    "level": "L2",
+    "format": "synonym",
+    "question": "Which word means the SAME as \"hard\"?",
+    "choices": ["difficult", "easy", "soft", "short"],
+    "answerIndex": 0,
+    "word": "difficult",
+    "meaning": { "ko": "어려운", "en": "not easy", "ja": "難しい", "zh": "困难的，难的", "es": "difícil", "vi": "khó" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "'a hard question'의 hard는 '어려운'이라는 뜻이므로 difficult와 같습니다. easy(쉬운)는 반대말이고, soft(부드러운)는 '딱딱한'이라는 뜻의 hard의 반대말이며, short(짧은)는 관계없는 단어입니다.",
+      "en": "In 'a hard question', 'hard' means 'difficult' (not easy). 'Easy' is the opposite, 'soft' is the opposite of 'hard' when we talk about touching things, and 'short' has a different meaning.",
+      "ja": "「a hard question」の hard は「難しい」という意味なので、difficult と同じです。easy（簡単な）は反対の意味で、soft（柔らかい）は「固い」という意味の hard の反対語、short（短い）は関係ない単語です。",
+      "zh": "在 a hard question 中，hard 的意思是“难的”，和 difficult 相同。easy（容易的）是反义词，soft（软的）是表示“硬的”的 hard 的反义词，short（短的）与此无关。",
+      "es": "En «a hard question», «hard» significa «difficult» (difícil). «Easy» (fácil) es lo contrario, «soft» (blando) es lo contrario de «hard» cuando significa duro, y «short» (corto) tiene otro significado.",
+      "vi": "Trong 'a hard question', 'hard' nghĩa là 'difficult' (khó). 'Easy' (dễ) là từ trái nghĩa, 'soft' (mềm) là trái nghĩa của 'hard' khi nói về độ cứng, còn 'short' (ngắn) có nghĩa khác."
+    }
+  },
+  {
+    "id": "vocab-L2-0031",
+    "category": "vocab",
+    "level": "L2",
+    "format": "synonym",
+    "question": "Which word means the SAME as \"rich\"?",
+    "choices": ["poor", "busy", "wealthy", "famous"],
+    "answerIndex": 2,
+    "word": "wealthy",
+    "meaning": { "ko": "부유한", "en": "having a lot of money", "ja": "裕福な", "zh": "富有的", "es": "adinerado, rico", "vi": "giàu có" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "rich와 wealthy는 둘 다 '돈이 많은, 부유한'이라는 뜻입니다. poor(가난한)는 반대말이고, busy(바쁜)와 famous(유명한)는 돈이 많다는 뜻이 아닙니다.",
+      "en": "'Wealthy' and 'rich' both mean having a lot of money. 'Poor' is the opposite, and 'busy' and 'famous' do not mean having money.",
+      "ja": "rich と wealthy はどちらも「お金をたくさん持っている、裕福な」という意味です。poor（貧しい）は反対の意味で、busy（忙しい）と famous（有名な）はお金持ちという意味ではありません。",
+      "zh": "rich 和 wealthy 都是“有很多钱的、富有的”的意思。poor（贫穷的）是反义词，busy（忙碌的）和 famous（著名的）都不是有钱的意思。",
+      "es": "«Wealthy» y «rich» significan lo mismo: tener mucho dinero. «Poor» (pobre) es lo contrario, y «busy» (ocupado) y «famous» (famoso) no significan tener dinero.",
+      "vi": "'Wealthy' và 'rich' đều có nghĩa là có nhiều tiền, giàu có. 'Poor' (nghèo) là từ trái nghĩa, còn 'busy' (bận rộn) và 'famous' (nổi tiếng) không có nghĩa là có tiền."
+    }
+  },
+  {
+    "id": "vocab-L2-0032",
+    "category": "vocab",
+    "level": "L2",
+    "format": "synonym",
+    "question": "Which word means the SAME as \"glad\"?",
+    "choices": ["sad", "happy", "worried", "angry"],
+    "answerIndex": 1,
+    "word": "happy",
+    "meaning": { "ko": "기쁜, 행복한", "en": "feeling pleased", "ja": "うれしい、幸せな", "zh": "高兴的，快乐的", "es": "feliz, contento", "vi": "vui, hạnh phúc" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "glad는 '기쁜'이라는 뜻으로 happy와 같습니다. sad(슬픈)는 반대말이고, worried(걱정하는)와 angry(화난)도 기쁜 기분이 아닙니다.",
+      "en": "'Glad' means pleased, so it is the same as 'happy'. 'Sad' is the opposite, and 'worried' and 'angry' are also not happy feelings.",
+      "ja": "glad は「うれしい」という意味で、happy と同じです。sad（悲しい）は反対の意味で、worried（心配した）と angry（怒った）もうれしい気持ちではありません。",
+      "zh": "glad 的意思是“高兴的”，和 happy 相同。sad（难过的）是反义词，worried（担心的）和 angry（生气的）也都不是高兴的心情。",
+      "es": "«Glad» significa contento, así que es lo mismo que «happy» (feliz). «Sad» (triste) es lo contrario, y «worried» (preocupado) y «angry» (enfadado) tampoco son sentimientos alegres.",
+      "vi": "'Glad' nghĩa là vui mừng, giống với 'happy' (vui). 'Sad' (buồn) là từ trái nghĩa, còn 'worried' (lo lắng) và 'angry' (tức giận) cũng không phải cảm xúc vui."
+    }
+  },
+  {
+    "id": "vocab-L2-0033",
+    "category": "vocab",
+    "level": "L2",
+    "format": "synonym",
+    "question": "Which word means the SAME as \"shut\"?",
+    "choices": ["open", "break", "push", "close"],
+    "answerIndex": 3,
+    "word": "close",
+    "meaning": { "ko": "닫다", "en": "to shut something", "ja": "閉める、閉じる", "zh": "关上", "es": "cerrar", "vi": "đóng" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "shut과 close는 둘 다 문이나 창문 등을 '닫다'라는 뜻입니다. open(열다)은 반대말이고, break(깨다)와 push(밀다)는 닫는다는 뜻이 아닙니다.",
+      "en": "'Shut' and 'close' both mean to move a door or window so it is not open. 'Open' is the opposite, 'break' means to damage something, and 'push' means to move something away from you.",
+      "ja": "shut と close はどちらもドアや窓などを「閉める」という意味です。open（開ける）は反対の意味で、break（壊す）と push（押す）は閉めるという意味ではありません。",
+      "zh": "shut 和 close 都是“关上”门或窗户的意思。open（打开）是反义词，break（打破）和 push（推）都不是关上的意思。",
+      "es": "«Shut» y «close» significan lo mismo: cerrar una puerta o una ventana. «Open» (abrir) es lo contrario, «break» significa romper y «push» significa empujar.",
+      "vi": "'Shut' và 'close' đều có nghĩa là đóng cửa hoặc cửa sổ. 'Open' (mở) là từ trái nghĩa, 'break' nghĩa là làm vỡ, còn 'push' nghĩa là đẩy."
+    }
+  },
+  {
+    "id": "vocab-L2-0034",
+    "category": "vocab",
+    "level": "L2",
+    "format": "synonym",
+    "question": "Which word means the SAME as \"ill\"?",
+    "choices": ["sick", "well", "strong", "busy"],
+    "answerIndex": 0,
+    "word": "sick",
+    "meaning": { "ko": "아픈, 병든", "en": "not well; having an illness", "ja": "病気の", "zh": "生病的", "es": "enfermo", "vi": "ốm, bệnh" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "ill과 sick은 둘 다 '아픈, 병든'이라는 뜻입니다. well(건강한)은 반대말이고, strong(힘센)과 busy(바쁜)는 아프다는 뜻이 아닙니다.",
+      "en": "'Ill' and 'sick' both mean not healthy. 'Well' (healthy) is the opposite, and 'strong' and 'busy' do not mean ill.",
+      "ja": "ill と sick はどちらも「病気の」という意味です。well（元気な）は反対の意味で、strong（強い）と busy（忙しい）は病気という意味ではありません。",
+      "zh": "ill 和 sick 都是“生病的”意思。well（健康的）是反义词，strong（强壮的）和 busy（忙的）都不是生病的意思。",
+      "es": "«Ill» y «sick» significan lo mismo: enfermo. «Well» (bien de salud) es lo contrario, y «strong» (fuerte) y «busy» (ocupado) no significan enfermo.",
+      "vi": "'Ill' và 'sick' đều có nghĩa là bị ốm. 'Well' (khỏe) là từ trái nghĩa, còn 'strong' (mạnh) và 'busy' (bận) không có nghĩa là ốm."
+    }
+  },
+  {
+    "id": "vocab-L2-0035",
+    "category": "vocab",
+    "level": "L2",
+    "format": "synonym",
+    "question": "Which word means the OPPOSITE of \"heavy\"?",
+    "choices": ["full", "light", "strong", "tall"],
+    "answerIndex": 1,
+    "word": "light",
+    "meaning": { "ko": "가벼운", "en": "not heavy", "ja": "軽い", "zh": "轻的", "es": "ligero", "vi": "nhẹ" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "heavy는 '무거운'이라는 뜻이므로 반대말은 light(가벼운)입니다. full(가득 찬), strong(힘센), tall(키가 큰)은 무게의 반대말이 아닙니다.",
+      "en": "'Heavy' means weighing a lot, so its opposite is 'light'. 'Full', 'strong' and 'tall' are not opposites of 'heavy'.",
+      "ja": "heavy は「重い」という意味なので、反対語は light（軽い）です。full（いっぱいの）、strong（強い）、tall（背が高い）は heavy の反対語ではありません。",
+      "zh": "heavy 的意思是“重的”，所以反义词是 light（轻的）。full（满的）、strong（强壮的）、tall（高的）都不是 heavy 的反义词。",
+      "es": "«Heavy» significa pesado, así que su opuesto es «light» (ligero). «Full» (lleno), «strong» (fuerte) y «tall» (alto) no son opuestos de «heavy».",
+      "vi": "'Heavy' nghĩa là nặng, nên từ trái nghĩa là 'light' (nhẹ). 'Full' (đầy), 'strong' (mạnh) và 'tall' (cao) không phải là từ trái nghĩa của 'heavy'."
+    }
+  },
+  {
+    "id": "vocab-L2-0036",
+    "category": "vocab",
+    "level": "L2",
+    "format": "synonym",
+    "question": "Which word means the OPPOSITE of \"arrive\"?",
+    "choices": ["come", "reach", "leave", "enter"],
+    "answerIndex": 2,
+    "word": "leave",
+    "meaning": { "ko": "떠나다, 출발하다", "en": "to go away from a place", "ja": "出発する、去る", "zh": "离开", "es": "salir, irse", "vi": "rời đi, khởi hành" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "arrive는 어떤 장소에 '도착하다'라는 뜻이므로 반대말은 leave(떠나다)입니다. come(오다)과 reach(도달하다)는 arrive와 비슷한 뜻이고, enter(들어가다)도 반대말이 아닙니다.",
+      "en": "'Arrive' means to get to a place, so its opposite is 'leave' (go away from a place). 'Come' and 'reach' have meanings similar to 'arrive', and 'enter' (go into) is not its opposite either.",
+      "ja": "arrive はある場所に「到着する」という意味なので、反対語は leave（出発する）です。come（来る）と reach（着く）は arrive と似た意味で、enter（入る）も反対語ではありません。",
+      "zh": "arrive 的意思是“到达”某地，所以反义词是 leave（离开）。come（来）和 reach（到达）与 arrive 意思相近，enter（进入）也不是它的反义词。",
+      "es": "«Arrive» significa llegar a un lugar, así que su opuesto es «leave» (irse de un lugar). «Come» (venir) y «reach» (alcanzar, llegar) tienen un significado parecido a «arrive», y «enter» (entrar) tampoco es su opuesto.",
+      "vi": "'Arrive' nghĩa là đến một nơi, nên từ trái nghĩa là 'leave' (rời đi). 'Come' (đến) và 'reach' (tới nơi) có nghĩa gần giống 'arrive', còn 'enter' (đi vào) cũng không phải từ trái nghĩa."
+    }
+  },
+  {
+    "id": "vocab-L2-0037",
+    "category": "vocab",
+    "level": "L2",
+    "format": "synonym",
+    "question": "Which word means the OPPOSITE of \"remember\"?",
+    "choices": ["forget", "know", "think", "learn"],
+    "answerIndex": 0,
+    "word": "forget",
+    "meaning": { "ko": "잊다", "en": "to not remember", "ja": "忘れる", "zh": "忘记", "es": "olvidar", "vi": "quên" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "remember는 '기억하다'라는 뜻이므로 반대말은 forget(잊다)입니다. know(알다), think(생각하다), learn(배우다)은 반대말이 아닙니다.",
+      "en": "'Remember' means to keep something in your mind, so its opposite is 'forget'. 'Know', 'think' and 'learn' are not opposites of 'remember'.",
+      "ja": "remember は「覚えている、思い出す」という意味なので、反対語は forget（忘れる）です。know（知っている）、think（考える）、learn（学ぶ）は反対語ではありません。",
+      "zh": "remember 的意思是“记得”，所以反义词是 forget（忘记）。know（知道）、think（想）、learn（学习）都不是它的反义词。",
+      "es": "«Remember» significa recordar, así que su opuesto es «forget» (olvidar). «Know» (saber), «think» (pensar) y «learn» (aprender) no son opuestos de «remember».",
+      "vi": "'Remember' nghĩa là nhớ, nên từ trái nghĩa là 'forget' (quên). 'Know' (biết), 'think' (nghĩ) và 'learn' (học) không phải là từ trái nghĩa của 'remember'."
+    }
+  },
+  {
+    "id": "vocab-L2-0038",
+    "category": "vocab",
+    "level": "L2",
+    "format": "synonym",
+    "question": "Which word means the OPPOSITE of \"noisy\"?",
+    "choices": ["loud", "busy", "dirty", "quiet"],
+    "answerIndex": 3,
+    "word": "quiet",
+    "meaning": { "ko": "조용한", "en": "making little or no noise", "ja": "静かな", "zh": "安静的", "es": "tranquilo, silencioso", "vi": "yên tĩnh" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "noisy는 '시끄러운'이라는 뜻이므로 반대말은 quiet(조용한)입니다. loud(소리가 큰)는 비슷한 뜻이고, busy(바쁜, 붐비는)와 dirty(더러운)는 반대말이 아닙니다.",
+      "en": "'Noisy' means making a lot of noise, so its opposite is 'quiet'. 'Loud' has a similar meaning, and 'busy' and 'dirty' are not opposites of 'noisy'.",
+      "ja": "noisy は「うるさい」という意味なので、反対語は quiet（静かな）です。loud（音が大きい）は似た意味で、busy（忙しい、にぎやかな）と dirty（汚い）は反対語ではありません。",
+      "zh": "noisy 的意思是“吵闹的”，所以反义词是 quiet（安静的）。loud（大声的）意思相近，busy（忙碌的、热闹的）和 dirty（脏的）都不是它的反义词。",
+      "es": "«Noisy» significa ruidoso, así que su opuesto es «quiet» (tranquilo, silencioso). «Loud» (fuerte, ruidoso) tiene un significado parecido, y «busy» (ocupado, concurrido) y «dirty» (sucio) no son opuestos de «noisy».",
+      "vi": "'Noisy' nghĩa là ồn ào, nên từ trái nghĩa là 'quiet' (yên tĩnh). 'Loud' (to tiếng) có nghĩa gần giống, còn 'busy' (bận, đông đúc) và 'dirty' (bẩn) không phải từ trái nghĩa."
+    }
+  },
+  {
+    "id": "vocab-L2-0039",
+    "category": "vocab",
+    "level": "L2",
+    "format": "synonym",
+    "question": "Which word means the OPPOSITE of \"early\"?",
+    "choices": ["soon", "first", "late", "fast"],
+    "answerIndex": 2,
+    "word": "late",
+    "meaning": { "ko": "늦은, 늦게", "en": "after the usual or expected time", "ja": "遅い、遅れて", "zh": "迟的，晚的", "es": "tarde, tardío", "vi": "muộn, trễ" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "early는 '이른, 일찍'이라는 뜻이므로 반대말은 late(늦은, 늦게)입니다. soon(곧), first(처음의), fast(빠른)는 early의 반대말이 아닙니다.",
+      "en": "'Early' means before the usual time, so its opposite is 'late'. 'Soon' (in a short time), 'first' and 'fast' (quick) are not opposites of 'early'.",
+      "ja": "early は「早い、早く」という意味なので、反対語は late（遅い、遅れて）です。soon（すぐに）、first（最初の）、fast（速い）は early の反対語ではありません。",
+      "zh": "early 的意思是“早的、早地”，所以反义词是 late（晚的、迟的）。soon（很快）、first（第一的）、fast（快的）都不是 early 的反义词。",
+      "es": "«Early» significa temprano, así que su opuesto es «late» (tarde). «Soon» (pronto), «first» (primero) y «fast» (rápido) no son opuestos de «early».",
+      "vi": "'Early' nghĩa là sớm, nên từ trái nghĩa là 'late' (muộn). 'Soon' (sắp, chẳng bao lâu), 'first' (đầu tiên) và 'fast' (nhanh) không phải từ trái nghĩa của 'early'."
+    }
+  },
+  {
+    "id": "vocab-L2-0040",
+    "category": "vocab",
+    "level": "L2",
+    "format": "synonym",
+    "question": "Which word means the OPPOSITE of \"dangerous\"?",
+    "choices": ["scary", "safe", "wild", "strange"],
+    "answerIndex": 1,
+    "word": "safe",
+    "meaning": { "ko": "안전한", "en": "not dangerous", "ja": "安全な", "zh": "安全的", "es": "seguro", "vi": "an toàn" },
+    "grammarPoint": null,
+    "explanation": {
+      "ko": "dangerous는 '위험한'이라는 뜻이므로 반대말은 safe(안전한)입니다. scary(무서운)와 wild(야생의, 거친)는 위험과 비슷한 느낌이고, strange(이상한)도 반대말이 아닙니다.",
+      "en": "'Dangerous' means something could hurt you, so its opposite is 'safe'. 'Scary' (making you afraid) and 'wild' are close to 'dangerous' in feeling, and 'strange' (unusual) is not its opposite.",
+      "ja": "dangerous は「危険な」という意味なので、反対語は safe（安全な）です。scary（怖い）と wild（野生の、荒い）は危険に近い感じの言葉で、strange（変な）も反対語ではありません。",
+      "zh": "dangerous 的意思是“危险的”，所以反义词是 safe（安全的）。scary（吓人的）和 wild（野生的、狂野的）与危险的感觉相近，strange（奇怪的）也不是反义词。",
+      "es": "«Dangerous» significa peligroso, así que su opuesto es «safe» (seguro). «Scary» (que da miedo) y «wild» (salvaje) se parecen más a «dangerous», y «strange» (raro) tampoco es su opuesto.",
+      "vi": "'Dangerous' nghĩa là nguy hiểm, nên từ trái nghĩa là 'safe' (an toàn). 'Scary' (đáng sợ) và 'wild' (hoang dã) gần với nghĩa nguy hiểm, còn 'strange' (lạ) cũng không phải từ trái nghĩa."
+    }
+  }
+]

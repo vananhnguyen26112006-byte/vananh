@@ -1,0 +1,602 @@
+[
+  {
+    "id": "grammar-L3-0001",
+    "category": "grammar",
+    "level": "L3",
+    "format": "form",
+    "question": "I haven't finished my science report ___.",
+    "choices": ["already", "just", "yet", "ever"],
+    "answerIndex": 2,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "현재완료 (already/yet/just/ever)", "en": "Present perfect (already/yet/just/ever)", "ja": "現在完了（already/yet/just/ever）", "zh": "现在完成时（already/yet/just/ever）", "es": "Presente perfecto (already/yet/just/ever)", "vi": "Thì hiện tại hoàn thành (already/yet/just/ever)" },
+    "explanation": {
+      "ko": "현재완료 부정문에서 '아직 ~하지 않았다'는 문장 끝에 yet을 씁니다. already(이미)와 just(방금)는 긍정문에 쓰고, ever(한 번이라도)는 주로 의문문에 쓰므로 정답이 아닙니다.",
+      "en": "In negative present perfect sentences, we put 'yet' at the end to mean 'until now'. 'Already' and 'just' are used in positive sentences, and 'ever' is mainly used in questions, so they are wrong here.",
+      "ja": "現在完了の否定文で「まだ～していない」と言うときは、文末に yet を使います。already（もう）と just（ちょうど）は肯定文で使い、ever（今までに）は主に疑問文で使うので、ここでは不正解です。",
+      "zh": "在现在完成时的否定句中，表示“还没有……”要在句末用 yet。already（已经）和 just（刚刚）用于肯定句，ever（曾经）主要用于疑问句，所以都不对。",
+      "es": "En las oraciones negativas con presente perfecto, se pone «yet» al final para decir «todavía no». «Already» y «just» se usan en oraciones afirmativas, y «ever» se usa sobre todo en preguntas, así que son incorrectas aquí.",
+      "vi": "Trong câu phủ định thì hiện tại hoàn thành, ta đặt 'yet' ở cuối câu với nghĩa 'vẫn chưa'. 'Already' và 'just' dùng trong câu khẳng định, còn 'ever' chủ yếu dùng trong câu hỏi, nên chúng sai ở đây."
+    }
+  },
+  {
+    "id": "grammar-L3-0002",
+    "category": "grammar",
+    "level": "L3",
+    "format": "form",
+    "question": "This is the most beautiful beach I have ___ seen.",
+    "choices": ["ever", "yet", "still", "since"],
+    "answerIndex": 0,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "현재완료 (already/yet/just/ever)", "en": "Present perfect (already/yet/just/ever)", "ja": "現在完了（already/yet/just/ever）", "zh": "现在完成时（already/yet/just/ever）", "es": "Presente perfecto (already/yet/just/ever)", "vi": "Thì hiện tại hoàn thành (already/yet/just/ever)" },
+    "explanation": {
+      "ko": "'the most + 형용사 + 명사 + I have ever + 과거분사'는 '지금까지 ~한 것 중 가장 …한'이라는 뜻의 표현입니다. yet은 주로 부정문과 의문문의 끝에 쓰고, still과 since는 이 자리에 올 수 없습니다.",
+      "en": "The pattern 'the most + adjective + noun + I have ever + past participle' means 'the most … of all the ones in my life'. 'Yet' is mainly used at the end of negatives and questions, and 'still' and 'since' cannot go in this position.",
+      "ja": "「the most＋形容詞＋名詞＋I have ever＋過去分詞」は「今までに～した中で一番…」という意味の表現です。yet は主に否定文や疑問文の文末で使い、still と since はこの位置には入りません。",
+      "zh": "“the most + 形容词 + 名词 + I have ever + 过去分词”表示“我至今……过的最……的”。yet 主要用于否定句和疑问句的句末，still 和 since 不能放在这个位置。",
+      "es": "La estructura «the most + adjetivo + sustantivo + I have ever + participio» significa «el más … que he … en mi vida». «Yet» se usa sobre todo al final de oraciones negativas y preguntas, y «still» y «since» no pueden ir en esta posición.",
+      "vi": "Cấu trúc 'the most + tính từ + danh từ + I have ever + quá khứ phân từ' nghĩa là '… nhất mà tôi từng …'. 'Yet' chủ yếu dùng ở cuối câu phủ định và câu hỏi, còn 'still' và 'since' không thể đứng ở vị trí này."
+    }
+  },
+  {
+    "id": "grammar-L3-0003",
+    "category": "grammar",
+    "level": "L3",
+    "format": "error",
+    "question": "Tom has just went out, so he can't answer the phone.",
+    "choices": ["has just", "went out", "so he", "can't answer"],
+    "answerIndex": 1,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "현재완료 (have + 과거분사)", "en": "Present perfect (have + past participle)", "ja": "現在完了（have＋過去分詞）", "zh": "现在完成时（have + 过去分词）", "es": "Presente perfecto (have + participio)", "vi": "Thì hiện tại hoàn thành (have + quá khứ phân từ)" },
+    "explanation": {
+      "ko": "현재완료는 'have/has + 과거분사'이므로 went(과거형)가 아니라 gone(과거분사)을 써야 합니다. 올바른 문장은 Tom has just gone out입니다. has just, so he, can't answer는 모두 올바릅니다.",
+      "en": "The present perfect is 'have/has + past participle', so we need 'gone' (past participle), not 'went' (past simple). The correct sentence is 'Tom has just gone out'. 'Has just', 'so he' and 'can't answer' are all correct.",
+      "ja": "現在完了は「have/has＋過去分詞」なので、went（過去形）ではなく gone（過去分詞）を使います。正しくは Tom has just gone out です。has just、so he、can't answer はすべて正しいです。",
+      "zh": "现在完成时是“have/has + 过去分词”，所以要用 gone（过去分词），而不是 went（过去式）。正确的说法是 Tom has just gone out。has just、so he 和 can't answer 都是正确的。",
+      "es": "El presente perfecto es «have/has + participio», así que hace falta «gone» (participio) y no «went» (pasado simple). La forma correcta es «Tom has just gone out». «Has just», «so he» y «can't answer» son correctos.",
+      "vi": "Thì hiện tại hoàn thành có dạng 'have/has + quá khứ phân từ', nên phải dùng 'gone' (quá khứ phân từ) chứ không phải 'went' (quá khứ đơn). Câu đúng là 'Tom has just gone out'. 'Has just', 'so he' và 'can't answer' đều đúng."
+    }
+  },
+  {
+    "id": "grammar-L3-0004",
+    "category": "grammar",
+    "level": "L3",
+    "format": "form",
+    "question": "My grandparents have been married ___ fifty years.",
+    "choices": ["since", "during", "ago", "for"],
+    "answerIndex": 3,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "현재완료 + since/for", "en": "Present perfect + since/for", "ja": "現在完了＋since/for", "zh": "现在完成时 + since/for", "es": "Presente perfecto + since/for", "vi": "Thì hiện tại hoàn thành + since/for" },
+    "explanation": {
+      "ko": "fifty years(50년)처럼 기간 앞에는 for를 씁니다. since는 2010처럼 시작 시점 앞에, during은 'during the war'처럼 어떤 일이 일어난 동안 앞에 쓰고, ago는 과거 시제와 함께 'fifty years ago'처럼 시간 뒤에 붙입니다.",
+      "en": "Before a length of time like 'fifty years', we use 'for'. 'Since' goes before a starting point like 2010, 'during' goes before an event like 'during the war', and 'ago' comes after the time with the past simple, as in 'fifty years ago'.",
+      "ja": "fifty years（50年）のような期間の前には for を使います。since は2010のような始まりの時点の前、during は during the war のような出来事の前に使い、ago は過去形と一緒に fifty years ago のように時間の後ろに置きます。",
+      "zh": "在 fifty years（五十年）这样的时间段前要用 for。since 用在 2010 这样的起始时间点前，during 用在 during the war 这样的事件前，ago 要和一般过去时连用，放在时间后面，如 fifty years ago。",
+      "es": "Antes de una duración como «fifty years» se usa «for». «Since» va antes de un punto de inicio como 2010, «during» va antes de un evento como «during the war», y «ago» va después del tiempo y con pasado simple, como en «fifty years ago».",
+      "vi": "Trước một khoảng thời gian như 'fifty years' (năm mươi năm), ta dùng 'for'. 'Since' đứng trước mốc thời gian như 2010, 'during' đứng trước một sự kiện như 'during the war', còn 'ago' đứng sau thời gian và đi với thì quá khứ đơn, như 'fifty years ago'."
+    }
+  },
+  {
+    "id": "grammar-L3-0005",
+    "category": "grammar",
+    "level": "L3",
+    "format": "error",
+    "question": "We have known each other since ten years.",
+    "choices": ["have known", "each other", "since", "ten years"],
+    "answerIndex": 2,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "현재완료 + since/for", "en": "Present perfect + since/for", "ja": "現在完了＋since/for", "zh": "现在完成时 + since/for", "es": "Presente perfecto + since/for", "vi": "Thì hiện tại hoàn thành + since/for" },
+    "explanation": {
+      "ko": "ten years(10년)는 기간이므로 since가 아니라 for를 써야 합니다. 올바른 문장은 We have known each other for ten years입니다. since는 'since 2016'처럼 시작 시점 앞에 쓰며, have known, each other, ten years는 올바릅니다.",
+      "en": "'Ten years' is a length of time, so we need 'for', not 'since'. The correct sentence is 'We have known each other for ten years'. 'Since' is used before a starting point, like 'since 2016', and 'have known', 'each other' and 'ten years' are correct.",
+      "ja": "ten years（10年）は期間なので、since ではなく for を使います。正しくは We have known each other for ten years です。since は since 2016 のように始まりの時点の前に使い、have known、each other、ten years は正しいです。",
+      "zh": "ten years（十年）是时间段，所以要用 for，而不是 since。正确的说法是 We have known each other for ten years。since 用在起始时间点前，如 since 2016；have known、each other 和 ten years 都是正确的。",
+      "es": "«Ten years» es una duración, así que hace falta «for» y no «since». La forma correcta es «We have known each other for ten years». «Since» se usa antes de un punto de inicio, como «since 2016», y «have known», «each other» y «ten years» son correctos.",
+      "vi": "'Ten years' là một khoảng thời gian nên phải dùng 'for' chứ không phải 'since'. Câu đúng là 'We have known each other for ten years'. 'Since' dùng trước mốc thời gian bắt đầu, như 'since 2016', còn 'have known', 'each other' và 'ten years' đều đúng."
+    }
+  },
+  {
+    "id": "grammar-L3-0006",
+    "category": "grammar",
+    "level": "L3",
+    "format": "form",
+    "question": "I ___ my wallet yesterday, but luckily I found it this morning.",
+    "choices": ["have lost", "have been losing", "lost", "was lost"],
+    "answerIndex": 2,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "현재완료 vs 과거시제", "en": "Present perfect vs past simple", "ja": "現在完了と過去形", "zh": "现在完成时与一般过去时", "es": "Presente perfecto vs. pasado simple", "vi": "Hiện tại hoàn thành và quá khứ đơn" },
+    "explanation": {
+      "ko": "yesterday(어제)처럼 끝난 과거 시점을 나타내는 말이 있으면 현재완료가 아니라 과거형을 씁니다. 그래서 lost가 정답입니다. have lost와 have been losing은 yesterday와 함께 쓸 수 없고, was lost는 수동태라 뒤에 목적어 my wallet이 올 수 없습니다.",
+      "en": "When a sentence has a finished past time like 'yesterday', we use the past simple, not the present perfect. So 'lost' is correct; 'have lost' and 'have been losing' cannot be used with 'yesterday', and 'was lost' is passive, so it cannot take the object 'my wallet'.",
+      "ja": "yesterday（昨日）のように終わった過去の時点を表す語があるときは、現在完了ではなく過去形を使います。そのため lost が正解です。have lost と have been losing は yesterday と一緒に使えず、was lost は受動態なので目的語 my wallet を続けることができません。",
+      "zh": "句中有 yesterday（昨天）这样表示已经结束的过去时间的词时，要用一般过去时，而不是现在完成时。所以 lost 是正确答案；have lost 和 have been losing 不能和 yesterday 连用，was lost 是被动语态，后面不能接宾语 my wallet。",
+      "es": "Cuando la oración tiene un tiempo pasado terminado como «yesterday» (ayer), se usa el pasado simple y no el presente perfecto. Por eso «lost» es correcto; «have lost» y «have been losing» no se usan con «yesterday», y «was lost» es pasiva, así que no puede llevar el objeto «my wallet».",
+      "vi": "Khi câu có mốc thời gian đã kết thúc trong quá khứ như 'yesterday' (hôm qua), ta dùng thì quá khứ đơn chứ không dùng hiện tại hoàn thành. Vì vậy 'lost' là đúng; 'have lost' và 'have been losing' không dùng với 'yesterday', còn 'was lost' là dạng bị động nên không thể có tân ngữ 'my wallet' phía sau."
+    }
+  },
+  {
+    "id": "grammar-L3-0007",
+    "category": "grammar",
+    "level": "L3",
+    "format": "error",
+    "question": "Last summer, we have visited our grandparents in the countryside.",
+    "choices": ["we", "have visited", "our grandparents", "in the countryside"],
+    "answerIndex": 1,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "현재완료 vs 과거시제", "en": "Present perfect vs past simple", "ja": "現在完了と過去形", "zh": "现在完成时与一般过去时", "es": "Presente perfecto vs. pasado simple", "vi": "Hiện tại hoàn thành và quá khứ đơn" },
+    "explanation": {
+      "ko": "Last summer(지난여름)는 끝난 과거 시점이므로 현재완료 have visited가 아니라 과거형 visited를 써야 합니다. 올바른 문장은 Last summer, we visited our grandparents in the countryside입니다. we, our grandparents, in the countryside는 올바릅니다.",
+      "en": "'Last summer' is a finished past time, so we need the past simple 'visited', not the present perfect 'have visited'. The correct sentence is 'Last summer, we visited our grandparents in the countryside'. 'We', 'our grandparents' and 'in the countryside' are correct.",
+      "ja": "Last summer（去年の夏）は終わった過去の時点なので、現在完了の have visited ではなく過去形の visited を使います。正しくは Last summer, we visited our grandparents in the countryside です。we、our grandparents、in the countryside は正しいです。",
+      "zh": "Last summer（去年夏天）是已经结束的过去时间，所以要用一般过去时 visited，而不是现在完成时 have visited。正确的说法是 Last summer, we visited our grandparents in the countryside。we、our grandparents 和 in the countryside 都是正确的。",
+      "es": "«Last summer» (el verano pasado) es un tiempo pasado terminado, así que hace falta el pasado simple «visited» y no el presente perfecto «have visited». La forma correcta es «Last summer, we visited our grandparents in the countryside». «We», «our grandparents» e «in the countryside» son correctos.",
+      "vi": "'Last summer' (mùa hè năm ngoái) là thời điểm đã kết thúc trong quá khứ, nên phải dùng quá khứ đơn 'visited' chứ không phải hiện tại hoàn thành 'have visited'. Câu đúng là 'Last summer, we visited our grandparents in the countryside'. 'We', 'our grandparents' và 'in the countryside' đều đúng."
+    }
+  },
+  {
+    "id": "grammar-L3-0008",
+    "category": "grammar",
+    "level": "L3",
+    "format": "form",
+    "question": "You look tired. ___ you been working all day?",
+    "choices": ["Did", "Are", "Were", "Have"],
+    "answerIndex": 3,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "현재완료진행형", "en": "Present perfect continuous", "ja": "現在完了進行形", "zh": "现在完成进行时", "es": "Presente perfecto continuo", "vi": "Thì hiện tại hoàn thành tiếp diễn" },
+    "explanation": {
+      "ko": "현재완료진행형은 'have/has been + -ing'로, 지금까지(또는 방금 전까지) 계속된 동작을 나타냅니다. 빈칸 뒤에 been working이 있으므로 Have가 정답입니다. Did, Are, Were는 been과 함께 쓸 수 없습니다.",
+      "en": "The present perfect continuous is 'have/has been + -ing', and it shows an action that has continued until now or until very recently. The blank comes before 'been working', so 'Have' is correct. 'Did', 'Are' and 'Were' cannot be used with 'been'.",
+      "ja": "現在完了進行形は「have/has been＋-ing」で、今まで（またはついさっきまで）続いていた動作を表します。空欄の後に been working があるので Have が正解です。Did・Are・Were は been と一緒に使えません。",
+      "zh": "现在完成进行时的结构是“have/has been + -ing”，表示一直持续到现在（或刚刚）的动作。空格后面是 been working，所以 Have 是正确答案。Did、Are 和 Were 都不能和 been 连用。",
+      "es": "El presente perfecto continuo es «have/has been + -ing» y muestra una acción que ha continuado hasta ahora o hasta hace muy poco. Después del espacio viene «been working», así que «Have» es correcto. «Did», «Are» y «Were» no se pueden usar con «been».",
+      "vi": "Thì hiện tại hoàn thành tiếp diễn có dạng 'have/has been + -ing', diễn tả hành động kéo dài đến bây giờ hoặc vừa mới kết thúc. Sau chỗ trống là 'been working' nên 'Have' là đúng. 'Did', 'Are' và 'Were' không thể đi với 'been'."
+    }
+  },
+  {
+    "id": "grammar-L3-0009",
+    "category": "grammar",
+    "level": "L3",
+    "format": "form",
+    "question": "It ___ for three hours, and it still hasn't stopped.",
+    "choices": ["has been raining", "rained", "was raining", "is raining"],
+    "answerIndex": 0,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "현재완료진행형", "en": "Present perfect continuous", "ja": "現在完了進行形", "zh": "现在完成进行时", "es": "Presente perfecto continuo", "vi": "Thì hiện tại hoàn thành tiếp diễn" },
+    "explanation": {
+      "ko": "for three hours(3시간 동안)와 '아직 그치지 않았다'는 말이 있으므로, 과거에 시작해 지금까지 계속되는 동작을 나타내는 현재완료진행형 has been raining이 정답입니다. rained와 was raining은 과거의 일만 나타내고, is raining은 for three hours와 함께 쓸 수 없습니다.",
+      "en": "'For three hours' and 'it still hasn't stopped' show an action that started in the past and is still going on, so we use the present perfect continuous 'has been raining'. 'Rained' and 'was raining' only talk about the past, and 'is raining' cannot be used with 'for three hours'.",
+      "ja": "for three hours（3時間）と「まだ止んでいない」から、過去に始まって今も続いている動作なので、現在完了進行形の has been raining が正解です。rained と was raining は過去のことだけを表し、is raining は for three hours と一緒に使えません。",
+      "zh": "for three hours（三个小时）和“还没有停”说明动作从过去开始一直持续到现在，所以要用现在完成进行时 has been raining。rained 和 was raining 只表示过去的事，is raining 不能和 for three hours 连用。",
+      "es": "«For three hours» y «it still hasn't stopped» muestran una acción que empezó en el pasado y sigue ahora, así que se usa el presente perfecto continuo «has been raining». «Rained» y «was raining» solo hablan del pasado, e «is raining» no se puede usar con «for three hours».",
+      "vi": "'For three hours' và 'it still hasn't stopped' cho thấy hành động bắt đầu trong quá khứ và vẫn đang tiếp diễn, nên ta dùng thì hiện tại hoàn thành tiếp diễn 'has been raining'. 'Rained' và 'was raining' chỉ nói về quá khứ, còn 'is raining' không dùng với 'for three hours'."
+    }
+  },
+  {
+    "id": "grammar-L3-0010",
+    "category": "grammar",
+    "level": "L3",
+    "format": "form",
+    "question": "This old bridge ___ in 1890.",
+    "choices": ["built", "has built", "was built", "was building"],
+    "answerIndex": 2,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "수동태 (과거)", "en": "Passive voice (past)", "ja": "受動態（過去）", "zh": "被动语态（一般过去时）", "es": "Voz pasiva (pasado)", "vi": "Câu bị động (quá khứ)" },
+    "explanation": {
+      "ko": "다리는 스스로 무언가를 짓는 것이 아니라 '지어지는' 것이므로 수동태가 필요합니다. 1890년은 과거이므로 'was + 과거분사'인 was built가 정답입니다. built와 has built는 능동태라 '다리가 무언가를 지었다'는 뜻이 되고, was building은 과거진행형입니다.",
+      "en": "A bridge does not build something; it is built by people, so we need the passive. The year 1890 is in the past, so 'was + past participle' ('was built') is correct. 'Built' and 'has built' are active, so they would mean the bridge built something, and 'was building' is the past continuous.",
+      "ja": "橋は自分で何かを建てるのではなく「建てられる」ものなので、受動態が必要です。1890年は過去なので「was＋過去分詞」の was built が正解です。built と has built は能動態で「橋が何かを建てた」という意味になり、was building は過去進行形です。",
+      "zh": "桥不会自己建造东西，而是“被建造”，所以要用被动语态。1890 年是过去，所以“was + 过去分词”的 was built 是正确答案。built 和 has built 是主动语态，意思会变成“桥建造了什么”，was building 是过去进行时。",
+      "es": "Un puente no construye nada; es construido por personas, así que hace falta la pasiva. El año 1890 está en el pasado, así que «was + participio» («was built») es correcto. «Built» y «has built» son activas y significarían que el puente construyó algo, y «was building» es el pasado continuo.",
+      "vi": "Cây cầu không tự xây cái gì mà 'được xây', nên cần dùng câu bị động. Năm 1890 là quá khứ nên 'was + quá khứ phân từ' ('was built') là đúng. 'Built' và 'has built' là chủ động, nghĩa là cây cầu đã xây cái gì đó, còn 'was building' là thì quá khứ tiếp diễn."
+    }
+  },
+  {
+    "id": "grammar-L3-0011",
+    "category": "grammar",
+    "level": "L3",
+    "format": "error",
+    "question": "These cars are popular all over the world, and they are make in Germany.",
+    "choices": ["are popular", "all over the world", "they are", "make in Germany"],
+    "answerIndex": 3,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "수동태 (현재)", "en": "Passive voice (present)", "ja": "受動態（現在）", "zh": "被动语态（一般现在时）", "es": "Voz pasiva (presente)", "vi": "Câu bị động (hiện tại)" },
+    "explanation": {
+      "ko": "자동차는 '만들어지는' 것이므로 수동태 'be동사 + 과거분사'를 써야 합니다. they are 뒤에는 동사원형 make가 아니라 과거분사 made가 와야 합니다(they are made in Germany). are popular, all over the world, they are는 올바릅니다.",
+      "en": "Cars are made by people, so we need the passive 'be + past participle'. After 'they are', we need the past participle 'made', not the base form 'make', as in 'they are made in Germany'. 'Are popular', 'all over the world' and 'they are' are correct.",
+      "ja": "車は「作られる」ものなので、受動態「be動詞＋過去分詞」を使います。they are の後には原形の make ではなく過去分詞の made が必要です（they are made in Germany）。are popular、all over the world、they are は正しいです。",
+      "zh": "汽车是“被制造”的，所以要用被动语态“be 动词 + 过去分词”。they are 后面应该用过去分词 made，而不是动词原形 make（they are made in Germany）。are popular、all over the world 和 they are 都是正确的。",
+      "es": "Los coches son fabricados por personas, así que hace falta la pasiva «be + participio». Después de «they are» va el participio «made» y no la forma base «make»: «they are made in Germany». «Are popular», «all over the world» y «they are» son correctos.",
+      "vi": "Ô tô 'được sản xuất' nên phải dùng câu bị động 'be + quá khứ phân từ'. Sau 'they are' phải là quá khứ phân từ 'made' chứ không phải động từ nguyên mẫu 'make': 'they are made in Germany'. 'Are popular', 'all over the world' và 'they are' đều đúng."
+    }
+  },
+  {
+    "id": "grammar-L3-0012",
+    "category": "grammar",
+    "level": "L3",
+    "format": "form",
+    "question": "I have a friend ___ father is a famous chef.",
+    "choices": ["whose", "who", "which", "where"],
+    "answerIndex": 0,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "관계대명사 whose", "en": "Relative pronoun 'whose'", "ja": "関係代名詞 whose", "zh": "关系代词 whose", "es": "Pronombre relativo «whose»", "vi": "Đại từ quan hệ 'whose'" },
+    "explanation": {
+      "ko": "빈칸 뒤의 father(아버지)는 앞의 a friend의 아버지이므로, 소유를 나타내는 관계대명사 whose가 정답입니다. who는 사람이 주어나 목적어일 때, which는 사물일 때, where는 장소일 때 쓰며, 모두 소유의 뜻을 나타내지 못합니다.",
+      "en": "'Father' is the father of 'a friend', so we need 'whose', the relative pronoun that shows possession. 'Who' is for a person as subject or object, 'which' is for things, and 'where' is for places, and none of them shows possession.",
+      "ja": "空欄の後の father は a friend の父親なので、所有を表す関係代名詞 whose が正解です。who は人が主語や目的語のとき、which は物のとき、where は場所のときに使い、どれも「～の」という所有の意味は表せません。",
+      "zh": "空格后的 father 是前面 a friend 的父亲，所以要用表示所属的关系代词 whose。who 用于指人（作主语或宾语），which 用于指物，where 用于指地点，它们都不能表示“……的”这种所属关系。",
+      "es": "«Father» es el padre de «a friend», así que hace falta «whose», el pronombre relativo que indica posesión. «Who» se usa para personas como sujeto u objeto, «which» para cosas y «where» para lugares, y ninguno indica posesión.",
+      "vi": "'Father' là bố của 'a friend', nên phải dùng 'whose', đại từ quan hệ chỉ sự sở hữu. 'Who' dùng cho người làm chủ ngữ hoặc tân ngữ, 'which' dùng cho vật, 'where' dùng cho nơi chốn, và không từ nào trong số đó chỉ sự sở hữu."
+    }
+  },
+  {
+    "id": "grammar-L3-0013",
+    "category": "grammar",
+    "level": "L3",
+    "format": "form",
+    "question": "This is the café ___ we had our first date.",
+    "choices": ["which", "who", "whose", "where"],
+    "answerIndex": 3,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "관계부사 where", "en": "Relative adverb 'where'", "ja": "関係副詞 where", "zh": "关系副词 where", "es": "Adverbio relativo «where»", "vi": "Trạng từ quan hệ 'where'" },
+    "explanation": {
+      "ko": "the café(카페)는 장소이고, 뒤의 we had our first date는 빠진 것이 없는 완전한 문장이므로 관계부사 where가 정답입니다. which를 쓰려면 'at which'처럼 전치사가 필요하고, who는 사람에, whose는 소유를 나타낼 때 씁니다.",
+      "en": "'The café' is a place, and 'we had our first date' is a complete clause, so we use the relative adverb 'where'. 'Which' would need a preposition, like 'at which'; 'who' is for people, and 'whose' shows possession.",
+      "ja": "the café（カフェ）は場所で、後ろの we had our first date は欠けている要素のない完全な文なので、関係副詞 where が正解です。which を使うなら at which のように前置詞が必要で、who は人に、whose は所有を表すときに使います。",
+      "zh": "the café（咖啡馆）是地点，后面的 we had our first date 是成分完整的句子，所以要用关系副词 where。用 which 的话需要加介词，如 at which；who 用于指人，whose 表示所属。",
+      "es": "«The café» es un lugar y «we had our first date» es una oración completa, así que se usa el adverbio relativo «where». «Which» necesitaría una preposición, como «at which»; «who» es para personas y «whose» indica posesión.",
+      "vi": "'The café' là nơi chốn và 'we had our first date' là mệnh đề đầy đủ, nên ta dùng trạng từ quan hệ 'where'. 'Which' cần có giới từ đi kèm, như 'at which'; 'who' dùng cho người, còn 'whose' chỉ sự sở hữu."
+    }
+  },
+  {
+    "id": "grammar-L3-0014",
+    "category": "grammar",
+    "level": "L3",
+    "format": "error",
+    "question": "The book who I borrowed from the library was very interesting.",
+    "choices": ["The book", "who", "I borrowed", "from the library"],
+    "answerIndex": 1,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "관계대명사 (which/that)", "en": "Relative pronouns (which/that)", "ja": "関係代名詞（which/that）", "zh": "关系代词（which/that）", "es": "Pronombres relativos (which/that)", "vi": "Đại từ quan hệ (which/that)" },
+    "explanation": {
+      "ko": "선행사 The book(책)은 사물이므로 관계대명사 who가 아니라 which나 that을 써야 합니다. who는 사람에게만 씁니다. 올바른 문장은 The book which I borrowed from the library was very interesting이며, The book, I borrowed, from the library는 올바릅니다.",
+      "en": "'The book' is a thing, so the relative pronoun should be 'which' or 'that', not 'who'. 'Who' is only for people. The correct sentence is 'The book which I borrowed from the library was very interesting', and 'The book', 'I borrowed' and 'from the library' are correct.",
+      "ja": "先行詞の The book（本）は物なので、関係代名詞は who ではなく which か that を使います。who は人にだけ使います。正しくは The book which I borrowed from the library was very interesting で、The book、I borrowed、from the library は正しいです。",
+      "zh": "先行词 The book（书）是物，所以关系代词应该用 which 或 that，而不是 who。who 只用于指人。正确的说法是 The book which I borrowed from the library was very interesting，The book、I borrowed 和 from the library 都是正确的。",
+      "es": "«The book» es una cosa, así que el pronombre relativo debe ser «which» o «that», no «who». «Who» se usa solo para personas. La forma correcta es «The book which I borrowed from the library was very interesting», y «The book», «I borrowed» y «from the library» son correctos.",
+      "vi": "'The book' là vật nên đại từ quan hệ phải là 'which' hoặc 'that', không phải 'who'. 'Who' chỉ dùng cho người. Câu đúng là 'The book which I borrowed from the library was very interesting', còn 'The book', 'I borrowed' và 'from the library' đều đúng."
+    }
+  },
+  {
+    "id": "grammar-L3-0015",
+    "category": "grammar",
+    "level": "L3",
+    "format": "form",
+    "question": "If it ___ tomorrow, we will cancel the picnic.",
+    "choices": ["will rain", "rains", "rained", "raining"],
+    "answerIndex": 1,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "1형 조건문 (if + 현재형)", "en": "First conditional (if + present simple)", "ja": "第1条件文（if＋現在形）", "zh": "第一类条件句（if + 一般现在时）", "es": "Condicional de primer tipo (if + presente)", "vi": "Câu điều kiện loại 1 (if + hiện tại đơn)" },
+    "explanation": {
+      "ko": "1형 조건문은 'If + 현재형, will + 동사원형'입니다. 내일 일이라도 if절에는 will을 쓰지 않고 현재형 rains를 씁니다. will rain은 if절에 쓸 수 없고, rained는 과거형이며, raining은 혼자서 동사가 될 수 없습니다.",
+      "en": "The first conditional is 'If + present simple, will + base verb'. Even when we talk about tomorrow, the if-clause uses the present simple 'rains', not 'will rain'. 'Rained' is the past form, and 'raining' cannot be a verb on its own.",
+      "ja": "第1条件文は「If＋現在形, will＋動詞の原形」です。明日のことでも、if節には will を使わず現在形の rains を使います。will rain は if節には使えず、rained は過去形、raining は単独では動詞になれません。",
+      "zh": "第一类条件句的结构是“If + 一般现在时，will + 动词原形”。即使说的是明天的事，if 从句也不用 will，而要用一般现在时 rains。will rain 不能用在 if 从句中，rained 是过去式，raining 不能单独作谓语。",
+      "es": "El condicional de primer tipo es «If + presente simple, will + verbo base». Aunque hablemos de mañana, en la parte con «if» se usa el presente simple «rains», no «will rain». «Rained» es pasado y «raining» no puede ser el verbo por sí solo.",
+      "vi": "Câu điều kiện loại 1 có dạng 'If + hiện tại đơn, will + động từ nguyên mẫu'. Dù nói về ngày mai, mệnh đề 'if' vẫn dùng hiện tại đơn 'rains' chứ không dùng 'will rain'. 'Rained' là quá khứ, còn 'raining' không thể tự làm động từ chính."
+    }
+  },
+  {
+    "id": "grammar-L3-0016",
+    "category": "grammar",
+    "level": "L3",
+    "format": "error",
+    "question": "If it will snow tomorrow, the schools will close.",
+    "choices": ["will snow", "tomorrow", "the schools", "will close"],
+    "answerIndex": 0,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "1형 조건문 (if + 현재형)", "en": "First conditional (if + present simple)", "ja": "第1条件文（if＋現在形）", "zh": "第一类条件句（if + 一般现在时）", "es": "Condicional de primer tipo (if + presente)", "vi": "Câu điều kiện loại 1 (if + hiện tại đơn)" },
+    "explanation": {
+      "ko": "1형 조건문의 if절에는 미래의 일이라도 will을 쓰지 않고 현재형을 씁니다. 따라서 will snow를 snows로 고쳐야 합니다(If it snows tomorrow, the schools will close). tomorrow, the schools, will close는 올바릅니다.",
+      "en": "In the first conditional, the if-clause uses the present simple, not 'will', even for the future. So 'will snow' should be 'snows', as in 'If it snows tomorrow, the schools will close'. 'Tomorrow', 'the schools' and 'will close' are correct.",
+      "ja": "第1条件文の if節では、未来のことでも will を使わず現在形を使います。そのため will snow を snows に直します（If it snows tomorrow, the schools will close）。tomorrow、the schools、will close は正しいです。",
+      "zh": "在第一类条件句中，即使是将来的事，if 从句也不用 will，而用一般现在时。所以 will snow 应改为 snows（If it snows tomorrow, the schools will close）。tomorrow、the schools 和 will close 都是正确的。",
+      "es": "En el condicional de primer tipo, la parte con «if» usa el presente simple y no «will», aunque hable del futuro. Por eso «will snow» debe ser «snows»: «If it snows tomorrow, the schools will close». «Tomorrow», «the schools» y «will close» son correctos.",
+      "vi": "Trong câu điều kiện loại 1, mệnh đề 'if' dùng hiện tại đơn chứ không dùng 'will', dù nói về tương lai. Vì vậy 'will snow' phải sửa thành 'snows': 'If it snows tomorrow, the schools will close'. 'Tomorrow', 'the schools' và 'will close' đều đúng."
+    }
+  },
+  {
+    "id": "grammar-L3-0017",
+    "category": "grammar",
+    "level": "L3",
+    "format": "form",
+    "question": "When I was a child, I ___ play in the park every day.",
+    "choices": ["use to", "was used to", "used to", "am used to"],
+    "answerIndex": 2,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "used to (과거의 습관)", "en": "used to (past habits)", "ja": "used to（過去の習慣）", "zh": "used to（过去的习惯）", "es": "used to (hábitos del pasado)", "vi": "used to (thói quen trong quá khứ)" },
+    "explanation": {
+      "ko": "과거에 자주 했지만 지금은 하지 않는 습관은 'used to + 동사원형'으로 나타냅니다. 긍정문에서 use to라고 쓰지 않으며, was used to와 am used to는 '~에 익숙하다'는 뜻으로 뒤에 동사원형이 아니라 명사나 -ing가 옵니다.",
+      "en": "We use 'used to + base verb' for a past habit that is not true now. 'Use to' is the wrong spelling in a positive sentence, and 'was used to' and 'am used to' mean 'be familiar with', so they are followed by a noun or -ing, not a base verb.",
+      "ja": "過去によくしていたが今はしない習慣は「used to＋動詞の原形」で表します。肯定文で use to とは書かず、was used to と am used to は「～に慣れている」という意味で、後ろには原形ではなく名詞や -ing が来ます。",
+      "zh": "表示过去经常做、现在不再做的习惯，用“used to + 动词原形”。在肯定句中不能写成 use to；was used to 和 am used to 的意思是“习惯于……”，后面接名词或 -ing，而不是动词原形。",
+      "es": "Usamos «used to + verbo base» para un hábito del pasado que ya no es verdad. «Use to» está mal escrito en una oración afirmativa, y «was used to» y «am used to» significan «estar acostumbrado a», así que van seguidos de un sustantivo o de -ing, no de un verbo base.",
+      "vi": "Ta dùng 'used to + động từ nguyên mẫu' cho thói quen trong quá khứ mà bây giờ không còn nữa. 'Use to' viết sai trong câu khẳng định, còn 'was used to' và 'am used to' nghĩa là 'quen với', nên phía sau là danh từ hoặc -ing chứ không phải động từ nguyên mẫu."
+    }
+  },
+  {
+    "id": "grammar-L3-0018",
+    "category": "grammar",
+    "level": "L3",
+    "format": "form",
+    "question": "My brother ___ like vegetables, but now he loves them.",
+    "choices": ["didn't use to", "wasn't use to", "not used to", "doesn't used to"],
+    "answerIndex": 0,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "used to (과거의 습관)", "en": "used to (past habits)", "ja": "used to（過去の習慣）", "zh": "used to（过去的习惯）", "es": "used to (hábitos del pasado)", "vi": "used to (thói quen trong quá khứ)" },
+    "explanation": {
+      "ko": "used to의 부정형은 'didn't use to + 동사원형'입니다. did가 이미 과거를 나타내므로 use에 -d를 붙이지 않습니다. wasn't use to와 not used to는 틀린 형태이고, doesn't used to는 현재형이라 과거의 습관을 나타낼 수 없습니다.",
+      "en": "The negative of 'used to' is 'didn't use to + base verb'. Because 'did' already shows the past, we write 'use' without -d. 'Wasn't use to' and 'not used to' are not correct forms, and 'doesn't used to' is present tense, so it cannot talk about a past habit.",
+      "ja": "used to の否定形は「didn't use to＋動詞の原形」です。did がすでに過去を表しているので、use に -d は付けません。wasn't use to と not used to は正しくない形で、doesn't used to は現在形なので過去の習慣を表せません。",
+      "zh": "used to 的否定形式是“didn't use to + 动词原形”。因为 did 已经表示过去，所以 use 后面不加 -d。wasn't use to 和 not used to 都是错误的形式，doesn't used to 是现在时，不能表示过去的习惯。",
+      "es": "La forma negativa de «used to» es «didn't use to + verbo base». Como «did» ya indica pasado, «use» se escribe sin -d. «Wasn't use to» y «not used to» no son formas correctas, y «doesn't used to» está en presente, así que no puede hablar de un hábito del pasado.",
+      "vi": "Dạng phủ định của 'used to' là 'didn't use to + động từ nguyên mẫu'. Vì 'did' đã thể hiện quá khứ nên 'use' không thêm -d. 'Wasn't use to' và 'not used to' là dạng sai, còn 'doesn't used to' ở thì hiện tại nên không thể nói về thói quen trong quá khứ."
+    }
+  },
+  {
+    "id": "grammar-L3-0019",
+    "category": "grammar",
+    "level": "L3",
+    "format": "form",
+    "question": "After a long discussion, they decided ___ a new car.",
+    "choices": ["buying", "buy", "bought", "to buy"],
+    "answerIndex": 3,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "동명사와 to부정사", "en": "Gerund vs to-infinitive", "ja": "動名詞と to不定詞", "zh": "动名词与动词不定式", "es": "Gerundio vs. infinitivo con to", "vi": "Danh động từ và động từ nguyên mẫu có to" },
+    "explanation": {
+      "ko": "decide는 뒤에 to부정사를 쓰는 동사이므로 decided to buy가 맞습니다. decide 뒤에는 동명사 buying을 쓰지 않고, buy와 bought는 decided 바로 뒤에 올 수 없습니다.",
+      "en": "'Decide' is followed by a to-infinitive, so 'decided to buy' is correct. We do not use the gerund 'buying' after 'decide', and 'buy' and 'bought' cannot come directly after 'decided'.",
+      "ja": "decide は後ろに to不定詞をとる動詞なので、decided to buy が正しいです。decide の後に動名詞の buying は使わず、buy と bought は decided の直後には置けません。",
+      "zh": "decide 后面接动词不定式（to do），所以 decided to buy 是正确的。decide 后面不用动名词 buying，buy 和 bought 也不能直接放在 decided 后面。",
+      "es": "«Decide» va seguido de infinitivo con to, así que «decided to buy» es correcto. Después de «decide» no se usa el gerundio «buying», y «buy» y «bought» no pueden ir justo después de «decided».",
+      "vi": "'Decide' đi với động từ nguyên mẫu có 'to', nên 'decided to buy' là đúng. Sau 'decide' không dùng danh động từ 'buying', còn 'buy' và 'bought' không thể đứng ngay sau 'decided'."
+    }
+  },
+  {
+    "id": "grammar-L3-0020",
+    "category": "grammar",
+    "level": "L3",
+    "format": "error",
+    "question": "You should avoid to eat too much sugar before going to bed.",
+    "choices": ["to eat", "too much sugar", "before", "going to bed"],
+    "answerIndex": 0,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "동명사와 to부정사", "en": "Gerund vs to-infinitive", "ja": "動名詞と to不定詞", "zh": "动名词与动词不定式", "es": "Gerundio vs. infinitivo con to", "vi": "Danh động từ và động từ nguyên mẫu có to" },
+    "explanation": {
+      "ko": "avoid는 뒤에 동명사(-ing)를 쓰는 동사이므로 to eat이 아니라 eating을 써야 합니다. 올바른 문장은 You should avoid eating too much sugar before going to bed입니다. too much sugar, before, going to bed는 올바릅니다.",
+      "en": "'Avoid' is followed by a gerund (-ing), not a to-infinitive, so 'to eat' should be 'eating'. The correct sentence is 'You should avoid eating too much sugar before going to bed'. 'Too much sugar', 'before' and 'going to bed' are correct.",
+      "ja": "avoid は後ろに動名詞（-ing）をとる動詞なので、to eat ではなく eating を使います。正しくは You should avoid eating too much sugar before going to bed です。too much sugar、before、going to bed は正しいです。",
+      "zh": "avoid 后面要接动名词（-ing），不能接不定式，所以 to eat 应改为 eating。正确的说法是 You should avoid eating too much sugar before going to bed。too much sugar、before 和 going to bed 都是正确的。",
+      "es": "«Avoid» va seguido de gerundio (-ing), no de infinitivo con to, así que «to eat» debe ser «eating». La forma correcta es «You should avoid eating too much sugar before going to bed». «Too much sugar», «before» y «going to bed» son correctos.",
+      "vi": "'Avoid' đi với danh động từ (-ing) chứ không đi với 'to + động từ', nên 'to eat' phải sửa thành 'eating'. Câu đúng là 'You should avoid eating too much sugar before going to bed'. 'Too much sugar', 'before' và 'going to bed' đều đúng."
+    }
+  },
+  {
+    "id": "grammar-L3-0021",
+    "category": "grammar",
+    "level": "L3",
+    "format": "form",
+    "question": "The keys could ___ in my other bag. Let me check.",
+    "choices": ["are", "been", "be", "being"],
+    "answerIndex": 2,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "가능성의 조동사 (might/may/could)", "en": "Modals of possibility (might/may/could)", "ja": "可能性を表す助動詞（might/may/could）", "zh": "表示可能性的情态动词（might/may/could）", "es": "Modales de posibilidad (might/may/could)", "vi": "Động từ khuyết thiếu chỉ khả năng (might/may/could)" },
+    "explanation": {
+      "ko": "could는 '~일 수도 있다'는 가능성을 나타내는 조동사이고, 조동사 뒤에는 항상 동사원형이 옵니다. 그래서 be가 정답이며, are, been, being은 조동사 바로 뒤에 올 수 없습니다.",
+      "en": "'Could' is a modal that shows possibility (maybe the keys are there), and a modal is always followed by the base form of a verb. So 'be' is correct; 'are', 'been' and 'being' cannot come directly after a modal.",
+      "ja": "could は「～かもしれない」という可能性を表す助動詞で、助動詞の後ろには必ず動詞の原形が来ます。そのため be が正解で、are、been、being は助動詞の直後には置けません。",
+      "zh": "could 是表示“可能……”的情态动词，情态动词后面总是接动词原形。所以 be 是正确答案，are、been 和 being 都不能直接放在情态动词后面。",
+      "es": "«Could» es un modal que indica posibilidad (quizás las llaves están ahí), y después de un modal siempre va el verbo en forma base. Por eso «be» es correcto; «are», «been» y «being» no pueden ir justo después de un modal.",
+      "vi": "'Could' là động từ khuyết thiếu chỉ khả năng (có thể chìa khóa ở đó), và sau động từ khuyết thiếu luôn là động từ nguyên mẫu. Vì vậy 'be' là đúng; 'are', 'been' và 'being' không thể đứng ngay sau động từ khuyết thiếu."
+    }
+  },
+  {
+    "id": "grammar-L3-0022",
+    "category": "grammar",
+    "level": "L3",
+    "format": "error",
+    "question": "Take an umbrella because it might rains this afternoon.",
+    "choices": ["Take", "an umbrella", "because it", "might rains"],
+    "answerIndex": 3,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "가능성의 조동사 (might/may/could)", "en": "Modals of possibility (might/may/could)", "ja": "可能性を表す助動詞（might/may/could）", "zh": "表示可能性的情态动词（might/may/could）", "es": "Modales de posibilidad (might/may/could)", "vi": "Động từ khuyết thiếu chỉ khả năng (might/may/could)" },
+    "explanation": {
+      "ko": "might(~할지도 모른다) 같은 조동사 뒤에는 주어가 3인칭 단수여도 동사원형을 씁니다. 따라서 might rains를 might rain으로 고쳐야 합니다. Take, an umbrella, because it은 올바릅니다.",
+      "en": "After a modal like 'might', we always use the base verb, even when the subject is 'it' or 'he'. So 'might rains' should be 'might rain'. 'Take', 'an umbrella' and 'because it' are correct.",
+      "ja": "might（～かもしれない）のような助動詞の後ろには、主語が三人称単数でも動詞の原形を使います。そのため might rains を might rain に直します。Take、an umbrella、because it は正しいです。",
+      "zh": "在 might（可能）这样的情态动词后面，即使主语是第三人称单数，也要用动词原形。所以 might rains 应改为 might rain。Take、an umbrella 和 because it 都是正确的。",
+      "es": "Después de un modal como «might», siempre se usa el verbo base, aunque el sujeto sea «it» o «he». Por eso «might rains» debe ser «might rain». «Take», «an umbrella» y «because it» son correctos.",
+      "vi": "Sau động từ khuyết thiếu như 'might', ta luôn dùng động từ nguyên mẫu, kể cả khi chủ ngữ là 'it' hay 'he'. Vì vậy 'might rains' phải sửa thành 'might rain'. 'Take', 'an umbrella' và 'because it' đều đúng."
+    }
+  },
+  {
+    "id": "grammar-L3-0023",
+    "category": "grammar",
+    "level": "L3",
+    "format": "form",
+    "question": "This soup is ___ hot to eat right now.",
+    "choices": ["enough", "too", "so", "such"],
+    "answerIndex": 1,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "too와 enough", "en": "too / enough", "ja": "too と enough", "zh": "too 与 enough", "es": "too y enough", "vi": "too và enough" },
+    "explanation": {
+      "ko": "'too + 형용사 + to 동사원형'은 '너무 ~해서 …할 수 없다'는 뜻입니다. 수프가 너무 뜨거워서 지금은 먹을 수 없다는 의미이므로 too가 정답입니다. enough는 형용사 뒤에 오고, so와 such는 to부정사가 아니라 that절과 함께 씁니다.",
+      "en": "'Too + adjective + to + verb' means something is more than we want, so we cannot do it. The soup is very hot, so we cannot eat it now, and 'too' is correct. 'Enough' comes after the adjective, and 'so' and 'such' are used with a that-clause, not with 'to + verb'.",
+      "ja": "「too＋形容詞＋to＋動詞の原形」は「…すぎて～できない」という意味です。スープが熱すぎて今は食べられないという意味なので too が正解です。enough は形容詞の後ろに置き、so と such は to不定詞ではなく that節と一緒に使います。",
+      "zh": "“too + 形容词 + to + 动词原形”表示“太……而不能……”。这里的意思是汤太烫，现在没法喝，所以 too 是正确答案。enough 要放在形容词后面，so 和 such 要和 that 从句连用，而不是和不定式连用。",
+      "es": "«Too + adjetivo + to + verbo» significa «demasiado … para …». La sopa está demasiado caliente para comerla ahora, así que «too» es correcto. «Enough» va después del adjetivo, y «so» y «such» se usan con una oración con «that», no con «to + verbo».",
+      "vi": "'Too + tính từ + to + động từ' nghĩa là 'quá … đến nỗi không thể …'. Món súp quá nóng nên bây giờ chưa ăn được, vì vậy 'too' là đúng. 'Enough' đứng sau tính từ, còn 'so' và 'such' đi với mệnh đề 'that' chứ không đi với 'to + động từ'."
+    }
+  },
+  {
+    "id": "grammar-L3-0024",
+    "category": "grammar",
+    "level": "L3",
+    "format": "form",
+    "question": "Leo isn't old ___ to get a driver's license.",
+    "choices": ["too", "much", "enough", "such"],
+    "answerIndex": 2,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "too와 enough", "en": "too / enough", "ja": "too と enough", "zh": "too 与 enough", "es": "too y enough", "vi": "too và enough" },
+    "explanation": {
+      "ko": "'형용사 + enough + to 동사원형'은 '~할 만큼 충분히 …하다'는 뜻이며, enough는 형용사 뒤에 옵니다. too는 형용사 앞에 와야 하고, much와 such는 old 뒤에 이렇게 쓸 수 없습니다.",
+      "en": "'Adjective + enough + to + verb' means 'as much as needed to do something', and 'enough' comes after the adjective. 'Too' must come before the adjective, and 'much' and 'such' cannot be used after 'old' like this.",
+      "ja": "「形容詞＋enough＋to＋動詞の原形」は「～するのに十分…だ」という意味で、enough は形容詞の後ろに置きます。too は形容詞の前に置く必要があり、much と such はこのように old の後ろには使えません。",
+      "zh": "“形容词 + enough + to + 动词原形”表示“足够……可以做某事”，enough 放在形容词后面。too 必须放在形容词前面，much 和 such 不能这样放在 old 后面。",
+      "es": "«Adjetivo + enough + to + verbo» significa «lo suficientemente … para …», y «enough» va después del adjetivo. «Too» tiene que ir antes del adjetivo, y «much» y «such» no se pueden usar así después de «old».",
+      "vi": "'Tính từ + enough + to + động từ' nghĩa là 'đủ … để làm gì', và 'enough' đứng sau tính từ. 'Too' phải đứng trước tính từ, còn 'much' và 'such' không thể dùng sau 'old' như vậy."
+    }
+  },
+  {
+    "id": "grammar-L3-0025",
+    "category": "grammar",
+    "level": "L3",
+    "format": "form",
+    "question": "It was ___ a lovely day that we had lunch in the garden.",
+    "choices": ["such", "so", "too", "very"],
+    "answerIndex": 0,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "so ... that / such ... that", "en": "so ... that / such ... that", "ja": "so ... that／such ... that", "zh": "so ... that / such ... that", "es": "so ... that / such ... that", "vi": "so ... that / such ... that" },
+    "explanation": {
+      "ko": "'such + a/an + 형용사 + 명사 + that'은 '너무 ~한 …라서'라는 뜻입니다. 빈칸 뒤에 a lovely day(관사 + 형용사 + 명사)가 있으므로 such가 정답입니다. so, too, very는 'a + 형용사 + 명사' 앞에 올 수 없습니다.",
+      "en": "'Such + a/an + adjective + noun + that' shows a result. The blank comes before 'a lovely day' (article + adjective + noun), so 'such' is correct. 'So', 'too' and 'very' cannot come before 'a + adjective + noun'.",
+      "ja": "「such＋a/an＋形容詞＋名詞＋that」は「とても～な…なので」という意味です。空欄の後に a lovely day（冠詞＋形容詞＋名詞）があるので such が正解です。so・too・very は「a＋形容詞＋名詞」の前には置けません。",
+      "zh": "“such + a/an + 形容词 + 名词 + that”表示“如此……以至于……”。空格后面是 a lovely day（冠词 + 形容词 + 名词），所以 such 是正确答案。so、too 和 very 都不能放在“a + 形容词 + 名词”前面。",
+      "es": "«Such + a/an + adjetivo + sustantivo + that» expresa un resultado («tan … que …»). Después del espacio viene «a lovely day» (artículo + adjetivo + sustantivo), así que «such» es correcto. «So», «too» y «very» no pueden ir antes de «a + adjetivo + sustantivo».",
+      "vi": "'Such + a/an + tính từ + danh từ + that' nghĩa là 'quá … đến nỗi …'. Sau chỗ trống là 'a lovely day' (mạo từ + tính từ + danh từ), nên 'such' là đúng. 'So', 'too' và 'very' không thể đứng trước 'a + tính từ + danh từ'."
+    }
+  },
+  {
+    "id": "grammar-L3-0026",
+    "category": "grammar",
+    "level": "L3",
+    "format": "form",
+    "question": "The movie was ___ boring that I fell asleep.",
+    "choices": ["such", "too", "enough", "so"],
+    "answerIndex": 3,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "so ... that / such ... that", "en": "so ... that / such ... that", "ja": "so ... that／such ... that", "zh": "so ... that / such ... that", "es": "so ... that / such ... that", "vi": "so ... that / such ... that" },
+    "explanation": {
+      "ko": "'so + 형용사 + that'은 '너무 ~해서 …하다'라는 뜻입니다. 빈칸 뒤에 명사 없이 형용사 boring만 있으므로 so가 정답입니다. such는 뒤에 명사가 필요하고, too와 enough는 that절과 함께 이렇게 쓰지 않습니다.",
+      "en": "'So + adjective + that' shows a result: the movie was very boring, and because of this I fell asleep. After the blank there is only the adjective 'boring' with no noun, so 'so' is correct. 'Such' needs a noun after it, and 'too' and 'enough' are not used with a that-clause like this.",
+      "ja": "「so＋形容詞＋that」は「とても～なので…」という意味です。空欄の後には名詞がなく形容詞の boring だけなので、so が正解です。such は後ろに名詞が必要で、too と enough はこのように that節と一緒には使いません。",
+      "zh": "“so + 形容词 + that”表示“太……以至于……”。空格后面只有形容词 boring，没有名词，所以 so 是正确答案。such 后面需要接名词，too 和 enough 不和 that 从句这样连用。",
+      "es": "«So + adjetivo + that» expresa un resultado: la película era muy aburrida y por eso me dormí. Después del espacio solo está el adjetivo «boring», sin sustantivo, así que «so» es correcto. «Such» necesita un sustantivo, y «too» y «enough» no se usan así con una oración con «that».",
+      "vi": "'So + tính từ + that' nghĩa là 'quá … đến nỗi …'. Sau chỗ trống chỉ có tính từ 'boring' mà không có danh từ, nên 'so' là đúng. 'Such' cần có danh từ phía sau, còn 'too' và 'enough' không dùng với mệnh đề 'that' như vậy."
+    }
+  },
+  {
+    "id": "grammar-L3-0027",
+    "category": "grammar",
+    "level": "L3",
+    "format": "form",
+    "question": "Mark ___ me that he was moving to Canada.",
+    "choices": ["said", "told", "spoke", "talked"],
+    "answerIndex": 1,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "간접화법 (say/tell)", "en": "Reported speech (say/tell)", "ja": "間接話法（say/tell）", "zh": "间接引语（say/tell）", "es": "Estilo indirecto (say/tell)", "vi": "Câu tường thuật (say/tell)" },
+    "explanation": {
+      "ko": "간접화법에서 듣는 사람(me)이 동사 바로 뒤에 오면 told를 씁니다(tell + 사람 + that). said는 'said that'이나 'said to me'처럼 쓰며 'said me'라고 하지 않고, spoke와 talked도 바로 뒤에 me를 둘 수 없습니다.",
+      "en": "In reported speech, when the listener ('me') comes right after the verb, we use 'told' (tell + person + that). 'Said' is used as 'said that' or 'said to me', not 'said me', and 'spoke' and 'talked' also cannot be followed directly by 'me'.",
+      "ja": "間接話法で、聞き手（me）が動詞のすぐ後に来るときは told を使います（tell＋人＋that）。said は said that や said to me の形で使い、said me とは言いません。spoke と talked も直後に me を置けません。",
+      "zh": "在间接引语中，如果听话人（me）紧跟在动词后面，要用 told（tell + 人 + that）。said 要说 said that 或 said to me，不能说 said me；spoke 和 talked 后面也不能直接接 me。",
+      "es": "En el estilo indirecto, cuando la persona que escucha («me») va justo después del verbo, se usa «told» (tell + persona + that). «Said» se usa como «said that» o «said to me», no «said me», y «spoke» y «talked» tampoco pueden ir seguidos directamente de «me».",
+      "vi": "Trong câu tường thuật, khi người nghe ('me') đứng ngay sau động từ, ta dùng 'told' (tell + người + that). 'Said' dùng theo dạng 'said that' hoặc 'said to me', không nói 'said me', còn 'spoke' và 'talked' cũng không thể có 'me' ngay phía sau."
+    }
+  },
+  {
+    "id": "grammar-L3-0028",
+    "category": "grammar",
+    "level": "L3",
+    "format": "form",
+    "question": "The teacher asked me where ___.",
+    "choices": ["did I live", "do I live", "I lived", "lived I"],
+    "answerIndex": 2,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "간접화법 (의문문)", "en": "Reported speech (questions)", "ja": "間接話法（疑問文）", "zh": "间接引语（疑问句）", "es": "Estilo indirecto (preguntas)", "vi": "Câu tường thuật (câu hỏi)" },
+    "explanation": {
+      "ko": "의문문을 간접화법으로 바꾸면 '의문사 + 주어 + 동사'의 평서문 어순이 되고, 시제도 보통 과거로 바뀝니다. 그래서 where I lived가 정답입니다. did I live와 do I live는 의문문 어순이라 틀리고, lived I는 동사가 주어 앞에 와서 틀립니다.",
+      "en": "When we report a question, we use statement word order (question word + subject + verb), and the tense usually moves back to the past. So 'where I lived' is correct. 'Did I live' and 'do I live' use question word order, and 'lived I' puts the verb before the subject.",
+      "ja": "疑問文を間接話法にするときは「疑問詞＋主語＋動詞」の平叙文の語順になり、時制も普通は過去にずれます。そのため where I lived が正解です。did I live と do I live は疑問文の語順なので誤りで、lived I は動詞が主語の前に来ているので誤りです。",
+      "zh": "把疑问句变成间接引语时，要用陈述句语序（疑问词 + 主语 + 谓语），时态通常也要变成过去时。所以 where I lived 是正确答案。did I live 和 do I live 是疑问句语序，lived I 把动词放在了主语前面，都不对。",
+      "es": "Al reportar una pregunta se usa el orden de una afirmación (palabra interrogativa + sujeto + verbo) y el tiempo verbal normalmente pasa al pasado. Por eso «where I lived» es correcto. «Did I live» y «do I live» usan el orden de pregunta, y «lived I» pone el verbo antes del sujeto.",
+      "vi": "Khi tường thuật câu hỏi, ta dùng trật tự của câu trần thuật (từ để hỏi + chủ ngữ + động từ) và thì thường lùi về quá khứ. Vì vậy 'where I lived' là đúng. 'Did I live' và 'do I live' dùng trật tự câu hỏi, còn 'lived I' đặt động từ trước chủ ngữ."
+    }
+  },
+  {
+    "id": "grammar-L3-0029",
+    "category": "grammar",
+    "level": "L3",
+    "format": "form",
+    "question": "You are a new student here, ___?",
+    "choices": ["aren't you", "don't you", "isn't it", "are you"],
+    "answerIndex": 0,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "부가의문문", "en": "Question tags", "ja": "付加疑問文", "zh": "反意疑问句", "es": "Preguntas coletilla (question tags)", "vi": "Câu hỏi đuôi" },
+    "explanation": {
+      "ko": "부가의문문은 앞 문장의 동사(are)와 주어(you)를 그대로 쓰고, 앞 문장이 긍정이면 부정으로 만듭니다. 그래서 aren't you가 정답입니다. don't you는 동사가 맞지 않고, isn't it은 주어가 맞지 않으며, are you는 부정이 아니라서 틀립니다.",
+      "en": "A question tag uses the same verb ('are') and subject ('you') as the sentence, and a positive sentence takes a negative tag. So 'aren't you' is correct. 'Don't you' has the wrong verb, 'isn't it' has the wrong subject, and 'are you' is not negative.",
+      "ja": "付加疑問文は、前の文の動詞（are）と主語（you）を使い、前の文が肯定なら否定の形にします。そのため aren't you が正解です。don't you は動詞が合わず、isn't it は主語が合わず、are you は否定ではないので誤りです。",
+      "zh": "反意疑问句要用和前句相同的动词（are）和主语（you），前句是肯定时，后面用否定。所以 aren't you 是正确答案。don't you 动词不对，isn't it 主语不对，are you 不是否定形式。",
+      "es": "Una pregunta coletilla usa el mismo verbo («are») y el mismo sujeto («you») que la oración, y si la oración es afirmativa, la coletilla es negativa. Por eso «aren't you» es correcto. «Don't you» tiene el verbo equivocado, «isn't it» tiene el sujeto equivocado y «are you» no es negativa.",
+      "vi": "Câu hỏi đuôi dùng cùng động từ ('are') và chủ ngữ ('you') với câu chính, và câu khẳng định thì đi với đuôi phủ định. Vì vậy 'aren't you' là đúng. 'Don't you' sai động từ, 'isn't it' sai chủ ngữ, còn 'are you' không phải dạng phủ định."
+    }
+  },
+  {
+    "id": "grammar-L3-0030",
+    "category": "grammar",
+    "level": "L3",
+    "format": "form",
+    "question": "She didn't go to work yesterday, ___?",
+    "choices": ["didn't she", "did she", "does she", "wasn't she"],
+    "answerIndex": 1,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "부가의문문", "en": "Question tags", "ja": "付加疑問文", "zh": "反意疑问句", "es": "Preguntas coletilla (question tags)", "vi": "Câu hỏi đuôi" },
+    "explanation": {
+      "ko": "앞 문장이 부정(didn't go)이면 부가의문문은 긍정으로 만들고, 과거 시제이므로 did를 씁니다. 그래서 did she가 정답입니다. didn't she는 부정이라 틀리고, does she는 현재 시제이며, wasn't she는 동사가 맞지 않고 부정이기도 합니다.",
+      "en": "When the sentence is negative ('didn't go'), the question tag is positive, and because it is past simple we use 'did'. So 'did she' is correct. 'Didn't she' is negative, 'does she' is present tense, and 'wasn't she' has the wrong verb and is also negative.",
+      "ja": "前の文が否定（didn't go）なら付加疑問は肯定にし、過去形なので did を使います。そのため did she が正解です。didn't she は否定なので誤り、does she は現在形で、wasn't she は動詞が合わず否定でもあります。",
+      "zh": "前句是否定（didn't go）时，反意疑问部分要用肯定，而且因为是一般过去时，要用 did。所以 did she 是正确答案。didn't she 是否定形式，does she 是现在时，wasn't she 动词不对，而且也是否定形式。",
+      "es": "Cuando la oración es negativa («didn't go»), la coletilla es afirmativa, y como está en pasado simple usamos «did». Por eso «did she» es correcto. «Didn't she» es negativa, «does she» está en presente y «wasn't she» tiene el verbo equivocado y además es negativa.",
+      "vi": "Khi câu chính ở dạng phủ định ('didn't go'), câu hỏi đuôi ở dạng khẳng định, và vì là quá khứ đơn nên ta dùng 'did'. Vì vậy 'did she' là đúng. 'Didn't she' là phủ định, 'does she' ở thì hiện tại, còn 'wasn't she' sai động từ và cũng là phủ định."
+    }
+  }
+]

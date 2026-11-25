@@ -1,0 +1,602 @@
+[
+  {
+    "id": "grammar-L2-0001",
+    "category": "grammar",
+    "level": "L2",
+    "format": "form",
+    "question": "My brother ___ the kitchen after dinner last night.",
+    "choices": ["cleans", "clean", "cleaned", "cleaning"],
+    "answerIndex": 2,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "과거형 (규칙 동사)", "en": "Past simple (regular verbs)", "ja": "過去形（規則動詞）", "zh": "一般过去时（规则动词）", "es": "Pasado simple (verbos regulares)", "vi": "Thì quá khứ đơn (động từ có quy tắc)" },
+    "explanation": {
+      "ko": "last night(어젯밤)가 있으므로 과거형을 써야 합니다. clean은 규칙 동사라서 -ed를 붙여 cleaned가 됩니다. cleans·clean은 현재형이고, cleaning은 be동사 없이 혼자 쓸 수 없습니다.",
+      "en": "'Last night' tells us to use the past tense. 'Clean' is a regular verb, so we add -ed to make 'cleaned'. 'Cleans' and 'clean' are present forms, and 'cleaning' needs a be verb.",
+      "ja": "last night（昨夜）があるので過去形を使います。clean は規則動詞なので -ed をつけて cleaned になります。cleans・clean は現在形で、cleaning は be動詞なしでは使えません。",
+      "zh": "句中有 last night（昨晚），所以要用过去时。clean 是规则动词，加 -ed 变成 cleaned。cleans 和 clean 是现在时，cleaning 需要和 be 动词一起用。",
+      "es": "«Last night» (anoche) indica que hay que usar el pasado. «Clean» es un verbo regular, así que se añade -ed: «cleaned». «Cleans» y «clean» son formas de presente, y «cleaning» necesita el verbo be.",
+      "vi": "Có 'last night' (tối qua) nên phải dùng thì quá khứ. 'Clean' là động từ có quy tắc nên thêm -ed thành 'cleaned'. 'Cleans' và 'clean' là hiện tại, còn 'cleaning' cần có động từ be đi kèm."
+    }
+  },
+  {
+    "id": "grammar-L2-0002",
+    "category": "grammar",
+    "level": "L2",
+    "format": "form",
+    "question": "Mia ___ her umbrella on the bus two days ago.",
+    "choices": ["left", "leaved", "leaves", "leaving"],
+    "answerIndex": 0,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "과거형 (불규칙 동사)", "en": "Past simple (irregular verbs)", "ja": "過去形（不規則動詞）", "zh": "一般过去时（不规则动词）", "es": "Pasado simple (verbos irregulares)", "vi": "Thì quá khứ đơn (động từ bất quy tắc)" },
+    "explanation": {
+      "ko": "two days ago(이틀 전)가 있으므로 과거형이 필요합니다. leave는 불규칙 동사라서 과거형이 left입니다. leaved라는 형태는 없고, leaves는 현재형, leaving은 be동사 없이 쓸 수 없습니다.",
+      "en": "'Two days ago' tells us to use the past tense. 'Leave' is an irregular verb, and its past form is 'left'. 'Leaved' is not a real word, 'leaves' is present, and 'leaving' needs a be verb.",
+      "ja": "two days ago（2日前）があるので過去形が必要です。leave は不規則動詞で、過去形は left です。leaved という形はなく、leaves は現在形、leaving は be動詞なしでは使えません。",
+      "zh": "句中有 two days ago（两天前），所以要用过去时。leave 是不规则动词，过去式是 left。没有 leaved 这种形式，leaves 是现在时，leaving 需要和 be 动词一起用。",
+      "es": "«Two days ago» (hace dos días) indica que hay que usar el pasado. «Leave» es un verbo irregular y su pasado es «left». «Leaved» no existe, «leaves» es presente y «leaving» necesita el verbo be.",
+      "vi": "Có 'two days ago' (hai ngày trước) nên cần thì quá khứ. 'Leave' là động từ bất quy tắc, dạng quá khứ là 'left'. Không có từ 'leaved', 'leaves' là hiện tại, còn 'leaving' cần động từ be."
+    }
+  },
+  {
+    "id": "grammar-L2-0003",
+    "category": "grammar",
+    "level": "L2",
+    "format": "form",
+    "question": "The children ___ very tired after the long trip yesterday.",
+    "choices": ["was", "is", "be", "were"],
+    "answerIndex": 3,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "be동사 과거형 (was/were)", "en": "Past of be (was/were)", "ja": "be動詞の過去形（was/were）", "zh": "be动词过去式（was/were）", "es": "Pasado de be (was/were)", "vi": "Quá khứ của động từ be (was/were)" },
+    "explanation": {
+      "ko": "yesterday가 있으므로 be동사의 과거형을 씁니다. 주어 The children(아이들)은 복수이므로 were가 정답입니다. was는 단수 주어에 쓰고, is는 현재형, be는 원형이라 틀립니다.",
+      "en": "'Yesterday' tells us to use the past of 'be'. 'The children' is plural, so the answer is 'were'. 'Was' is for singular subjects, 'is' is present, and 'be' is the base form.",
+      "ja": "yesterday があるので be動詞の過去形を使います。主語の The children（子どもたち）は複数なので were が正解です。was は単数の主語に使い、is は現在形、be は原形なので誤りです。",
+      "zh": "句中有 yesterday，所以要用 be 动词的过去式。主语 The children（孩子们）是复数，所以答案是 were。was 用于单数主语，is 是现在时，be 是原形，都不对。",
+      "es": "«Yesterday» indica que hay que usar el pasado de «be». «The children» (los niños) es plural, así que la respuesta es «were». «Was» es para sujetos en singular, «is» es presente y «be» es la forma base.",
+      "vi": "Có 'yesterday' nên dùng quá khứ của động từ be. 'The children' (những đứa trẻ) là số nhiều nên đáp án là 'were'. 'Was' dùng cho chủ ngữ số ít, 'is' là hiện tại, còn 'be' là dạng nguyên mẫu."
+    }
+  },
+  {
+    "id": "grammar-L2-0004",
+    "category": "grammar",
+    "level": "L2",
+    "format": "error",
+    "question": "We was at the beach all day, so we got very tired.",
+    "choices": ["We was", "at the beach", "all day", "so we got very tired"],
+    "answerIndex": 0,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "be동사 과거형 (was/were)", "en": "Past of be (was/were)", "ja": "be動詞の過去形（was/were）", "zh": "be动词过去式（was/were）", "es": "Pasado de be (was/were)", "vi": "Quá khứ của động từ be (was/were)" },
+    "explanation": {
+      "ko": "주어 We는 복수이므로 be동사 과거형은 was가 아니라 were를 써야 합니다. 올바른 문장은 'We were at the beach all day'입니다. at the beach, all day, so we got very tired는 모두 맞습니다.",
+      "en": "'We' is plural, so the past of 'be' must be 'were', not 'was'. The correct sentence is 'We were at the beach all day'. 'At the beach', 'all day' and 'so we got very tired' are all correct.",
+      "ja": "主語の We は複数なので、be動詞の過去形は was ではなく were を使います。正しい文は「We were at the beach all day」です。at the beach、all day、so we got very tired はすべて正しいです。",
+      "zh": "主语 We 是复数，所以 be 动词的过去式要用 were，而不是 was。正确的句子是 We were at the beach all day。at the beach、all day 和 so we got very tired 都是正确的。",
+      "es": "«We» es plural, así que el pasado de «be» debe ser «were», no «was». La oración correcta es «We were at the beach all day». «At the beach», «all day» y «so we got very tired» son correctos.",
+      "vi": "'We' là số nhiều nên quá khứ của động từ be phải là 'were', không phải 'was'. Câu đúng là 'We were at the beach all day'. 'At the beach', 'all day' và 'so we got very tired' đều đúng."
+    }
+  },
+  {
+    "id": "grammar-L2-0005",
+    "category": "grammar",
+    "level": "L2",
+    "format": "form",
+    "question": "___ you see the football match last night?",
+    "choices": ["Do", "Did", "Were", "Was"],
+    "answerIndex": 1,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "과거형 의문문·부정문 (did/didn't)", "en": "Past simple questions and negatives (did/didn't)", "ja": "過去形の疑問文・否定文（did/didn't）", "zh": "一般过去时的疑问句和否定句（did/didn't）", "es": "Pasado simple: preguntas y negativas (did/didn't)", "vi": "Câu hỏi và phủ định thì quá khứ đơn (did/didn't)" },
+    "explanation": {
+      "ko": "일반동사(see)의 과거 의문문은 'Did + 주어 + 동사원형' 형태입니다. last night가 있으므로 현재형 Do는 맞지 않습니다. Were·Was는 be동사라서 동사원형 see와 함께 쓸 수 없습니다.",
+      "en": "Past simple questions with normal verbs use 'Did + subject + base verb'. 'Last night' is in the past, so 'Do' is wrong. 'Were' and 'Was' are be verbs and cannot be used with the base verb 'see'.",
+      "ja": "一般動詞（see）の過去の疑問文は「Did＋主語＋動詞の原形」です。last night があるので現在形の Do は合いません。Were・Was は be動詞なので、原形の see と一緒には使えません。",
+      "zh": "实义动词（see）的一般过去时疑问句是“Did + 主语 + 动词原形”。句中有 last night，所以不能用现在时的 Do。Were 和 Was 是 be 动词，不能和动词原形 see 一起用。",
+      "es": "Las preguntas en pasado con verbos normales usan «Did + sujeto + verbo en forma base». «Last night» es pasado, así que «Do» es incorrecto. «Were» y «Was» son formas del verbo be y no se usan con la forma base «see».",
+      "vi": "Câu hỏi thì quá khứ đơn với động từ thường có dạng 'Did + chủ ngữ + động từ nguyên mẫu'. Có 'last night' nên 'Do' (hiện tại) là sai. 'Were' và 'Was' là động từ be, không dùng với động từ nguyên mẫu 'see'."
+    }
+  },
+  {
+    "id": "grammar-L2-0006",
+    "category": "grammar",
+    "level": "L2",
+    "format": "error",
+    "question": "Where did you went on holiday last year?",
+    "choices": ["Where", "did you", "went", "on holiday last year"],
+    "answerIndex": 2,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "과거형 의문문·부정문 (did/didn't)", "en": "Past simple questions and negatives (did/didn't)", "ja": "過去形の疑問文・否定文（did/didn't）", "zh": "一般过去时的疑问句和否定句（did/didn't）", "es": "Pasado simple: preguntas y negativas (did/didn't)", "vi": "Câu hỏi và phủ định thì quá khứ đơn (did/didn't)" },
+    "explanation": {
+      "ko": "did가 이미 과거를 나타내므로 뒤의 동사는 원형을 써야 합니다. 따라서 went가 아니라 go가 맞고, 올바른 문장은 'Where did you go on holiday last year?'입니다. Where, did you, on holiday last year는 모두 맞습니다.",
+      "en": "'Did' already shows the past, so the verb after it must be the base form. So it should be 'go', not 'went': 'Where did you go on holiday last year?' 'Where', 'did you' and 'on holiday last year' are all correct.",
+      "ja": "did がすでに過去を表しているので、後ろの動詞は原形にします。went ではなく go が正しく、正しい文は「Where did you go on holiday last year?」です。Where、did you、on holiday last year はすべて正しいです。",
+      "zh": "did 已经表示过去，所以后面的动词要用原形。应该用 go 而不是 went，正确的句子是 Where did you go on holiday last year? Where、did you 和 on holiday last year 都是正确的。",
+      "es": "«Did» ya indica pasado, así que el verbo que sigue debe ir en forma base. Debe ser «go», no «went»: «Where did you go on holiday last year?» «Where», «did you» y «on holiday last year» son correctos.",
+      "vi": "'Did' đã thể hiện quá khứ nên động từ phía sau phải ở dạng nguyên mẫu. Vì vậy phải là 'go' chứ không phải 'went': 'Where did you go on holiday last year?' 'Where', 'did you' và 'on holiday last year' đều đúng."
+    }
+  },
+  {
+    "id": "grammar-L2-0007",
+    "category": "grammar",
+    "level": "L2",
+    "format": "form",
+    "question": "At eight o'clock last night, I ___ dinner with my family.",
+    "choices": ["am having", "have", "was having", "were having"],
+    "answerIndex": 2,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "과거진행형", "en": "Past continuous", "ja": "過去進行形", "zh": "过去进行时", "es": "Pasado continuo", "vi": "Thì quá khứ tiếp diễn" },
+    "explanation": {
+      "ko": "과거의 특정 시점(어젯밤 8시)에 하고 있던 일은 과거진행형 'was/were + -ing'로 씁니다. 주어가 I이므로 was having이 정답입니다. am having·have는 현재형이고, were는 I와 함께 쓰지 않습니다.",
+      "en": "For an action in progress at a certain time in the past (eight o'clock last night), we use the past continuous 'was/were + -ing'. The subject is 'I', so the answer is 'was having'. 'Am having' and 'have' are present forms, and 'were' does not go with 'I'.",
+      "ja": "過去のある時点（昨夜8時）にしていたことは、過去進行形「was/were＋-ing」で表します。主語が I なので was having が正解です。am having・have は現在形で、were は I とは使いません。",
+      "zh": "表示过去某个时间点（昨晚八点）正在做的事，要用过去进行时“was/were + -ing”。主语是 I，所以答案是 was having。am having 和 have 是现在时，were 不和 I 搭配。",
+      "es": "Para una acción en progreso en un momento concreto del pasado (las ocho de anoche) se usa el pasado continuo «was/were + -ing». El sujeto es «I», así que la respuesta es «was having». «Am having» y «have» son presente, y «were» no va con «I».",
+      "vi": "Để nói hành động đang xảy ra tại một thời điểm trong quá khứ (8 giờ tối qua), ta dùng thì quá khứ tiếp diễn 'was/were + -ing'. Chủ ngữ là 'I' nên đáp án là 'was having'. 'Am having' và 'have' là hiện tại, còn 'were' không đi với 'I'."
+    }
+  },
+  {
+    "id": "grammar-L2-0008",
+    "category": "grammar",
+    "level": "L2",
+    "format": "form",
+    "question": "While Anna ___ in the park, it started to rain.",
+    "choices": ["walks", "was walking", "is walking", "were walking"],
+    "answerIndex": 1,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "과거진행형", "en": "Past continuous", "ja": "過去進行形", "zh": "过去进行时", "es": "Pasado continuo", "vi": "Thì quá khứ tiếp diễn" },
+    "explanation": {
+      "ko": "과거에 진행 중이던 일(공원을 걷던 중)에 다른 일(비가 오기 시작함)이 일어날 때, 진행 중이던 일은 과거진행형으로 씁니다. Anna는 단수이므로 was walking이 정답입니다. walks·is walking은 현재형이고, were는 복수 주어에 씁니다.",
+      "en": "When one action (it started to rain) happens during a longer past action (walking in the park), we use the past continuous for the longer action. 'Anna' is singular, so the answer is 'was walking'. 'Walks' and 'is walking' are present forms, and 'were' is for plural subjects.",
+      "ja": "過去に進行中だったこと（公園を歩いていた）の途中で別のこと（雨が降り始めた）が起きたとき、進行中のことは過去進行形で表します。Anna は単数なので was walking が正解です。walks・is walking は現在形で、were は複数の主語に使います。",
+      "zh": "过去正在进行的动作（在公园散步）中发生了另一件事（开始下雨）时，正在进行的动作用过去进行时。Anna 是单数，所以答案是 was walking。walks 和 is walking 是现在时，were 用于复数主语。",
+      "es": "Cuando una acción (empezó a llover) ocurre durante otra acción más larga del pasado (caminar por el parque), la acción larga va en pasado continuo. «Anna» es singular, así que la respuesta es «was walking». «Walks» e «is walking» son presente, y «were» es para sujetos en plural.",
+      "vi": "Khi một việc (trời bắt đầu mưa) xảy ra trong lúc một việc khác đang diễn ra trong quá khứ (đi dạo trong công viên), việc đang diễn ra dùng thì quá khứ tiếp diễn. 'Anna' là số ít nên đáp án là 'was walking'. 'Walks' và 'is walking' là hiện tại, còn 'were' dùng cho chủ ngữ số nhiều."
+    }
+  },
+  {
+    "id": "grammar-L2-0009",
+    "category": "grammar",
+    "level": "L2",
+    "format": "form",
+    "question": "I think it ___ tomorrow, so take an umbrella.",
+    "choices": ["rains", "rained", "raining", "will rain"],
+    "answerIndex": 3,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "미래 표현 will", "en": "Future with will", "ja": "未来を表す will", "zh": "用 will 表示将来", "es": "Futuro con will", "vi": "Thì tương lai với will" },
+    "explanation": {
+      "ko": "I think와 함께 미래(tomorrow)에 대한 예측을 말할 때는 'will + 동사원형'을 씁니다. rains는 현재형, rained는 과거형이라 tomorrow와 맞지 않고, raining은 be동사 없이 쓸 수 없습니다.",
+      "en": "To make a prediction about the future ('tomorrow') with 'I think', we use 'will + base verb'. 'Rains' is present and 'rained' is past, so they don't match 'tomorrow'. 'Raining' needs a be verb.",
+      "ja": "I think と一緒に未来（tomorrow）について予想するときは「will＋動詞の原形」を使います。rains は現在形、rained は過去形なので tomorrow と合わず、raining は be動詞なしでは使えません。",
+      "zh": "用 I think 预测将来（tomorrow）的事时，要用“will + 动词原形”。rains 是现在时，rained 是过去时，都和 tomorrow 不搭配；raining 需要和 be 动词一起用。",
+      "es": "Para hacer una predicción sobre el futuro («tomorrow») con «I think», se usa «will + verbo en forma base». «Rains» es presente y «rained» es pasado, así que no van con «tomorrow». «Raining» necesita el verbo be.",
+      "vi": "Khi dự đoán về tương lai ('tomorrow') với 'I think', ta dùng 'will + động từ nguyên mẫu'. 'Rains' là hiện tại và 'rained' là quá khứ nên không hợp với 'tomorrow'. 'Raining' cần có động từ be."
+    }
+  },
+  {
+    "id": "grammar-L2-0010",
+    "category": "grammar",
+    "level": "L2",
+    "format": "form",
+    "question": "Look at those dark clouds! It ___ rain soon.",
+    "choices": ["is going to", "goes to", "going to", "is go to"],
+    "answerIndex": 0,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "be going to (미래)", "en": "be going to (future)", "ja": "be going to（未来）", "zh": "be going to（将来）", "es": "be going to (futuro)", "vi": "be going to (tương lai)" },
+    "explanation": {
+      "ko": "지금 보이는 증거(검은 구름)를 보고 곧 일어날 일을 말할 때 'be going to + 동사원형'을 씁니다. 주어가 It이므로 is going to가 정답입니다. goes to·going to·is go to는 모두 올바른 형태가 아닙니다.",
+      "en": "When we can see evidence now (dark clouds) that something will happen, we use 'be going to + base verb'. The subject is 'It', so the answer is 'is going to'. 'Goes to', 'going to' and 'is go to' are not correct forms.",
+      "ja": "今見えている証拠（黒い雲）から、これから起こることを言うときは「be going to＋動詞の原形」を使います。主語が It なので is going to が正解です。goes to・going to・is go to はどれも正しい形ではありません。",
+      "zh": "根据现在看到的迹象（乌云）说马上会发生的事，要用“be going to + 动词原形”。主语是 It，所以答案是 is going to。goes to、going to 和 is go to 都不是正确的形式。",
+      "es": "Cuando vemos una señal ahora (nubes oscuras) de que algo va a pasar, usamos «be going to + verbo en forma base». El sujeto es «It», así que la respuesta es «is going to». «Goes to», «going to» e «is go to» no son formas correctas.",
+      "vi": "Khi thấy dấu hiệu ở hiện tại (mây đen) cho biết điều gì sắp xảy ra, ta dùng 'be going to + động từ nguyên mẫu'. Chủ ngữ là 'It' nên đáp án là 'is going to'. 'Goes to', 'going to' và 'is go to' đều không phải dạng đúng."
+    }
+  },
+  {
+    "id": "grammar-L2-0011",
+    "category": "grammar",
+    "level": "L2",
+    "format": "form",
+    "question": "My new laptop is ___ than my old one.",
+    "choices": ["lighter", "more light", "lightest", "more lighter"],
+    "answerIndex": 0,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "비교급", "en": "Comparatives", "ja": "比較級", "zh": "比较级", "es": "Comparativos", "vi": "So sánh hơn" },
+    "explanation": {
+      "ko": "than(~보다)이 있으므로 비교급을 씁니다. light처럼 짧은 형용사는 -er을 붙여 lighter가 됩니다. more light는 짧은 형용사에 맞지 않고, lightest는 최상급이며, more lighter는 비교를 두 번 해서 틀립니다.",
+      "en": "'Than' tells us to use a comparative. Short adjectives like 'light' add -er, so it becomes 'lighter'. 'More light' is wrong for a short adjective, 'lightest' is a superlative, and 'more lighter' uses two comparatives together.",
+      "ja": "than（〜より）があるので比較級を使います。light のような短い形容詞は -er をつけて lighter になります。more light は短い形容詞には使わず、lightest は最上級、more lighter は比較を二重にしているので誤りです。",
+      "zh": "句中有 than（比），所以要用比较级。light 这样的短形容词加 -er，变成 lighter。more light 不适用于短形容词，lightest 是最高级，more lighter 重复使用了比较级，所以都不对。",
+      "es": "«Than» (que) indica que hay que usar un comparativo. Los adjetivos cortos como «light» añaden -er, así que queda «lighter». «More light» no se usa con adjetivos cortos, «lightest» es superlativo y «more lighter» usa dos comparativos a la vez.",
+      "vi": "Có 'than' (hơn) nên dùng so sánh hơn. Tính từ ngắn như 'light' thêm -er thành 'lighter'. 'More light' sai với tính từ ngắn, 'lightest' là so sánh nhất, còn 'more lighter' dùng hai lần so sánh."
+    }
+  },
+  {
+    "id": "grammar-L2-0012",
+    "category": "grammar",
+    "level": "L2",
+    "format": "error",
+    "question": "My brother is two years older than me, but he is more shorter.",
+    "choices": ["My brother is", "two years older than me", "but he is", "more shorter"],
+    "answerIndex": 3,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "비교급", "en": "Comparatives", "ja": "比較級", "zh": "比较级", "es": "Comparativos", "vi": "So sánh hơn" },
+    "explanation": {
+      "ko": "short는 짧은 형용사이므로 비교급은 -er을 붙인 shorter입니다. more와 -er을 함께 쓰면 안 되므로 more shorter를 shorter로 고쳐야 합니다. 올바른 문장은 '..., but he is shorter.'이고, 나머지 부분은 모두 맞습니다.",
+      "en": "'Short' is a short adjective, so its comparative is 'shorter'. We never use 'more' and -er together, so 'more shorter' should be 'shorter': '..., but he is shorter.' The other parts are all correct.",
+      "ja": "short は短い形容詞なので、比較級は -er をつけた shorter です。more と -er を一緒に使うことはできないので、more shorter を shorter に直します。正しい文は「..., but he is shorter.」で、ほかの部分はすべて正しいです。",
+      "zh": "short 是短形容词，比较级是加 -er 的 shorter。more 和 -er 不能同时使用，所以 more shorter 要改成 shorter。正确的句子是“..., but he is shorter.”，其他部分都是正确的。",
+      "es": "«Short» es un adjetivo corto, así que su comparativo es «shorter». Nunca se usan «more» y -er juntos, así que «more shorter» debe ser «shorter»: «..., but he is shorter.» Las demás partes son correctas.",
+      "vi": "'Short' là tính từ ngắn nên dạng so sánh hơn là 'shorter'. Không bao giờ dùng 'more' cùng với -er, nên 'more shorter' phải sửa thành 'shorter': '..., but he is shorter.' Các phần còn lại đều đúng."
+    }
+  },
+  {
+    "id": "grammar-L2-0013",
+    "category": "grammar",
+    "level": "L2",
+    "format": "form",
+    "question": "Mount Everest is the ___ mountain in the world.",
+    "choices": ["higher", "highest", "most high", "high"],
+    "answerIndex": 1,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "최상급", "en": "Superlatives", "ja": "最上級", "zh": "最高级", "es": "Superlativos", "vi": "So sánh nhất" },
+    "explanation": {
+      "ko": "'the ... in the world(세계에서 가장 ~한)'는 최상급 표현입니다. high는 짧은 형용사라서 최상급은 -est를 붙인 highest입니다. higher는 비교급, most high는 짧은 형용사에 맞지 않는 형태, high는 원급이라 틀립니다.",
+      "en": "'The ... in the world' needs a superlative. 'High' is a short adjective, so its superlative is 'highest'. 'Higher' is a comparative, 'most high' is wrong for a short adjective, and 'high' is the basic form.",
+      "ja": "「the ... in the world（世界で一番〜）」は最上級の表現です。high は短い形容詞なので、最上級は -est をつけた highest です。higher は比較級、most high は短い形容詞には使わない形、high は原級なので誤りです。",
+      "zh": "“the ... in the world（世界上最……的）”需要用最高级。high 是短形容词，最高级是加 -est 的 highest。higher 是比较级，most high 不适用于短形容词，high 是原级，都不对。",
+      "es": "«The ... in the world» (el más ... del mundo) necesita un superlativo. «High» es un adjetivo corto, así que su superlativo es «highest». «Higher» es comparativo, «most high» no se usa con adjetivos cortos y «high» es la forma básica.",
+      "vi": "'The ... in the world' (... nhất thế giới) cần dùng so sánh nhất. 'High' là tính từ ngắn nên dạng so sánh nhất là 'highest'. 'Higher' là so sánh hơn, 'most high' sai với tính từ ngắn, còn 'high' là dạng nguyên."
+    }
+  },
+  {
+    "id": "grammar-L2-0014",
+    "category": "grammar",
+    "level": "L2",
+    "format": "form",
+    "question": "My sister is not as tall ___ me.",
+    "choices": ["than", "like", "as", "that"],
+    "answerIndex": 2,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "원급 비교 (not) as ... as", "en": "(not) as ... as", "ja": "同等比較（not）as ... as", "zh": "同级比较 (not) as ... as", "es": "Comparación de igualdad (not) as ... as", "vi": "So sánh bằng (not) as ... as" },
+    "explanation": {
+      "ko": "'(not) as + 형용사 + as' 형태로 두 대상을 비교합니다. 앞에 as tall이 있으므로 뒤에도 as가 와야 합니다. than은 비교급(taller than)과 함께 쓰고, like와 that은 이 형태에 쓰지 않습니다.",
+      "en": "We compare two things with '(not) as + adjective + as'. There is 'as tall' before the blank, so we need 'as' after it too. 'Than' goes with comparatives like 'taller than', and 'like' and 'that' are not used in this pattern.",
+      "ja": "「(not) as＋形容詞＋as」の形で二つのものを比べます。前に as tall があるので、後ろにも as が必要です。than は比較級（taller than）と使い、like と that はこの形では使いません。",
+      "zh": "用“(not) as + 形容词 + as”比较两个人或事物。前面有 as tall，所以后面也要用 as。than 要和比较级一起用（如 taller than），like 和 that 不用于这个句型。",
+      "es": "Comparamos dos cosas con «(not) as + adjetivo + as». Antes del espacio está «as tall», así que después también va «as». «Than» va con comparativos como «taller than», y «like» y «that» no se usan en esta estructura.",
+      "vi": "Ta so sánh hai đối tượng bằng cấu trúc '(not) as + tính từ + as'. Trước chỗ trống có 'as tall' nên phía sau cũng cần 'as'. 'Than' đi với so sánh hơn như 'taller than', còn 'like' và 'that' không dùng trong cấu trúc này."
+    }
+  },
+  {
+    "id": "grammar-L2-0015",
+    "category": "grammar",
+    "level": "L2",
+    "format": "form",
+    "question": "How ___ water do you drink every day?",
+    "choices": ["many", "much", "a lot of", "few"],
+    "answerIndex": 1,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "much / many / a lot of", "en": "much / many / a lot of", "ja": "much / many / a lot of", "zh": "much / many / a lot of", "es": "much / many / a lot of", "vi": "much / many / a lot of" },
+    "explanation": {
+      "ko": "water(물)는 셀 수 없는 명사이므로 양을 물을 때 How much를 씁니다. How many는 셀 수 있는 명사의 복수형과 쓰고, few도 셀 수 있는 명사에 씁니다. How a lot of라는 표현은 없습니다.",
+      "en": "'Water' is uncountable, so we ask about the amount with 'How much'. 'How many' and 'few' are used with plural countable nouns. 'How a lot of' is not a correct expression.",
+      "ja": "water（水）は数えられない名詞なので、量をたずねるときは How much を使います。How many と few は数えられる名詞の複数形と使います。How a lot of という表現はありません。",
+      "zh": "water（水）是不可数名词，问数量时用 How much。How many 和 few 要和可数名词复数一起用。没有 How a lot of 这种说法。",
+      "es": "«Water» (agua) es incontable, así que preguntamos por la cantidad con «How much». «How many» y «few» se usan con sustantivos contables en plural. «How a lot of» no es una expresión correcta.",
+      "vi": "'Water' (nước) là danh từ không đếm được nên ta hỏi số lượng bằng 'How much'. 'How many' và 'few' dùng với danh từ đếm được số nhiều. Không có cách nói 'How a lot of'."
+    }
+  },
+  {
+    "id": "grammar-L2-0016",
+    "category": "grammar",
+    "level": "L2",
+    "format": "form",
+    "question": "There isn't ___ milk in the fridge, so I'll buy some.",
+    "choices": ["many", "some", "any", "a"],
+    "answerIndex": 2,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "some / any", "en": "some / any", "ja": "some / any", "zh": "some / any", "es": "some / any", "vi": "some / any" },
+    "explanation": {
+      "ko": "부정문(isn't)에서는 보통 some 대신 any를 씁니다. milk(우유)는 셀 수 없는 명사라서 many나 a와 함께 쓸 수 없습니다. 따라서 any가 정답입니다.",
+      "en": "In negative sentences like 'There isn't', we usually use 'any', not 'some'. 'Milk' is uncountable, so we cannot use 'many' or 'a' with it. So the answer is 'any'.",
+      "ja": "否定文（isn't）では、ふつう some ではなく any を使います。milk（牛乳）は数えられない名詞なので、many や a とは使えません。したがって any が正解です。",
+      "zh": "在否定句（isn't）中，通常用 any 而不用 some。milk（牛奶）是不可数名词，不能和 many 或 a 一起用。所以答案是 any。",
+      "es": "En oraciones negativas como «There isn't» normalmente se usa «any», no «some». «Milk» (leche) es incontable, así que no se puede usar con «many» ni con «a». Por eso la respuesta es «any».",
+      "vi": "Trong câu phủ định như 'There isn't', ta thường dùng 'any' chứ không dùng 'some'. 'Milk' (sữa) là danh từ không đếm được nên không dùng với 'many' hay 'a'. Vì vậy đáp án là 'any'."
+    }
+  },
+  {
+    "id": "grammar-L2-0017",
+    "category": "grammar",
+    "level": "L2",
+    "format": "error",
+    "question": "Could you give me some informations?",
+    "choices": ["Could you", "give me", "some", "informations"],
+    "answerIndex": 3,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "셀 수 있는 명사·셀 수 없는 명사", "en": "Countable and uncountable nouns", "ja": "可算名詞・不可算名詞", "zh": "可数名词与不可数名词", "es": "Sustantivos contables e incontables", "vi": "Danh từ đếm được và không đếm được" },
+    "explanation": {
+      "ko": "information(정보)은 셀 수 없는 명사이므로 -s를 붙여 복수형으로 만들 수 없습니다. informations를 information으로 고쳐 'Could you give me some information?'이라고 해야 합니다. Could you, give me, some은 모두 맞습니다.",
+      "en": "'Information' is an uncountable noun, so it has no plural -s. We should change 'informations' to 'information': 'Could you give me some information?' 'Could you', 'give me' and 'some' are all correct.",
+      "ja": "information（情報）は数えられない名詞なので、-s をつけて複数形にすることはできません。informations を information に直して「Could you give me some information?」とします。Could you、give me、some はすべて正しいです。",
+      "zh": "information（信息）是不可数名词，不能加 -s 变成复数。应把 informations 改为 information，即 Could you give me some information? Could you、give me 和 some 都是正确的。",
+      "es": "«Information» (información) es un sustantivo incontable, así que no tiene plural con -s. Hay que cambiar «informations» por «information»: «Could you give me some information?» «Could you», «give me» y «some» son correctos.",
+      "vi": "'Information' (thông tin) là danh từ không đếm được nên không thêm -s để thành số nhiều. Phải sửa 'informations' thành 'information': 'Could you give me some information?' 'Could you', 'give me' và 'some' đều đúng."
+    }
+  },
+  {
+    "id": "grammar-L2-0018",
+    "category": "grammar",
+    "level": "L2",
+    "format": "form",
+    "question": "You have too ___ luggage. It won't fit in the car.",
+    "choices": ["many", "few", "a", "much"],
+    "answerIndex": 3,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "셀 수 있는 명사·셀 수 없는 명사", "en": "Countable and uncountable nouns", "ja": "可算名詞・不可算名詞", "zh": "可数名词与不可数名词", "es": "Sustantivos contables e incontables", "vi": "Danh từ đếm được và không đếm được" },
+    "explanation": {
+      "ko": "luggage(짐)는 셀 수 없는 명사이므로 too much luggage라고 합니다. many와 few는 셀 수 있는 명사의 복수형과 쓰고, a는 셀 수 있는 단수 명사 앞에만 씁니다. 그래서 much가 정답입니다.",
+      "en": "'Luggage' is uncountable, so we say 'too much luggage'. 'Many' and 'few' go with plural countable nouns, and 'a' is only used before a singular countable noun. So the answer is 'much'.",
+      "ja": "luggage（荷物）は数えられない名詞なので、too much luggage と言います。many と few は数えられる名詞の複数形と使い、a は数えられる単数名詞の前だけに使います。したがって much が正解です。",
+      "zh": "luggage（行李）是不可数名词，所以说 too much luggage。many 和 few 要和可数名词复数一起用，a 只用在可数名词单数前。所以答案是 much。",
+      "es": "«Luggage» (equipaje) es incontable, así que se dice «too much luggage». «Many» y «few» van con sustantivos contables en plural, y «a» solo se usa delante de un sustantivo contable en singular. Por eso la respuesta es «much».",
+      "vi": "'Luggage' (hành lý) là danh từ không đếm được nên ta nói 'too much luggage'. 'Many' và 'few' đi với danh từ đếm được số nhiều, còn 'a' chỉ dùng trước danh từ đếm được số ít. Vì vậy đáp án là 'much'."
+    }
+  },
+  {
+    "id": "grammar-L2-0019",
+    "category": "grammar",
+    "level": "L2",
+    "format": "form",
+    "question": "Ben ___ late for school. His teacher is not happy about it.",
+    "choices": ["always is", "is always", "always are", "are always"],
+    "answerIndex": 1,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "빈도부사의 위치", "en": "Adverbs of frequency (position)", "ja": "頻度副詞の位置", "zh": "频度副词的位置", "es": "Posición de los adverbios de frecuencia", "vi": "Vị trí của trạng từ chỉ tần suất" },
+    "explanation": {
+      "ko": "always 같은 빈도부사는 be동사 뒤, 일반동사 앞에 옵니다. 주어 Ben은 3인칭 단수이므로 is를 쓰고, 그 뒤에 always를 두어 is always가 됩니다. always is는 위치가 틀리고, are는 Ben과 맞지 않습니다.",
+      "en": "Adverbs of frequency like 'always' go after the be verb but before other verbs. 'Ben' is third person singular, so we use 'is' and put 'always' after it: 'is always'. 'Always is' has the wrong word order, and 'are' does not go with 'Ben'.",
+      "ja": "always のような頻度副詞は be動詞の後ろ、一般動詞の前に置きます。主語の Ben は三人称単数なので is を使い、その後ろに always を置いて is always になります。always is は語順が誤りで、are は Ben に合いません。",
+      "zh": "always 等频度副词放在 be 动词之后、实义动词之前。主语 Ben 是第三人称单数，所以用 is，并把 always 放在后面，即 is always。always is 语序错误，are 和 Ben 不搭配。",
+      "es": "Los adverbios de frecuencia como «always» van después del verbo be, pero antes de los demás verbos. «Ben» es tercera persona del singular, así que usamos «is» y ponemos «always» después: «is always». «Always is» tiene el orden incorrecto, y «are» no va con «Ben».",
+      "vi": "Trạng từ chỉ tần suất như 'always' đứng sau động từ be nhưng đứng trước động từ thường. 'Ben' là ngôi thứ ba số ít nên dùng 'is' và đặt 'always' phía sau: 'is always'. 'Always is' sai trật tự từ, còn 'are' không đi với 'Ben'."
+    }
+  },
+  {
+    "id": "grammar-L2-0020",
+    "category": "grammar",
+    "level": "L2",
+    "format": "error",
+    "question": "My father drinks never coffee in the evening.",
+    "choices": ["My father", "drinks never", "coffee", "in the evening"],
+    "answerIndex": 1,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "빈도부사의 위치", "en": "Adverbs of frequency (position)", "ja": "頻度副詞の位置", "zh": "频度副词的位置", "es": "Posición de los adverbios de frecuencia", "vi": "Vị trí của trạng từ chỉ tần suất" },
+    "explanation": {
+      "ko": "never 같은 빈도부사는 일반동사 앞에 와야 합니다. 따라서 drinks never를 never drinks로 고쳐 'My father never drinks coffee in the evening.'이라고 해야 합니다. My father, coffee, in the evening은 모두 맞습니다.",
+      "en": "Adverbs of frequency like 'never' go before a normal verb. So 'drinks never' should be 'never drinks': 'My father never drinks coffee in the evening.' 'My father', 'coffee' and 'in the evening' are all correct.",
+      "ja": "never のような頻度副詞は一般動詞の前に置きます。drinks never を never drinks に直して「My father never drinks coffee in the evening.」とします。My father、coffee、in the evening はすべて正しいです。",
+      "zh": "never 等频度副词要放在实义动词前面。所以 drinks never 应改为 never drinks，即 My father never drinks coffee in the evening. My father、coffee 和 in the evening 都是正确的。",
+      "es": "Los adverbios de frecuencia como «never» van antes de un verbo normal. Por eso «drinks never» debe ser «never drinks»: «My father never drinks coffee in the evening.» «My father», «coffee» e «in the evening» son correctos.",
+      "vi": "Trạng từ chỉ tần suất như 'never' đứng trước động từ thường. Vì vậy 'drinks never' phải sửa thành 'never drinks': 'My father never drinks coffee in the evening.' 'My father', 'coffee' và 'in the evening' đều đúng."
+    }
+  },
+  {
+    "id": "grammar-L2-0021",
+    "category": "grammar",
+    "level": "L2",
+    "format": "form",
+    "question": "At her school, Yuna ___ wear a uniform every day.",
+    "choices": ["have to", "must to", "has to", "having to"],
+    "answerIndex": 2,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "have to (의무)", "en": "have to (obligation)", "ja": "have to（義務）", "zh": "have to（必须）", "es": "have to (obligación)", "vi": "have to (sự bắt buộc)" },
+    "explanation": {
+      "ko": "'~해야 한다'는 의무는 'have to + 동사원형'으로 나타냅니다. 주어 Yuna는 3인칭 단수이므로 has to가 정답입니다. have to는 주어와 맞지 않고, must 뒤에는 to를 쓰지 않으며, having to는 이 자리에 쓸 수 없습니다.",
+      "en": "We show an obligation with 'have to + base verb'. 'Yuna' is third person singular, so the answer is 'has to'. 'Have to' does not match the subject, 'must' is never followed by 'to', and 'having to' cannot be used here.",
+      "ja": "「〜しなければならない」という義務は「have to＋動詞の原形」で表します。主語の Yuna は三人称単数なので has to が正解です。have to は主語に合わず、must の後ろに to はつけず、having to はここでは使えません。",
+      "zh": "“必须做……”的义务用“have to + 动词原形”表示。主语 Yuna 是第三人称单数，所以答案是 has to。have to 与主语不一致，must 后面不能加 to，having to 不能用在这里。",
+      "es": "La obligación se expresa con «have to + verbo en forma base». «Yuna» es tercera persona del singular, así que la respuesta es «has to». «Have to» no concuerda con el sujeto, después de «must» nunca va «to», y «having to» no se puede usar aquí.",
+      "vi": "Ta diễn tả sự bắt buộc bằng 'have to + động từ nguyên mẫu'. 'Yuna' là ngôi thứ ba số ít nên đáp án là 'has to'. 'Have to' không hợp với chủ ngữ, sau 'must' không bao giờ có 'to', còn 'having to' không dùng ở đây được."
+    }
+  },
+  {
+    "id": "grammar-L2-0022",
+    "category": "grammar",
+    "level": "L2",
+    "format": "error",
+    "question": "We must to finish this report before Friday.",
+    "choices": ["We must to", "finish", "this report", "before Friday"],
+    "answerIndex": 0,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "조동사 must + 동사원형", "en": "must + base verb", "ja": "助動詞 must＋動詞の原形", "zh": "情态动词 must + 动词原形", "es": "must + verbo en forma base", "vi": "must + động từ nguyên mẫu" },
+    "explanation": {
+      "ko": "must, should 같은 조동사 뒤에는 to 없이 바로 동사원형이 옵니다. 따라서 must to를 must로 고쳐 'We must finish this report before Friday.'라고 해야 합니다. finish, this report, before Friday는 모두 맞습니다.",
+      "en": "After modal verbs like 'must' and 'should', we use the base verb without 'to'. So 'must to' should be 'must': 'We must finish this report before Friday.' 'Finish', 'this report' and 'before Friday' are all correct.",
+      "ja": "must や should などの助動詞の後ろには、to をつけずに動詞の原形を置きます。must to を must に直して「We must finish this report before Friday.」とします。finish、this report、before Friday はすべて正しいです。",
+      "zh": "must、should 等情态动词后面直接接动词原形，不加 to。所以 must to 应改为 must，即 We must finish this report before Friday. finish、this report 和 before Friday 都是正确的。",
+      "es": "Después de verbos modales como «must» y «should», se usa el verbo en forma base sin «to». Por eso «must to» debe ser «must»: «We must finish this report before Friday.» «Finish», «this report» y «before Friday» son correctos.",
+      "vi": "Sau động từ khuyết thiếu như 'must' và 'should', ta dùng động từ nguyên mẫu không có 'to'. Vì vậy 'must to' phải sửa thành 'must': 'We must finish this report before Friday.' 'Finish', 'this report' và 'before Friday' đều đúng."
+    }
+  },
+  {
+    "id": "grammar-L2-0023",
+    "category": "grammar",
+    "level": "L2",
+    "format": "form",
+    "question": "I want ___ a doctor when I grow up.",
+    "choices": ["be", "to be", "being", "been"],
+    "answerIndex": 1,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "want + to부정사", "en": "want + to-infinitive", "ja": "want＋to不定詞", "zh": "want + 动词不定式 (to do)", "es": "want + infinitivo con to", "vi": "want + to + động từ nguyên mẫu" },
+    "explanation": {
+      "ko": "want 뒤에는 'to + 동사원형'(to부정사)이 옵니다. 그래서 want to be가 맞습니다. be는 to가 없고, being(-ing형)과 been(과거분사)은 want 뒤에 쓸 수 없습니다.",
+      "en": "After 'want', we use 'to + base verb' (the to-infinitive). So 'want to be' is correct. 'Be' has no 'to', and 'being' (-ing form) and 'been' (past participle) cannot follow 'want'.",
+      "ja": "want の後ろには「to＋動詞の原形」（to不定詞）が来ます。そのため want to be が正しいです。be には to がなく、being（-ing形）と been（過去分詞）は want の後ろに使えません。",
+      "zh": "want 后面接“to + 动词原形”（动词不定式），所以 want to be 是正确的。be 缺少 to，being（-ing 形式）和 been（过去分词）都不能放在 want 后面。",
+      "es": "Después de «want» se usa «to + verbo en forma base» (infinitivo con to). Por eso «want to be» es correcto. A «be» le falta «to», y «being» (forma -ing) y «been» (participio) no pueden ir después de «want».",
+      "vi": "Sau 'want' ta dùng 'to + động từ nguyên mẫu'. Vì vậy 'want to be' là đúng. 'Be' thiếu 'to', còn 'being' (dạng -ing) và 'been' (quá khứ phân từ) không đứng sau 'want' được."
+    }
+  },
+  {
+    "id": "grammar-L2-0024",
+    "category": "grammar",
+    "level": "L2",
+    "format": "form",
+    "question": "Would you like ___ some tea?",
+    "choices": ["to drink", "drink", "drinking", "drank"],
+    "answerIndex": 0,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "would like + to부정사", "en": "would like + to-infinitive", "ja": "would like＋to不定詞", "zh": "would like + 动词不定式 (to do)", "es": "would like + infinitivo con to", "vi": "would like + to + động từ nguyên mẫu" },
+    "explanation": {
+      "ko": "would like(~하고 싶다) 뒤에 동사가 올 때는 'to + 동사원형'을 씁니다. 그래서 Would you like to drink ...?가 맞습니다. drink는 to가 없고, drinking과 drank(과거형)는 would like 뒤에 쓸 수 없습니다.",
+      "en": "When a verb follows 'would like', we use 'to + base verb'. So 'Would you like to drink ...?' is correct. 'Drink' has no 'to', and 'drinking' and 'drank' (past) cannot follow 'would like'.",
+      "ja": "would like（〜したい）の後ろに動詞が来るときは「to＋動詞の原形」を使います。そのため Would you like to drink ...? が正しいです。drink には to がなく、drinking と drank（過去形）は would like の後ろに使えません。",
+      "zh": "would like（想要）后面接动词时，要用“to + 动词原形”，所以 Would you like to drink ...? 是正确的。drink 缺少 to，drinking 和 drank（过去式）都不能放在 would like 后面。",
+      "es": "Cuando un verbo va después de «would like» (querría), se usa «to + verbo en forma base». Por eso «Would you like to drink ...?» es correcto. A «drink» le falta «to», y «drinking» y «drank» (pasado) no pueden ir después de «would like».",
+      "vi": "Khi có động từ theo sau 'would like' (muốn), ta dùng 'to + động từ nguyên mẫu'. Vì vậy 'Would you like to drink ...?' là đúng. 'Drink' thiếu 'to', còn 'drinking' và 'drank' (quá khứ) không đứng sau 'would like' được."
+    }
+  },
+  {
+    "id": "grammar-L2-0025",
+    "category": "grammar",
+    "level": "L2",
+    "format": "form",
+    "question": "Do you enjoy ___ in the sea in summer?",
+    "choices": ["swim", "to swim", "swimming", "swam"],
+    "answerIndex": 2,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "enjoy + 동명사(-ing)", "en": "enjoy + -ing", "ja": "enjoy＋動名詞（-ing）", "zh": "enjoy + 动名词 (-ing)", "es": "enjoy + -ing", "vi": "enjoy + V-ing" },
+    "explanation": {
+      "ko": "enjoy(즐기다) 뒤에 동사가 올 때는 반드시 -ing 형태(동명사)를 씁니다. 그래서 enjoy swimming이 맞습니다. swim(원형), to swim(to부정사), swam(과거형)은 enjoy 뒤에 쓸 수 없습니다.",
+      "en": "When a verb follows 'enjoy', it must be in the -ing form. So 'enjoy swimming' is correct. 'Swim' (base form), 'to swim' (to-infinitive) and 'swam' (past) cannot follow 'enjoy'.",
+      "ja": "enjoy（楽しむ）の後ろに動詞が来るときは、必ず -ing形（動名詞）を使います。そのため enjoy swimming が正しいです。swim（原形）、to swim（to不定詞）、swam（過去形）は enjoy の後ろに使えません。",
+      "zh": "enjoy（喜欢、享受）后面接动词时，必须用 -ing 形式（动名词），所以 enjoy swimming 是正确的。swim（原形）、to swim（不定式）和 swam（过去式）都不能放在 enjoy 后面。",
+      "es": "Cuando un verbo va después de «enjoy» (disfrutar), tiene que ir en forma -ing. Por eso «enjoy swimming» es correcto. «Swim» (forma base), «to swim» (infinitivo) y «swam» (pasado) no pueden ir después de «enjoy».",
+      "vi": "Khi có động từ theo sau 'enjoy' (thích, tận hưởng), động từ đó phải ở dạng -ing. Vì vậy 'enjoy swimming' là đúng. 'Swim' (nguyên mẫu), 'to swim' và 'swam' (quá khứ) không đứng sau 'enjoy' được."
+    }
+  },
+  {
+    "id": "grammar-L2-0026",
+    "category": "grammar",
+    "level": "L2",
+    "format": "error",
+    "question": "My grandmother enjoys to cook for the whole family.",
+    "choices": ["My grandmother", "enjoys", "to cook", "for the whole family"],
+    "answerIndex": 2,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "enjoy + 동명사(-ing)", "en": "enjoy + -ing", "ja": "enjoy＋動名詞（-ing）", "zh": "enjoy + 动名词 (-ing)", "es": "enjoy + -ing", "vi": "enjoy + V-ing" },
+    "explanation": {
+      "ko": "enjoy 뒤에는 to부정사가 아니라 -ing 형태를 써야 합니다. 따라서 to cook을 cooking으로 고쳐 'My grandmother enjoys cooking for the whole family.'라고 해야 합니다. My grandmother, enjoys, for the whole family는 모두 맞습니다.",
+      "en": "After 'enjoy', we use the -ing form, not the to-infinitive. So 'to cook' should be 'cooking': 'My grandmother enjoys cooking for the whole family.' 'My grandmother', 'enjoys' and 'for the whole family' are all correct.",
+      "ja": "enjoy の後ろには to不定詞ではなく -ing形を使います。to cook を cooking に直して「My grandmother enjoys cooking for the whole family.」とします。My grandmother、enjoys、for the whole family はすべて正しいです。",
+      "zh": "enjoy 后面要用 -ing 形式，而不是动词不定式。所以 to cook 应改为 cooking，即 My grandmother enjoys cooking for the whole family. My grandmother、enjoys 和 for the whole family 都是正确的。",
+      "es": "Después de «enjoy» se usa la forma -ing, no el infinitivo con to. Por eso «to cook» debe ser «cooking»: «My grandmother enjoys cooking for the whole family.» «My grandmother», «enjoys» y «for the whole family» son correctos.",
+      "vi": "Sau 'enjoy' ta dùng dạng -ing, không dùng 'to + động từ'. Vì vậy 'to cook' phải sửa thành 'cooking': 'My grandmother enjoys cooking for the whole family.' 'My grandmother', 'enjoys' và 'for the whole family' đều đúng."
+    }
+  },
+  {
+    "id": "grammar-L2-0027",
+    "category": "grammar",
+    "level": "L2",
+    "format": "form",
+    "question": "I was very hungry, ___ I made a sandwich.",
+    "choices": ["so", "because", "but", "or"],
+    "answerIndex": 0,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "접속사 (so / because / but)", "en": "Conjunctions (so / because / but)", "ja": "接続詞（so / because / but）", "zh": "连词（so / because / but）", "es": "Conjunciones (so / because / but)", "vi": "Liên từ (so / because / but)" },
+    "explanation": {
+      "ko": "so(그래서)는 결과를 나타냅니다. 배가 고팠던 것이 원인이고 샌드위치를 만든 것이 결과이므로 so가 맞습니다. because는 이유를 나타내서 의미가 반대가 되고, but(그러나)과 or(또는)도 뜻이 맞지 않습니다.",
+      "en": "'So' shows a result. Being hungry is the cause and making a sandwich is the result, so 'so' is correct. 'Because' introduces a reason, which makes the meaning backwards, and 'but' and 'or' do not fit the meaning.",
+      "ja": "so（だから）は結果を表します。おなかがすいていたことが原因で、サンドイッチを作ったことが結果なので so が正しいです。because は理由を表すので意味が逆になり、but（しかし）と or（または）も意味が合いません。",
+      "zh": "so（所以）表示结果。饿了是原因，做三明治是结果，所以用 so。because 引出原因，会让意思颠倒；but（但是）和 or（或者）意思也不对。",
+      "es": "«So» (así que) indica un resultado. Tener hambre es la causa y hacer un sándwich es el resultado, por eso «so» es correcto. «Because» introduce una razón, lo que invierte el sentido, y «but» (pero) y «or» (o) no encajan con el significado.",
+      "vi": "'So' (vì vậy) chỉ kết quả. Đói bụng là nguyên nhân và làm bánh sandwich là kết quả, nên 'so' là đúng. 'Because' chỉ lý do nên làm nghĩa bị ngược, còn 'but' (nhưng) và 'or' (hoặc) không hợp nghĩa."
+    }
+  },
+  {
+    "id": "grammar-L2-0028",
+    "category": "grammar",
+    "level": "L2",
+    "format": "form",
+    "question": "Sara stayed at home ___ she had a bad cold.",
+    "choices": ["so", "but", "or", "because"],
+    "answerIndex": 3,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "접속사 (so / because / but)", "en": "Conjunctions (so / because / but)", "ja": "接続詞（so / because / but）", "zh": "连词（so / because / but）", "es": "Conjunciones (so / because / but)", "vi": "Liên từ (so / because / but)" },
+    "explanation": {
+      "ko": "because(~때문에)는 이유를 나타냅니다. 감기에 걸린 것이 집에 있었던 이유이므로 because가 맞습니다. so를 쓰면 원인과 결과가 뒤바뀌고, but(그러나)과 or(또는)는 뜻이 맞지 않습니다.",
+      "en": "'Because' gives a reason. Having a bad cold is the reason Sara stayed at home, so 'because' is correct. 'So' would make the cause and result backwards, and 'but' and 'or' do not fit the meaning.",
+      "ja": "because（〜なので）は理由を表します。ひどい風邪をひいたことが家にいた理由なので because が正しいです。so を使うと原因と結果が逆になり、but（しかし）と or（または）は意味が合いません。",
+      "zh": "because（因为）表示原因。得了重感冒是 Sara 待在家里的原因，所以用 because。用 so 会让因果颠倒，but（但是）和 or（或者）意思也不对。",
+      "es": "«Because» (porque) da una razón. Tener un resfriado fuerte es la razón por la que Sara se quedó en casa, así que «because» es correcto. Con «so» la causa y el resultado quedarían al revés, y «but» (pero) y «or» (o) no encajan con el significado.",
+      "vi": "'Because' (vì) chỉ lý do. Bị cảm nặng là lý do Sara ở nhà, nên 'because' là đúng. Dùng 'so' sẽ làm nguyên nhân và kết quả bị đảo ngược, còn 'but' (nhưng) và 'or' (hoặc) không hợp nghĩa."
+    }
+  },
+  {
+    "id": "grammar-L2-0029",
+    "category": "grammar",
+    "level": "L2",
+    "format": "form",
+    "question": "Please speak ___. The baby is sleeping.",
+    "choices": ["quiet", "quietly", "quietness", "quite"],
+    "answerIndex": 1,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "형용사와 부사", "en": "Adjectives and adverbs", "ja": "形容詞と副詞", "zh": "形容词与副词", "es": "Adjetivos y adverbios", "vi": "Tính từ và trạng từ" },
+    "explanation": {
+      "ko": "동사 speak(말하다)를 꾸며 '어떻게' 말하는지 나타내려면 부사가 필요합니다. 형용사 quiet에 -ly를 붙인 부사 quietly가 정답입니다. quiet는 형용사, quietness는 명사, quite는 '꽤'라는 뜻의 다른 단어입니다.",
+      "en": "To describe how someone does an action like 'speak', we need an adverb. The adverb is 'quietly' (adjective 'quiet' + -ly). 'Quiet' is an adjective, 'quietness' is a noun, and 'quite' is a different word meaning 'fairly'.",
+      "ja": "動詞 speak（話す）を修飾して「どのように」話すかを表すには副詞が必要です。形容詞 quiet に -ly をつけた副詞 quietly が正解です。quiet は形容詞、quietness は名詞、quite は「かなり」という意味の別の単語です。",
+      "zh": "要修饰动词 speak（说话），说明“怎样”说，需要用副词。形容词 quiet 加 -ly 构成副词 quietly，这是正确答案。quiet 是形容词，quietness 是名词，quite 是另一个词，意思是“相当”。",
+      "es": "Para describir cómo se hace una acción como «speak» (hablar), necesitamos un adverbio. El adverbio es «quietly» (adjetivo «quiet» + -ly). «Quiet» es un adjetivo, «quietness» es un sustantivo y «quite» es otra palabra que significa «bastante».",
+      "vi": "Để mô tả cách thực hiện hành động như 'speak' (nói), ta cần trạng từ. Trạng từ là 'quietly' (tính từ 'quiet' + -ly). 'Quiet' là tính từ, 'quietness' là danh từ, còn 'quite' là một từ khác nghĩa là 'khá'."
+    }
+  },
+  {
+    "id": "grammar-L2-0030",
+    "category": "grammar",
+    "level": "L2",
+    "format": "error",
+    "question": "On snowy roads, my uncle always drives careful.",
+    "choices": ["On snowy roads", "my uncle", "always drives", "careful"],
+    "answerIndex": 3,
+    "word": null,
+    "meaning": null,
+    "grammarPoint": { "ko": "형용사와 부사", "en": "Adjectives and adverbs", "ja": "形容詞と副詞", "zh": "形容词与副词", "es": "Adjetivos y adverbios", "vi": "Tính từ và trạng từ" },
+    "explanation": {
+      "ko": "동사 drives(운전하다)를 꾸미려면 형용사 careful이 아니라 부사 carefully를 써야 합니다. 올바른 문장은 'On snowy roads, my uncle always drives carefully.'입니다. On snowy roads, my uncle, always drives는 모두 맞습니다.",
+      "en": "To describe the verb 'drives', we need the adverb 'carefully', not the adjective 'careful'. The correct sentence is 'On snowy roads, my uncle always drives carefully.' 'On snowy roads', 'my uncle' and 'always drives' are all correct.",
+      "ja": "動詞 drives（運転する）を修飾するには、形容詞 careful ではなく副詞 carefully を使います。正しい文は「On snowy roads, my uncle always drives carefully.」です。On snowy roads、my uncle、always drives はすべて正しいです。",
+      "zh": "修饰动词 drives（开车）要用副词 carefully，而不是形容词 careful。正确的句子是 On snowy roads, my uncle always drives carefully. On snowy roads、my uncle 和 always drives 都是正确的。",
+      "es": "Para describir el verbo «drives» (conduce) se necesita el adverbio «carefully», no el adjetivo «careful». La oración correcta es «On snowy roads, my uncle always drives carefully.» «On snowy roads», «my uncle» y «always drives» son correctos.",
+      "vi": "Để bổ nghĩa cho động từ 'drives' (lái xe), ta cần trạng từ 'carefully', không phải tính từ 'careful'. Câu đúng là 'On snowy roads, my uncle always drives carefully.' 'On snowy roads', 'my uncle' và 'always drives' đều đúng."
+    }
+  }
+]
