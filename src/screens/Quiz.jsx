@@ -6,7 +6,7 @@ import { speak, speechSupported } from '../lib/speech.js'
 import { ICON, ProgressBar, TextButton } from '../components/ui.jsx'
 
 // mode: 'normal' (일반 퀴즈) | 'review' (오답 노트 복습) | 'test' (레벨 테스트: 정답·해설을 보여주지 않음)
-export default function Quiz({ t, lang, questions, mode = 'normal', speechRate, onAnswer, onFinish, onQuit }) {
+export default function Quiz({ t, lang, questions, mode = 'normal', speechRate, notice, onAnswer, onFinish, onQuit }) {
   const [idx, setIdx] = useState(0)
   const [selected, setSelected] = useState(null) // 원래 choices 인덱스
   const [checked, setChecked] = useState(false)
@@ -64,8 +64,18 @@ export default function Quiz({ t, lang, questions, mode = 'normal', speechRate, 
         </div>
       </div>
 
+      {/* AI → 기본 문제 전환 같은 안내 (첫 문제에서만) */}
+      {notice && idx === 0 && <p className="t-body border-b border-line bg-bg-soft px-6 py-3 text-ink">{notice}</p>}
+
       <div key={q.id + idx} className={`anim-fade px-6 pt-10 ${checked ? 'pb-[75dvh]' : 'pb-32'}`}>
-        <p className="t-label text-ink-muted">{t(`quiz.instructions.${q.format}`)}</p>
+        <p className="t-label text-ink-muted">
+          {q.source === 'ai' && (
+            <span lang="en" className="mr-2 border border-ink px-1 text-ink">
+              AI
+            </span>
+          )}
+          {t(`quiz.instructions.${q.format}`)}
+        </p>
         <h2 lang="en" className="t-heading mt-6 break-words">
           {q.question}
         </h2>

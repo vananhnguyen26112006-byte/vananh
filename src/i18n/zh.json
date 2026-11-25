@@ -119,5 +119,24 @@
     "delete": "删除",
     "count": "{n} 题",
     "hint": "复习时连续答对 2 次即从列表中移除"
+  },
+  "ai": {
+    "mode": "AI 模式",
+    "on": "开启",
+    "off": "关闭",
+    "desc": "Claude 会根据你的水平和语言实时出新题。每天最多可使用 20 次，出现问题时会自动切换为内置题目。",
+    "inviteTitle": "输入邀请码",
+    "inviteHint": "开启 AI 模式需要分享此应用的人给你的邀请码。",
+    "invitePlaceholder": "邀请码",
+    "verify": "确认",
+    "checking": "正在确认…",
+    "inviteWrong": "邀请码不正确",
+    "inviteLimit": "尝试次数过多，请明天再试",
+    "inviteError": "无法连接服务器，请稍后再试",
+    "usage": "今日 {n} / {max} 次",
+    "generating": "AI 正在出题…",
+    "fallbackError": "无法加载 AI 题目，将使用内置题目",
+    "fallbackLimit": "已达到今日 AI 使用上限，将使用内置题目",
+    "fallbackInvite": "邀请码已更改，已关闭 AI 模式，将使用内置题目"
   }
 }

@@ -119,5 +119,24 @@
     "delete": "Xóa",
     "count": "{n} câu",
     "hint": "Trả lời đúng 2 lần liên tiếp khi ôn tập để xóa câu khỏi danh sách"
+  },
+  "ai": {
+    "mode": "Chế độ AI",
+    "on": "Bật",
+    "off": "Tắt",
+    "desc": "Claude tạo câu hỏi mới theo trình độ và ngôn ngữ của bạn ngay lập tức. Bạn có thể dùng tối đa 20 lần mỗi ngày, và nếu có lỗi, ứng dụng sẽ tự chuyển sang câu hỏi có sẵn.",
+    "inviteTitle": "Nhập mã mời",
+    "inviteHint": "Để bật chế độ AI, bạn cần mã mời từ người đã chia sẻ ứng dụng này.",
+    "invitePlaceholder": "Mã mời",
+    "verify": "Xác nhận",
+    "checking": "Đang kiểm tra…",
+    "inviteWrong": "Mã mời không đúng",
+    "inviteLimit": "Bạn đã thử quá nhiều lần. Hãy thử lại vào ngày mai",
+    "inviteError": "Không kết nối được máy chủ. Vui lòng thử lại sau",
+    "usage": "Hôm nay {n} / {max} lần",
+    "generating": "AI đang tạo câu hỏi…",
+    "fallbackError": "Không tải được câu hỏi AI nên sẽ dùng câu hỏi có sẵn",
+    "fallbackLimit": "Bạn đã dùng hết lượt AI hôm nay nên sẽ dùng câu hỏi có sẵn",
+    "fallbackInvite": "Mã mời đã thay đổi nên chế độ AI đã tắt. Sẽ dùng câu hỏi có sẵn"
   }
 }

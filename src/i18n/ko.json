@@ -119,5 +119,24 @@
     "delete": "삭제",
     "count": "{n}문제",
     "hint": "복습에서 2번 연속 맞히면 목록에서 빠집니다"
+  },
+  "ai": {
+    "mode": "AI 모드",
+    "on": "켜기",
+    "off": "끄기",
+    "desc": "Claude가 내 수준과 언어에 맞는 새 문제를 실시간으로 만듭니다. 하루 20회까지 쓸 수 있고, 문제가 안 되면 자동으로 기본 문제로 바뀝니다.",
+    "inviteTitle": "초대 코드 입력",
+    "inviteHint": "AI 모드를 켜려면 앱을 공유한 사람에게 받은 초대 코드가 필요합니다.",
+    "invitePlaceholder": "초대 코드",
+    "verify": "확인",
+    "checking": "확인 중…",
+    "inviteWrong": "초대 코드가 맞지 않습니다",
+    "inviteLimit": "시도 횟수를 넘었습니다. 내일 다시 시도해 주세요",
+    "inviteError": "서버에 연결하지 못했습니다. 잠시 후 다시 시도해 주세요",
+    "usage": "오늘 {n} / {max}회",
+    "generating": "AI가 문제를 만드는 중…",
+    "fallbackError": "AI 문제를 불러오지 못해 기본 문제로 진행합니다",
+    "fallbackLimit": "오늘 AI 사용 한도에 도달해 기본 문제로 진행합니다",
+    "fallbackInvite": "초대 코드가 바뀌어 AI 모드를 껐습니다. 기본 문제로 진행합니다"
   }
 }

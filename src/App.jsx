@@ -4,6 +4,8 @@ import { load, remove, save, todayKey } from './lib/storage.js'
 import { buildLevelTest, judgeLevel, markSeen, pickQuestions, shuffle } from './lib/questions.js'
 import { bumpStreak } from './lib/records.js'
 import { addWrong, answerInReview, loadNotes, removeNote, saveNotes } from './lib/wrongNotes.js'
+import { checkAiAvailable, fetchAiQuestions } from './lib/ai.js'
+import { ProgressBar } from './components/ui.jsx'
 import Onboarding from './screens/Onboarding.jsx'
 import Home from './screens/Home.jsx'
 import Quiz from './screens/Quiz.jsx'
@@ -25,6 +27,8 @@ function loadSettings() {
     ...s,
     speechRate: s.speechRate === 'slow' ? 'slow' : 'normal',
     theme: ['light', 'dark'].includes(s.theme) ? s.theme : 'system',
+    aiMode: s.aiMode === true && typeof s.inviteCode === 'string' && s.inviteCode.length > 0,
+    inviteCode: typeof s.inviteCode === 'string' ? s.inviteCode : '',
   }
 }
 
@@ -43,6 +47,13 @@ export default function App() {
   const [results, setResults] = useState([])
   const [judged, setJudged] = useState(null) // 레벨 테스트 판정
   const [testFrom, setTestFrom] = useState('home') // 레벨 테스트를 연 화면 (뒤로 가기용)
+  const [aiAvailable, setAiAvailable] = useState(false) // 서버에 AI가 설정돼 있을 때만 true
+  const [notice, setNotice] = useState('') // 퀴즈 상단 안내 (AI → 기본 문제 전환 등)
+
+  // 서버 확인: 실패하면(오프라인·미설정) AI 메뉴를 숨기고 기본 모드로만 동작
+  useEffect(() => {
+    checkAiAvailable().then(setAiAvailable)
+  }, [])
 
   const lang = settings?.lang ?? 'en'
   const t = useMemo(() => makeT(lang), [lang])
@@ -110,17 +121,40 @@ export default function App() {
     setNotes([])
   }
 
-  function startQuiz(category) {
-    setQuiz({ id: Date.now(), mode: 'normal', questions: pickQuestions({ category, level: settings.level, count: 10 }) })
+  async function startQuiz(category) {
+    const bank = () => pickQuestions({ category, level: settings.level, count: 10 })
+    if (!(aiAvailable && settings.aiMode)) {
+      setNotice('')
+      setQuiz({ id: Date.now(), mode: 'normal', questions: bank() })
+      setScreen('quiz')
+      return
+    }
+
+    // AI 모드: 새 문제를 받아오고, 실패하면 학습이 멈추지 않도록 기본 문제로 자동 전환
+    setScreen('aiLoading')
+    const r = await fetchAiQuestions({ category, level: settings.level, lang: settings.lang, inviteCode: settings.inviteCode })
+    let questions
+    if (r.questions) {
+      setNotice('')
+      // 검수에서 빠진 문제가 있으면 기본 문제로 10개를 채운다
+      questions = [...r.questions, ...bank()].slice(0, 10)
+    } else {
+      if (r.error === 'invite') updateSettings({ ...settings, aiMode: false, inviteCode: '' })
+      setNotice(r.error === 'limit' ? t('ai.fallbackLimit') : r.error === 'invite' ? t('ai.fallbackInvite') : t('ai.fallbackError'))
+      questions = bank()
+    }
+    setQuiz({ id: Date.now(), mode: 'normal', questions })
     setScreen('quiz')
   }
 
   function startReview(list) {
+    setNotice('')
     setQuiz({ id: Date.now(), mode: 'review', questions: shuffle(list).slice(0, 10).map((n) => n.question) })
     setScreen('quiz')
   }
 
   function retryWrong() {
+    setNotice('')
     setQuiz({ id: Date.now(), mode: quiz?.mode === 'review' ? 'review' : 'normal', questions: results.filter((r) => !r.correct).map((r) => r.question) })
     setScreen('quiz')
   }
@@ -163,11 +197,23 @@ export default function App() {
             lang={lang}
             mode={quiz.mode}
             speechRate={settings.speechRate}
+            notice={notice}
             questions={quiz.questions}
             onAnswer={(correct, q) => recordAnswer(correct, q, quiz.mode)}
             onFinish={finishQuiz}
             onQuit={() => setScreen(quiz.mode === 'review' ? 'wrongNotes' : quiz.mode === 'test' ? 'levelIntro' : 'home')}
           />
+        )}
+        {screen === 'aiLoading' && (
+          <div className="flex flex-1 flex-col">
+            <ProgressBar value={0.5} />
+            <div className="flex flex-1 flex-col justify-center px-6 pb-24">
+              <p lang="en" className="t-label t-label-rule text-ink-muted">
+                AI
+              </p>
+              <p className="t-heading mt-8">{t('ai.generating')}</p>
+            </div>
+          </div>
         )}
         {screen === 'result' && (
           <Result t={t} results={results} today={today} goal={settings.goal} onRetryWrong={retryWrong} onHome={() => setScreen('home')} />
@@ -176,6 +222,7 @@ export default function App() {
           <Settings
             t={t}
             settings={settings}
+            aiAvailable={aiAvailable}
             onChange={updateSettings}
             onReset={resetRecords}
             onLevelTest={() => openLevelTest('settings')}

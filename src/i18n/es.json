@@ -119,5 +119,24 @@
     "delete": "Borrar",
     "count": "{n} preguntas",
     "hint": "Acierta una pregunta dos veces seguidas en el repaso para quitarla"
+  },
+  "ai": {
+    "mode": "Modo IA",
+    "on": "Activado",
+    "off": "Desactivado",
+    "desc": "Claude crea preguntas nuevas para tu nivel e idioma en tiempo real. Puedes usarlo hasta 20 veces al día y, si algo falla, la app pasa automáticamente a las preguntas incluidas.",
+    "inviteTitle": "Introduce el código de invitación",
+    "inviteHint": "Para activar el modo IA necesitas el código de invitación de la persona que compartió esta app.",
+    "invitePlaceholder": "Código de invitación",
+    "verify": "Confirmar",
+    "checking": "Comprobando…",
+    "inviteWrong": "El código de invitación no es correcto",
+    "inviteLimit": "Demasiados intentos. Vuelve a intentarlo mañana",
+    "inviteError": "No se pudo conectar con el servidor. Inténtalo más tarde",
+    "usage": "{n} / {max} hoy",
+    "generating": "La IA está creando tus preguntas…",
+    "fallbackError": "No se pudieron cargar las preguntas de IA; usarás las preguntas incluidas",
+    "fallbackLimit": "Llegaste al límite de IA de hoy; usarás las preguntas incluidas",
+    "fallbackInvite": "El código de invitación cambió y se desactivó el modo IA. Usarás las preguntas incluidas"
   }
 }

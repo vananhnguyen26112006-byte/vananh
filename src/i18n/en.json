@@ -119,5 +119,24 @@
     "delete": "Delete",
     "count": "{n} questions",
     "hint": "Answer a question correctly twice in a row in review to remove it"
+  },
+  "ai": {
+    "mode": "AI mode",
+    "on": "On",
+    "off": "Off",
+    "desc": "Claude creates new questions for your level and language in real time. You can use it up to 20 times a day, and if something goes wrong the app switches to built-in questions automatically.",
+    "inviteTitle": "Enter invite code",
+    "inviteHint": "To turn on AI mode, you need the invite code from the person who shared this app.",
+    "invitePlaceholder": "Invite code",
+    "verify": "Confirm",
+    "checking": "Checking…",
+    "inviteWrong": "That invite code is not correct",
+    "inviteLimit": "Too many attempts. Please try again tomorrow",
+    "inviteError": "Could not reach the server. Please try again later",
+    "usage": "{n} / {max} today",
+    "generating": "AI is writing your questions…",
+    "fallbackError": "Couldn't load AI questions, so you'll get built-in questions",
+    "fallbackLimit": "You've reached today's AI limit, so you'll get built-in questions",
+    "fallbackInvite": "The invite code changed, so AI mode was turned off. Using built-in questions"
   }
 }

@@ -2,14 +2,17 @@ import { useState } from 'react'
 import { ArrowLeft, ChevronRight } from 'lucide-react'
 import { LANGS, LEVELS } from '../i18n/index.js'
 import { speechSupported } from '../lib/speech.js'
+import { aiUsedToday, DEVICE_DAILY_LIMIT, verifyInvite } from '../lib/ai.js'
 import { ICON, OptionList, TextButton } from '../components/ui.jsx'
 
 const GOALS = [10, 20, 30]
 
 // 설정 (PRD 7.10). 목록 → 항목을 누르면 한 화면에 질문 하나. 고르는 즉시 저장된다.
-export default function Settings({ t, settings, onChange, onReset, onLevelTest, onBack }) {
-  const [view, setView] = useState(null) // null | 'language' | 'level' | 'goal' | 'speech' | 'theme' | 'reset'
+export default function Settings({ t, settings, aiAvailable, onChange, onReset, onLevelTest, onBack }) {
+  const [view, setView] = useState(null) // null | 'language' | 'level' | 'goal' | 'speech' | 'theme' | 'ai' | 'invite' | 'reset'
   const [notice, setNotice] = useState('')
+  const [code, setCode] = useState('')
+  const [inviteState, setInviteState] = useState('idle') // idle | checking | wrong | limit | error
 
   const themeLabel = { system: t('settings.themeSystem'), light: t('settings.themeLight'), dark: t('settings.themeDark') }
 
@@ -56,6 +59,33 @@ export default function Settings({ t, settings, onChange, onReset, onLevelTest, 
     },
   }
 
+  // AI 모드 (서버가 설정돼 있을 때만 메뉴에 보임)
+  if (aiAvailable) {
+    fields.ai = {
+      title: t('ai.mode'),
+      value: settings.aiMode ? 'on' : 'off',
+      display: `${settings.aiMode ? t('ai.on') : t('ai.off')} · ${t('ai.usage', { n: aiUsedToday(), max: DEVICE_DAILY_LIMIT })}`,
+      options: [
+        { value: 'on', label: t('ai.on') },
+        { value: 'off', label: t('ai.off') },
+      ],
+      apply: (v) => ({ aiMode: v === 'on' }),
+      intro: t('ai.desc'),
+    }
+  }
+
+  async function submitInvite() {
+    if (!code.trim() || inviteState === 'checking') return
+    setInviteState('checking')
+    const r = await verifyInvite(code.trim())
+    if (r === 'ok') {
+      onChange({ ...settings, aiMode: true, inviteCode: code.trim() })
+      setCode('')
+      setInviteState('idle')
+      setView(null)
+    } else setInviteState(r)
+  }
+
   const backButton = (onClick, label) => (
     <button onClick={onClick} aria-label={label} className="-ml-3 flex h-11 w-11 items-center justify-center">
       <ArrowLeft {...ICON} />
@@ -70,16 +100,61 @@ export default function Settings({ t, settings, onChange, onReset, onLevelTest, 
         {backButton(() => setView(null), t('settings.back'))}
         <p className="t-label t-label-rule mt-10 text-ink-muted">{t('settings.title')}</p>
         <h1 className="t-heading mt-8">{f.title}</h1>
+        {f.intro && <p className="t-body mt-6 text-ink-muted">{f.intro}</p>}
         <div className="mt-12">
           <OptionList
             value={f.value}
             onChange={(v) => {
+              // AI 모드를 처음 켤 때는 초대 코드부터
+              if (view === 'ai' && v === 'on' && !settings.inviteCode) return setView('invite')
               onChange({ ...settings, ...f.apply(v) })
               setView(null)
             }}
             options={f.options}
           />
         </div>
+      </div>
+    )
+  }
+
+  // 초대 코드 입력 (AI 모드를 켤 때 한 번)
+  if (view === 'invite') {
+    const message = { wrong: t('ai.inviteWrong'), limit: t('ai.inviteLimit'), error: t('ai.inviteError') }[inviteState]
+    return (
+      <div className="anim-fade flex flex-1 flex-col px-6 pb-16 pt-4">
+        {backButton(() => setView('ai'), t('settings.back'))}
+        <p className="t-label t-label-rule mt-10 text-ink-muted">{t('ai.mode')}</p>
+        <h1 className="t-heading mt-8">{t('ai.inviteTitle')}</h1>
+        <p className="t-body mt-6 text-ink-muted">{t('ai.inviteHint')}</p>
+        <form
+          className="mt-12 flex flex-col gap-3"
+          onSubmit={(e) => {
+            e.preventDefault()
+            submitInvite()
+          }}
+        >
+          <input
+            value={code}
+            onChange={(e) => {
+              setCode(e.target.value)
+              if (inviteState !== 'checking') setInviteState('idle')
+            }}
+            placeholder={t('ai.invitePlaceholder')}
+            aria-label={t('ai.invitePlaceholder')}
+            autoComplete="off"
+            autoCapitalize="off"
+            spellCheck={false}
+            className="t-body min-h-[56px] w-full border border-line bg-bg-soft px-5 text-ink outline-none focus:border-ink"
+          />
+          {message && (
+            <p role="alert" className="t-body text-wrong">
+              {message}
+            </p>
+          )}
+          <button type="submit" className="btn-primary w-full" disabled={!code.trim() || inviteState === 'checking'}>
+            {inviteState === 'checking' ? t('ai.checking') : t('ai.verify')}
+          </button>
+        </form>
       </div>
     )
   }
